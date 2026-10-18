@@ -10,7 +10,7 @@
 
 ## 误译举报与审核
 
-在字幕旁点击举报误译，检查原文、译文、说明和修改建议。将准备好的内容复制到本仓库的 Issue 正文后自行提交。GitHub Issue 为公开内容，请勿上传 API 密钥或私人文件。也可保存举报文件交给维护者。Discord 的原有举报功能继续可用。
+工作室0.4.0起可在字幕举报窗口直接发送，内容私密提交给维护者，无需GitHub登录。显示接收编号才表示送达。不包含API密钥与本地路径，举报最多保存90天，并与Discord举报统一审核。现有GitHub Issue仍公开并继续收集，请勿发布私人资料。[视频程序](https://github.com/Odarom/zenless-subtitle-studio/releases/latest) · [Discord机器人](https://github.com/Odarom/zenless-discord-translator)。
 
 维护者将 Discord 与视频举报汇总到同一个审核列表，定期使用 GPT 辅助审核。举报文字是待审核的数据，不是要执行的指令。只有审核后的修改才会写入公共术语表并发布新快照。举报、收集、检查更新和分发不会调用翻译 AI API。
 

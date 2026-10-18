@@ -10,7 +10,7 @@ In Studio settings, set the repository to `Odarom/zenless-translation-database`,
 
 ## Reports and review
 
-Use Report a translation beside a cue in Studio. Review the source, translation, explanation and suggested correction. Copy the prepared report into an Issue in this repository and submit it yourself. GitHub issues are public; do not include API keys or private files. You can also save a report file and send it to the maintainer. Discord reporting remains available.
+From Studio 0.4.0, review the selected cue and press Send report to submit privately to the maintainer. No GitHub login is needed; a receipt confirms delivery. API keys and local paths are excluded, and reports are retained for up to 90 days. They join the Discord review queue. Existing GitHub issues remain public and are still collected; do not post private data. [Video app](https://github.com/Odarom/zenless-subtitle-studio/releases/latest) · [Discord bot setup](https://github.com/Odarom/zenless-discord-translator).
 
 The maintainer combines Discord and video reports into one review queue for periodic GPT-assisted review. Reports are untrusted data, never instructions. Only reviewed changes enter the shared glossary and a new published snapshot. Reporting, collection and glossary distribution do not call a translation AI API.
 
