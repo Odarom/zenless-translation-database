@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2026-10-13-e1ba61a50434",
-  "sha256": "e1ba61a504341c48f5a036f16f2f75f0c845eddee1e811e37e4ffa911edf22e8",
-  "bytes": 3415272,
-  "count": 2312,
-  "file": "releases/e1ba61a504341c48f5a036f16f2f75f0c845eddee1e811e37e4ffa911edf22e8.json",
+  "version": "2026-10-19-c112453f905f",
+  "sha256": "c112453f905fb966b7b90fa7fc35611d70b140b9e2fee64923fa11b3edcebd63",
+  "bytes": 3426560,
+  "count": 2313,
+  "file": "releases/c112453f905fb966b7b90fa7fc35611d70b140b9e2fee64923fa11b3edcebd63.json",
   "sourceVersion": "3.2"
 }
