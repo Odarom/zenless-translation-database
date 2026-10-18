@@ -1,4 +1,4 @@
-# 绝区零翻译数据库
+# ZZZ翻译数据库
 
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
 

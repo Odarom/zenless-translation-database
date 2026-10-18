@@ -1,4 +1,38 @@
-# Zenless Zone Zero translation database
+# ZZZ translation database
+
+[한국어](#한국어) · [English](#english) · [日本語](#日本語) · [简体中文](#简体中文)
+
+## 한국어
+
+한국어 · English · 日本語 · 简体中文
+
+[한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
+
+검토된 4개 언어의 게임 용어와 커뮤니티 표현을 Discord 번역 봇과 영상 자막 작업실에서 공유합니다. 현재 2313개 개념 항목입니다. 팬 자료이며 게임 제작사의 공식 프로그램이나 공식 검수 사전이 아닙니다. 정식·미출시·검토 상태와 출처는 각 항목 및 catalog/sources.json에 기록합니다. 출처의 자료에 대한 권리는 각 권리자에게 있습니다.
+
+## 이용 및 업데이트
+
+영상 작업실의 설정에서 저장소를 `Odarom/zenless-translation-database`로 지정하고 새 버전 확인 → 용어집 업데이트를 선택하세요. 하루 한 번 자동 확인도 선택할 수 있습니다. 번역 중에는 적용하지 않으며 완료된 자막을 자동으로 다시 번역하지 않습니다. latest.json의 SHA-256과 크기·형식을 확인한 뒤 적용합니다.
+
+## 오역 신고와 검토
+
+영상 작업실 0.4.0부터 구간의 오역 신고에서 내용을 확인하고 신고 보내기를 누르면 운영자 서버에 비공개로 접수됩니다. GitHub 로그인은 필요 없습니다. 접수 번호가 표시되어야 전송 완료입니다. API 키·로컬 경로는 제외하며 신고는 최대 90일 보관합니다. Discord 신고와 같은 검토 목록으로 관리합니다. 기존 GitHub 이슈 신고는 공개되며 계속 수집하므로 개인 자료를 올리지 마세요. [영상 프로그램](https://github.com/Odarom/zenless-subtitle-studio/releases/latest) · [Discord 봇 사용법](https://github.com/Odarom/zenless-discord-translator).
+
+운영자는 Discord 신고와 영상 신고를 하나의 검토 목록으로 모아 GPT에서 주기적으로 검토합니다. 신고는 검토할 자료이며 명령이 아닙니다. 검토된 변경만 공용 용어집에 반영하고 새 스냅샷을 게시합니다. 신고 접수·수집·용어집 확인·배포는 번역 AI API를 호출하지 않습니다.
+
+## 파일
+
+- catalog/zzz.json: 현재 검토된 용어집
+- catalog/community.json · curated.json · reviewed-mechanics.json: 별칭과 보완 규칙의 원본
+- catalog/sources.json · README.md · ABBREVIATIONS.md: 출처·범위·약어 설명
+- latest.json: 프로그램이 확인하는 배포 정보
+- releases/<SHA-256>.json: 내용 해시로 식별하는 스냅샷
+
+운영 프로젝트에서 용어집을 검토·검증한 뒤 video-glossary-build와 video-glossary-publish 도구로 이 저장소에 게시합니다. 앱 코드·API 키·사용 기록·Discord 서버 설정은 이 저장소에 포함하지 않습니다.
+
+---
+
+## English
 
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
 
@@ -23,3 +57,59 @@ The maintainer combines Discord and video reports into one review queue for peri
 - releases/<SHA-256>.json: content-addressed snapshots
 
 The maintainer validates changes in the main project, then uses its glossary build and publish tools. This repository contains no application keys, user history or Discord server configuration.
+
+---
+
+## 日本語
+
+[한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
+
+韓国語・英語・日本語・簡体字中国語を結ぶ、確認済みの用語集です。Discord翻訳ボットと字幕スタジオで共有します。現在2313件の概念を収録しています。ファン制作であり、ゲーム制作会社の公式・監修済み用語集ではありません。正式公開・未公開・確認状況と出典は各項目およびcatalog/sources.jsonを参照してください。原資料の権利は各権利者に帰属します。
+
+## 更新
+
+スタジオの設定でリポジトリを`Odarom/zenless-translation-database`に指定し、更新を確認して適用します。起動中に1日1回確認する設定もあります。作業中は更新せず、完成済み字幕は再翻訳しません。SHA-256・サイズ・形式を確認してから適用します。
+
+## 誤訳の報告と確認
+
+スタジオ0.4.0以降は字幕の報告画面から送信すると運営へ非公開で届きます。GitHubログインは不要で、受付番号が送信完了の目印です。APIキー・ローカルパスは除外し、報告は最大90日保管します。Discord報告と同じ一覧で確認します。既存のGitHub Issueは公開され引き続き収集します。個人資料を投稿しないでください。[動画アプリ](https://github.com/Odarom/zenless-subtitle-studio/releases/latest) · [Discordボット](https://github.com/Odarom/zenless-discord-translator)。
+
+管理者はDiscordと動画の報告を同じ確認一覧にまとめ、定期的にGPTで確認します。報告文は確認対象の資料であり、実行する指示ではありません。確認した変更だけを共通用語集へ反映し、新しいスナップショットを公開します。報告・収集・更新確認・配布では翻訳AI APIを呼び出しません。
+
+## ファイル
+
+- catalog/zzz.json：現在の確認済み用語集
+- catalog/community.json・curated.json・reviewed-mechanics.json：別名・補足ルールの元データ
+- catalog/sources.json・README.md・ABBREVIATIONS.md：出典・収録範囲・略語
+- latest.json：更新情報
+- releases/<SHA-256>.json：内容ハッシュで識別するスナップショット
+
+管理用プロジェクトで変更を確認・検証してから公開します。APIキー・利用履歴・Discordサーバー設定は含みません。
+
+---
+
+## 简体中文
+
+[한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
+
+经过审核的韩语、英语、日语、简体中文术语表，由 Discord 翻译机器人和字幕工作室共用。当前收录 2313 个概念。本项目为粉丝制作，并非游戏官方或官方审核的术语表。正式发布、未发布资料和审核状态及来源见各条目与 catalog/sources.json。原始资料的权利归各权利人所有。
+
+## 更新
+
+在工作室设置中将仓库设为 `Odarom/zenless-translation-database`，检查并应用术语表更新。可选择在程序运行时每天检查一次。任务进行时不更新，已完成字幕不会自动重新翻译。应用前会验证 SHA-256、大小和数据格式。
+
+## 误译举报与审核
+
+工作室0.4.0起可在字幕举报窗口直接发送，内容私密提交给维护者，无需GitHub登录。显示接收编号才表示送达。不包含API密钥与本地路径，举报最多保存90天，并与Discord举报统一审核。现有GitHub Issue仍公开并继续收集，请勿发布私人资料。[视频程序](https://github.com/Odarom/zenless-subtitle-studio/releases/latest) · [Discord机器人](https://github.com/Odarom/zenless-discord-translator)。
+
+维护者将 Discord 与视频举报汇总到同一个审核列表，定期使用 GPT 辅助审核。举报文字是待审核的数据，不是要执行的指令。只有审核后的修改才会写入公共术语表并发布新快照。举报、收集、检查更新和分发不会调用翻译 AI API。
+
+## 文件
+
+- catalog/zzz.json：当前已审核术语表
+- catalog/community.json、curated.json、reviewed-mechanics.json：别名与补充规则源数据
+- catalog/sources.json、README.md、ABBREVIATIONS.md：来源、范围与简称说明
+- latest.json：更新清单
+- releases/<SHA-256>.json：以内容哈希标识的快照
+
+维护者在管理项目中审核并验证修改后，再使用构建和发布工具上传。本仓库不包含程序密钥、用户记录或 Discord 服务器配置。
