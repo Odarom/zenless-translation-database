@@ -23,3 +23,5 @@ The maintainer combines Discord and video reports into one review queue for peri
 - releases/<SHA-256>.json: content-addressed snapshots
 
 The maintainer validates changes in the main project, then uses its glossary build and publish tools. This repository contains no application keys, user history or Discord server configuration.
+
+Nine additional languages: Traditional Chinese, German, French, Spanish, Portuguese, Russian, Thai, Vietnamese and Indonesian. Another 16,802 names extend 1,868 existing concepts. preferred preserves the four base languages; localizedNames stores additional names, maintained through localizations.json. Older programs retain base-language compatibility. Bot 0.3.0 and Studio 0.6.0 add all 13 translation choices. New/unreleased terms require confirmed live availability before review.

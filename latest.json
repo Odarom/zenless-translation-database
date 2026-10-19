@@ -1,9 +1,39 @@
 {
   "schema": 1,
-  "version": "2026-10-19-c112453f905f",
-  "sha256": "c112453f905fb966b7b90fa7fc35611d70b140b9e2fee64923fa11b3edcebd63",
-  "bytes": 3426560,
+  "version": "2026-10-19-cd64afd0fc53",
+  "sha256": "cd64afd0fc53f595d605849bfba6178859e7aa72d78c06eb330f751c9be91535",
+  "bytes": 5115606,
   "count": 2313,
-  "file": "releases/c112453f905fb966b7b90fa7fc35611d70b140b9e2fee64923fa11b3edcebd63.json",
-  "sourceVersion": "3.2"
+  "file": "releases/cd64afd0fc53f595d605849bfba6178859e7aa72d78c06eb330f751c9be91535.json",
+  "sourceVersion": "3.2",
+  "languages": [
+    "ko",
+    "en",
+    "ja",
+    "zh-CN",
+    "zh-Hant",
+    "de",
+    "fr",
+    "es",
+    "pt",
+    "ru",
+    "th",
+    "vi",
+    "id"
+  ],
+  "coverage": {
+    "ko": 2312,
+    "en": 2313,
+    "ja": 2311,
+    "zh-CN": 2310,
+    "zh-Hant": 1868,
+    "de": 1868,
+    "fr": 1868,
+    "es": 1862,
+    "pt": 1865,
+    "ru": 1868,
+    "th": 1867,
+    "vi": 1868,
+    "id": 1868
+  }
 }

@@ -30,6 +30,8 @@
 
 운영 프로젝트에서 용어집을 검토·검증한 뒤 video-glossary-build와 video-glossary-publish 도구로 이 저장소에 게시합니다. 앱 코드·API 키·사용 기록·Discord 서버 설정은 이 저장소에 포함하지 않습니다.
 
+추가 언어: 중국어 번체·독일어·프랑스어·스페인어·포르투갈어·러시아어·태국어·베트남어·인도네시아어. 기존 1,868개 개념에 16,802개 이름을 추가했습니다. 기존 네 언어는 preferred, 추가 언어는 localizedNames에 저장하며 localizations.json을 입력으로 관리합니다. 기존 프로그램은 기본 네 언어를 계속 읽을 수 있습니다. 봇 0.3.0·영상 0.6.0부터 번역 언어 선택지도 13개로 확장됩니다. 신규·미출시 용어는 라이브 적용 확인 후 검토합니다.
+
 ---
 
 ## English
@@ -57,6 +59,8 @@ The maintainer combines Discord and video reports into one review queue for peri
 - releases/<SHA-256>.json: content-addressed snapshots
 
 The maintainer validates changes in the main project, then uses its glossary build and publish tools. This repository contains no application keys, user history or Discord server configuration.
+
+Nine additional languages: Traditional Chinese, German, French, Spanish, Portuguese, Russian, Thai, Vietnamese and Indonesian. Another 16,802 names extend 1,868 existing concepts. preferred preserves the four base languages; localizedNames stores additional names, maintained through localizations.json. Older programs retain base-language compatibility. Bot 0.3.0 and Studio 0.6.0 add all 13 translation choices. New/unreleased terms require confirmed live availability before review.
 
 ---
 
@@ -86,6 +90,8 @@ The maintainer validates changes in the main project, then uses its glossary bui
 
 管理用プロジェクトで変更を確認・検証してから公開します。APIキー・利用履歴・Discordサーバー設定は含みません。
 
+繁体字中国語・ドイツ語・フランス語・スペイン語・ポルトガル語・ロシア語・タイ語・ベトナム語・インドネシア語の9言語を追加し、既存1,868概念に16,802名称を対応付けました。preferredは基本4言語を維持し、追加名はlocalizedNames、入力はlocalizations.jsonです。旧版は基本言語を引き続き読み込めます。ボット0.3.0・動画0.6.0から翻訳選択肢も13言語です。新規・未公開用語は正式実装確認後に検討します。
+
 ---
 
 ## 简体中文
@@ -113,3 +119,5 @@ The maintainer validates changes in the main project, then uses its glossary bui
 - releases/<SHA-256>.json：以内容哈希标识的快照
 
 维护者在管理项目中审核并验证修改后，再使用构建和发布工具上传。本仓库不包含程序密钥、用户记录或 Discord 服务器配置。
+
+新增繁体中文、德语、法语、西班牙语、葡萄牙语、俄语、泰语、越南语和印尼语，为1,868个既有概念添加16,802个名称。preferred保留原四种语言，localizedNames保存附加名称，输入在localizations.json。旧程序仍兼容基础语言；机器人0.3.0及视频0.6.0提供全部13种翻译选项。新增及未发布术语须确认正式实装后再审核。
