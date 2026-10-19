@@ -1,5 +1,7 @@
 # ZZZ 번역 데이터베이스 · ZZZ translation database · ZZZ用語DB · ZZZ术语库
 
+[**용어·약어 오류 신고**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) · [Report names / shorthand](https://github.com/Odarom/zenless-translation-database/issues/new/choose) · [用語・略語を報告](https://github.com/Odarom/zenless-translation-database/issues/new/choose) · [举报术语或简称](https://github.com/Odarom/zenless-translation-database/issues/new/choose)
+
 [한국어](#한국어) · [English](#english) · [日本語](#日本語) · [简体中文](#简体中文)
 
 ## 한국어

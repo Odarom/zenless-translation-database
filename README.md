@@ -4,6 +4,8 @@
 
 ## 한국어
 
+[**프로그램 없이 용어·약어 오류 신고하기**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — 약어·입력 별칭, 커뮤니티 출력, 공식 명칭 오류, 누락 용어, 적용 규칙을 직접 작성할 수 있습니다. GitHub 로그인은 필요하며 신고 내용과 계정 이름은 공개됩니다. 개인정보·API 키·비공개 자료는 올리지 마세요. Discord·영상 신고와 같은 검토 목록으로 수집하며 제출만으로 DB가 바뀌지는 않습니다.
+
 한국어 · English · 日本語 · 简体中文
 
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
@@ -36,6 +38,8 @@
 
 ## English
 
+[**Report names or shorthand without installing a program**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — Report aliases, community output, official-name errors, missing terms or usage rules manually. GitHub login is required; the report and account name are public. Do not post personal information, API keys or private material. Reports join the Discord/video review queue; submission does not automatically change the DB.
+
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
 
 A reviewed glossary linking Korean, English, Japanese and Simplified Chinese, shared by the Discord translation bot and Subtitle Studio. The current snapshot contains 2313 concepts. This is a fan project, not an official or publisher-reviewed glossary. Entries distinguish released, prerelease and reviewed material; see entry provenance and catalog/sources.json. Source material remains subject to its respective owners’ rights.
@@ -66,6 +70,8 @@ Nine additional languages: Traditional Chinese, German, French, Spanish, Portugu
 
 ## 日本語
 
+[**アプリなしで用語・略語の誤りを報告**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — 入力別名、コミュニティ出力、正式名の誤り、未登録用語、適用ルールを記入できます。GitHubログインが必要で、内容とアカウント名は公開されます。個人情報・APIキー・非公開資料は投稿しないでください。Discord・動画報告と同じ一覧で確認し、送信だけでDBは変更されません。
+
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
 
 韓国語・英語・日本語・簡体字中国語を結ぶ、確認済みの用語集です。Discord翻訳ボットと字幕スタジオで共有します。現在2313件の概念を収録しています。ファン制作であり、ゲーム制作会社の公式・監修済み用語集ではありません。正式公開・未公開・確認状況と出典は各項目およびcatalog/sources.jsonを参照してください。原資料の権利は各権利者に帰属します。
@@ -95,6 +101,8 @@ Nine additional languages: Traditional Chinese, German, French, Spanish, Portugu
 ---
 
 ## 简体中文
+
+[**无需程序，举报术语及简称错误**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — 可手动提交输入别名、社区输出、官方名称错误、缺失术语或适用规则。需要GitHub登录，内容和账号名公开。请勿发布个人信息、API密钥或非公开资料。与Discord及视频举报汇总审核，提交不会自动修改DB。
 
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
 

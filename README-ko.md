@@ -1,5 +1,7 @@
 # ZZZ 번역 데이터베이스
 
+[**프로그램 없이 용어·약어 오류 신고하기**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — 약어·입력 별칭, 커뮤니티 출력, 공식 명칭 오류, 누락 용어, 적용 규칙을 직접 작성할 수 있습니다. GitHub 로그인은 필요하며 신고 내용과 계정 이름은 공개됩니다. 개인정보·API 키·비공개 자료는 올리지 마세요. Discord·영상 신고와 같은 검토 목록으로 수집하며 제출만으로 DB가 바뀌지는 않습니다.
+
 한국어 · English · 日本語 · 简体中文
 
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
