@@ -10,7 +10,7 @@
 
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
 
-검토된 4개 언어의 게임 용어와 커뮤니티 표현을 Discord 번역 봇과 영상 자막 작업실에서 공유합니다. 현재 2313개 개념 항목입니다. 팬 자료이며 게임 제작사의 공식 프로그램이나 공식 검수 사전이 아닙니다. 정식·미출시·검토 상태와 출처는 각 항목 및 catalog/sources.json에 기록합니다. 출처의 자료에 대한 권리는 각 권리자에게 있습니다.
+검토된 4개 언어의 게임 용어와 커뮤니티 표현을 Discord 번역 봇과 영상 자막 작업실에서 공유합니다. 현재 2314개 개념 항목입니다. 팬 자료이며 게임 제작사의 공식 프로그램이나 공식 검수 사전이 아닙니다. 정식·미출시·검토 상태와 출처는 각 항목 및 catalog/sources.json에 기록합니다. 출처의 자료에 대한 권리는 각 권리자에게 있습니다.
 
 ## 이용 및 업데이트
 
@@ -42,7 +42,7 @@
 
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
 
-A reviewed glossary linking Korean, English, Japanese and Simplified Chinese, shared by the Discord translation bot and Subtitle Studio. The current snapshot contains 2313 concepts. This is a fan project, not an official or publisher-reviewed glossary. Entries distinguish released, prerelease and reviewed material; see entry provenance and catalog/sources.json. Source material remains subject to its respective owners’ rights.
+A reviewed glossary linking Korean, English, Japanese and Simplified Chinese, shared by the Discord translation bot and Subtitle Studio. The current snapshot contains 2314 concepts. This is a fan project, not an official or publisher-reviewed glossary. Entries distinguish released, prerelease and reviewed material; see entry provenance and catalog/sources.json. Source material remains subject to its respective owners’ rights.
 
 ## Updates
 
@@ -74,7 +74,7 @@ Nine additional languages: Traditional Chinese, German, French, Spanish, Portugu
 
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
 
-韓国語・英語・日本語・簡体字中国語を結ぶ、確認済みの用語集です。Discord翻訳ボットと字幕スタジオで共有します。現在2313件の概念を収録しています。ファン制作であり、ゲーム制作会社の公式・監修済み用語集ではありません。正式公開・未公開・確認状況と出典は各項目およびcatalog/sources.jsonを参照してください。原資料の権利は各権利者に帰属します。
+韓国語・英語・日本語・簡体字中国語を結ぶ、確認済みの用語集です。Discord翻訳ボットと字幕スタジオで共有します。現在2314件の概念を収録しています。ファン制作であり、ゲーム制作会社の公式・監修済み用語集ではありません。正式公開・未公開・確認状況と出典は各項目およびcatalog/sources.jsonを参照してください。原資料の権利は各権利者に帰属します。
 
 ## 更新
 
@@ -106,7 +106,7 @@ Nine additional languages: Traditional Chinese, German, French, Spanish, Portugu
 
 [한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
 
-经过审核的韩语、英语、日语、简体中文术语表，由 Discord 翻译机器人和字幕工作室共用。当前收录 2313 个概念。本项目为粉丝制作，并非游戏官方或官方审核的术语表。正式发布、未发布资料和审核状态及来源见各条目与 catalog/sources.json。原始资料的权利归各权利人所有。
+经过审核的韩语、英语、日语、简体中文术语表，由 Discord 翻译机器人和字幕工作室共用。当前收录 2314 个概念。本项目为粉丝制作，并非游戏官方或官方审核的术语表。正式发布、未发布资料和审核状态及来源见各条目与 catalog/sources.json。原始资料的权利归各权利人所有。
 
 ## 更新
 
