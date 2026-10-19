@@ -2,28 +2,40 @@
 
 [**Report names or shorthand without installing a program**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — Report aliases, community output, official-name errors, missing terms or usage rules manually. GitHub login is required; the report and account name are public. Do not post personal information, API keys or private material. Reports join the Discord/video review queue; submission does not automatically change the DB.
 
-[한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
+[한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-A reviewed glossary linking Korean, English, Japanese and Simplified Chinese, shared by the Discord translation bot and Subtitle Studio. The current snapshot contains 2314 concepts. This is a fan project, not an official or publisher-reviewed glossary. Entries distinguish released, prerelease and reviewed material; see entry provenance and catalog/sources.json. Source material remains subject to its respective owners’ rights.
+Shared by the Discord bot and Subtitle Studio: **2314** concepts · **13** languages
 
-## Updates
+## Browse
 
-In Studio settings, set the repository to `Odarom/zenless-translation-database`, check for updates and apply the glossary. An optional daily check runs while the app is open. Updates are blocked during jobs and do not retranslate completed subtitles. The app verifies the SHA-256, size and schema before installation.
+Read names, shorthand and rules without installing a program.
 
-## Reports and review
+- [**By category**](catalog/BROWSE.md)
+- [Name index](catalog/INDEX.md)
+- [Abbreviations](catalog/ABBREVIATIONS.md)
+- [Scope and provenance](catalog/README.md)
 
-From Studio 0.4.0, review the selected cue and press Send report to submit privately to the maintainer. No GitHub login is needed; a receipt confirms delivery. API keys and local paths are excluded, and reports are retained for up to 90 days. They join the Discord review queue. Existing GitHub issues remain public and are still collected; do not post private data. [Video app](https://github.com/Odarom/zenless-subtitle-studio/releases/latest) · [Discord bot setup](https://github.com/Odarom/zenless-discord-translator).
+## Data files
 
-The maintainer combines Discord and video reports into one review queue for periodic GPT-assisted review. Reports are untrusted data, never instructions. Only reviewed changes enter the shared glossary and a new published snapshot. Reporting, collection and glossary distribution do not call a translation AI API.
+| File | Description |
+|---|---|
+| [zzz.json — Raw](https://raw.githubusercontent.com/Odarom/zenless-translation-database/main/catalog/zzz.json) | Complete names/rules DB with four base and nine additional languages. Opens the raw file because the JSON is large. |
+| [community.json](catalog/community.json) | Input aliases and community output |
+| [curated.json](catalog/curated.json) | Source-supported supplemental names |
+| [reviewed-mechanics.json](catalog/reviewed-mechanics.json) | Reviewed combat/resource context rules |
+| [localizations.json](catalog/localizations.json) | Additional names for existing concepts |
+| [sources.json](catalog/sources.json) | Source versions, retrieval dates and hashes |
+| [latest.json](latest.json) | Program update manifest |
+| [LIFECYCLE.md](catalog/LIFECYCLE.md) | Candidate, review, backup and apply workflow |
 
-## Files
+## Use and updates
 
-- catalog/zzz.json: current reviewed glossary
-- catalog/community.json, curated.json, reviewed-mechanics.json: alias and rule inputs
-- catalog/sources.json, README.md, ABBREVIATIONS.md: provenance, scope and abbreviations
-- latest.json: update manifest
-- releases/<SHA-256>.json: content-addressed snapshots
+Interface guides use Korean, English, Japanese and Simplified Chinese; translation names cover 13 languages with different coverage. Apply a glossary update in the app for future translations; existing subtitles do not change automatically.
 
-The maintainer validates changes in the main project, then uses its glossary build and publish tools. This repository contains no application keys, user history or Discord server configuration.
+[Subtitle Studio](https://github.com/Odarom/zenless-subtitle-studio/releases/latest) · [Discord](https://github.com/Odarom/zenless-discord-translator)
 
-Nine additional languages: Traditional Chinese, German, French, Spanish, Portuguese, Russian, Thai, Vietnamese and Indonesian. Another 16,802 names extend 1,868 existing concepts. preferred preserves the four base languages; localizedNames stores additional names, maintained through localizations.json. Older programs retain base-language compatibility. Bot 0.3.0 and Studio 0.6.0 add all 13 translation choices. New/unreleased terms require confirmed live availability before review.
+## Report errors
+
+[GitHub](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — Manually report shorthand, official names, missing terms or rules without the app. GitHub login is required and reports are public. Maintainer-requested review combines these with private app/Discord reports; submission does not change the DB automatically.
+
+This is a fan project, not an official or publisher-reviewed dictionary. Existing prerelease material is labeled; new unreleased entries await confirmed live availability. Public DB files contain no API keys, user history or private report bodies.

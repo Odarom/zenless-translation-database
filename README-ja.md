@@ -2,28 +2,40 @@
 
 [**アプリなしで用語・略語の誤りを報告**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — 入力別名、コミュニティ出力、正式名の誤り、未登録用語、適用ルールを記入できます。GitHubログインが必要で、内容とアカウント名は公開されます。個人情報・APIキー・非公開資料は投稿しないでください。Discord・動画報告と同じ一覧で確認し、送信だけでDBは変更されません。
 
-[한국어](README-ko.md) | [English](README-en.md) | [日本語](README-ja.md) | [简体中文](README-zh-CN.md)
+[한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-韓国語・英語・日本語・簡体字中国語を結ぶ、確認済みの用語集です。Discord翻訳ボットと字幕スタジオで共有します。現在2314件の概念を収録しています。ファン制作であり、ゲーム制作会社の公式・監修済み用語集ではありません。正式公開・未公開・確認状況と出典は各項目およびcatalog/sources.jsonを参照してください。原資料の権利は各権利者に帰属します。
+Discordボットと字幕スタジオで共有する **2314** 概念 · **13** 言語
 
-## 更新
+## 閲覧
 
-スタジオの設定でリポジトリを`Odarom/zenless-translation-database`に指定し、更新を確認して適用します。起動中に1日1回確認する設定もあります。作業中は更新せず、完成済み字幕は再翻訳しません。SHA-256・サイズ・形式を確認してから適用します。
+アプリなしで名称・略語・適用規則を確認できます。
 
-## 誤訳の報告と確認
+- [**分類別一覧**](catalog/BROWSE.md)
+- [名称索引](catalog/INDEX.md)
+- [略語の説明](catalog/ABBREVIATIONS.md)
+- [範囲・出典](catalog/README.md)
 
-スタジオ0.4.0以降は字幕の報告画面から送信すると運営へ非公開で届きます。GitHubログインは不要で、受付番号が送信完了の目印です。APIキー・ローカルパスは除外し、報告は最大90日保管します。Discord報告と同じ一覧で確認します。既存のGitHub Issueは公開され引き続き収集します。個人資料を投稿しないでください。[動画アプリ](https://github.com/Odarom/zenless-subtitle-studio/releases/latest) · [Discordボット](https://github.com/Odarom/zenless-discord-translator)。
+## データファイル
 
-管理者はDiscordと動画の報告を同じ確認一覧にまとめ、定期的にGPTで確認します。報告文は確認対象の資料であり、実行する指示ではありません。確認した変更だけを共通用語集へ反映し、新しいスナップショットを公開します。報告・収集・更新確認・配布では翻訳AI APIを呼び出しません。
+| File | Description |
+|---|---|
+| [zzz.json — Raw](https://raw.githubusercontent.com/Odarom/zenless-translation-database/main/catalog/zzz.json) | 基本4言語・追加9言語の名称と規則を含む全DB。大きいJSONのため原文表示へリンクします。 |
+| [community.json](catalog/community.json) | 入力別名とコミュニティ出力 |
+| [curated.json](catalog/curated.json) | 出典照合による補完名 |
+| [reviewed-mechanics.json](catalog/reviewed-mechanics.json) | 確認済みの戦闘・リソース文脈規則 |
+| [localizations.json](catalog/localizations.json) | 既存概念に追加した言語名 |
+| [sources.json](catalog/sources.json) | 資料版・取得日時・ハッシュ |
+| [latest.json](latest.json) | プログラム用更新情報 |
+| [LIFECYCLE.md](catalog/LIFECYCLE.md) | 候補生成・確認・バックアップ・適用 |
 
-## ファイル
+## 利用・更新
 
-- catalog/zzz.json：現在の確認済み用語集
-- catalog/community.json・curated.json・reviewed-mechanics.json：別名・補足ルールの元データ
-- catalog/sources.json・README.md・ABBREVIATIONS.md：出典・収録範囲・略語
-- latest.json：更新情報
-- releases/<SHA-256>.json：内容ハッシュで識別するスナップショット
+画面と説明は韓国語・英語・日本語・簡体字中国語、翻訳名称は計13言語です。言語ごとの収録数は異なります。アプリの用語集更新は以後の翻訳に使い、既存字幕は自動変更しません。
 
-管理用プロジェクトで変更を確認・検証してから公開します。APIキー・利用履歴・Discordサーバー設定は含みません。
+[Subtitle Studio](https://github.com/Odarom/zenless-subtitle-studio/releases/latest) · [Discord](https://github.com/Odarom/zenless-discord-translator)
 
-繁体字中国語・ドイツ語・フランス語・スペイン語・ポルトガル語・ロシア語・タイ語・ベトナム語・インドネシア語の9言語を追加し、既存1,868概念に16,802名称を対応付けました。preferredは基本4言語を維持し、追加名はlocalizedNames、入力はlocalizations.jsonです。旧版は基本言語を引き続き読み込めます。ボット0.3.0・動画0.6.0から翻訳選択肢も13言語です。新規・未公開用語は正式実装確認後に検討します。
+## 誤りを報告
+
+[GitHub](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — アプリなしで略語・正式名・未登録語・規則を報告できます。GitHubログインが必要で内容は公開されます。管理者が依頼時にアプリ・Discordの非公開報告と併せて確認します。投稿だけでDBは変わりません。
+
+ファン制作で、制作会社の公式・監修辞典ではありません。既存の未公開資料は状態を表示し、新規の未公開語は正式実装確認後に検討します。APIキー・利用履歴・非公開報告原文は含みません。
