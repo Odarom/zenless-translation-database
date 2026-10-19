@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 침식 | Corruption | 侵蝕 | 侵蚀 |
+| 침식 [공식 / Official / 正式 / 官方] | Corruption [공식 / Official / 正式 / 官方] | 侵蝕 [공식 / Official / 正式 / 官方] | 侵蚀 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:corruption · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: Corruption · 침식 · 侵蝕 · 侵蚀
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: Corruption · 침식 · 侵蝕 · 侵蚀
 - 의미 / Meaning / 意味 / 含义: 젠레스의 에테르 속성 이상 효과 Corruption. 월드의 침식·적 이름·침식 장벽과 구분한다.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투에서 에테르 속성 이상이 발동하거나 그 상태·피해·혼돈 결산을 뜻하는 Corruption은 언어별 preferred 명칭을 쓴다. 한국어 변이로 바꾸지 않는다. 일반적인 부패·타락, 침식 장벽, 침식체 이름과는 별개다. 원문의 발동 조건·확정 여부·수치를 유지하고 원문에 없는 피해 수치나 발동 원리를 보충하지 않는다. 같은 발동 문장의 zero Anomaly는 축적 게이지가 0인 상태를 뜻하며 한국어 이상 축적치(이상 수치)로 옮긴다. 캐릭터 특성 이상이나 변칙 수치로 바꾸지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1331.json)

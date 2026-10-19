@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 치명타 확률 | CRIT Rate | 会心率 | 暴击率 |
+| 치명타 확률 [공식 / Official / 正式 / 官方] | CRIT Rate [공식 / Official / 正式 / 官方] | 会心率 [공식 / Official / 正式 / 官方] | 暴击率 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,8 +43,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:31000 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 치명타 확률 · 치명타확률 · CRIT Rate · 会心率 · 暴击率 · 치확 · 치명확률 · 크확 · CR · crit rate · 暴率 · 暴擊率 · KRIT-Rate · Taux CRIT · Probabilidad de crítico · Taxa CRIT · Шанс крит. попадания · Tỷ Lệ Bạo Kích
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 치확 · en: CR
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 치명타 확률 · 치명타확률 · CRIT Rate · 会心率 · 暴击率 · crit rate · 暴擊率 · KRIT-Rate · Taux CRIT · Probabilidad de crítico · Taxa CRIT · Шанс крит. попадания · Tỷ Lệ Bạo Kích
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 치확 · 치명확률 · 크확 · CR · 暴率
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 치확 [비공식 / Unofficial / 非公式 / 非官方] · en: CR [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: CR은 능력치 문맥에서만 치명타 확률이며 치명타 피해와 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -55,7 +57,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 관통률 | PEN Ratio | 貫通率 | 穿透率 |
+| 관통률 [공식 / Official / 正式 / 官方] | PEN Ratio [공식 / Official / 正式 / 官方] | 貫通率 [공식 / Official / 正式 / 官方] | 穿透率 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -74,8 +76,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:31100 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 관통률 · PEN Ratio · 貫通率 · 穿透率 · 관퍼 · 관통퍼 · 관통% · 관통률% · PEN% · PEN Ratio% · penetration ratio · 관통 · Durchschlagsrate · Taux de PÉN · Tasa de Perforación · Taxa de Perfuração · Процент пробивания · Tỷ Lệ Xuyên Giáp
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 관통% · en: PEN%
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 관통률 · PEN Ratio · 貫通率 · 穿透率 · Durchschlagsrate · Taux de PÉN · Tasa de Perforación · Taxa de Perfuração · Процент пробивания · Tỷ Lệ Xuyên Giáp
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 관퍼 · 관통퍼 · 관통% · 관통률% · PEN% · PEN Ratio% · penetration ratio · 관통
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 관통% [비공식 / Unofficial / 非公式 / 非官方] · en: PEN% [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 관통은 능력치·디스크 옵션 문맥에서 관통률을 줄인 표현으로만 적용한다. 깡관·깡관통·고정 관통·flat PEN과는 별개이며 고정 수치에 퍼센트를 붙이지 않는다. 깡관·고정 관통 수치(flat PEN)와 구분한다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -86,7 +90,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 충격력 | Impact | 衝撃力 | 冲击力 |
+| 충격력 [공식 / Official / 正式 / 官方] | Impact [공식 / Official / 正式 / 官方] | 衝撃力 [공식 / Official / 正式 / 官方] | 冲击力 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -105,7 +109,9 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:31200 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 충격력 · Impact · 衝撃力 · 冲击力 · 충격 · 衝擊力 · Stoßkraft · Impacto · Импульс · Lực Xung Kích
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 충격력 · Impact · 衝撃力 · 冲击力 · 衝擊力 · Stoßkraft · Impacto · Импульс · Lực Xung Kích
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 충격
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 능력치·디스크 옵션인 충격력만 해당한다. 충격을 받았다는 감탄·일반 현상은 번역 사전의 능력치로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -116,7 +122,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 이상 마스터리 | Anomaly Proficiency | 異常マスタリー | 异常精通 |
+| 이상 마스터리 [공식 / Official / 正式 / 官方] | Anomaly Proficiency [공식 / Official / 正式 / 官方] | 異常マスタリー [공식 / Official / 正式 / 官方] | 异常精通 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -135,8 +141,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:31300 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 이상 마스터리 · 이상마스터리 · Anomaly Proficiency · 異常マスタリー · 异常精通 · 이상마 · AP · 異常マス · 상마 · 異常精通 · Anomaliekunde · Adresse d'anomalie · Maestría de Anomalía · Proficiência de Anomalia · Знание аномалии · ความชำนาญ Anomaly · Tinh Thông Dị Thường
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 이상마 · en: AP · ja: 異常マス
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이상 마스터리 · 이상마스터리 · Anomaly Proficiency · 異常マスタリー · 异常精通 · 異常精通 · Anomaliekunde · Adresse d'anomalie · Maestría de Anomalía · Proficiência de Anomalia · Знание аномалии · ความชำนาญ Anomaly · Tinh Thông Dị Thường
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 이상마 · AP · 異常マス · 상마
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 이상마 [비공식 / Unofficial / 非公式 / 非官方] · en: AP [비공식 / Unofficial / 非公式 / 非官方] · ja: 異常マス [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: AP는 Anomaly Proficiency이다. AM(Anomaly Mastery, 이상 장악력)과 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -147,7 +155,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 공격력 | ATK | 攻撃力 | 攻击力 |
+| 공격력 [공식 / Official / 正式 / 官方] | ATK [공식 / Official / 正式 / 官方] | 攻撃力 [공식 / Official / 正式 / 官方] | 攻击力 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -166,7 +174,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:31400 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 공격력 · ATK · 攻撃力 · 攻击力 · 攻擊力 · ANG · ATQ · Ataque · Сила атаки · Tấn Công
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 공격력 · ATK · 攻撃力 · 攻击力 · 攻擊力 · ANG · ATQ · Ataque · Сила атаки · Tấn Công
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
@@ -176,7 +185,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 방어력 | DEF | 防御力 | 防御力 |
+| 방어력 [공식 / Official / 正式 / 官方] | DEF [공식 / Official / 正式 / 官方] | 防御力 [공식 / Official / 正式 / 官方] | 防御力 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -195,7 +204,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:31500 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 방어력 · DEF · 防御力 · 防禦力 · VTD · DÉF · Defensa · Защита · Phòng Thủ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 방어력 · DEF · 防御力 · 防禦力 · VTD · DÉF · Defensa · Защита · Phòng Thủ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
@@ -205,7 +215,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 에너지 자동 회복 | Energy Regen | エネルギー自動回復 | 能量自动回复 |
+| 에너지 자동 회복 [공식 / Official / 正式 / 官方] | Energy Regen [공식 / Official / 正式 / 官方] | エネルギー自動回復 [공식 / Official / 正式 / 官方] | 能量自动回复 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -224,8 +234,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:31600 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 에너지 자동 회복 · 에너지자동회복 · Energy Regen · エネルギー自動回復 · 能量自动回复 · 에충 · 에회 · 에너지회복 · energy regen · ER · 能量回复 · 自動回復 · 能量自動回復 · Energie-Regeneration · Récupération d'énergie · Recuperación de Energía · Recuperação de Energia · Восстановление энергии · การฟื้นฟูพลังงาน · Tự Hồi Năng Lượng
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 에회 · en: ER
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에너지 자동 회복 · 에너지자동회복 · Energy Regen · エネルギー自動回復 · 能量自动回复 · energy regen · 能量自動回復 · Energie-Regeneration · Récupération d'énergie · Recuperación de Energía · Recuperação de Energia · Восстановление энергии · การฟื้นฟูพลังงาน · Tự Hồi Năng Lượng
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 에충 · 에회 · 에너지회복 · ER · 能量回复 · 自動回復
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 에회 [비공식 / Unofficial / 非公式 / 非官方] · en: ER [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 이 능력치를 뜻할 때만 적용한다. ER을 응급실 등 일반 약어에 적용하지 않는다. 에너지 획득 효율(Energy Generation Rate)은 자동 회복과 별개이므로 원문이 획득 효율을 명시하면 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -236,7 +248,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 불 속성 피해 | Fire DMG | 炎属性ダメージ | 火属性伤害 |
+| 불 속성 피해 [공식 / Official / 正式 / 官方] | Fire DMG [공식 / Official / 正式 / 官方] | 炎属性ダメージ [공식 / Official / 正式 / 官方] | 火属性伤害 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -255,8 +267,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:32200 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 불 속성 피해 · 불속성피해 · Fire DMG · 炎属性ダメージ · 火属性伤害 · 불피증 · 불피 · 火伤
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 불피증 · zh-CN: 火伤
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 불 속성 피해 · 불속성피해 · Fire DMG · 炎属性ダメージ · 火属性伤害
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 불피증 · 불피 · 火伤
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 불피증 [비공식 / Unofficial / 非公式 / 非官方] · zh-CN: 火伤 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -267,7 +281,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 에테르 피해 | Ether DMG | エーテル属性ダメージ | 以太伤害 |
+| 에테르 피해 [공식 / Official / 正式 / 官方] | Ether DMG [공식 / Official / 正式 / 官方] | エーテル属性ダメージ [공식 / Official / 正式 / 官方] | 以太伤害 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -286,8 +300,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:32300 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 에테르 피해 · 에테르피해 · Ether DMG · エーテル属性ダメージ · 以太伤害 · 에테르피증 · 에피증 · 以太伤
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 에피증 · zh-CN: 以太伤
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에테르 피해 · 에테르피해 · Ether DMG · エーテル属性ダメージ · 以太伤害
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 에테르피증 · 에피증 · 以太伤
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 에피증 [비공식 / Unofficial / 非公式 / 非官方] · zh-CN: 以太伤 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -298,7 +314,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 전기 속성 피해 | Electric DMG | 電気属性ダメージ | 电属性伤害 |
+| 전기 속성 피해 [공식 / Official / 正式 / 官方] | Electric DMG [공식 / Official / 正式 / 官方] | 電気属性ダメージ [공식 / Official / 正式 / 官方] | 电属性伤害 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -317,8 +333,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:32400 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 전기 속성 피해 · 전기속성피해 · Electric DMG · 電気属性ダメージ · 电属性伤害 · 전피증 · 전기피증 · 电伤
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 전피증 · zh-CN: 电伤
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 전기 속성 피해 · 전기속성피해 · Electric DMG · 電気属性ダメージ · 电属性伤害
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 전피증 · 전기피증 · 电伤
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 전피증 [비공식 / Unofficial / 非公式 / 非官方] · zh-CN: 电伤 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -329,7 +347,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 얼음 속성 피해 | Ice DMG | 氷属性ダメージ | 冰属性伤害 |
+| 얼음 속성 피해 [공식 / Official / 正式 / 官方] | Ice DMG [공식 / Official / 正式 / 官方] | 氷属性ダメージ [공식 / Official / 正式 / 官方] | 冰属性伤害 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -348,8 +366,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:32500 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 얼음 속성 피해 · 얼음속성피해 · Ice DMG · 氷属性ダメージ · 冰属性伤害 · 얼피증 · 冰伤
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 얼피증 · zh-CN: 冰伤
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 얼음 속성 피해 · 얼음속성피해 · Ice DMG · 氷属性ダメージ · 冰属性伤害
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 얼피증 · 冰伤
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 얼피증 [비공식 / Unofficial / 非公式 / 非官方] · zh-CN: 冰伤 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -360,7 +380,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 물리 피해 | Physical DMG | 物理属性ダメージ | 物理伤害 |
+| 물리 피해 [공식 / Official / 正式 / 官方] | Physical DMG [공식 / Official / 正式 / 官方] | 物理属性ダメージ [공식 / Official / 正式 / 官方] | 物理伤害 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -379,8 +399,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:32600 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 물리 피해 · 물리피해 · Physical DMG · 物理属性ダメージ · 物理伤害 · 물피증 · 물리피증 · 物伤
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 물피증 · zh-CN: 物伤
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 물리 피해 · 물리피해 · Physical DMG · 物理属性ダメージ · 物理伤害
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 물피증 · 물리피증 · 物伤
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 물피증 [비공식 / Unofficial / 非公式 / 非官方] · zh-CN: 物伤 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -391,7 +413,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 치명타 피해 | CRIT DMG | 会心ダメージ | 暴击伤害 |
+| 치명타 피해 [공식 / Official / 正式 / 官方] | CRIT DMG [공식 / Official / 正式 / 官方] | 会心ダメージ [공식 / Official / 正式 / 官方] | 暴击伤害 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -410,8 +432,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:32700 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 치명타 피해 · 치명타피해 · CRIT DMG · 会心ダメージ · 暴击伤害 · 치피 · 치뎀 · 크뎀 · CD · CDMG · crit dmg · crit damage · 会心ダメ · 暴伤 · 爆伤 · 暴擊傷害 · KRIT-SCH · DGT CRIT · Daño Crítico · Dano CRIT · Крит. урон · DMG Bạo Kích
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 치피 · en: CDMG · ja: 会心ダメ · zh-CN: 暴伤
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 치명타 피해 · 치명타피해 · CRIT DMG · 会心ダメージ · 暴击伤害 · crit dmg · 暴擊傷害 · KRIT-SCH · DGT CRIT · Daño Crítico · Dano CRIT · Крит. урон · DMG Bạo Kích
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 치피 · 치뎀 · 크뎀 · CD · CDMG · crit damage · 会心ダメ · 暴伤 · 爆伤
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 치피 [비공식 / Unofficial / 非公式 / 非官方] · en: CDMG [비공식 / Unofficial / 非公式 / 非官方] · ja: 会心ダメ [비공식 / Unofficial / 非公式 / 非官方] · zh-CN: 暴伤 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: CD는 능력치 비교에서는 치명타 피해 후보이나 스킬 재사용 시간(cooldown) 문맥과 구분한다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -422,7 +446,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 이상 장악력 | Anomaly Mastery | 異常掌握 | 异常掌控 |
+| 이상 장악력 [공식 / Official / 正式 / 官方] | Anomaly Mastery [공식 / Official / 正式 / 官方] | 異常掌握 [공식 / Official / 正式 / 官方] | 异常掌控 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -441,8 +465,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:33000 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 이상 장악력 · 이상장악력 · Anomaly Mastery · 異常掌握 · 异常掌控 · 이상장악 · AM · 장악 · 異常掌控 · Anomalie-Kontrolle · Maîtrise d'anomalie · Tasa de Anomalía · Maestria de Anomalia · Контроль аномалии · การควบคุม Anomaly · Khống Chế Dị Thường
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 장악 · en: AM
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이상 장악력 · 이상장악력 · Anomaly Mastery · 異常掌握 · 异常掌控 · 異常掌控 · Anomalie-Kontrolle · Maîtrise d'anomalie · Tasa de Anomalía · Maestria de Anomalia · Контроль аномалии · การควบคุม Anomaly · Khống Chế Dị Thường
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 이상장악 · AM · 장악
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 장악 [비공식 / Unofficial / 非公式 / 非官方] · en: AM [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: AM은 Anomaly Mastery이다. AP(Anomaly Proficiency, 이상 마스터리)와 구분한다. I am 같은 일반 영어 동사나 오전 시간 표시는 이 능력치가 아니다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -453,7 +479,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| HP | HP | HP | 生命值 |
+| HP [공식 / Official / 正式 / 官方] | HP [공식 / Official / 正式 / 官方] | HP [공식 / Official / 正式 / 官方] | 生命值 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -472,7 +498,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:33100 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: HP · 生命值
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: HP · 生命值
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
@@ -482,7 +509,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 바람 속성 피해 | Wind DMG | 風属性ダメージ | 风属性伤害 |
+| 바람 속성 피해 [공식 / Official / 正式 / 官方] | Wind DMG [공식 / Official / 正式 / 官方] | 風属性ダメージ [공식 / Official / 正式 / 官方] | 风属性伤害 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -501,7 +528,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat:33900 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 바람 속성 피해 · 바람속성피해 · Wind DMG · 風属性ダメージ · 风属性伤害
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 바람 속성 피해 · 바람속성피해 · Wind DMG · 風属性ダメージ · 风属性伤害
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
@@ -511,7 +539,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고정 관통 수치 | flat PEN | 貫通値 | 穿透值 |
+| 고정 관통 수치 [확인 필요 / Needs review / 要確認 / 待确认] | flat PEN [확인 필요 / Needs review / 要確認 / 待确认] | 貫通値 [확인 필요 / Needs review / 要確認 / 待确认] | 穿透值 [확인 필요 / Needs review / 要確認 / 待确认] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -530,8 +558,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: stat-flat-pen · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 깡관 · 깡관통 · 고정 관통 · flat PEN · PEN flat · flat penetration · 穿透值 · 貫通値 · 고정관통 · fpen
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 깡관
+- [태그 / Tags / タグ / 标签](../TAGS.md): 비공식 / Unofficial / 非公式 / 非官方 · 확인 필요 / Needs review / 要確認 / 待确认
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 깡관 · 깡관통 · 고정 관통 · PEN flat · flat penetration · 고정관통 · fpen
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [확인 필요 / Needs review / 要確認 / 待确认]: flat PEN · 穿透值 · 貫通値
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 깡관 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 일정 수치의 방어력을 무시하는 관통 수치.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 관통률(PEN Ratio, %)과 구분하며 퍼센트를 임의로 붙이지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다. fpen의 f는 flat(고정 수치)을 뜻하며 퍼센트가 아니다. 4fatk, 3fpen처럼 숫자와 붙어도 같은 약어다. 앞의 숫자는 원문의 개수·수치를 그대로 보존하고, 원문에 없는 %나 옵션당 수치 곱셈을 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://www.prydwen.gg/zenless/guides/agents-attributes) · [2](https://www.prydwen.gg/zenless/guides/disk-drives-stats)

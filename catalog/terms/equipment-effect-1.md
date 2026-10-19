@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 별 | Astral | 天籟 | 嘉音 |
+| 별 [공식 / Official / 正式 / 官方] | Astral [공식 / Official / 正式 / 官方] | 天籟 [공식 / Official / 正式 / 官方] | 嘉音 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,9 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: effect:32800:astral · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: Astral · \[별\] · 天籟 · 嘉音
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 확인 필요 / Needs review / 要確認 / 待确认
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: Astral · 天籟 · 嘉音
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [확인 필요 / Needs review / 要確認 / 待确认]: \[별\]
 - 의미 / Meaning / 意味 / 含义: 고요 속의 별(Astral Voice) 디스크 세트의 효과 설명에 등장하는 버프 이름. 세트 자체의 약칭 Astral과 별도 개념이다.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: stacks of Astral, gain a stack of Astral처럼 이 세트의 이름 붙은 버프나 그 스택을 직접 가리킬 때만 preferred를 적용한다. 디스크 세트 자체 또는 그 효과의 발동 판정을 뜻하는 Astral은 equipment:32800 후보를 검토한다. 일반적인 별이나 astral 형용사는 이 효과로 바꾸지 않는다. 근거가 부족한 약칭 Astral은 원문 그대로 유지한다. 효과의 수치·지속 시간·조건을 원문에 없는 경우 덧붙이지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)

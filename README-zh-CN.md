@@ -14,6 +14,7 @@ Discord机器人与字幕工作室共用的 **2314** 个概念 · **13** 种语�
 - [名称索引](catalog/INDEX.md)
 - [简称说明](catalog/ABBREVIATIONS.md)
 - [范围与来源](catalog/README.md)
+- [공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方](catalog/TAGS.md)
 
 ## 数据文件
 
@@ -26,6 +27,7 @@ Discord机器人与字幕工作室共用的 **2314** 个概念 · **13** 种语�
 | [localizations.json](catalog/localizations.json) | 为既有概念补充的语言名称 |
 | [sources.json](catalog/sources.json) | 资料版本、收集日期及哈希 |
 | [latest.json](latest.json) | 程序更新清单 |
+| [classification.json](catalog/classification.json) | 공식 / Official / 正式 / 官方 / 비공식 / Unofficial / 非公式 / 非官方 |
 | [LIFECYCLE.md](catalog/LIFECYCLE.md) | 候选生成、审核、备份与应用 |
 
 ## 使用与更新

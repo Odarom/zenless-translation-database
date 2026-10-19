@@ -14,6 +14,7 @@ Read names, shorthand and rules without installing a program.
 - [Name index](catalog/INDEX.md)
 - [Abbreviations](catalog/ABBREVIATIONS.md)
 - [Scope and provenance](catalog/README.md)
+- [공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方](catalog/TAGS.md)
 
 ## Data files
 
@@ -26,6 +27,7 @@ Read names, shorthand and rules without installing a program.
 | [localizations.json](catalog/localizations.json) | Additional names for existing concepts |
 | [sources.json](catalog/sources.json) | Source versions, retrieval dates and hashes |
 | [latest.json](latest.json) | Program update manifest |
+| [classification.json](catalog/classification.json) | 공식 / Official / 正式 / 官方 / 비공식 / Unofficial / 非公式 / 非官方 |
 | [LIFECYCLE.md](catalog/LIFECYCLE.md) | Candidate, review, backup and apply workflow |
 
 ## Use and updates

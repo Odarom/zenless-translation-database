@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 촛불 트릭 | Candlelit Scheme | キャンドル・トリック | 烛光诡计 |
+| 촛불 트릭 [공식 / Official / 正式 / 官方] | Candlelit Scheme [공식 / Official / 正式 / 官方] | キャンドル・トリック [공식 / Official / 正式 / 官方] | 烛光诡计 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: weapon:13022 · Status: prerelease · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 촛불 트릭 · 촛불트릭 · Candlelit Scheme · キャンドル・トリック · 烛光诡计 · Candlelight Conspiracy · 燭光の詭計
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 촛불 트릭 · 촛불트릭 · Candlelit Scheme · キャンドル・トリック · 烛光诡计 · Candlelight Conspiracy · 燭光の詭計
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/weapon.json)
@@ -53,7 +54,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 금단의 감옥 | Incarcerating Grip | 罪捕らえる牢獄 | 禁罪囚笼 |
+| 금단의 감옥 [공식 / Official / 正式 / 官方] | Incarcerating Grip [공식 / Official / 正式 / 官方] | 罪捕らえる牢獄 [공식 / Official / 正式 / 官方] | 禁罪囚笼 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -72,7 +73,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: weapon:14163 · Status: prerelease · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 금단의 감옥 · 금단의감옥 · Incarcerating Grip · 罪捕らえる牢獄 · 禁罪囚笼 · Sin-Ban Cage · 禁罪の檻
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 금단의 감옥 · 금단의감옥 · Incarcerating Grip · 罪捕らえる牢獄 · 禁罪囚笼 · Sin-Ban Cage · 禁罪の檻
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/weapon.json)
@@ -82,7 +84,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 열반의 첫 깃 | Plume of Rebirth | 転生の炎翼 | 涅槃初翎 |
+| 열반의 첫 깃 [공식 / Official / 正式 / 官方] | Plume of Rebirth [공식 / Official / 正式 / 官方] | 転生の炎翼 [공식 / Official / 正式 / 官方] | 涅槃初翎 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -101,7 +103,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: weapon:14164 · Status: prerelease · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 열반의 첫 깃 · 열반의첫깃 · Plume of Rebirth · 転生の炎翼 · 涅槃初翎 · Nirvana's First Plume · ネハン初翎
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 열반의 첫 깃 · 열반의첫깃 · Plume of Rebirth · 転生の炎翼 · 涅槃初翎 · Nirvana's First Plume · ネハン初翎
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/weapon.json)

@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 일반 공격 | Basic Attack | 通常攻撃 | 普通攻击 |
+| 일반 공격 [공식 / Official / 正式 / 官方] | Basic Attack [공식 / Official / 正式 / 官方] | 通常攻撃 [공식 / Official / 正式 / 官方] | 普通攻击 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,8 +43,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:basic-attack · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 일반 공격 · 일반공격 · Basic Attack · 通常攻撃 · 普通攻击 · 평타 · 평공 · 기본공격 · BA · NA · 普攻 · 普通攻擊 · Basisangriff · Attaque normale · Ataque normal · Ataque Básico · Базовая атака · โจมตีปกติ · Tấn Công Thường
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 평타 · en: BA
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격 · 일반공격 · Basic Attack · 通常攻撃 · 普通攻击 · 普通攻擊 · Basisangriff · Attaque normale · Ataque normal · Ataque Básico · Базовая атака · โจมตีปกติ · Tấn Công Thường
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 평타 · 평공 · 기본공격 · BA · NA · 普攻
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 평타 [비공식 / Unofficial / 非公式 / 非官方] · en: BA [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 일반 공격 종류를 뜻하며 평꾹 같은 길게 누르는 입력이나 강화 평타와 구별한다. NA가 지역 North America 또는 해당 없음이라는 뜻이면 적용하지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -55,7 +57,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피 | Dodge | 回避 | 闪避 |
+| 회피 [공식 / Official / 正式 / 官方] | Dodge [공식 / Official / 正式 / 官方] | 回避 [공식 / Official / 正式 / 官方] | 闪避 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -74,7 +76,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:dodge · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 회피 · Dodge · 回避 · 闪避
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피 · Dodge · 回避 · 闪避
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1011.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1011.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1011.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1011.json)
@@ -84,7 +87,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 대시 공격 | Dash Attack | ダッシュ攻撃 | 冲刺攻击 |
+| 대시 공격 [공식 / Official / 正式 / 官方] | Dash Attack [공식 / Official / 正式 / 官方] | ダッシュ攻撃 [공식 / Official / 正式 / 官方] | 冲刺攻击 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -103,7 +106,9 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:dash-attack · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 대시 공격 · 대시공격 · Dash Attack · ダッシュ攻撃 · 冲刺攻击 · DA · 衝刺攻擊 · Sprintangriff · Attaque de bond · Ataque rápido · Ataque Rápido · Атака в рывке · พุ่งโจมตี · Tấn Công Lướt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 대시 공격 · 대시공격 · Dash Attack · ダッシュ攻撃 · 冲刺攻击 · 衝刺攻擊 · Sprintangriff · Attaque de bond · Ataque rápido · Ataque Rápido · Атака в рывке · พุ่งโจมตี · Tấn Công Lướt
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: DA
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: DA는 mode:deadly-assault와 공유하는 다의적 약어다. 회피 후 공격, 버튼 입력, 공격 순서·콤보 안의 개별 동작을 설명하는 문맥에서 Dash Attack임이 확인될 때만 이 항목의 preferred를 사용한다. 예를 들어 dodge then use a DA의 DA는 수행하는 공격 동작이다. 반면 in DA처럼 그 전투가 진행되는 콘텐츠를 가리키는 DA는 Deadly Assault 후보로 구분한다. 점수·별·시즌·도전 콘텐츠 문맥의 DA는 Deadly Assault 후보도 검토한다. 단순히 전투나 보스를 언급했다는 이유만으로 대시 공격을 선택하지 않는다. 문장·답글·최근 문맥만으로 판별하기 어려우면 DA를 그대로 유지한다. 같은 문장 안에서도 각각의 DA는 뜻이 다를 수 있으며 한 쪽으로 통일하지 않는다.
@@ -114,7 +119,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피 반격 | Dodge Counter | 回避反撃 | 闪避反击 |
+| 회피 반격 [공식 / Official / 正式 / 官方] | Dodge Counter [공식 / Official / 正式 / 官方] | 回避反撃 [공식 / Official / 正式 / 官方] | 闪避反击 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -133,8 +138,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:dodge-counter · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 회피 반격 · 회피반격 · Dodge Counter · 回避反撃 · 闪避反击 · 회반 · DC · 閃避反擊 · Ausweichkonter · Contre d'esquive · Contraataque · Contraesquiva · Контратака после уклонения · หลบหลีกสวนกลับ · Phản Kích Khi Né
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 회반 · en: DC
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피 반격 · 회피반격 · Dodge Counter · 回避反撃 · 闪避反击 · 閃避反擊 · Ausweichkonter · Contre d'esquive · Contraataque · Contraesquiva · Контратака после уклонения · หลบหลีกสวนกลับ · Phản Kích Khi Né
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 회반 · DC
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 회반 [비공식 / Unofficial / 非公式 / 非官方] · en: DC [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 회피 후 반격이라는 동작일 때만 DC를 확장한다. 접속 종료·직류·커뮤니티 사이트 DC는 해당하지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -145,7 +152,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특수 스킬 | Special Attack | 特殊スキル | 特殊技 |
+| 특수 스킬 [공식 / Official / 正式 / 官方] | Special Attack [공식 / Official / 正式 / 官方] | 特殊スキル [공식 / Official / 正式 / 官方] | 特殊技 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -164,7 +171,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:special-attack · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특수 스킬 · 특수스킬 · Special Attack · 特殊スキル · 特殊技 · Spezialangriff · Attaque spéciale · Técnica especial · Ataque Especial · Особая атака · สกิลพิเศษ · Chiến Kỹ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특수 스킬 · 특수스킬 · Special Attack · 特殊スキル · 特殊技 · Spezialangriff · Attaque spéciale · Técnica especial · Ataque Especial · Особая атака · สกิลพิเศษ · Chiến Kỹ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1011.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1011.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1011.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1011.json)
@@ -174,7 +182,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 강화 특수 스킬 | EX Special Attack | 強化特殊スキル | 强化特殊技 |
+| 강화 특수 스킬 [공식 / Official / 正式 / 官方] | EX Special Attack [공식 / Official / 正式 / 官方] | 強化特殊スキル [공식 / Official / 正式 / 官方] | 强化特殊技 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -193,8 +201,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:ex-special-attack · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 강화 특수 스킬 · 강화특수스킬 · EX Special Attack · 強化特殊スキル · 强化特殊技 · 강특 · EX · EX special · EXスキル · 强化E · 強化特殊技 · Verstärkter Spezialangriff · Attaque spéciale EX · Técnica especial EX · Ataque Especial Reforçado · Усиленная особая атака · สกิลพิเศษ-EX · Siêu Chiến Kỹ
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 강특 · en: EX
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화 특수 스킬 · 강화특수스킬 · EX Special Attack · 強化特殊スキル · 强化特殊技 · 強化特殊技 · Verstärkter Spezialangriff · Attaque spéciale EX · Técnica especial EX · Ataque Especial Reforçado · Усиленная особая атака · สกิลพิเศษ-EX · Siêu Chiến Kỹ
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 강특 · EX · EX special · EXスキル · 强化E
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 강특 [비공식 / Unofficial / 非公式 / 非官方] · en: EX [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 게임의 스킬·전투 조작·공격 순서·에너지 사용 문맥에서 강화 특수 스킬을 뜻하는 강특은 combat:ex-special-attack의 언어별 preferred로 번역한다. 강특을, 강특으로 등 조사가 붙어도 같은 의미로 판단한다. 일반 특수 스킬(Special Attack)과 구분하며 원문에 없는 버튼 입력·길게 누르기·효과를 추가하지 않는다. 다른 뜻의 약칭으로 쓰인 문맥에는 적용하지 않는다. 에너지를 사용하는 강화 특수 스킬과 일반 특수 스킬을 구별한다. EX가 예전 연인 등을 뜻하면 적용하지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -205,7 +215,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 콤보 스킬 | Chain Attack | 連携スキル | 连携技 |
+| 콤보 스킬 [공식 / Official / 正式 / 官方] | Chain Attack [공식 / Official / 正式 / 官方] | 連携スキル [공식 / Official / 正式 / 官方] | 连携技 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -224,7 +234,9 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:chain-attack · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 콤보 스킬 · 콤보스킬 · Chain Attack · 連携スキル · 连携技 · 連携 · 콤스 · 連攜技 · Kettenangriff · Enchaînement · Técnica en cadena · Ataque em Cadeia · Цепочка атак · สกิลต่อเนื่อง · Liên Kích
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 콤보 스킬 · 콤보스킬 · Chain Attack · 連携スキル · 连携技 · 連攜技 · Kettenangriff · Enchaînement · Técnica en cadena · Ataque em Cadeia · Цепочка атак · สกิลต่อเนื่อง · Liên Kích
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 連携 · 콤스
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 일반적인 콤보 공격 순서 전체가 아니라 게임의 Chain Attack 동작을 가리킬 때만 적용한다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -235,7 +247,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 궁극기 | Ultimate | 終結スキル | 终结技 |
+| 궁극기 [공식 / Official / 正式 / 官方] | Ultimate [공식 / Official / 正式 / 官方] | 終結スキル [공식 / Official / 正式 / 官方] | 终结技 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -254,8 +266,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:ultimate · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 궁극기 · Ultimate · 終結スキル · 终结技 · 궁 · ult · ulti · 大招 · 終結技 · Ultime · Técnica definitiva · Supremo · Суперспособность · สกิลอัลติเมท · Tuyệt Kỹ
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 궁 · en: ult
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 궁극기 · Ultimate · 終結スキル · 终结技 · 終結技 · Ultime · Técnica definitiva · Supremo · Суперспособность · สกิลอัลติเมท · Tuyệt Kỹ
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 궁 · ult · ulti · 大招
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 궁 [비공식 / Unofficial / 非公式 / 非官方] · en: ult [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 궁은 궁극기 사용·에너지·전투 문맥일 때만 해당하며 궁금하다 또는 궁전의 일부를 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -266,7 +280,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 빠른 지원 | Quick Assist | クイック支援 | 快速支援 |
+| 빠른 지원 [공식 / Official / 正式 / 官方] | Quick Assist [공식 / Official / 正式 / 官方] | クイック支援 [공식 / Official / 正式 / 官方] | 快速支援 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -285,8 +299,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:quick-assist · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 빠른 지원 · 빠른지원 · Quick Assist · クイック支援 · 快速支援 · QA · 퀵어시스트 · 퀵 어시스트 · 빠지 · Schnelle Hilfe · Soutien rapide · Apoyo rápido · Assistência Reativa · Быстрая помощь · ซัปพอร์ตอย่างรวดเร็ว · Hỗ Trợ Nhanh
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 빠지 · en: QA
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빠른 지원 · 빠른지원 · Quick Assist · クイック支援 · 快速支援 · Schnelle Hilfe · Soutien rapide · Apoyo rápido · Assistência Reativa · Быстрая помощь · ซัปพอร์ตอย่างรวดเร็ว · Hỗ Trợ Nhanh
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: QA · 퀵어시스트 · 퀵 어시스트 · 빠지
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 빠지 [비공식 / Unofficial / 非公式 / 非官方] · en: QA [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 지원·교체·전투 조작·스킬·디스크 효과 등 게임 문맥에서만 QA 또는 빠지를 Quick Assist로 해석하고 병합 대상 combat:quick-assist의 언어별 preferred를 사용한다. 빠지로 교체처럼 조사가 붙은 약칭도 해당 문맥이면 빠른 지원이다. 일반 업무의 quality assurance나 물에 빠지다, 빠지면, 빠지지 마처럼 일반 동사에 포함된 글자는 게임 용어로 바꾸지 않는다. 일반 문장에 빠지라는 글자가 포함됐다는 사실만으로 빠른 지원을 선택하지 않는다. 근거가 부족하면 원래 약칭을 유지한다.
@@ -297,7 +313,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 패링 지원 | Defensive Assist | パリィ支援 | 招架支援 |
+| 패링 지원 [공식 / Official / 正式 / 官方] | Defensive Assist [공식 / Official / 正式 / 官方] | パリィ支援 [공식 / Official / 正式 / 官方] | 招架支援 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -316,7 +332,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:defensive-assist · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 패링 지원 · 패링지원 · Defensive Assist · パリィ支援 · 招架支援
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 패링 지원 · 패링지원 · Defensive Assist · パリィ支援 · 招架支援
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 단순 패링이나 캐릭터 자체 자동 반격은 패링 지원으로 단정하지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -327,7 +344,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 지원 돌격 | Assist Follow-Up | 支援突撃 | 支援突击 |
+| 지원 돌격 [공식 / Official / 正式 / 官方] | Assist Follow-Up [공식 / Official / 正式 / 官方] | 支援突撃 [공식 / Official / 正式 / 官方] | 支援突击 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -346,8 +363,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:assist-follow-up · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 지원 돌격 · 지원돌격 · Assist Follow-Up · 支援突撃 · 支援突击 · 지돌 · AFU
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: en: AFU
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 지원 돌격 · 지원돌격 · Assist Follow-Up · 支援突撃 · 支援突击
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 지돌 · AFU
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: en: AFU [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 지원 발동 뒤 이어지는 공격을 뜻할 때만 적용한다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
@@ -358,7 +377,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 에테르 장막·용천 | Ether Veil | エーテルベール・湧泉 | 以太帷幕·涌泉 |
+| 에테르 장막·용천 [공식 / Official / 正式 / 官方] | Ether Veil [공식 / Official / 正式 / 官方] | エーテルベール・湧泉 [공식 / Official / 正式 / 官方] | 以太帷幕·涌泉 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -377,7 +396,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:ether-veil · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 에테르 장막·용천 · 에테르장막·용천 · Ether Veil · エーテルベール・湧泉 · 以太帷幕·涌泉
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에테르 장막·용천 · 에테르장막·용천 · Ether Veil · エーテルベール・湧泉 · 以太帷幕·涌泉
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -387,7 +407,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피 지원 | Evasive Assist | 回避支援 | 回避支援 |
+| 회피 지원 [공식 / Official / 正式 / 官方] | Evasive Assist [공식 / Official / 正式 / 官方] | 回避支援 [공식 / Official / 正式 / 官方] | 回避支援 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -406,7 +426,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:evasive-assist · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 회피 지원 · 회피지원 · Evasive Assist · 回避支援
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피 지원 · 회피지원 · Evasive Assist · 回避支援
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1081.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1081.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1081.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1081.json)
@@ -416,7 +437,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 친위대 새끼 멧돼지 | Guard Boars | イノシシ親衛隊 | 亲卫队小猪 |
+| 친위대 새끼 멧돼지 [공식 / Official / 正式 / 官方] | Guard Boars [공식 / Official / 正式 / 官方] | イノシシ親衛隊 [공식 / Official / 正式 / 官方] | 亲卫队小猪 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -435,7 +456,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:guard-boars · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 친위대 새끼 멧돼지 · 친위대새끼멧돼지 · Guard Boars · イノシシ親衛隊 · 亲卫队小猪
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 친위대 새끼 멧돼지 · 친위대새끼멧돼지 · Guard Boars · イノシシ親衛隊 · 亲卫队小猪
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1151.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1151.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1151.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1151.json)
@@ -445,7 +467,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 대시 | Dash | ダッシュ | 冲刺 |
+| 대시 [공식 / Official / 正式 / 官方] | Dash [공식 / Official / 正式 / 官方] | ダッシュ [공식 / Official / 正式 / 官方] | 冲刺 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -464,7 +486,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:dash · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 대시 · Dash · ダッシュ · 冲刺 · 衝刺 · Sprint · Bond · Esprint · Disparada · Рывок · พุ่งโจมตี · Lướt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 대시 · Dash · ダッシュ · 冲刺 · 衝刺 · Sprint · Bond · Esprint · Disparada · Рывок · พุ่งโจมตี · Lướt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1191.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1191.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1191.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1191.json)
@@ -474,7 +497,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 패시브 | Passive | パッシブ | 被动 |
+| 패시브 [공식 / Official / 正式 / 官方] | Passive [공식 / Official / 正式 / 官方] | パッシブ [공식 / Official / 正式 / 官方] | 被动 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -493,7 +516,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:passive · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 패시브 · Passive · パッシブ · 被动
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 패시브 · Passive · パッシブ · 被动
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1321.json)
@@ -503,7 +527,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 등장 스킬 | Entry Skill | 入場スキル | 登场技 |
+| 등장 스킬 [공식 / Official / 正式 / 官方] | Entry Skill [공식 / Official / 正式 / 官方] | 入場スキル [공식 / Official / 正式 / 官方] | 登场技 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -522,7 +546,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:entry-skill · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 등장 스킬 · 등장스킬 · Entry Skill · 入場スキル · 登场技
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 등장 스킬 · 등장스킬 · Entry Skill · 入場スキル · 登场技
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1341.json)
@@ -532,7 +557,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 지원 스킬 | Assist | 支援スキル | 支援技 |
+| 지원 스킬 [공식 / Official / 正式 / 官方] | Assist [공식 / Official / 正式 / 官方] | 支援スキル [공식 / Official / 正式 / 官方] | 支援技 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -551,7 +576,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:assist · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 지원 스킬 · 지원스킬 · Assist · 支援スキル · 支援技 · Hilfe · Soutien · Técnica de apoyo · Ataque de Assistência · Помощь · สกิลซัปพอร์ต · Kỹ Năng Chi Viện
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 지원 스킬 · 지원스킬 · Assist · 支援スキル · 支援技 · Hilfe · Soutien · Técnica de apoyo · Ataque de Assistência · Помощь · สกิลซัปพอร์ต · Kỹ Năng Chi Viện
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1581.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1581.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1581.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1581.json)
@@ -561,7 +587,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 반격 지원 | Counter Assist | カウンター支援 | 反制支援 |
+| 반격 지원 [공식 / Official / 正式 / 官方] | Counter Assist [공식 / Official / 正式 / 官方] | カウンター支援 [공식 / Official / 正式 / 官方] | 反制支援 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -580,7 +606,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:counter-assist · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 반격 지원 · 반격지원 · Counter Assist · カウンター支援 · 反制支援
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 반격 지원 · 반격지원 · Counter Assist · カウンター支援 · 反制支援
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1611.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1611.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1611.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1611.json)
@@ -590,7 +617,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 핵심 패시브 | Core Passive | コアパッシブ | 核心被动 |
+| 핵심 패시브 [공식 / Official / 正式 / 官方] | Core Passive [공식 / Official / 正式 / 官方] | コアパッシブ [공식 / Official / 正式 / 官方] | 核心被动 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -609,7 +636,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:passive-0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 핵심 패시브 · 핵심패시브 · Core Passive · コアパッシブ · 核心被动 · 核心被動 · Passive Kernfähigkeit · Passif principal · Técnica pasiva · Passiva Principal · Основной пассивный навык · พาสซีฟหลัก · Bị Động Cốt Lõi
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 핵심 패시브 · 핵심패시브 · Core Passive · コアパッシブ · 核心被动 · 核心被動 · Passive Kernfähigkeit · Passif principal · Técnica pasiva · Passiva Principal · Основной пассивный навык · พาสซีฟหลัก · Bị Động Cốt Lõi
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1011.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1011.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1011.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1011.json)
@@ -619,7 +647,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 추가 능력 | Additional Ability | 追加能力 | 额外能力 |
+| 추가 능력 [공식 / Official / 正式 / 官方] | Additional Ability [공식 / Official / 正式 / 官方] | 追加能力 [공식 / Official / 正式 / 官方] | 额外能力 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -638,7 +666,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:passive-1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 추가 능력 · 추가능력 · Additional Ability · 追加能力 · 额外能力
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 추가 능력 · 추가능력 · Additional Ability · 追加能力 · 额外能力
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1011.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1011.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1011.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1011.json)
@@ -648,7 +677,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 극한 회피 | Perfect Dodge | 極限回避 | 极限闪避 |
+| 극한 회피 [공식 / Official / 正式 / 官方] | Perfect Dodge [공식 / Official / 正式 / 官方] | 極限回避 [공식 / Official / 正式 / 官方] | 极限闪避 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -667,7 +696,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: combat:perfect-dodge · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 극한 회피 · 극한회피 · Perfect Dodge · 極限回避 · 极限闪避 · perfect dodge · 極限閃避 · Perfektes Ausweichen · Esquive parfaite · Evasión perfecta · Esquiva Perfeita · Идеальное уклонение · หลบหลีกสมบูรณ์ · Né Hoàn Hảo
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 극한 회피 · 극한회피 · Perfect Dodge · 極限回避 · 极限闪避 · perfect dodge · 極限閃避 · Perfektes Ausweichen · Esquive parfaite · Evasión perfecta · Esquiva Perfeita · Идеальное уклонение · หลบหลีกสมบูรณ์ · Né Hoàn Hảo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로의 Perfect Dodge 판정. 일반 회피(Dodge)나 회피 반격(Dodge Counter)과 별도 개념이다.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 전투 판정이나 그 발동을 뜻할 때 preferred 명칭을 그대로 쓴다. Perfect를 생략해 일반 회피로 바꾸거나 바로 회피, 완벽한 회피로 풀어 쓰지 않는다. 일반 Dodge에 Perfect를 추가하지 않는다. 극한 회피를 발동했다는 원문만으로 회피 반격을 사용했다고 단정하지 않는다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 회피 또는 회피 반격과 별개이다. 극한/perfect 수식어를 유지한다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.

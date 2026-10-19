@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 바람 | Wind | 風 | 风 |
+| 바람 [공식 / Official / 正式 / 官方] | Wind [공식 / Official / 正式 / 官方] | 風 [공식 / Official / 正式 / 官方] | 风 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: attribute:wind · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 바람 · Wind · 風 · 风
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 바람 · Wind · 風 · 风
 - 의미 / Meaning / 意味 / 含义: 젠레스 전투의 바람(Wind) 속성 이름. 피해 수치·약점·저항을 가리키는 문맥에서 사용한다.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 속성·속성 피해·약점·저항 문맥에서만 Wind을 바람 속성으로 해석한다. 다른 속성으로 바꾸지 않는다. 특히 Wind(바람)와 Ice(얼음)·Freeze(빙결 상태)를 구분한다. 원문의 약점 여부·부정·저항 방향은 보존하고 속성이 보인다는 이유만으로 원문에 없는 약점이나 면역을 추가하지 않는다. 일반적인 자연현상·형용사·이름 속의 글자에는 적용하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://steamcommunity.com/app/4162040?l=koreana) · [2](https://zenless.hoyoverse.com/en-us/news/166000?catchSpider=1&lang=en-us&page=news) · [3](https://steamcommunity.com/app/4162040?l=japanese) · [4](https://zzz.mihoyo.com/news/166026)
@@ -53,7 +54,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 불 | Fire | 炎 | 火 |
+| 불 [공식 / Official / 正式 / 官方] | Fire [공식 / Official / 正式 / 官方] | 炎 [공식 / Official / 正式 / 官方] | 火 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -72,7 +73,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: attribute:fire · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 불 · Fire · 炎 · 火
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 불 · Fire · 炎 · 火
 - 의미 / Meaning / 意味 / 含义: 젠레스 전투의 불(Fire) 속성 이름. 피해 수치·약점·저항을 가리키는 문맥에서 사용한다.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 속성·속성 피해·약점·저항 문맥에서만 Fire을 불 속성으로 해석한다. 다른 속성으로 바꾸지 않는다. 특히 Wind(바람)와 Ice(얼음)·Freeze(빙결 상태)를 구분한다. 원문의 약점 여부·부정·저항 방향은 보존하고 속성이 보인다는 이유만으로 원문에 없는 약점이나 면역을 추가하지 않는다. 일반적인 자연현상·형용사·이름 속의 글자에는 적용하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
@@ -82,7 +84,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 얼음 | Ice | 氷 | 冰 |
+| 얼음 [공식 / Official / 正式 / 官方] | Ice [공식 / Official / 正式 / 官方] | 氷 [공식 / Official / 正式 / 官方] | 冰 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -101,7 +103,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: attribute:ice · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 얼음 · Ice · 氷 · 冰
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 얼음 · Ice · 氷 · 冰
 - 의미 / Meaning / 意味 / 含义: 젠레스 전투의 얼음(Ice) 속성 이름. 피해 수치·약점·저항을 가리키는 문맥에서 사용한다.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 속성·속성 피해·약점·저항 문맥에서만 Ice을 얼음 속성으로 해석한다. 다른 속성으로 바꾸지 않는다. 특히 Wind(바람)와 Ice(얼음)·Freeze(빙결 상태)를 구분한다. 원문의 약점 여부·부정·저항 방향은 보존하고 속성이 보인다는 이유만으로 원문에 없는 약점이나 면역을 추가하지 않는다. 일반적인 자연현상·형용사·이름 속의 글자에는 적용하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
@@ -111,7 +114,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 전기 | Electric | 電気 | 电 |
+| 전기 [공식 / Official / 正式 / 官方] | Electric [공식 / Official / 正式 / 官方] | 電気 [공식 / Official / 正式 / 官方] | 电 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -130,7 +133,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: attribute:electric · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 전기 · Electric · 電気 · 电
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 전기 · Electric · 電気 · 电
 - 의미 / Meaning / 意味 / 含义: 젠레스 전투의 전기(Electric) 속성 이름. 피해 수치·약점·저항을 가리키는 문맥에서 사용한다.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 속성·속성 피해·약점·저항 문맥에서만 Electric을 전기 속성으로 해석한다. 다른 속성으로 바꾸지 않는다. 특히 Wind(바람)와 Ice(얼음)·Freeze(빙결 상태)를 구분한다. 원문의 약점 여부·부정·저항 방향은 보존하고 속성이 보인다는 이유만으로 원문에 없는 약점이나 면역을 추가하지 않는다. 일반적인 자연현상·형용사·이름 속의 글자에는 적용하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
@@ -140,7 +144,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 에테르 | Ether | エーテル | 以太 |
+| 에테르 [공식 / Official / 正式 / 官方] | Ether [공식 / Official / 正式 / 官方] | エーテル [공식 / Official / 正式 / 官方] | 以太 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -159,7 +163,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: attribute:ether · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 에테르 · Ether · エーテル · 以太
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에테르 · Ether · エーテル · 以太
 - 의미 / Meaning / 意味 / 含义: 젠레스 전투의 에테르(Ether) 속성 이름. 피해 수치·약점·저항을 가리키는 문맥에서 사용한다.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 속성·속성 피해·약점·저항 문맥에서만 Ether을 에테르 속성으로 해석한다. 다른 속성으로 바꾸지 않는다. 특히 Wind(바람)와 Ice(얼음)·Freeze(빙결 상태)를 구분한다. 원문의 약점 여부·부정·저항 방향은 보존하고 속성이 보인다는 이유만으로 원문에 없는 약점이나 면역을 추가하지 않는다. 일반적인 자연현상·형용사·이름 속의 글자에는 적용하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
@@ -169,7 +174,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 물리 | Physical | 物理 | 物理 |
+| 물리 [공식 / Official / 正式 / 官方] | Physical [공식 / Official / 正式 / 官方] | 物理 [공식 / Official / 正式 / 官方] | 物理 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -188,7 +193,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: attribute:physical · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 물리 · Physical · 物理 · Physisch · Physique · Físico · Физ. · กายภาพ · Vật Lý
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 물리 · Physical · 物理 · Physisch · Physique · Físico · Физ. · กายภาพ · Vật Lý
 - 의미 / Meaning / 意味 / 含义: 젠레스 전투의 물리(Physical) 속성 이름. 피해 수치·약점·저항을 가리키는 문맥에서 사용한다.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 속성·속성 피해·약점·저항 문맥에서만 Physical을 물리 속성으로 해석한다. 다른 속성으로 바꾸지 않는다. 특히 Wind(바람)와 Ice(얼음)·Freeze(빙결 상태)를 구분한다. 원문의 약점 여부·부정·저항 방향은 보존하고 속성이 보인다는 이유만으로 원문에 없는 약점이나 면역을 추가하지 않는다. 일반적인 자연현상·형용사·이름 속의 글자에는 적용하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)

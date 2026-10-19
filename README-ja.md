@@ -14,6 +14,7 @@ Discordボットと字幕スタジオで共有する **2314** 概念 · **13** �
 - [名称索引](catalog/INDEX.md)
 - [略語の説明](catalog/ABBREVIATIONS.md)
 - [範囲・出典](catalog/README.md)
+- [공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方](catalog/TAGS.md)
 
 ## データファイル
 
@@ -26,6 +27,7 @@ Discordボットと字幕スタジオで共有する **2314** 概念 · **13** �
 | [localizations.json](catalog/localizations.json) | 既存概念に追加した言語名 |
 | [sources.json](catalog/sources.json) | 資料版・取得日時・ハッシュ |
 | [latest.json](latest.json) | プログラム用更新情報 |
+| [classification.json](catalog/classification.json) | 공식 / Official / 正式 / 官方 / 비공식 / Unofficial / 非公式 / 非官方 |
 | [LIFECYCLE.md](catalog/LIFECYCLE.md) | 候補生成・確認・バックアップ・適用 |
 
 ## 利用・更新

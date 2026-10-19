@@ -20,6 +20,7 @@ Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2314** 개념 항�
 - [전체 명칭 색인](catalog/INDEX.md)
 - [약어 설명](catalog/ABBREVIATIONS.md)
 - [범위·출처 안내](catalog/README.md)
+- [공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方](catalog/TAGS.md)
 
 ## 데이터 파일
 
@@ -32,6 +33,7 @@ Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2314** 개념 항�
 | [localizations.json](catalog/localizations.json) | 기존 개념에 연결한 추가 언어 이름 |
 | [sources.json](catalog/sources.json) | 원본 버전·수집 시점·해시 |
 | [latest.json](latest.json) | 프로그램용 업데이트 정보 |
+| [classification.json](catalog/classification.json) | 공식 / Official / 正式 / 官方 / 비공식 / Unofficial / 非公式 / 非官方 |
 | [LIFECYCLE.md](catalog/LIFECYCLE.md) | 후보 생성·검토·백업·적용 절차 |
 
 ## 이용·업데이트
@@ -64,6 +66,7 @@ Read names, shorthand and rules without installing a program.
 - [Name index](catalog/INDEX.md)
 - [Abbreviations](catalog/ABBREVIATIONS.md)
 - [Scope and provenance](catalog/README.md)
+- [공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方](catalog/TAGS.md)
 
 ## Data files
 
@@ -76,6 +79,7 @@ Read names, shorthand and rules without installing a program.
 | [localizations.json](catalog/localizations.json) | Additional names for existing concepts |
 | [sources.json](catalog/sources.json) | Source versions, retrieval dates and hashes |
 | [latest.json](latest.json) | Program update manifest |
+| [classification.json](catalog/classification.json) | 공식 / Official / 正式 / 官方 / 비공식 / Unofficial / 非公式 / 非官方 |
 | [LIFECYCLE.md](catalog/LIFECYCLE.md) | Candidate, review, backup and apply workflow |
 
 ## Use and updates
@@ -108,6 +112,7 @@ Discordボットと字幕スタジオで共有する **2314** 概念 · **13** �
 - [名称索引](catalog/INDEX.md)
 - [略語の説明](catalog/ABBREVIATIONS.md)
 - [範囲・出典](catalog/README.md)
+- [공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方](catalog/TAGS.md)
 
 ## データファイル
 
@@ -120,6 +125,7 @@ Discordボットと字幕スタジオで共有する **2314** 概念 · **13** �
 | [localizations.json](catalog/localizations.json) | 既存概念に追加した言語名 |
 | [sources.json](catalog/sources.json) | 資料版・取得日時・ハッシュ |
 | [latest.json](latest.json) | プログラム用更新情報 |
+| [classification.json](catalog/classification.json) | 공식 / Official / 正式 / 官方 / 비공식 / Unofficial / 非公式 / 非官方 |
 | [LIFECYCLE.md](catalog/LIFECYCLE.md) | 候補生成・確認・バックアップ・適用 |
 
 ## 利用・更新
@@ -152,6 +158,7 @@ Discord机器人与字幕工作室共用的 **2314** 个概念 · **13** 种语�
 - [名称索引](catalog/INDEX.md)
 - [简称说明](catalog/ABBREVIATIONS.md)
 - [范围与来源](catalog/README.md)
+- [공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方](catalog/TAGS.md)
 
 ## 数据文件
 
@@ -164,6 +171,7 @@ Discord机器人与字幕工作室共用的 **2314** 个概念 · **13** 种语�
 | [localizations.json](catalog/localizations.json) | 为既有概念补充的语言名称 |
 | [sources.json](catalog/sources.json) | 资料版本、收集日期及哈希 |
 | [latest.json](latest.json) | 程序更新清单 |
+| [classification.json](catalog/classification.json) | 공식 / Official / 正式 / 官方 / 비공식 / Unofficial / 非公式 / 非官方 |
 | [LIFECYCLE.md](catalog/LIFECYCLE.md) | 候选生成、审核、备份与应用 |
 
 ## 使用与更新

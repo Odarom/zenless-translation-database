@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 일반 공격: 화력 진압 | Basic Attack: Fire Suppression | 通常攻撃：火力鎮圧 | 普通攻击：火力镇压 |
+| 일반 공격: 화력 진압 [공식 / Official / 正式 / 官方] | Basic Attack: Fire Suppression [공식 / Official / 正式 / 官方] | 通常攻撃：火力鎮圧 [공식 / Official / 正式 / 官方] | 普通攻击：火力镇压 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:basic:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 일반 공격: 화력 진압 · 일반공격:화력진압 · 화력 진압 · 화력진압 · Basic Attack: Fire Suppression · Fire Suppression · 通常攻撃：火力鎮圧 · 火力鎮圧 · 普通攻击：火力镇压 · 火力镇压 · 普通攻擊：火力鎮壓 · 火力鎮壓 · Basisangriff: Unterdrückung mit Feuer · Unterdrückung mit Feuer · Attaque normale : Répression ardente · Répression ardente · Ataque normal: Supresión ardiente · Supresión ardiente · Ataque Básico: Supressão de Incêndio · Supressão de Incêndio · Базовая атака: Подавление огня · Подавление огня · โจมตีปกติ: Fire Suppression · Tấn Công Thường: Trấn Áp Hỏa Lực · Trấn Áp Hỏa Lực
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 화력 진압 · 일반공격:화력진압 · 화력 진압 · 화력진압 · Basic Attack: Fire Suppression · Fire Suppression · 通常攻撃：火力鎮圧 · 火力鎮圧 · 普通攻击：火力镇压 · 火力镇压 · 普通攻擊：火力鎮壓 · 火力鎮壓 · Basisangriff: Unterdrückung mit Feuer · Unterdrückung mit Feuer · Attaque normale : Répression ardente · Répression ardente · Ataque normal: Supresión ardiente · Supresión ardiente · Ataque Básico: Supressão de Incêndio · Supressão de Incêndio · Базовая атака: Подавление огня · Подавление огня · โจมตีปกติ: Fire Suppression · Tấn Công Thường: Trấn Áp Hỏa Lực · Trấn Áp Hỏa Lực
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -53,7 +54,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 일반 공격: 화력 분출 | Basic Attack: Fire Assault | 通常攻撃：火力解放 | 普通攻击:火力迸发 |
+| 일반 공격: 화력 분출 [공식 / Official / 正式 / 官方] | Basic Attack: Fire Assault [공식 / Official / 正式 / 官方] | 通常攻撃：火力解放 [공식 / Official / 正式 / 官方] | 普通攻击:火力迸发 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -72,7 +73,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:basic:3 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 일반 공격: 화력 분출 · 일반공격:화력분출 · 화력 분출 · 화력분출 · Basic Attack: Fire Assault · Fire Assault · 通常攻撃：火力解放 · 火力解放 · 普通攻击:火力迸发 · 火力迸发 · 普通攻擊:火力迸發 · 火力迸發 · Basisangriff: Feuerstoß · Feuerstoß · Attaque normale : Assaut enflammé · Assaut enflammé · Ataque normal: Explosión ígnea · Explosión ígnea · Ataque Básico: Explosão Ígnea · Explosão Ígnea · Базовая атака: Пламенный взрыв · Пламенный взрыв · โจมตีปกติ: Fire Assault · Tấn Công Thường: Hỏa Lực Bùng Phát · Hỏa Lực Bùng Phát
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 화력 분출 · 일반공격:화력분출 · 화력 분출 · 화력분출 · Basic Attack: Fire Assault · Fire Assault · 通常攻撃：火力解放 · 火力解放 · 普通攻击:火力迸发 · 火力迸发 · 普通攻擊:火力迸發 · 火力迸發 · Basisangriff: Feuerstoß · Feuerstoß · Attaque normale : Assaut enflammé · Assaut enflammé · Ataque normal: Explosión ígnea · Explosión ígnea · Ataque Básico: Explosão Ígnea · Explosão Ígnea · Базовая атака: Пламенный взрыв · Пламенный взрыв · โจมตีปกติ: Fire Assault · Tấn Công Thường: Hỏa Lực Bùng Phát · Hỏa Lực Bùng Phát
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -82,7 +84,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피: 어닐링 | Dodge: Tempered Fire | 回避：焼鈍し | 闪避：退火 |
+| 회피: 어닐링 [공식 / Official / 正式 / 官方] | Dodge: Tempered Fire [공식 / Official / 正式 / 官方] | 回避：焼鈍し [공식 / Official / 正式 / 官方] | 闪避：退火 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -101,7 +103,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:dodge:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 회피: 어닐링 · 회피:어닐링 · 어닐링 · Dodge: Tempered Fire · Tempered Fire · 回避：焼鈍し · 焼鈍し · 闪避：退火 · 退火 · 閃避：退火 · Ausweichen: Gemäßigtes Feuer · Gemäßigtes Feuer · Esquive : Feu contrôlé · Feu contrôlé · Evasión: Fuego templado · Fuego templado · Esquiva: Fogo Atenuado · Fogo Atenuado · Уклонение: Закалка в огне · Закалка в огне · หลบหลีก: Tempered Fire · Né: Giảm Lửa · Giảm Lửa
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피: 어닐링 · 회피:어닐링 · 어닐링 · Dodge: Tempered Fire · Tempered Fire · 回避：焼鈍し · 焼鈍し · 闪避：退火 · 退火 · 閃避：退火 · Ausweichen: Gemäßigtes Feuer · Gemäßigtes Feuer · Esquive : Feu contrôlé · Feu contrôlé · Evasión: Fuego templado · Fuego templado · Esquiva: Fogo Atenuado · Fogo Atenuado · Уклонение: Закалка в огне · Закалка в огне · หลบหลีก: Tempered Fire · Né: Giảm Lửa · Giảm Lửa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -111,7 +114,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 대시 공격: 이글거리는 불꽃 | Dash Attack: Blazing Fire | ダッシュ攻撃：熾火 | 冲刺攻击：炽火 |
+| 대시 공격: 이글거리는 불꽃 [공식 / Official / 正式 / 官方] | Dash Attack: Blazing Fire [공식 / Official / 正式 / 官方] | ダッシュ攻撃：熾火 [공식 / Official / 正式 / 官方] | 冲刺攻击：炽火 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -130,7 +133,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:dodge:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 대시 공격: 이글거리는 불꽃 · 대시공격:이글거리는불꽃 · 이글거리는 불꽃 · 이글거리는불꽃 · Dash Attack: Blazing Fire · Blazing Fire · ダッシュ攻撃：熾火 · 熾火 · 冲刺攻击：炽火 · 炽火
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 대시 공격: 이글거리는 불꽃 · 대시공격:이글거리는불꽃 · 이글거리는 불꽃 · 이글거리는불꽃 · Dash Attack: Blazing Fire · Blazing Fire · ダッシュ攻撃：熾火 · 熾火 · 冲刺攻击：炽火 · 炽火
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -140,7 +144,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 대시 공격: 화력 진압 | Dash Attack: Fire Suppression | ダッシュ攻撃：火力鎮圧 | 冲刺攻击：火力镇压 |
+| 대시 공격: 화력 진압 [공식 / Official / 正式 / 官方] | Dash Attack: Fire Suppression [공식 / Official / 正式 / 官方] | ダッシュ攻撃：火力鎮圧 [공식 / Official / 正式 / 官方] | 冲刺攻击：火力镇压 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -159,7 +163,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:dodge:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 대시 공격: 화력 진압 · 대시공격:화력진압 · 화력 진압 · 화력진압 · Dash Attack: Fire Suppression · Fire Suppression · ダッシュ攻撃：火力鎮圧 · 火力鎮圧 · 冲刺攻击：火力镇压 · 火力镇压 · 衝刺攻擊：火力鎮壓 · 火力鎮壓 · Sprintangriff: Unterdrückung mit Feuer · Unterdrückung mit Feuer · Attaque de bond : Répression ardente · Répression ardente · Ataque rápido: Supresión ardiente · Supresión ardiente · Ataque Rápido: Supressão de Incêndio · Supressão de Incêndio · Атака в рывке: Подавление огня · Подавление огня · พุ่งโจมตี: Fire Suppression · Tấn Công Lướt: Trấn Áp Hỏa Lực · Trấn Áp Hỏa Lực
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 대시 공격: 화력 진압 · 대시공격:화력진압 · 화력 진압 · 화력진압 · Dash Attack: Fire Suppression · Fire Suppression · ダッシュ攻撃：火力鎮圧 · 火力鎮圧 · 冲刺攻击：火力镇压 · 火力镇压 · 衝刺攻擊：火力鎮壓 · 火力鎮壓 · Sprintangriff: Unterdrückung mit Feuer · Unterdrückung mit Feuer · Attaque de bond : Répression ardente · Répression ardente · Ataque rápido: Supresión ardiente · Supresión ardiente · Ataque Rápido: Supressão de Incêndio · Supressão de Incêndio · Атака в рывке: Подавление огня · Подавление огня · พุ่งโจมตี: Fire Suppression · Tấn Công Lướt: Trấn Áp Hỏa Lực · Trấn Áp Hỏa Lực
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -169,7 +174,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피 반격: 역화 | Dodge Counter: Backdraft | 回避反撃：逆火 | 闪避反击：逆火 |
+| 회피 반격: 역화 [공식 / Official / 正式 / 官方] | Dodge Counter: Backdraft [공식 / Official / 正式 / 官方] | 回避反撃：逆火 [공식 / Official / 正式 / 官方] | 闪避反击：逆火 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -188,7 +193,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:dodge:3 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 회피 반격: 역화 · 회피반격:역화 · 역화 · Dodge Counter: Backdraft · Backdraft · 回避反撃：逆火 · 逆火 · 闪避反击：逆火
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피 반격: 역화 · 회피반격:역화 · 역화 · Dodge Counter: Backdraft · Backdraft · 回避反撃：逆火 · 逆火 · 闪避反击：逆火
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -198,7 +204,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특수 스킬: 맹렬한 불꽃 | Special Attack: Raging Fire | 特殊スキル：烈火 | 特殊技：烈火 |
+| 특수 스킬: 맹렬한 불꽃 [공식 / Official / 正式 / 官方] | Special Attack: Raging Fire [공식 / Official / 正式 / 官方] | 特殊スキル：烈火 [공식 / Official / 正式 / 官方] | 特殊技：烈火 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -217,7 +223,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:special:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특수 스킬: 맹렬한 불꽃 · 특수스킬:맹렬한불꽃 · 맹렬한 불꽃 · 맹렬한불꽃 · Special Attack: Raging Fire · Raging Fire · 特殊スキル：烈火 · 烈火 · 特殊技：烈火 · Spezialangriff: Wütendes Feuer · Wütendes Feuer · Attaque spéciale : Feu ardent · Feu ardent · Técnica especial: Fuego feroz · Fuego feroz · Ataque Especial: Fogo Ardente · Fogo Ardente · Особая атака: Яростное пламя · Яростное пламя · สกิลพิเศษ: Raging Fire · Chiến Kỹ: Lửa Mạnh · Lửa Mạnh
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특수 스킬: 맹렬한 불꽃 · 특수스킬:맹렬한불꽃 · 맹렬한 불꽃 · 맹렬한불꽃 · Special Attack: Raging Fire · Raging Fire · 特殊スキル：烈火 · 烈火 · 特殊技：烈火 · Spezialangriff: Wütendes Feuer · Wütendes Feuer · Attaque spéciale : Feu ardent · Feu ardent · Técnica especial: Fuego feroz · Fuego feroz · Ataque Especial: Fogo Ardente · Fogo Ardente · Особая атака: Яростное пламя · Яростное пламя · สกิลพิเศษ: Raging Fire · Chiến Kỹ: Lửa Mạnh · Lửa Mạnh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -227,7 +234,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 강화 특수 스킬: 타오르는 맹렬한 불꽃 | EX Special Attack: Fervent Fire | 強化特殊スキル：燃え盛る烈火 | 强化特殊技：盛燃烈火 |
+| 강화 특수 스킬: 타오르는 맹렬한 불꽃 [공식 / Official / 正式 / 官方] | EX Special Attack: Fervent Fire [공식 / Official / 正式 / 官方] | 強化特殊スキル：燃え盛る烈火 [공식 / Official / 正式 / 官方] | 强化特殊技：盛燃烈火 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -246,7 +253,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:special:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 강화 특수 스킬: 타오르는 맹렬한 불꽃 · 강화특수스킬:타오르는맹렬한불꽃 · 타오르는 맹렬한 불꽃 · 타오르는맹렬한불꽃 · EX Special Attack: Fervent Fire · Fervent Fire · 強化特殊スキル：燃え盛る烈火 · 燃え盛る烈火 · 强化特殊技：盛燃烈火 · 盛燃烈火 · 強化特殊技：盛燃烈火 · Verstärkter Spezialangriff: Glühendes Feuer · Glühendes Feuer · Attaque spéciale EX : Feu dévastateur · Feu dévastateur · Técnica especial EX: Fuego implacable · Fuego implacable · Ataque Especial Reforçado: Fogo Implacável · Fogo Implacável · Усиленная особая атака: Буйное пламя · Буйное пламя · สกิลพิเศษ-EX: Fervent Fire · Siêu Chiến Kỹ: Ngọn Lửa Bùng Cháy · Ngọn Lửa Bùng Cháy
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화 특수 스킬: 타오르는 맹렬한 불꽃 · 강화특수스킬:타오르는맹렬한불꽃 · 타오르는 맹렬한 불꽃 · 타오르는맹렬한불꽃 · EX Special Attack: Fervent Fire · Fervent Fire · 強化特殊スキル：燃え盛る烈火 · 燃え盛る烈火 · 强化特殊技：盛燃烈火 · 盛燃烈火 · 強化特殊技：盛燃烈火 · Verstärkter Spezialangriff: Glühendes Feuer · Glühendes Feuer · Attaque spéciale EX : Feu dévastateur · Feu dévastateur · Técnica especial EX: Fuego implacable · Fuego implacable · Ataque Especial Reforçado: Fogo Implacável · Fogo Implacável · Усиленная особая атака: Буйное пламя · Буйное пламя · สกิลพิเศษ-EX: Fervent Fire · Siêu Chiến Kỹ: Ngọn Lửa Bùng Cháy · Ngọn Lửa Bùng Cháy
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -256,7 +264,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 강화 특수 스킬: 타오르는 맹렬한 불꽃 | EX Special Attack: Fervent Fire | 強化特殊スキル：燃え盛る烈火 | 强化特殊技：盛燃烈火 |
+| 강화 특수 스킬: 타오르는 맹렬한 불꽃 [공식 / Official / 正式 / 官方] | EX Special Attack: Fervent Fire [공식 / Official / 正式 / 官方] | 強化特殊スキル：燃え盛る烈火 [공식 / Official / 正式 / 官方] | 强化特殊技：盛燃烈火 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -275,7 +283,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:special:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 강화 특수 스킬: 타오르는 맹렬한 불꽃 · 강화특수스킬:타오르는맹렬한불꽃 · 타오르는 맹렬한 불꽃 · 타오르는맹렬한불꽃 · EX Special Attack: Fervent Fire · Fervent Fire · 強化特殊スキル：燃え盛る烈火 · 燃え盛る烈火 · 强化特殊技：盛燃烈火 · 盛燃烈火 · 強化特殊技：盛燃烈火 · Verstärkter Spezialangriff: Glühendes Feuer · Glühendes Feuer · Attaque spéciale EX : Feu dévastateur · Feu dévastateur · Técnica especial EX: Fuego implacable · Fuego implacable · Ataque Especial Reforçado: Fogo Implacável · Fogo Implacável · Усиленная особая атака: Буйное пламя · Буйное пламя · สกิลพิเศษ-EX: Fervent Fire · Siêu Chiến Kỹ: Ngọn Lửa Bùng Cháy · Ngọn Lửa Bùng Cháy
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화 특수 스킬: 타오르는 맹렬한 불꽃 · 강화특수스킬:타오르는맹렬한불꽃 · 타오르는 맹렬한 불꽃 · 타오르는맹렬한불꽃 · EX Special Attack: Fervent Fire · Fervent Fire · 強化特殊スキル：燃え盛る烈火 · 燃え盛る烈火 · 强化特殊技：盛燃烈火 · 盛燃烈火 · 強化特殊技：盛燃烈火 · Verstärkter Spezialangriff: Glühendes Feuer · Glühendes Feuer · Attaque spéciale EX : Feu dévastateur · Feu dévastateur · Técnica especial EX: Fuego implacable · Fuego implacable · Ataque Especial Reforçado: Fogo Implacável · Fogo Implacável · Усиленная особая атака: Буйное пламя · Буйное пламя · สกิลพิเศษ-EX: Fervent Fire · Siêu Chiến Kỹ: Ngọn Lửa Bùng Cháy · Ngọn Lửa Bùng Cháy
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -285,7 +294,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 콤보 스킬: 드높은 불꽃 | Chain Attack: Uplifting Flame | 連携スキル：滾る烈火 | 连携技：昂扬烈焰 |
+| 콤보 스킬: 드높은 불꽃 [공식 / Official / 正式 / 官方] | Chain Attack: Uplifting Flame [공식 / Official / 正式 / 官方] | 連携スキル：滾る烈火 [공식 / Official / 正式 / 官方] | 连携技：昂扬烈焰 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -304,7 +313,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:chain:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 콤보 스킬: 드높은 불꽃 · 콤보스킬:드높은불꽃 · 드높은 불꽃 · 드높은불꽃 · Chain Attack: Uplifting Flame · Uplifting Flame · 連携スキル：滾る烈火 · 滾る烈火 · 连携技：昂扬烈焰 · 昂扬烈焰 · 連攜技：昂揚烈焰 · 昂揚烈焰 · Kettenangriff: Muntere Flamme · Muntere Flamme · Enchaînement : Flamme édifiante · Flamme édifiante · Técnica en cadena: Fuego exaltado · Fuego exaltado · Ataque em Cadeia: Chamas Exaltadas · Chamas Exaltadas · Цепочка атак: Вздымающееся пламя · Вздымающееся пламя · สกิลต่อเนื่อง: Uplifting Flame · Liên Kích: Ngọn Lửa Thăng Hoa · Ngọn Lửa Thăng Hoa
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 콤보 스킬: 드높은 불꽃 · 콤보스킬:드높은불꽃 · 드높은 불꽃 · 드높은불꽃 · Chain Attack: Uplifting Flame · Uplifting Flame · 連携スキル：滾る烈火 · 滾る烈火 · 连携技：昂扬烈焰 · 昂扬烈焰 · 連攜技：昂揚烈焰 · 昂揚烈焰 · Kettenangriff: Muntere Flamme · Muntere Flamme · Enchaînement : Flamme édifiante · Flamme édifiante · Técnica en cadena: Fuego exaltado · Fuego exaltado · Ataque em Cadeia: Chamas Exaltadas · Chamas Exaltadas · Цепочка атак: Вздымающееся пламя · Вздымающееся пламя · สกิลต่อเนื่อง: Uplifting Flame · Liên Kích: Ngọn Lửa Thăng Hoa · Ngọn Lửa Thăng Hoa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -314,7 +324,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 콤보 스킬: 드높은 불꽃 | Chain Attack: Uplifting Flame | 連携スキル：滾る烈火 | 连携技：昂扬烈焰 |
+| 콤보 스킬: 드높은 불꽃 [공식 / Official / 正式 / 官方] | Chain Attack: Uplifting Flame [공식 / Official / 正式 / 官方] | 連携スキル：滾る烈火 [공식 / Official / 正式 / 官方] | 连携技：昂扬烈焰 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -333,7 +343,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:chain:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 콤보 스킬: 드높은 불꽃 · 콤보스킬:드높은불꽃 · 드높은 불꽃 · 드높은불꽃 · Chain Attack: Uplifting Flame · Uplifting Flame · 連携スキル：滾る烈火 · 滾る烈火 · 连携技：昂扬烈焰 · 昂扬烈焰 · 連攜技：昂揚烈焰 · 昂揚烈焰 · Kettenangriff: Muntere Flamme · Muntere Flamme · Enchaînement : Flamme édifiante · Flamme édifiante · Técnica en cadena: Fuego exaltado · Fuego exaltado · Ataque em Cadeia: Chamas Exaltadas · Chamas Exaltadas · Цепочка атак: Вздымающееся пламя · Вздымающееся пламя · สกิลต่อเนื่อง: Uplifting Flame · Liên Kích: Ngọn Lửa Thăng Hoa · Ngọn Lửa Thăng Hoa
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 콤보 스킬: 드높은 불꽃 · 콤보스킬:드높은불꽃 · 드높은 불꽃 · 드높은불꽃 · Chain Attack: Uplifting Flame · Uplifting Flame · 連携スキル：滾る烈火 · 滾る烈火 · 连携技：昂扬烈焰 · 昂扬烈焰 · 連攜技：昂揚烈焰 · 昂揚烈焰 · Kettenangriff: Muntere Flamme · Muntere Flamme · Enchaînement : Flamme édifiante · Flamme édifiante · Técnica en cadena: Fuego exaltado · Fuego exaltado · Ataque em Cadeia: Chamas Exaltadas · Chamas Exaltadas · Цепочка атак: Вздымающееся пламя · Вздымающееся пламя · สกิลต่อเนื่อง: Uplifting Flame · Liên Kích: Ngọn Lửa Thăng Hoa · Ngọn Lửa Thăng Hoa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -343,7 +354,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 궁극기: 터지는 불꽃 | Ultimate: Bellowing Flame | 終結スキル：轟く烈火 | 终结技：轰鸣烈焰 |
+| 궁극기: 터지는 불꽃 [공식 / Official / 正式 / 官方] | Ultimate: Bellowing Flame [공식 / Official / 正式 / 官方] | 終結スキル：轟く烈火 [공식 / Official / 正式 / 官方] | 终结技：轰鸣烈焰 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -362,7 +373,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:chain:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 궁극기: 터지는 불꽃 · 궁극기:터지는불꽃 · 터지는 불꽃 · 터지는불꽃 · Ultimate: Bellowing Flame · Bellowing Flame · 終結スキル：轟く烈火 · 轟く烈火 · 终结技：轰鸣烈焰 · 轰鸣烈焰 · 終結技：轟鳴烈焰 · 轟鳴烈焰 · Ultimate: Brüllende Flamme · Brüllende Flamme · Ultime : Flamme hurlante · Flamme hurlante · Técnica definitiva: Rugido de fuego · Rugido de fuego · Supremo: Rugido das Chamas · Rugido das Chamas · Суперспособность: Ревущее пламя · Ревущее пламя · สกิลอัลติเมท: Bellowing Flame · Tuyệt Kỹ: Ngọn Lửa Nổ Vang · Ngọn Lửa Nổ Vang
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 궁극기: 터지는 불꽃 · 궁극기:터지는불꽃 · 터지는 불꽃 · 터지는불꽃 · Ultimate: Bellowing Flame · Bellowing Flame · 終結スキル：轟く烈火 · 轟く烈火 · 终结技：轰鸣烈焰 · 轰鸣烈焰 · 終結技：轟鳴烈焰 · 轟鳴烈焰 · Ultimate: Brüllende Flamme · Brüllende Flamme · Ultime : Flamme hurlante · Flamme hurlante · Técnica definitiva: Rugido de fuego · Rugido de fuego · Supremo: Rugido das Chamas · Rugido das Chamas · Суперспособность: Ревущее пламя · Ревущее пламя · สกิลอัลติเมท: Bellowing Flame · Tuyệt Kỹ: Ngọn Lửa Nổ Vang · Ngọn Lửa Nổ Vang
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -372,7 +384,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 궁극기: 터지는 불꽃 | Ultimate: Bellowing Flame | 終結スキル：轟く烈火 | 终结技：轰鸣烈焰 |
+| 궁극기: 터지는 불꽃 [공식 / Official / 正式 / 官方] | Ultimate: Bellowing Flame [공식 / Official / 正式 / 官方] | 終結スキル：轟く烈火 [공식 / Official / 正式 / 官方] | 终结技：轰鸣烈焰 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -391,7 +403,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:chain:3 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 궁극기: 터지는 불꽃 · 궁극기:터지는불꽃 · 터지는 불꽃 · 터지는불꽃 · Ultimate: Bellowing Flame · Bellowing Flame · 終結スキル：轟く烈火 · 轟く烈火 · 终结技：轰鸣烈焰 · 轰鸣烈焰 · 終結技：轟鳴烈焰 · 轟鳴烈焰 · Ultimate: Brüllende Flamme · Brüllende Flamme · Ultime : Flamme hurlante · Flamme hurlante · Técnica definitiva: Rugido de fuego · Rugido de fuego · Supremo: Rugido das Chamas · Rugido das Chamas · Суперспособность: Ревущее пламя · Ревущее пламя · สกิลอัลติเมท: Bellowing Flame · Tuyệt Kỹ: Ngọn Lửa Nổ Vang · Ngọn Lửa Nổ Vang
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 궁극기: 터지는 불꽃 · 궁극기:터지는불꽃 · 터지는 불꽃 · 터지는불꽃 · Ultimate: Bellowing Flame · Bellowing Flame · 終結スキル：轟く烈火 · 轟く烈火 · 终结技：轰鸣烈焰 · 轰鸣烈焰 · 終結技：轟鳴烈焰 · 轟鳴烈焰 · Ultimate: Brüllende Flamme · Brüllende Flamme · Ultime : Flamme hurlante · Flamme hurlante · Técnica definitiva: Rugido de fuego · Rugido de fuego · Supremo: Rugido das Chamas · Rugido das Chamas · Суперспособность: Ревущее пламя · Ревущее пламя · สกิลอัลติเมท: Bellowing Flame · Tuyệt Kỹ: Ngọn Lửa Nổ Vang · Ngọn Lửa Nổ Vang
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -401,7 +414,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 빠른 지원: 화력 엄호 | Quick Assist: Covering Fire | クイック支援：火力支援 | 快速支援：火力掩护 |
+| 빠른 지원: 화력 엄호 [공식 / Official / 正式 / 官方] | Quick Assist: Covering Fire [공식 / Official / 正式 / 官方] | クイック支援：火力支援 [공식 / Official / 正式 / 官方] | 快速支援：火力掩护 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -420,7 +433,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:assist:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 빠른 지원: 화력 엄호 · 빠른지원:화력엄호 · 화력 엄호 · 화력엄호 · Quick Assist: Covering Fire · Covering Fire · クイック支援：火力支援 · 火力支援 · 快速支援：火力掩护 · 火力掩护 · 快速支援：火力掩護 · 火力掩護 · Schnelle Hilfe: Feuerschutz · Feuerschutz · Soutien rapide : Feu de couverture · Feu de couverture · Apoyo rápido: Fuego protector · Fuego protector · Assistência Reativa: Fogo Protetor · Fogo Protetor · Быстрая помощь: Огневое прикрытие · Огневое прикрытие · ซัปพอร์ตอย่างรวดเร็ว: Covering Fire · Hỗ Trợ Nhanh: Hỏa Lực Yểm Trợ · Hỏa Lực Yểm Trợ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빠른 지원: 화력 엄호 · 빠른지원:화력엄호 · 화력 엄호 · 화력엄호 · Quick Assist: Covering Fire · Covering Fire · クイック支援：火力支援 · 火力支援 · 快速支援：火力掩护 · 火力掩护 · 快速支援：火力掩護 · 火力掩護 · Schnelle Hilfe: Feuerschutz · Feuerschutz · Soutien rapide : Feu de couverture · Feu de couverture · Apoyo rápido: Fuego protector · Fuego protector · Assistência Reativa: Fogo Protetor · Fogo Protetor · Быстрая помощь: Огневое прикрытие · Огневое прикрытие · ซัปพอร์ตอย่างรวดเร็ว: Covering Fire · Hỗ Trợ Nhanh: Hỏa Lực Yểm Trợ · Hỏa Lực Yểm Trợ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -430,7 +444,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 패링 지원: 방어선 다지기 | Defensive Assist: Hold the Line | パリィ支援：防衛ライン強化 | 招架支援：巩固防线 |
+| 패링 지원: 방어선 다지기 [공식 / Official / 正式 / 官方] | Defensive Assist: Hold the Line [공식 / Official / 正式 / 官方] | パリィ支援：防衛ライン強化 [공식 / Official / 正式 / 官方] | 招架支援：巩固防线 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -449,7 +463,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:assist:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 패링 지원: 방어선 다지기 · 패링지원:방어선다지기 · 방어선 다지기 · 방어선다지기 · Defensive Assist: Hold the Line · Hold the Line · パリィ支援：防衛ライン強化 · 防衛ライン強化 · 招架支援：巩固防线 · 巩固防线 · 招架支援：鞏固防線 · 鞏固防線 · Defensivhilfe: Stellung halten · Stellung halten · Soutien défensif : Tenir la position · Tenir la position · Apoyo defensivo: Perímetro defensivo · Perímetro defensivo · Assistência Defensiva: Integridade Defensiva · Integridade Defensiva · Помощь в защите: Держать строй · Держать строй · ซัปพอร์ตตั้งรับ: Hold the Line · Hỗ Trợ Chống Đỡ: Củng Cố Phòng Tuyến · Củng Cố Phòng Tuyến
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 패링 지원: 방어선 다지기 · 패링지원:방어선다지기 · 방어선 다지기 · 방어선다지기 · Defensive Assist: Hold the Line · Hold the Line · パリィ支援：防衛ライン強化 · 防衛ライン強化 · 招架支援：巩固防线 · 巩固防线 · 招架支援：鞏固防線 · 鞏固防線 · Defensivhilfe: Stellung halten · Stellung halten · Soutien défensif : Tenir la position · Tenir la position · Apoyo defensivo: Perímetro defensivo · Perímetro defensivo · Assistência Defensiva: Integridade Defensiva · Integridade Defensiva · Помощь в защите: Держать строй · Держать строй · ซัปพอร์ตตั้งรับ: Hold the Line · Hỗ Trợ Chống Đỡ: Củng Cố Phòng Tuyến · Củng Cố Phòng Tuyến
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -459,7 +474,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 지원 돌격: 재점화 | Assist Follow-Up: Reignition | 支援突撃：再燃 | 支援突击：重燃 |
+| 지원 돌격: 재점화 [공식 / Official / 正式 / 官方] | Assist Follow-Up: Reignition [공식 / Official / 正式 / 官方] | 支援突撃：再燃 [공식 / Official / 正式 / 官方] | 支援突击：重燃 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -478,7 +493,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1041:assist:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 지원 돌격: 재점화 · 지원돌격:재점화 · 재점화 · Assist Follow-Up: Reignition · Reignition · 支援突撃：再燃 · 再燃 · 支援突击：重燃 · 重燃 · 支援突擊：重燃 · Sukzessive Hilfe: Neuentzündung · Neuentzündung · Soutien de suivi : Rallumage · Rallumage · Ataque sucesivo: Combustión recurrente · Combustión recurrente · Assistência Imediata: Reignição · Reignição · Помощь в дополнительной атаке: Повторное воспламенение · Повторное воспламенение · ซัปพอร์ตจู่โจม: Reignition · Đột Kích Chi Viện: Bùng Cháy · Bùng Cháy
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 지원 돌격: 재점화 · 지원돌격:재점화 · 재점화 · Assist Follow-Up: Reignition · Reignition · 支援突撃：再燃 · 再燃 · 支援突击：重燃 · 重燃 · 支援突擊：重燃 · Sukzessive Hilfe: Neuentzündung · Neuentzündung · Soutien de suivi : Rallumage · Rallumage · Ataque sucesivo: Combustión recurrente · Combustión recurrente · Assistência Imediata: Reignição · Reignição · Помощь в дополнительной атаке: Повторное воспламенение · Повторное воспламенение · ซัปพอร์ตจู่โจม: Reignition · Đột Kích Chi Viện: Bùng Cháy · Bùng Cháy
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -488,7 +504,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 핵심 패시브: 뜨거운 파도 | Core Passive: Heatwave | コアパッシブ：熱波 | 核心被动：热浪 |
+| 핵심 패시브: 뜨거운 파도 [공식 / Official / 正式 / 官方] | Core Passive: Heatwave [공식 / Official / 正式 / 官方] | コアパッシブ：熱波 [공식 / Official / 正式 / 官方] | 核心被动：热浪 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -507,7 +523,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: passive:1041:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 핵심 패시브: 뜨거운 파도 · 핵심패시브:뜨거운파도 · 뜨거운 파도 · 뜨거운파도 · Core Passive: Heatwave · Heatwave · コアパッシブ：熱波 · 熱波 · 核心被动：热浪 · 热浪 · 核心被動：熱浪 · 熱浪 · Passive Kernfähigkeit: Hitzewelle · Hitzewelle · Passif principal : Vague de chaleur · Vague de chaleur · Técnica pasiva: Onda de calor · Onda de calor · Passiva Principal: Onda de Calor · Onda de Calor · Основной пассивный навык: Тепловая волна · Тепловая волна · พาสซีฟหลัก: Heatwave · Bị Động Cốt Lõi: Sóng Nhiệt · Sóng Nhiệt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 핵심 패시브: 뜨거운 파도 · 핵심패시브:뜨거운파도 · 뜨거운 파도 · 뜨거운파도 · Core Passive: Heatwave · Heatwave · コアパッシブ：熱波 · 熱波 · 核心被动：热浪 · 热浪 · 核心被動：熱浪 · 熱浪 · Passive Kernfähigkeit: Hitzewelle · Hitzewelle · Passif principal : Vague de chaleur · Vague de chaleur · Técnica pasiva: Onda de calor · Onda de calor · Passiva Principal: Onda de Calor · Onda de Calor · Основной пассивный навык: Тепловая волна · Тепловая волна · พาสซีฟหลัก: Heatwave · Bị Động Cốt Lõi: Sóng Nhiệt · Sóng Nhiệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -517,7 +534,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 추가 능력: 불타는 벌판 | Additional Ability: Fields of Fire | 追加能力：燎原 | 额外能力：燎原 |
+| 추가 능력: 불타는 벌판 [공식 / Official / 正式 / 官方] | Additional Ability: Fields of Fire [공식 / Official / 正式 / 官方] | 追加能力：燎原 [공식 / Official / 正式 / 官方] | 额外能力：燎原 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -536,7 +553,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: passive:1041:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 추가 능력: 불타는 벌판 · 추가능력:불타는벌판 · 불타는 벌판 · 불타는벌판 · Additional Ability: Fields of Fire · Fields of Fire · 追加能力：燎原 · 燎原 · 额外能力：燎原 · 額外能力：燎原 · Zusatzfähigkeit: Feuerfelder · Feuerfelder · Capacité supplémentaire : Terre brûlée · Terre brûlée · Técnica adicional: Llano en llamas · Llano en llamas · Habilidade Extra: Campos em Chamas · Campos em Chamas · Дополнительная способность: Пламя пожара · Пламя пожара · ความสามารถเพิ่มเติม: Fields of Fire · Năng Lực Thêm: Cháy Lan · Cháy Lan
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 추가 능력: 불타는 벌판 · 추가능력:불타는벌판 · 불타는 벌판 · 불타는벌판 · Additional Ability: Fields of Fire · Fields of Fire · 追加能力：燎原 · 燎原 · 额外能力：燎原 · 額外能力：燎原 · Zusatzfähigkeit: Feuerfelder · Feuerfelder · Capacité supplémentaire : Terre brûlée · Terre brûlée · Técnica adicional: Llano en llamas · Llano en llamas · Habilidade Extra: Campos em Chamas · Campos em Chamas · Дополнительная способность: Пламя пожара · Пламя пожара · ความสามารถเพิ่มเติม: Fields of Fire · Năng Lực Thêm: Cháy Lan · Cháy Lan
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1041.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1041.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1041.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1041.json)
@@ -546,7 +564,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 일반 공격: 망연함을 깨부수는 침격 | Basic Attack: Crushing Strike | 通常攻撃：迷いを砕く重撃 | 普通攻击：碎惘沉击 |
+| 일반 공격: 망연함을 깨부수는 침격 [공식 / Official / 正式 / 官方] | Basic Attack: Crushing Strike [공식 / Official / 正式 / 官方] | 通常攻撃：迷いを砕く重撃 [공식 / Official / 正式 / 官方] | 普通攻击：碎惘沉击 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -565,7 +583,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:basic:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 일반 공격: 망연함을 깨부수는 침격 · 일반공격:망연함을깨부수는침격 · 망연함을 깨부수는 침격 · 망연함을깨부수는침격 · Basic Attack: Crushing Strike · Crushing Strike · 通常攻撃：迷いを砕く重撃 · 迷いを砕く重撃 · 普通攻击：碎惘沉击 · 碎惘沉击 · 普通攻擊：碎惘沉擊 · 碎惘沉擊 · Basisangriff: Zermalmender Schlag · Zermalmender Schlag · Attaque normale : Frappe écrasante · Frappe écrasante · Ataque normal: Impacto demoledor · Impacto demoledor · Ataque Básico: Esmagador de Ilusões · Esmagador de Ilusões · Базовая атака: Сокрушающий удар · Сокрушающий удар · โจมตีปกติ: Crushing Strike · Tấn Công Thường: Trầm Kích Nát Tan · Trầm Kích Nát Tan
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 망연함을 깨부수는 침격 · 일반공격:망연함을깨부수는침격 · 망연함을 깨부수는 침격 · 망연함을깨부수는침격 · Basic Attack: Crushing Strike · Crushing Strike · 通常攻撃：迷いを砕く重撃 · 迷いを砕く重撃 · 普通攻击：碎惘沉击 · 碎惘沉击 · 普通攻擊：碎惘沉擊 · 碎惘沉擊 · Basisangriff: Zermalmender Schlag · Zermalmender Schlag · Attaque normale : Frappe écrasante · Frappe écrasante · Ataque normal: Impacto demoledor · Impacto demoledor · Ataque Básico: Esmagador de Ilusões · Esmagador de Ilusões · Базовая атака: Сокрушающий удар · Сокрушающий удар · โจมตีปกติ: Crushing Strike · Tấn Công Thường: Trầm Kích Nát Tan · Trầm Kích Nát Tan
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -575,7 +594,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 일반 공격: 서릿발의 포옹 | Basic Attack: Frostbite Embrace | 通常攻撃：霜寒の抱擁 | 普通攻击：霜寒拥覆 |
+| 일반 공격: 서릿발의 포옹 [공식 / Official / 正式 / 官方] | Basic Attack: Frostbite Embrace [공식 / Official / 正式 / 官方] | 通常攻撃：霜寒の抱擁 [공식 / Official / 正式 / 官方] | 普通攻击：霜寒拥覆 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -594,7 +613,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:basic:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 일반 공격: 서릿발의 포옹 · 일반공격:서릿발의포옹 · 서릿발의 포옹 · 서릿발의포옹 · Basic Attack: Frostbite Embrace · Frostbite Embrace · 通常攻撃：霜寒の抱擁 · 霜寒の抱擁 · 普通攻击：霜寒拥覆 · 霜寒拥覆 · 普通攻擊：霜寒擁覆 · 霜寒擁覆 · Basisangriff: Frostige Umarmung · Frostige Umarmung · Attaque normale : Étreinte du givre · Étreinte du givre · Ataque normal: Abrazo gélido · Abrazo gélido · Ataque Básico: Abraço da Geladura · Abraço da Geladura · Базовая атака: Морозные объятия · Морозные объятия · โจมตีปกติ: Frostbite Embrace · Tấn Công Thường: Hàn Sương Bao Phủ · Hàn Sương Bao Phủ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 서릿발의 포옹 · 일반공격:서릿발의포옹 · 서릿발의 포옹 · 서릿발의포옹 · Basic Attack: Frostbite Embrace · Frostbite Embrace · 通常攻撃：霜寒の抱擁 · 霜寒の抱擁 · 普通攻击：霜寒拥覆 · 霜寒拥覆 · 普通攻擊：霜寒擁覆 · 霜寒擁覆 · Basisangriff: Frostige Umarmung · Frostige Umarmung · Attaque normale : Étreinte du givre · Étreinte du givre · Ataque normal: Abrazo gélido · Abrazo gélido · Ataque Básico: Abraço da Geladura · Abraço da Geladura · Базовая атака: Морозные объятия · Морозные объятия · โจมตีปกติ: Frostbite Embrace · Tấn Công Thường: Hàn Sương Bao Phủ · Hàn Sương Bao Phủ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -604,7 +624,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 짓누르는 서리 | Frost's Crushing Weight | 霜結の束縛 | 霜凝千钧 |
+| 짓누르는 서리 [공식 / Official / 正式 / 官方] | Frost's Crushing Weight [공식 / Official / 正式 / 官方] | 霜結の束縛 [공식 / Official / 正式 / 官方] | 霜凝千钧 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -623,7 +643,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:basic:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 짓누르는 서리 · 짓누르는서리 · Frost's Crushing Weight · 霜結の束縛 · 霜凝千钧 · 霜凝千鈞 · Erdrückende Kälte · Pesanteur écrasante du givre · Peso aplastante de la escarcha · Frio de Rachar · Морозная тяжесть · Sương Tụ Ngàn Cân
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 짓누르는 서리 · 짓누르는서리 · Frost's Crushing Weight · 霜結の束縛 · 霜凝千钧 · 霜凝千鈞 · Erdrückende Kälte · Pesanteur écrasante du givre · Peso aplastante de la escarcha · Frio de Rachar · Морозная тяжесть · Sương Tụ Ngàn Cân
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -633,7 +654,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피: 움직이는 꿈 | Dodge: Dreamshift | 回避：夢遊歩 | 闪避：迁梦 |
+| 회피: 움직이는 꿈 [공식 / Official / 正式 / 官方] | Dodge: Dreamshift [공식 / Official / 正式 / 官方] | 回避：夢遊歩 [공식 / Official / 正式 / 官方] | 闪避：迁梦 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -652,7 +673,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:dodge:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 회피: 움직이는 꿈 · 회피:움직이는꿈 · 움직이는 꿈 · 움직이는꿈 · Dodge: Dreamshift · Dreamshift · 回避：夢遊歩 · 夢遊歩 · 闪避：迁梦 · 迁梦
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피: 움직이는 꿈 · 회피:움직이는꿈 · 움직이는 꿈 · 움직이는꿈 · Dodge: Dreamshift · Dreamshift · 回避：夢遊歩 · 夢遊歩 · 闪避：迁梦 · 迁梦
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -662,7 +684,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 대시 공격: 요동치는 서릿발 | Dash Attack: Frostbloom Impact | ダッシュ攻撃：霜花疾駆 | 冲刺攻击：霜华突撼 |
+| 대시 공격: 요동치는 서릿발 [공식 / Official / 正式 / 官方] | Dash Attack: Frostbloom Impact [공식 / Official / 正式 / 官方] | ダッシュ攻撃：霜花疾駆 [공식 / Official / 正式 / 官方] | 冲刺攻击：霜华突撼 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -681,7 +703,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:dodge:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 대시 공격: 요동치는 서릿발 · 대시공격:요동치는서릿발 · 요동치는 서릿발 · 요동치는서릿발 · Dash Attack: Frostbloom Impact · Frostbloom Impact · ダッシュ攻撃：霜花疾駆 · 霜花疾駆 · 冲刺攻击：霜华突撼 · 霜华突撼
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 대시 공격: 요동치는 서릿발 · 대시공격:요동치는서릿발 · 요동치는 서릿발 · 요동치는서릿발 · Dash Attack: Frostbloom Impact · Frostbloom Impact · ダッシュ攻撃：霜花疾駆 · 霜花疾駆 · 冲刺攻击：霜华突撼 · 霜华突撼
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -691,7 +714,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피 반격: 얼음의 잔향 | Dodge Counter: Icehaul Reverb | 回避反撃：氷の残響 | 闪避反击：冰曳回震 |
+| 회피 반격: 얼음의 잔향 [공식 / Official / 正式 / 官方] | Dodge Counter: Icehaul Reverb [공식 / Official / 正式 / 官方] | 回避反撃：氷の残響 [공식 / Official / 正式 / 官方] | 闪避反击：冰曳回震 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -710,7 +733,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:dodge:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 회피 반격: 얼음의 잔향 · 회피반격:얼음의잔향 · 얼음의 잔향 · 얼음의잔향 · Dodge Counter: Icehaul Reverb · Icehaul Reverb · 回避反撃：氷の残響 · 氷の残響 · 闪避反击：冰曳回震 · 冰曳回震 · 閃避反擊：冰曳回震 · Ausweichkonter: Frostiges Nachbeben · Frostiges Nachbeben · Contre d'esquive : Réverbération glaciale · Réverbération glaciale · Contraataque: Reverberación glacial · Reverberación glacial · Contraesquiva: Rebote Congelante · Rebote Congelante · Контратака после уклонения: Ледовый резонанс · Ледовый резонанс · หลบหลีกสวนกลับ: Icehaul Reverb · Phản Kích Khi Né: Băng Giá Chấn Động · Băng Giá Chấn Động
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피 반격: 얼음의 잔향 · 회피반격:얼음의잔향 · 얼음의 잔향 · 얼음의잔향 · Dodge Counter: Icehaul Reverb · Icehaul Reverb · 回避反撃：氷の残響 · 氷の残響 · 闪避反击：冰曳回震 · 冰曳回震 · 閃避反擊：冰曳回震 · Ausweichkonter: Frostiges Nachbeben · Frostiges Nachbeben · Contre d'esquive : Réverbération glaciale · Réverbération glaciale · Contraataque: Reverberación glacial · Reverberación glacial · Contraesquiva: Rebote Congelante · Rebote Congelante · Контратака после уклонения: Ледовый резонанс · Ледовый резонанс · หลบหลีกสวนกลับ: Icehaul Reverb · Phản Kích Khi Né: Băng Giá Chấn Động · Băng Giá Chấn Động
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -720,7 +744,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특수 스킬: 단상 | Special Attack: Cease Thoughts | 特殊スキル：断想 | 特殊技：断想 |
+| 특수 스킬: 단상 [공식 / Official / 正式 / 官方] | Special Attack: Cease Thoughts [공식 / Official / 正式 / 官方] | 特殊スキル：断想 [공식 / Official / 正式 / 官方] | 特殊技：断想 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -739,7 +763,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:special:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특수 스킬: 단상 · 특수스킬:단상 · 단상 · Special Attack: Cease Thoughts · Cease Thoughts · 特殊スキル：断想 · 断想 · 特殊技：断想 · 特殊技：斷想 · 斷想 · Spezialangriff: Gedankenunterlass · Gedankenunterlass · Attaque spéciale : Pensées fragmentées · Pensées fragmentées · Técnica especial: Pensamientos fragmentados · Pensamientos fragmentados · Ataque Especial: Voltando da Lua · Voltando da Lua · Особая атака: Обрывки мыслей · Обрывки мыслей · สกิลพิเศษ: Cease Thoughts · Chiến Kỹ: Đoạn Tưởng · Đoạn Tưởng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특수 스킬: 단상 · 특수스킬:단상 · 단상 · Special Attack: Cease Thoughts · Cease Thoughts · 特殊スキル：断想 · 断想 · 特殊技：断想 · 特殊技：斷想 · 斷想 · Spezialangriff: Gedankenunterlass · Gedankenunterlass · Attaque spéciale : Pensées fragmentées · Pensées fragmentées · Técnica especial: Pensamientos fragmentados · Pensamientos fragmentados · Ataque Especial: Voltando da Lua · Voltando da Lua · Особая атака: Обрывки мыслей · Обрывки мыслей · สกิลพิเศษ: Cease Thoughts · Chiến Kỹ: Đoạn Tưởng · Đoạn Tưởng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -749,7 +774,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 강화 특수 스킬: 서리감기 | EX Special Attack: Frost Coil | 強化特殊スキル：氷霜 | 强化特殊技：缠霜 |
+| 강화 특수 스킬: 서리감기 [공식 / Official / 正式 / 官方] | EX Special Attack: Frost Coil [공식 / Official / 正式 / 官方] | 強化特殊スキル：氷霜 [공식 / Official / 正式 / 官方] | 强化特殊技：缠霜 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -768,7 +793,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:special:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 강화 특수 스킬: 서리감기 · 강화특수스킬:서리감기 · 서리감기 · EX Special Attack: Frost Coil · Frost Coil · 強化特殊スキル：氷霜 · 氷霜 · 强化特殊技：缠霜 · 缠霜 · 強化特殊技：纏霜 · 纏霜 · Verstärkter Spezialangriff: Frostspirale · Frostspirale · Attaque spéciale EX : Spirale de givre · Spirale de givre · Técnica especial EX: Espiral de escarcha · Espiral de escarcha · Ataque Especial Reforçado: Geada · Geada · Усиленная особая атака: Оковы инея · Оковы инея · สกิลพิเศษ-EX: Frost Coil · Siêu Chiến Kỹ: Sương Giăng · Sương Giăng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화 특수 스킬: 서리감기 · 강화특수스킬:서리감기 · 서리감기 · EX Special Attack: Frost Coil · Frost Coil · 強化特殊スキル：氷霜 · 氷霜 · 强化特殊技：缠霜 · 缠霜 · 強化特殊技：纏霜 · 纏霜 · Verstärkter Spezialangriff: Frostspirale · Frostspirale · Attaque spéciale EX : Spirale de givre · Spirale de givre · Técnica especial EX: Espiral de escarcha · Espiral de escarcha · Ataque Especial Reforçado: Geada · Geada · Усиленная особая атака: Оковы инея · Оковы инея · สกิลพิเศษ-EX: Frost Coil · Siêu Chiến Kỹ: Sương Giăng · Sương Giăng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -778,7 +804,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특수 스킬: 추격하는 한기 | Special Attack: Surging Cold, Crushing Pursuit | 特殊スキル：寒風・追砕 | 特殊技：溯寒追碾 |
+| 특수 스킬: 추격하는 한기 [공식 / Official / 正式 / 官方] | Special Attack: Surging Cold, Crushing Pursuit [공식 / Official / 正式 / 官方] | 特殊スキル：寒風・追砕 [공식 / Official / 正式 / 官方] | 特殊技：溯寒追碾 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -797,7 +823,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:special:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특수 스킬: 추격하는 한기 · 특수스킬:추격하는한기 · 추격하는 한기 · 추격하는한기 · Special Attack: Surging Cold, Crushing Pursuit · Surging Cold, Crushing Pursuit · 特殊スキル：寒風・追砕 · 寒風・追砕 · 特殊技：溯寒追碾 · 溯寒追碾
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특수 스킬: 추격하는 한기 · 특수스킬:추격하는한기 · 추격하는 한기 · 추격하는한기 · Special Attack: Surging Cold, Crushing Pursuit · Surging Cold, Crushing Pursuit · 特殊スキル：寒風・追砕 · 寒風・追砕 · 特殊技：溯寒追碾 · 溯寒追碾
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -807,7 +834,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 강화 특수 스킬: 극한의 중압 | EX Special Attack: Glacial Crush | 強化特殊スキル：極寒・重砕 | 强化特殊技：极寒重碾 |
+| 강화 특수 스킬: 극한의 중압 [공식 / Official / 正式 / 官方] | EX Special Attack: Glacial Crush [공식 / Official / 正式 / 官方] | 強化特殊スキル：極寒・重砕 [공식 / Official / 正式 / 官方] | 强化特殊技：极寒重碾 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -826,7 +853,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:special:3 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 강화 특수 스킬: 극한의 중압 · 강화특수스킬:극한의중압 · 극한의 중압 · 극한의중압 · EX Special Attack: Glacial Crush · Glacial Crush · 強化特殊スキル：極寒・重砕 · 極寒・重砕 · 强化特殊技：极寒重碾 · 极寒重碾
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화 특수 스킬: 극한의 중압 · 강화특수스킬:극한의중압 · 극한의 중압 · 극한의중압 · EX Special Attack: Glacial Crush · Glacial Crush · 強化特殊スキル：極寒・重砕 · 極寒・重砕 · 强化特殊技：极寒重碾 · 极寒重碾
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -836,7 +864,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 콤보 스킬: 한랭의 맹세 | Chain Attack: Frostbound Oath | 連携スキル：寒霜の誓約 | 连携技：踱寒践约 |
+| 콤보 스킬: 한랭의 맹세 [공식 / Official / 正式 / 官方] | Chain Attack: Frostbound Oath [공식 / Official / 正式 / 官方] | 連携スキル：寒霜の誓約 [공식 / Official / 正式 / 官方] | 连携技：踱寒践约 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -855,7 +883,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:chain:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 콤보 스킬: 한랭의 맹세 · 콤보스킬:한랭의맹세 · 한랭의 맹세 · 한랭의맹세 · Chain Attack: Frostbound Oath · Frostbound Oath · 連携スキル：寒霜の誓約 · 寒霜の誓約 · 连携技：踱寒践约 · 踱寒践约 · 連攜技：踱寒踐約 · 踱寒踐約 · Kettenangriff: Frostgebundener Eid · Frostgebundener Eid · Enchaînement : Serment gravé dans le givre · Serment gravé dans le givre · Técnica en cadena: Pacto sellado en la carama · Pacto sellado en la carama · Ataque em Cadeia: Pacto de Gelo · Pacto de Gelo · Цепочка атак: Морозная клятва · Морозная клятва · สกิลต่อเนื่อง: Frostbound Oath · Liên Kích: Lời Thề Giá Lạnh · Lời Thề Giá Lạnh
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 콤보 스킬: 한랭의 맹세 · 콤보스킬:한랭의맹세 · 한랭의 맹세 · 한랭의맹세 · Chain Attack: Frostbound Oath · Frostbound Oath · 連携スキル：寒霜の誓約 · 寒霜の誓約 · 连携技：踱寒践约 · 踱寒践约 · 連攜技：踱寒踐約 · 踱寒踐約 · Kettenangriff: Frostgebundener Eid · Frostgebundener Eid · Enchaînement : Serment gravé dans le givre · Serment gravé dans le givre · Técnica en cadena: Pacto sellado en la carama · Pacto sellado en la carama · Ataque em Cadeia: Pacto de Gelo · Pacto de Gelo · Цепочка атак: Морозная клятва · Морозная клятва · สกิลต่อเนื่อง: Frostbound Oath · Liên Kích: Lời Thề Giá Lạnh · Lời Thề Giá Lạnh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -865,7 +894,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 에테르 장막·용천 | Ether Veil: Wellspring | エーテルベール・湧泉 | 以太帷幕·涌泉 |
+| 에테르 장막·용천 [공식 / Official / 正式 / 官方] | Ether Veil: Wellspring [공식 / Official / 正式 / 官方] | エーテルベール・湧泉 [공식 / Official / 正式 / 官方] | 以太帷幕·涌泉 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -884,7 +913,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:chain:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 에테르 장막·용천 · 에테르장막·용천 · Ether Veil: Wellspring · Wellspring · エーテルベール・湧泉 · 以太帷幕·涌泉
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에테르 장막·용천 · 에테르장막·용천 · Ether Veil: Wellspring · Wellspring · エーテルベール・湧泉 · 以太帷幕·涌泉
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -894,7 +924,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 궁극기: 종막·망연한 꿈을 건너 | Ultimate: Final Act - Crossing the River of Regret | 終結スキル：終幕・儚き夢を渡って | 终结技：终幕·惘事渡却 |
+| 궁극기: 종막·망연한 꿈을 건너 [공식 / Official / 正式 / 官方] | Ultimate: Final Act - Crossing the River of Regret [공식 / Official / 正式 / 官方] | 終結スキル：終幕・儚き夢を渡って [공식 / Official / 正式 / 官方] | 终结技：终幕·惘事渡却 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -913,7 +943,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:chain:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 궁극기: 종막·망연한 꿈을 건너 · 궁극기:종막·망연한꿈을건너 · 종막·망연한 꿈을 건너 · 종막·망연한꿈을건너 · Ultimate: Final Act - Crossing the River of Regret · Final Act - Crossing the River of Regret · 終結スキル：終幕・儚き夢を渡って · 終幕・儚き夢を渡って · 终结技：终幕·惘事渡却 · 终幕·惘事渡却 · 終結技：終幕·惘事渡卻 · 終幕·惘事渡卻 · Ultimate: Letzter Akt – Überquerung des Flusses der Reue · Letzter Akt – Überquerung des Flusses der Reue · Ultime : Acte final - Traversée du fleuve des regrets · Acte final - Traversée du fleuve des regrets · Técnica definitiva: Acto final - Asengladura hacia el remordimiento · Acto final - Asengladura hacia el remordimiento · Supremo: Ato Final — Atravessando o Rio dos Arrependimentos · Ato Final — Atravessando o Rio dos Arrependimentos · Суперспособность: Эпилог — Преодоление забвения · Эпилог — Преодоление забвения · สกิลอัลติเมท: Final Act - Crossing the River of Regret · Tuyệt Kỹ: Hạ Màn - Vượt Qua Bối Rối · Hạ Màn - Vượt Qua Bối Rối
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 궁극기: 종막·망연한 꿈을 건너 · 궁극기:종막·망연한꿈을건너 · 종막·망연한 꿈을 건너 · 종막·망연한꿈을건너 · Ultimate: Final Act - Crossing the River of Regret · Final Act - Crossing the River of Regret · 終結スキル：終幕・儚き夢を渡って · 終幕・儚き夢を渡って · 终结技：终幕·惘事渡却 · 终幕·惘事渡却 · 終結技：終幕·惘事渡卻 · 終幕·惘事渡卻 · Ultimate: Letzter Akt – Überquerung des Flusses der Reue · Letzter Akt – Überquerung des Flusses der Reue · Ultime : Acte final - Traversée du fleuve des regrets · Acte final - Traversée du fleuve des regrets · Técnica definitiva: Acto final - Asengladura hacia el remordimiento · Acto final - Asengladura hacia el remordimiento · Supremo: Ato Final — Atravessando o Rio dos Arrependimentos · Ato Final — Atravessando o Rio dos Arrependimentos · Суперспособность: Эпилог — Преодоление забвения · Эпилог — Преодоление забвения · สกิลอัลติเมท: Final Act - Crossing the River of Regret · Tuyệt Kỹ: Hạ Màn - Vượt Qua Bối Rối · Hạ Màn - Vượt Qua Bối Rối
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -923,7 +954,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 빠른 지원: 서리를 뒤흔드는 돌격 | Quick Assist: Frostshock Reinforcement | クイック支援：降霜の援護 | 快速支援：撼霜驰援 |
+| 빠른 지원: 서리를 뒤흔드는 돌격 [공식 / Official / 正式 / 官方] | Quick Assist: Frostshock Reinforcement [공식 / Official / 正式 / 官方] | クイック支援：降霜の援護 [공식 / Official / 正式 / 官方] | 快速支援：撼霜驰援 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -942,7 +973,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:assist:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 빠른 지원: 서리를 뒤흔드는 돌격 · 빠른지원:서리를뒤흔드는돌격 · 서리를 뒤흔드는 돌격 · 서리를뒤흔드는돌격 · Quick Assist: Frostshock Reinforcement · Frostshock Reinforcement · クイック支援：降霜の援護 · 降霜の援護 · 快速支援：撼霜驰援 · 撼霜驰援 · 快速支援：撼霜馳援 · 撼霜馳援 · Schnelle Hilfe: Frostschock-Verstärkung · Frostschock-Verstärkung · Soutien rapide : Renfort de séisme de givre · Renfort de séisme de givre · Apoyo rápido: Refuerzo del seísmo algente · Refuerzo del seísmo algente · Assistência Reativa: Põe Gelo que Passa · Põe Gelo que Passa · Быстрая помощь: Шоковая заморозка · Шоковая заморозка · ซัปพอร์ตอย่างรวดเร็ว: Frostshock Reinforcement · Hỗ Trợ Nhanh: Chấn Sương Tốc Viện · Chấn Sương Tốc Viện
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빠른 지원: 서리를 뒤흔드는 돌격 · 빠른지원:서리를뒤흔드는돌격 · 서리를 뒤흔드는 돌격 · 서리를뒤흔드는돌격 · Quick Assist: Frostshock Reinforcement · Frostshock Reinforcement · クイック支援：降霜の援護 · 降霜の援護 · 快速支援：撼霜驰援 · 撼霜驰援 · 快速支援：撼霜馳援 · 撼霜馳援 · Schnelle Hilfe: Frostschock-Verstärkung · Frostschock-Verstärkung · Soutien rapide : Renfort de séisme de givre · Renfort de séisme de givre · Apoyo rápido: Refuerzo del seísmo algente · Refuerzo del seísmo algente · Assistência Reativa: Põe Gelo que Passa · Põe Gelo que Passa · Быстрая помощь: Шоковая заморозка · Шоковая заморозка · ซัปพอร์ตอย่างรวดเร็ว: Frostshock Reinforcement · Hỗ Trợ Nhanh: Chấn Sương Tốc Viện · Chấn Sương Tốc Viện
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -952,7 +984,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 패링 지원: 벼락 같은 방어 | Defensive Assist: Flashquake Rejection | パリィ支援：閃震の守り | 招架支援：闪震格拒 |
+| 패링 지원: 벼락 같은 방어 [공식 / Official / 正式 / 官方] | Defensive Assist: Flashquake Rejection [공식 / Official / 正式 / 官方] | パリィ支援：閃震の守り [공식 / Official / 正式 / 官方] | 招架支援：闪震格拒 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -971,7 +1003,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:assist:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 패링 지원: 벼락 같은 방어 · 패링지원:벼락같은방어 · 벼락 같은 방어 · 벼락같은방어 · Defensive Assist: Flashquake Rejection · Flashquake Rejection · パリィ支援：閃震の守り · 閃震の守り · 招架支援：闪震格拒 · 闪震格拒
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 패링 지원: 벼락 같은 방어 · 패링지원:벼락같은방어 · 벼락 같은 방어 · 벼락같은방어 · Defensive Assist: Flashquake Rejection · Flashquake Rejection · パリィ支援：閃震の守り · 閃震の守り · 招架支援：闪震格拒 · 闪震格拒
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -981,7 +1014,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 지원 돌격: 한기 서린 통격 | Assist Follow-Up: Glacial Onslaught | 支援突撃：氷襲の痛撃 | 支援突击：冰袭痛击 |
+| 지원 돌격: 한기 서린 통격 [공식 / Official / 正式 / 官方] | Assist Follow-Up: Glacial Onslaught [공식 / Official / 正式 / 官方] | 支援突撃：氷襲の痛撃 [공식 / Official / 正式 / 官方] | 支援突击：冰袭痛击 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1000,7 +1033,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1051:assist:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 지원 돌격: 한기 서린 통격 · 지원돌격:한기서린통격 · 한기 서린 통격 · 한기서린통격 · Assist Follow-Up: Glacial Onslaught · Glacial Onslaught · 支援突撃：氷襲の痛撃 · 氷襲の痛撃 · 支援突击：冰袭痛击 · 冰袭痛击 · 支援突擊：冰襲痛擊 · 冰襲痛擊 · Sukzessive Hilfe: Eisiger Ansturm · Eisiger Ansturm · Soutien de suivi : Déferlement glacial · Déferlement glacial · Ataque sucesivo: Arremetida glacial · Arremetida glacial · Assistência Imediata: Frio que Bate · Frio que Bate · Помощь в дополнительной атаке: Ледяной натиск · Ледяной натиск · ซัปพอร์ตจู่โจม: Glacial Onslaught · Đột Kích Chi Viện: Băng Giá Tập Kích · Băng Giá Tập Kích
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 지원 돌격: 한기 서린 통격 · 지원돌격:한기서린통격 · 한기 서린 통격 · 한기서린통격 · Assist Follow-Up: Glacial Onslaught · Glacial Onslaught · 支援突撃：氷襲の痛撃 · 氷襲の痛撃 · 支援突击：冰袭痛击 · 冰袭痛击 · 支援突擊：冰襲痛擊 · 冰襲痛擊 · Sukzessive Hilfe: Eisiger Ansturm · Eisiger Ansturm · Soutien de suivi : Déferlement glacial · Déferlement glacial · Ataque sucesivo: Arremetida glacial · Arremetida glacial · Assistência Imediata: Frio que Bate · Frio que Bate · Помощь в дополнительной атаке: Ледяной натиск · Ледяной натиск · ซัปพอร์ตจู่โจม: Glacial Onslaught · Đột Kích Chi Viện: Băng Giá Tập Kích · Băng Giá Tập Kích
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -1010,7 +1044,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 핵심 패시브: 꿈을 줍는 공상 | Core Passive: Dreamscape Collection | コアパッシブ：夢掬いの空想 | 核心被动：拾梦空想 |
+| 핵심 패시브: 꿈을 줍는 공상 [공식 / Official / 正式 / 官方] | Core Passive: Dreamscape Collection [공식 / Official / 正式 / 官方] | コアパッシブ：夢掬いの空想 [공식 / Official / 正式 / 官方] | 核心被动：拾梦空想 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1029,7 +1063,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: passive:1051:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 핵심 패시브: 꿈을 줍는 공상 · 핵심패시브:꿈을줍는공상 · 꿈을 줍는 공상 · 꿈을줍는공상 · Core Passive: Dreamscape Collection · Dreamscape Collection · コアパッシブ：夢掬いの空想 · 夢掬いの空想 · 核心被动：拾梦空想 · 拾梦空想 · 核心被動：拾夢空想 · 拾夢空想 · Passive Kernfähigkeit: Traumweltsammlung · Traumweltsammlung · Passif principal : Collectionneuse de rêves et de songes · Collectionneuse de rêves et de songes · Técnica pasiva: Colección de ensoñaciones · Colección de ensoñaciones · Passiva Principal: Devaneio dos Sonhos · Devaneio dos Sonhos · Основной пассивный навык: Коллекция сновидений · Коллекция сновидений · พาสซีฟหลัก: Dreamscape Collection · Bị Động Cốt Lõi: Góp Nhặt Giấc Mơ · Góp Nhặt Giấc Mơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 핵심 패시브: 꿈을 줍는 공상 · 핵심패시브:꿈을줍는공상 · 꿈을 줍는 공상 · 꿈을줍는공상 · Core Passive: Dreamscape Collection · Dreamscape Collection · コアパッシブ：夢掬いの空想 · 夢掬いの空想 · 核心被动：拾梦空想 · 拾梦空想 · 核心被動：拾夢空想 · 拾夢空想 · Passive Kernfähigkeit: Traumweltsammlung · Traumweltsammlung · Passif principal : Collectionneuse de rêves et de songes · Collectionneuse de rêves et de songes · Técnica pasiva: Colección de ensoñaciones · Colección de ensoñaciones · Passiva Principal: Devaneio dos Sonhos · Devaneio dos Sonhos · Основной пассивный навык: Коллекция сновидений · Коллекция сновидений · พาสซีฟหลัก: Dreamscape Collection · Bị Động Cốt Lõi: Góp Nhặt Giấc Mơ · Góp Nhặt Giấc Mơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -1039,7 +1074,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 추가 능력: 완성형 서사 | Additional Ability: Narrative Completion | 追加能力：完全なる物語 | 额外能力：完形叙事 |
+| 추가 능력: 완성형 서사 [공식 / Official / 正式 / 官方] | Additional Ability: Narrative Completion [공식 / Official / 正式 / 官方] | 追加能力：完全なる物語 [공식 / Official / 正式 / 官方] | 额外能力：完形叙事 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1058,7 +1093,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: passive:1051:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 추가 능력: 완성형 서사 · 추가능력:완성형서사 · 완성형 서사 · 완성형서사 · Additional Ability: Narrative Completion · Narrative Completion · 追加能力：完全なる物語 · 完全なる物語 · 额外能力：完形叙事 · 完形叙事 · 額外能力：完形敘事 · 完形敘事 · Zusatzfähigkeit: Erzählerischer Abschluss · Erzählerischer Abschluss · Capacité supplémentaire : Récit de formes · Récit de formes · Técnica adicional: Narrativa completa · Narrativa completa · Habilidade Extra: Conclusão da História · Conclusão da História · Дополнительная способность: Цельное повествование · Цельное повествование · ความสามารถเพิ่มเติม: Narrative Completion · Năng Lực Thêm: Câu Chuyện Hoàn Mỹ · Câu Chuyện Hoàn Mỹ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 추가 능력: 완성형 서사 · 추가능력:완성형서사 · 완성형 서사 · 완성형서사 · Additional Ability: Narrative Completion · Narrative Completion · 追加能力：完全なる物語 · 完全なる物語 · 额外能力：完形叙事 · 完形叙事 · 額外能力：完形敘事 · 完形敘事 · Zusatzfähigkeit: Erzählerischer Abschluss · Erzählerischer Abschluss · Capacité supplémentaire : Récit de formes · Récit de formes · Técnica adicional: Narrativa completa · Narrativa completa · Habilidade Extra: Conclusão da História · Conclusão da História · Дополнительная способность: Цельное повествование · Цельное повествование · ความสามารถเพิ่มเติม: Narrative Completion · Năng Lực Thêm: Câu Chuyện Hoàn Mỹ · Câu Chuyện Hoàn Mỹ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1051.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1051.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1051.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1051.json)
@@ -1068,7 +1104,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 일반 공격: 청소 시작 | Basic Attack: Wipeout | 通常攻撃：お掃除開始 | 普通攻击：扫除开始 |
+| 일반 공격: 청소 시작 [공식 / Official / 正式 / 官方] | Basic Attack: Wipeout [공식 / Official / 正式 / 官方] | 通常攻撃：お掃除開始 [공식 / Official / 正式 / 官方] | 普通攻击：扫除开始 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1087,7 +1123,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:basic:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 일반 공격: 청소 시작 · 일반공격:청소시작 · 청소 시작 · 청소시작 · Basic Attack: Wipeout · Wipeout · 通常攻撃：お掃除開始 · お掃除開始 · 普通攻击：扫除开始 · 扫除开始 · 普通攻擊：掃除開始 · 掃除開始 · Basisangriff: Reinemachen · Reinemachen · Attaque normale : Coup de balai · Coup de balai · Ataque normal: ¡A limpiar! · ¡A limpiar! · Ataque Básico: Limpeza Total · Limpeza Total · Базовая атака: Начало уборки · Начало уборки · โจมตีปกติ: Wipeout · Tấn Công Thường: Bắt Đầu Quét Dọn · Bắt Đầu Quét Dọn
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 청소 시작 · 일반공격:청소시작 · 청소 시작 · 청소시작 · Basic Attack: Wipeout · Wipeout · 通常攻撃：お掃除開始 · お掃除開始 · 普通攻击：扫除开始 · 扫除开始 · 普通攻擊：掃除開始 · 掃除開始 · Basisangriff: Reinemachen · Reinemachen · Attaque normale : Coup de balai · Coup de balai · Ataque normal: ¡A limpiar! · ¡A limpiar! · Ataque Básico: Limpeza Total · Limpeza Total · Базовая атака: Начало уборки · Начало уборки · โจมตีปกติ: Wipeout · Tấn Công Thường: Bắt Đầu Quét Dọn · Bắt Đầu Quét Dọn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1097,7 +1134,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피: \[벗어나기\] | Dodge: Shoo! | 回避：『離』 | 闪避：\[离\] |
+| 회피: \[벗어나기\] [공식 / Official / 正式 / 官方] | Dodge: Shoo! [공식 / Official / 正式 / 官方] | 回避：『離』 [공식 / Official / 正式 / 官方] | 闪避：\[离\] [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1116,7 +1153,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:dodge:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 회피: \[벗어나기\] · 회피:\[벗어나기\] · \[벗어나기\] · 벗어나기 · Dodge: Shoo! · Shoo! · 回避：『離』 · 『離』 · 闪避：\[离\] · \[离\] · 閃避：\[離\] · \[離\] · Ausweichen: Husch! · Husch! · Esquive : Ouste ! · Ouste ! · Evasión: ¡Fuera! · ¡Fuera! · Esquiva: Xô! · Xô! · Уклонение: Кыш! · Кыш! · หลบหลีก: Shoo! · Né: Tránh! · Tránh!
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피: \[벗어나기\] · 회피:\[벗어나기\] · \[벗어나기\] · 벗어나기 · Dodge: Shoo! · Shoo! · 回避：『離』 · 『離』 · 闪避：\[离\] · \[离\] · 閃避：\[離\] · \[離\] · Ausweichen: Husch! · Husch! · Esquive : Ouste ! · Ouste ! · Evasión: ¡Fuera! · ¡Fuera! · Esquiva: Xô! · Xô! · Уклонение: Кыш! · Кыш! · หลบหลีก: Shoo! · Né: Tránh! · Tránh!
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1126,7 +1164,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 대시 공격: \[끊기\] | Dash Attack: Oopsy-Daisy! | ダッシュ攻撃：『断』 | 冲刺攻击：\[断\] |
+| 대시 공격: \[끊기\] [공식 / Official / 正式 / 官方] | Dash Attack: Oopsy-Daisy! [공식 / Official / 正式 / 官方] | ダッシュ攻撃：『断』 [공식 / Official / 正式 / 官方] | 冲刺攻击：\[断\] [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1145,7 +1183,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:dodge:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 대시 공격: \[끊기\] · 대시공격:\[끊기\] · \[끊기\] · 끊기 · Dash Attack: Oopsy-Daisy! · Oopsy-Daisy! · ダッシュ攻撃：『断』 · 『断』 · 冲刺攻击：\[断\] · \[断\] · 衝刺攻擊：\[斷\] · \[斷\] · Sprintangriff: Hoppla! · Hoppla! · Attaque de bond : Oups ! · Oups ! · Ataque rápido: ¡Ups! · ¡Ups! · Ataque Rápido: Carambolas! · Carambolas! · Атака в рывке: Ой-ой! · Ой-ой! · พุ่งโจมตี: Oopsy-Daisy! · Tấn Công Lướt: Cắt Đứt! · Cắt Đứt!
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 대시 공격: \[끊기\] · 대시공격:\[끊기\] · \[끊기\] · 끊기 · Dash Attack: Oopsy-Daisy! · Oopsy-Daisy! · ダッシュ攻撃：『断』 · 『断』 · 冲刺攻击：\[断\] · \[断\] · 衝刺攻擊：\[斷\] · \[斷\] · Sprintangriff: Hoppla! · Hoppla! · Attaque de bond : Oups ! · Oups ! · Ataque rápido: ¡Ups! · ¡Ups! · Ataque Rápido: Carambolas! · Carambolas! · Атака в рывке: Ой-ой! · Ой-ой! · พุ่งโจมตี: Oopsy-Daisy! · Tấn Công Lướt: Cắt Đứt! · Cắt Đứt!
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1155,7 +1194,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피 반격: \[버리기\] | Dodge Counter: Nope! | 回避反撃：『捨』 | 闪避反击：\[舍\] |
+| 회피 반격: \[버리기\] [공식 / Official / 正式 / 官方] | Dodge Counter: Nope! [공식 / Official / 正式 / 官方] | 回避反撃：『捨』 [공식 / Official / 正式 / 官方] | 闪避反击：\[舍\] [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1174,7 +1213,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:dodge:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 회피 반격: \[버리기\] · 회피반격:\[버리기\] · \[버리기\] · 버리기 · Dodge Counter: Nope! · Nope! · 回避反撃：『捨』 · 『捨』 · 闪避反击：\[舍\] · \[舍\] · 閃避反擊：\[捨\] · \[捨\] · Ausweichkonter: Nein! · Nein! · Contre d'esquive : Et non ! · Et non ! · Contraataque: ¡Nop! · ¡Nop! · Contraesquiva: Não Vai Rolar! · Não Vai Rolar! · Контратака после уклонения: Нетушки! · Нетушки! · หลบหลีกสวนกลับ: Nope! · Phản Kích Khi Né: Bỏ! · Bỏ!
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피 반격: \[버리기\] · 회피반격:\[버리기\] · \[버리기\] · 버리기 · Dodge Counter: Nope! · Nope! · 回避反撃：『捨』 · 『捨』 · 闪避反击：\[舍\] · \[舍\] · 閃避反擊：\[捨\] · \[捨\] · Ausweichkonter: Nein! · Nein! · Contre d'esquive : Et non ! · Et non ! · Contraataque: ¡Nop! · ¡Nop! · Contraesquiva: Não Vai Rolar! · Não Vai Rolar! · Контратака после уклонения: Нетушки! · Нетушки! · หลบหลีกสวนกลับ: Nope! · Phản Kích Khi Né: Bỏ! · Bỏ!
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1184,7 +1224,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특수 스킬: 초강력 청소 | Special Attack: Clean Sweep | 特殊スキル：強力清掃 | 特殊技：强力清扫 |
+| 특수 스킬: 초강력 청소 [공식 / Official / 正式 / 官方] | Special Attack: Clean Sweep [공식 / Official / 正式 / 官方] | 特殊スキル：強力清掃 [공식 / Official / 正式 / 官方] | 特殊技：强力清扫 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1203,7 +1243,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:special:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특수 스킬: 초강력 청소 · 특수스킬:초강력청소 · 초강력 청소 · 초강력청소 · Special Attack: Clean Sweep · Clean Sweep · 特殊スキル：強力清掃 · 強力清掃 · 特殊技：强力清扫 · 强力清扫 · 特殊技：強力清掃 · Spezialangriff: Gründliche Reinigung · Gründliche Reinigung · Attaque spéciale : Nettoyage de printemps · Nettoyage de printemps · Técnica especial: Limpieza profunda · Limpieza profunda · Ataque Especial: Varredura Poderosa · Varredura Poderosa · Особая атака: Полная зачистка · Полная зачистка · สกิลพิเศษ: Clean Sweep · Chiến Kỹ: Tăng Cường Quét Sạch · Tăng Cường Quét Sạch
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특수 스킬: 초강력 청소 · 특수스킬:초강력청소 · 초강력 청소 · 초강력청소 · Special Attack: Clean Sweep · Clean Sweep · 特殊スキル：強力清掃 · 強力清掃 · 特殊技：强力清扫 · 强力清扫 · 特殊技：強力清掃 · Spezialangriff: Gründliche Reinigung · Gründliche Reinigung · Attaque spéciale : Nettoyage de printemps · Nettoyage de printemps · Técnica especial: Limpieza profunda · Limpieza profunda · Ataque Especial: Varredura Poderosa · Varredura Poderosa · Особая атака: Полная зачистка · Полная зачистка · สกิลพิเศษ: Clean Sweep · Chiến Kỹ: Tăng Cường Quét Sạch · Tăng Cường Quét Sạch
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1213,7 +1254,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 강화 특수 스킬: 치맛자락 조심하세요 | EX Special Attack: Skirt Alert | 強化特殊スキル：スカートの裾に注意 | 强化特殊技：小心裙角 |
+| 강화 특수 스킬: 치맛자락 조심하세요 [공식 / Official / 正式 / 官方] | EX Special Attack: Skirt Alert [공식 / Official / 正式 / 官方] | 強化特殊スキル：スカートの裾に注意 [공식 / Official / 正式 / 官方] | 强化特殊技：小心裙角 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1232,7 +1273,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:special:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 강화 특수 스킬: 치맛자락 조심하세요 · 강화특수스킬:치맛자락조심하세요 · 치맛자락 조심하세요 · 치맛자락조심하세요 · EX Special Attack: Skirt Alert · Skirt Alert · 強化特殊スキル：スカートの裾に注意 · スカートの裾に注意 · 强化特殊技：小心裙角 · 小心裙角 · 強化特殊技：小心裙擺 · 小心裙擺 · Verstärkter Spezialangriff: Vorsicht mit dem Rock · Vorsicht mit dem Rock · Attaque spéciale EX : Attention à la jupe · Attention à la jupe · Técnica especial EX: ¡Cuidado con la falda! · ¡Cuidado con la falda! · Ataque Especial Reforçado: Cuidado com a Saia · Cuidado com a Saia · Усиленная особая атака: Осторожно, юбка · Осторожно, юбка · สกิลพิเศษ-EX: Skirt Alert · Siêu Chiến Kỹ: Cẩn Thận Gấu Váy · Cẩn Thận Gấu Váy
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화 특수 스킬: 치맛자락 조심하세요 · 강화특수스킬:치맛자락조심하세요 · 치맛자락 조심하세요 · 치맛자락조심하세요 · EX Special Attack: Skirt Alert · Skirt Alert · 強化特殊スキル：スカートの裾に注意 · スカートの裾に注意 · 强化特殊技：小心裙角 · 小心裙角 · 強化特殊技：小心裙擺 · 小心裙擺 · Verstärkter Spezialangriff: Vorsicht mit dem Rock · Vorsicht mit dem Rock · Attaque spéciale EX : Attention à la jupe · Attention à la jupe · Técnica especial EX: ¡Cuidado con la falda! · ¡Cuidado con la falda! · Ataque Especial Reforçado: Cuidado com a Saia · Cuidado com a Saia · Усиленная особая атака: Осторожно, юбка · Осторожно, юбка · สกิลพิเศษ-EX: Skirt Alert · Siêu Chiến Kỹ: Cẩn Thận Gấu Váy · Cẩn Thận Gấu Váy
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1242,7 +1284,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 콤보 스킬: 죄송해요… | Chain Attack: Sorry... | 連携スキル：ごめんなさい… | 连携技：抱歉… |
+| 콤보 스킬: 죄송해요… [공식 / Official / 正式 / 官方] | Chain Attack: Sorry... [공식 / Official / 正式 / 官方] | 連携スキル：ごめんなさい… [공식 / Official / 正式 / 官方] | 连携技：抱歉… [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1261,7 +1303,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:chain:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 콤보 스킬: 죄송해요… · 콤보스킬:죄송해요… · 죄송해요… · Chain Attack: Sorry... · Sorry... · 連携スキル：ごめんなさい… · ごめんなさい… · 连携技：抱歉… · 抱歉… · 連攜技：抱歉…… · 抱歉…… · Kettenangriff: Tut mir leid ... · Tut mir leid ... · Enchaînement : Désolée... · Désolée... · Técnica en cadena: Lo siento... · Lo siento... · Ataque em Cadeia: Perdão... · Perdão... · Цепочка атак: Простите... · Простите... · สกิลต่อเนื่อง: Sorry... · Liên Kích: Xin Lỗi... · Xin Lỗi...
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 콤보 스킬: 죄송해요… · 콤보스킬:죄송해요… · 죄송해요… · Chain Attack: Sorry... · Sorry... · 連携スキル：ごめんなさい… · ごめんなさい… · 连携技：抱歉… · 抱歉… · 連攜技：抱歉…… · 抱歉…… · Kettenangriff: Tut mir leid ... · Tut mir leid ... · Enchaînement : Désolée... · Désolée... · Técnica en cadena: Lo siento... · Lo siento... · Ataque em Cadeia: Perdão... · Perdão... · Цепочка атак: Простите... · Простите... · สกิลต่อเนื่อง: Sorry... · Liên Kích: Xin Lỗi... · Xin Lỗi...
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1271,7 +1314,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 궁극기: 진, 진짜 죄송해요! | Ultimate: Very, Very Sorry! | 終結スキル：も、申し訳ございません！ | 终结技：非、非常抱歉！ |
+| 궁극기: 진, 진짜 죄송해요! [공식 / Official / 正式 / 官方] | Ultimate: Very, Very Sorry! [공식 / Official / 正式 / 官方] | 終結スキル：も、申し訳ございません！ [공식 / Official / 正式 / 官方] | 终结技：非、非常抱歉！ [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1290,7 +1333,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:chain:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 궁극기: 진, 진짜 죄송해요! · 궁극기:진,진짜죄송해요! · 진, 진짜 죄송해요! · 진,진짜죄송해요! · Ultimate: Very, Very Sorry! · Very, Very Sorry! · 終結スキル：も、申し訳ございません！ · も、申し訳ございません！ · 终结技：非、非常抱歉！ · 非、非常抱歉！ · 終結技：非、非常抱歉！ · Ultimate: Tut mir sehr leid! · Tut mir sehr leid! · Ultime : Je suis vraiment désolée ! · Je suis vraiment désolée ! · Técnica definitiva: ¡Lo siento mucho! · ¡Lo siento mucho! · Supremo: Mil Perdões! · Mil Perdões! · Суперспособность: Простите, извините! · Простите, извините! · สกิลอัลติเมท: Very, Very Sorry! · Tuyệt Kỹ: Rất Xin Lỗi! · Rất Xin Lỗi!
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 궁극기: 진, 진짜 죄송해요! · 궁극기:진,진짜죄송해요! · 진, 진짜 죄송해요! · 진,진짜죄송해요! · Ultimate: Very, Very Sorry! · Very, Very Sorry! · 終結スキル：も、申し訳ございません！ · も、申し訳ございません！ · 终结技：非、非常抱歉！ · 非、非常抱歉！ · 終結技：非、非常抱歉！ · Ultimate: Tut mir sehr leid! · Tut mir sehr leid! · Ultime : Je suis vraiment désolée ! · Je suis vraiment désolée ! · Técnica definitiva: ¡Lo siento mucho! · ¡Lo siento mucho! · Supremo: Mil Perdões! · Mil Perdões! · Суперспособность: Простите, извините! · Простите, извините! · สกิลอัลติเมท: Very, Very Sorry! · Tuyệt Kỹ: Rất Xin Lỗi! · Rất Xin Lỗi!
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1300,7 +1344,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 빠른 지원: 긴급 조치 | Quick Assist: Emergency Measures | クイック支援：応急処置 | 快速支援：应急措施 |
+| 빠른 지원: 긴급 조치 [공식 / Official / 正式 / 官方] | Quick Assist: Emergency Measures [공식 / Official / 正式 / 官方] | クイック支援：応急処置 [공식 / Official / 正式 / 官方] | 快速支援：应急措施 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1319,7 +1363,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:assist:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 빠른 지원: 긴급 조치 · 빠른지원:긴급조치 · 긴급 조치 · 긴급조치 · Quick Assist: Emergency Measures · Emergency Measures · クイック支援：応急処置 · 応急処置 · 快速支援：应急措施 · 应急措施 · 快速支援：應急措施 · 應急措施 · Schnelle Hilfe: Notfallmaßnahmen · Notfallmaßnahmen · Soutien rapide : Mesures d'urgence · Mesures d'urgence · Apoyo rápido: Medidas de emergencia · Medidas de emergencia · Assistência Reativa: Medidas de Emergência · Medidas de Emergência · Быстрая помощь: Срочные меры · Срочные меры · ซัปพอร์ตอย่างรวดเร็ว: Emergency Measures · Hỗ Trợ Nhanh: Biện Pháp Ứng Phó · Biện Pháp Ứng Phó
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빠른 지원: 긴급 조치 · 빠른지원:긴급조치 · 긴급 조치 · 긴급조치 · Quick Assist: Emergency Measures · Emergency Measures · クイック支援：応急処置 · 応急処置 · 快速支援：应急措施 · 应急措施 · 快速支援：應急措施 · 應急措施 · Schnelle Hilfe: Notfallmaßnahmen · Notfallmaßnahmen · Soutien rapide : Mesures d'urgence · Mesures d'urgence · Apoyo rápido: Medidas de emergencia · Medidas de emergencia · Assistência Reativa: Medidas de Emergência · Medidas de Emergência · Быстрая помощь: Срочные меры · Срочные меры · ซัปพอร์ตอย่างรวดเร็ว: Emergency Measures · Hỗ Trợ Nhanh: Biện Pháp Ứng Phó · Biện Pháp Ứng Phó
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1329,7 +1374,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 패링 지원: 제, 제가 할게요! | Defensive Assist: P—Please Allow Me! | パリィ支援：わ、私がやります！ | 招架支援：请、请让我来！ |
+| 패링 지원: 제, 제가 할게요! [공식 / Official / 正式 / 官方] | Defensive Assist: P—Please Allow Me! [공식 / Official / 正式 / 官方] | パリィ支援：わ、私がやります！ [공식 / Official / 正式 / 官方] | 招架支援：请、请让我来！ [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1348,7 +1393,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:assist:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 패링 지원: 제, 제가 할게요! · 패링지원:제,제가할게요! · 제, 제가 할게요! · 제,제가할게요! · Defensive Assist: P—Please Allow Me! · P—Please Allow Me! · パリィ支援：わ、私がやります！ · わ、私がやります！ · 招架支援：请、请让我来！ · 请、请让我来！ · 招架支援：請、請讓我來！ · 請、請讓我來！ · Defensivhilfe: Bitte überlass das mir! · Bitte überlass das mir! · Soutien défensif : L—Laissez-moi faire ! · L—Laissez-moi faire ! · Apoyo defensivo: ¡Y-yo lo hago! · ¡Y-yo lo hago! · Assistência Defensiva: P-Permita-me! · P-Permita-me! · Помощь в защите: Позвольте мне, пожалуйста! · Позвольте мне, пожалуйста! · ซัปพอร์ตตั้งรับ: P—Please allow me! · P—Please allow me! · Hỗ Trợ Chống Đỡ: Hãy... Hãy Để Tôi! · Hãy... Hãy Để Tôi!
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 패링 지원: 제, 제가 할게요! · 패링지원:제,제가할게요! · 제, 제가 할게요! · 제,제가할게요! · Defensive Assist: P—Please Allow Me! · P—Please Allow Me! · パリィ支援：わ、私がやります！ · わ、私がやります！ · 招架支援：请、请让我来！ · 请、请让我来！ · 招架支援：請、請讓我來！ · 請、請讓我來！ · Defensivhilfe: Bitte überlass das mir! · Bitte überlass das mir! · Soutien défensif : L—Laissez-moi faire ! · L—Laissez-moi faire ! · Apoyo defensivo: ¡Y-yo lo hago! · ¡Y-yo lo hago! · Assistência Defensiva: P-Permita-me! · P-Permita-me! · Помощь в защите: Позвольте мне, пожалуйста! · Позвольте мне, пожалуйста! · ซัปพอร์ตตั้งรับ: P—Please allow me! · P—Please allow me! · Hỗ Trợ Chống Đỡ: Hãy... Hãy Để Tôi! · Hãy... Hãy Để Tôi!
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1358,7 +1404,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 지원 돌격: 빠른 청소 | Assist Follow-Up: Quick Sweep | 支援突撃：テキパキお掃除 | 支援突击：快速清扫 |
+| 지원 돌격: 빠른 청소 [공식 / Official / 正式 / 官方] | Assist Follow-Up: Quick Sweep [공식 / Official / 正式 / 官方] | 支援突撃：テキパキお掃除 [공식 / Official / 正式 / 官方] | 支援突击：快速清扫 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1377,7 +1423,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1061:assist:2 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 지원 돌격: 빠른 청소 · 지원돌격:빠른청소 · 빠른 청소 · 빠른청소 · Assist Follow-Up: Quick Sweep · Quick Sweep · 支援突撃：テキパキお掃除 · テキパキお掃除 · 支援突击：快速清扫 · 快速清扫 · 支援突擊：快速清掃 · 快速清掃 · Sukzessive Hilfe: Schnelles Wischen · Schnelles Wischen · Soutien de suivi : Balayage rapide · Balayage rapide · Ataque sucesivo: Limpieza rápida · Limpieza rápida · Assistência Imediata: Limpeza Rápida · Limpeza Rápida · Помощь в дополнительной атаке: Уборка по-быстрому · Уборка по-быстрому · ซัปพอร์ตจู่โจม: Quick Sweep · Đột Kích Chi Viện: Dọn Dẹp Nhanh Chóng · Dọn Dẹp Nhanh Chóng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 지원 돌격: 빠른 청소 · 지원돌격:빠른청소 · 빠른 청소 · 빠른청소 · Assist Follow-Up: Quick Sweep · Quick Sweep · 支援突撃：テキパキお掃除 · テキパキお掃除 · 支援突击：快速清扫 · 快速清扫 · 支援突擊：快速清掃 · 快速清掃 · Sukzessive Hilfe: Schnelles Wischen · Schnelles Wischen · Soutien de suivi : Balayage rapide · Balayage rapide · Ataque sucesivo: Limpieza rápida · Limpieza rápida · Assistência Imediata: Limpeza Rápida · Limpeza Rápida · Помощь в дополнительной атаке: Уборка по-быстрому · Уборка по-быстрому · ซัปพอร์ตจู่โจม: Quick Sweep · Đột Kích Chi Viện: Dọn Dẹp Nhanh Chóng · Dọn Dẹp Nhanh Chóng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1387,7 +1434,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 핵심 패시브: 집중 | Core Passive: Hyperfocus | コアパッシブ：集中 | 核心被动：专注 |
+| 핵심 패시브: 집중 [공식 / Official / 正式 / 官方] | Core Passive: Hyperfocus [공식 / Official / 正式 / 官方] | コアパッシブ：集中 [공식 / Official / 正式 / 官方] | 核心被动：专注 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1406,7 +1453,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: passive:1061:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 핵심 패시브: 집중 · 핵심패시브:집중 · 집중 · Core Passive: Hyperfocus · Hyperfocus · コアパッシブ：集中 · 集中 · 核心被动：专注 · 专注 · 核心被動：專注 · 專注 · Passive Kernfähigkeit: Konzentration · Konzentration · Passif principal: Concentration · Concentration · Técnica pasiva: Concentración · Concentración · Passiva Principal: Hiperfoco · Hiperfoco · Основной пассивный навык: Гиперфокус · Гиперфокус · พาสซีฟหลัก: Hyperfocus · Bị Động Cốt Lõi: Tập Trung · Tập Trung
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 핵심 패시브: 집중 · 핵심패시브:집중 · 집중 · Core Passive: Hyperfocus · Hyperfocus · コアパッシブ：集中 · 集中 · 核心被动：专注 · 专注 · 核心被動：專注 · 專注 · Passive Kernfähigkeit: Konzentration · Konzentration · Passif principal: Concentration · Concentration · Técnica pasiva: Concentración · Concentración · Passiva Principal: Hiperfoco · Hiperfoco · Основной пассивный навык: Гиперфокус · Гиперфокус · พาสซีฟหลัก: Hyperfocus · Bị Động Cốt Lõi: Tập Trung · Tập Trung
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1416,7 +1464,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 추가 능력: 청소 도우미 | Additional Ability: Cleanup Assistance | 追加能力：お掃除ヘルパー | 额外能力：扫除帮手 |
+| 추가 능력: 청소 도우미 [공식 / Official / 正式 / 官方] | Additional Ability: Cleanup Assistance [공식 / Official / 正式 / 官方] | 追加能力：お掃除ヘルパー [공식 / Official / 正式 / 官方] | 额外能力：扫除帮手 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1435,7 +1483,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: passive:1061:1 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 추가 능력: 청소 도우미 · 추가능력:청소도우미 · 청소 도우미 · 청소도우미 · Additional Ability: Cleanup Assistance · Cleanup Assistance · 追加能力：お掃除ヘルパー · お掃除ヘルパー · 额外能力：扫除帮手 · 扫除帮手 · 額外能力：掃除幫手 · 掃除幫手 · Zusatzfähigkeit: Putzhilfe · Putzhilfe · Capacité supplémentaire : Aide-ménagère · Aide-ménagère · Técnica adicional: Apoyo de limpieza · Apoyo de limpieza · Habilidade Extra: Assistência de Limpeza · Assistência de Limpeza · Дополнительная способность: Помощь в уборке · Помощь в уборке · ความสามารถเพิ่มเติม: Cleanup Assistance · Năng Lực Thêm: Trợ Thủ Quét Dọn · Trợ Thủ Quét Dọn
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 추가 능력: 청소 도우미 · 추가능력:청소도우미 · 청소 도우미 · 청소도우미 · Additional Ability: Cleanup Assistance · Cleanup Assistance · 追加能力：お掃除ヘルパー · お掃除ヘルパー · 额外能力：扫除帮手 · 扫除帮手 · 額外能力：掃除幫手 · 掃除幫手 · Zusatzfähigkeit: Putzhilfe · Putzhilfe · Capacité supplémentaire : Aide-ménagère · Aide-ménagère · Técnica adicional: Apoyo de limpieza · Apoyo de limpieza · Habilidade Extra: Assistência de Limpeza · Assistência de Limpeza · Дополнительная способность: Помощь в уборке · Помощь в уборке · ความสามารถเพิ่มเติม: Cleanup Assistance · Năng Lực Thêm: Trợ Thủ Quét Dọn · Trợ Thủ Quét Dọn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1061.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1061.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1061.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1061.json)
@@ -1445,7 +1494,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 일반 공격: 광란의 타격 | Basic Attack: Rampaging Slash | 通常攻撃：ランペイジスラッシュ | 普通攻击：横行斩打 |
+| 일반 공격: 광란의 타격 [공식 / Official / 正式 / 官方] | Basic Attack: Rampaging Slash [공식 / Official / 正式 / 官方] | 通常攻撃：ランペイジスラッシュ [공식 / Official / 正式 / 官方] | 普通攻击：横行斩打 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1464,7 +1513,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: skill:1071:basic:0 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 일반 공격: 광란의 타격 · 일반공격:광란의타격 · 광란의 타격 · 광란의타격 · Basic Attack: Rampaging Slash · Rampaging Slash · 通常攻撃：ランペイジスラッシュ · ランペイジスラッシュ · 普通攻击：横行斩打 · 横行斩打 · 普通攻擊：橫行斬打 · 橫行斬打 · Basisangriff: Tobender Hieb · Tobender Hieb · Attaque normale : Taillade déchaînée · Taillade déchaînée · Ataque normal: Corte desaforado · Corte desaforado · Ataque Básico: Corte Desenfreado · Corte Desenfreado · Базовая атака: Неистовый удар · Неистовый удар · โจมตีปกติ: Rampaging Slash · Tấn Công Thường: Nhát Chém Ngang Tàng · Nhát Chém Ngang Tàng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 광란의 타격 · 일반공격:광란의타격 · 광란의 타격 · 광란의타격 · Basic Attack: Rampaging Slash · Rampaging Slash · 通常攻撃：ランペイジスラッシュ · ランペイジスラッシュ · 普通攻击：横行斩打 · 横行斩打 · 普通攻擊：橫行斬打 · 橫行斬打 · Basisangriff: Tobender Hieb · Tobender Hieb · Attaque normale : Taillade déchaînée · Taillade déchaînée · Ataque normal: Corte desaforado · Corte desaforado · Ataque Básico: Corte Desenfreado · Corte Desenfreado · Базовая атака: Неистовый удар · Неистовый удар · โจมตีปกติ: Rampaging Slash · Tấn Công Thường: Nhát Chém Ngang Tàng · Nhát Chém Ngang Tàng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1071.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1071.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1071.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1071.json)

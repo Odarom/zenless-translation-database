@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 펭귄부 | Penguinboo | ペンギンボンプ | 企鹅布 |
+| 펭귄부 [공식 / Official / 正式 / 官方] | Penguinboo [공식 / Official / 正式 / 官方] | ペンギンボンプ [공식 / Official / 正式 / 官方] | 企鹅布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53001 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 펭귄부 · Penguinboo · ペンギンボンプ · 企鹅布 · 企鵝布 · Pinguinboo · Pinguobou · Pingubú · Pinguimboo · Пингвибу · Boo Cánh Cụt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 펭귄부 · Penguinboo · ペンギンボンプ · 企鹅布 · 企鵝布 · Pinguinboo · Pinguobou · Pingubú · Pinguimboo · Пингвибу · Boo Cánh Cụt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -53,7 +54,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 럭키부 | Luckyboo | オマネキボンプ | 招财布 |
+| 럭키부 [공식 / Official / 正式 / 官方] | Luckyboo [공식 / Official / 正式 / 官方] | オマネキボンプ [공식 / Official / 正式 / 官方] | 招财布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -72,7 +73,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53002 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 럭키부 · Luckyboo · オマネキボンプ · 招财布
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 럭키부 · Luckyboo · オマネキボンプ · 招财布
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -82,7 +84,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 탐험부 | Exploreboo | タンケンボンプ | 寻宝布 |
+| 탐험부 [공식 / Official / 正式 / 官方] | Exploreboo [공식 / Official / 正式 / 官方] | タンケンボンプ [공식 / Official / 正式 / 官方] | 寻宝布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -101,7 +103,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53003 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 탐험부 · Exploreboo · タンケンボンプ · 寻宝布 · 尋寶布 · Entdeckerboo · Explorabou · Explorabú · Exploboo · Искатель · Boo Tầm Bảo
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 탐험부 · Exploreboo · タンケンボンプ · 寻宝布 · 尋寶布 · Entdeckerboo · Explorabou · Explorabú · Exploboo · Искатель · Boo Tầm Bảo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -111,7 +114,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 스모부 | Sumoboo | オスモウボンプ | 扑击布 |
+| 스모부 [공식 / Official / 正式 / 官方] | Sumoboo [공식 / Official / 正式 / 官方] | オスモウボンプ [공식 / Official / 正式 / 官方] | 扑击布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -130,7 +133,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53004 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 스모부 · Sumoboo · オスモウボンプ · 扑击布 · 撲擊布 · Sumobou · Sumobú · Sumôboo · Сумобу · Boo Sumo
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 스모부 · Sumoboo · オスモウボンプ · 扑击布 · 撲擊布 · Sumobou · Sumobú · Sumôboo · Сумобу · Boo Sumo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -140,7 +144,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 종이부 | Paperboo | ハコイリボンプ | 纸壳布 |
+| 종이부 [공식 / Official / 正式 / 官方] | Paperboo [공식 / Official / 正式 / 官方] | ハコイリボンプ [공식 / Official / 正式 / 官方] | 纸壳布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -159,7 +163,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53005 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 종이부 · Paperboo · ハコイリボンプ · 纸壳布 · 紙箱布 · Papierboo · Papierbou · Cartonbú · Papelboo · Бумабу · Boo Vỏ Giấy
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 종이부 · Paperboo · ハコイリボンプ · 纸壳布 · 紙箱布 · Papierboo · Papierbou · Cartonbú · Papelboo · Бумабу · Boo Vỏ Giấy
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -169,7 +174,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 봉투부 | Bagboo | フクロノボンプ | 纸袋布 |
+| 봉투부 [공식 / Official / 正式 / 官方] | Bagboo [공식 / Official / 正式 / 官方] | フクロノボンプ [공식 / Official / 正式 / 官方] | 纸袋布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -188,7 +193,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53006 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 봉투부 · Bagboo · フクロノボンプ · 纸袋布 · 紙袋布 · Tüteboo · Sac-cabou · Bolsabú · Mascaraboo · Пакетник · Boo Túi Giấy
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 봉투부 · Bagboo · フクロノボンプ · 纸袋布 · 紙袋布 · Tüteboo · Sac-cabou · Bolsabú · Mascaraboo · Пакетник · Boo Túi Giấy
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -198,7 +204,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 울보부 | Cryboo | ウルリンボンプ | 泪眼布 |
+| 울보부 [공식 / Official / 正式 / 官方] | Cryboo [공식 / Official / 正式 / 官方] | ウルリンボンプ [공식 / Official / 正式 / 官方] | 泪眼布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -217,7 +223,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53007 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 울보부 · Cryboo · ウルリンボンプ · 泪眼布 · 淚眼布 · Tränenboo · Lamentabou · Lloronbú · Choraboo · Плаксабу · Boo Khóc Nhè
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 울보부 · Cryboo · ウルリンボンプ · 泪眼布 · 淚眼布 · Tränenboo · Lamentabou · Lloronbú · Choraboo · Плаксабу · Boo Khóc Nhè
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -227,7 +234,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 아보카부 | Avocaboo | アボカドボンプ | 果核布 |
+| 아보카부 [공식 / Official / 正式 / 官方] | Avocaboo [공식 / Official / 正式 / 官方] | アボカドボンプ [공식 / Official / 正式 / 官方] | 果核布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -246,7 +253,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53008 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 아보카부 · Avocaboo · アボカドボンプ · 果核布 · Avocabou · Aguacabú · Abacaboo · Авокабу · Boo Hạt Bơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 아보카부 · Avocaboo · アボカドボンプ · 果核布 · Avocabou · Aguacabú · Abacaboo · Авокабу · Boo Hạt Bơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -256,7 +264,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 과녁부 | Boollseye | ズバットボンプ | 飞靶布 |
+| 과녁부 [공식 / Official / 正式 / 官方] | Boollseye [공식 / Official / 正式 / 官方] | ズバットボンプ [공식 / Official / 正式 / 官方] | 飞靶布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -275,7 +283,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53009 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 과녁부 · Boollseye · ズバットボンプ · 飞靶布 · 飛鏢布 · Zielscheiboo · Abou-Portant · Dianabú · Namiraboo · Яблочкобу · Boo Bia Bắn
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 과녁부 · Boollseye · ズバットボンプ · 飞靶布 · 飛鏢布 · Zielscheiboo · Abou-Portant · Dianabú · Namiraboo · Яблочкобу · Boo Bia Bắn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -285,7 +294,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 찌릿부 | Electroboo | ビリビリボンプ | 电击布 |
+| 찌릿부 [공식 / Official / 正式 / 官方] | Electroboo [공식 / Official / 正式 / 官方] | ビリビリボンプ [공식 / Official / 正式 / 官方] | 电击布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -304,7 +313,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53010 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 찌릿부 · Electroboo · ビリビリボンプ · 电击布 · 電擊布 · Elektroboo · Électrobou · Electrobú · Eletroboo · Электробу · Boo Điện Giật
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 찌릿부 · Electroboo · ビリビリボンプ · 电击布 · 電擊布 · Elektroboo · Électrobou · Electrobú · Eletroboo · Электробу · Boo Điện Giật
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -314,7 +324,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 자석부 | Magnetiboo | クッツキボンプ | 磁力布 |
+| 자석부 [공식 / Official / 正式 / 官方] | Magnetiboo [공식 / Official / 正式 / 官方] | クッツキボンプ [공식 / Official / 正式 / 官方] | 磁力布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -333,7 +343,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53011 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 자석부 · Magnetiboo · クッツキボンプ · 磁力布 · Magnetoboo · Magnétibou. · Magnebú · Магнитобу · Boo Từ Trường
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 자석부 · Magnetiboo · クッツキボンプ · 磁力布 · Magnetoboo · Magnétibou. · Magnebú · Магнитобу · Boo Từ Trường
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -343,7 +354,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 압력부 | Booressure | キアツデボンプ | 气压布 |
+| 압력부 [공식 / Official / 正式 / 官方] | Booressure [공식 / Official / 正式 / 官方] | キアツデボンプ [공식 / Official / 正式 / 官方] | 气压布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -362,7 +373,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53012 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 압력부 · Booressure · キアツデボンプ · 气压布 · 氣壓布 · Baroboo · Boupape · Valvulabú · Pressboo · Баробу · Boo Khí Nén
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 압력부 · Booressure · キアツデボンプ · 气压布 · 氣壓布 · Baroboo · Boupape · Valvulabú · Pressboo · Баробу · Boo Khí Nén
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -372,7 +384,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 불량부 | Baddieboo | カチコミボンプ | 不良布 |
+| 불량부 [공식 / Official / 正式 / 官方] | Baddieboo [공식 / Official / 正式 / 官方] | カチコミボンプ [공식 / Official / 正式 / 官方] | 不良布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -391,7 +403,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53013 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 불량부 · Baddieboo · カチコミボンプ · 不良布 · Böseboo · Voyoubou · Malotebú · Marrentoboo · Злобнобу · Boo Bất Lương
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 불량부 · Baddieboo · カチコミボンプ · 不良布 · Böseboo · Voyoubou · Malotebú · Marrentoboo · Злобнобу · Boo Bất Lương
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -401,7 +414,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 야근부 | Overtimeboo | サビザンボンプ | 加班布 |
+| 야근부 [공식 / Official / 正式 / 官方] | Overtimeboo [공식 / Official / 正式 / 官方] | サビザンボンプ [공식 / Official / 正式 / 官方] | 加班布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -420,7 +433,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53014 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 야근부 · Overtimeboo · サビザンボンプ · 加班布 · Überstundenboo · Trimabou · Currabú · Extraboo · Перерабу · Boo Tăng Ca
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 야근부 · Overtimeboo · サビザンボンプ · 加班布 · Überstundenboo · Trimabou · Currabú · Extraboo · Перерабу · Boo Tăng Ca
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -430,7 +444,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 격투부 | Brawlerboo | カクトウボンプ | 格斗布 |
+| 격투부 [공식 / Official / 正式 / 官方] | Brawlerboo [공식 / Official / 正式 / 官方] | カクトウボンプ [공식 / Official / 正式 / 官方] | 格斗布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -449,7 +463,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53015 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 격투부 · Brawlerboo · カクトウボンプ · 格斗布 · 格鬥布 · Rauferboo · Luttobou · Peleabú · Lutadorboo · Борьбу · Boo Đấu Sĩ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 격투부 · Brawlerboo · カクトウボンプ · 格斗布 · 格鬥布 · Rauferboo · Luttobou · Peleabú · Lutadorboo · Борьбу · Boo Đấu Sĩ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -459,7 +474,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 엑스칼리부 | Excaliboo | セイケンボンプ | 圣剑布 |
+| 엑스칼리부 [공식 / Official / 正式 / 官方] | Excaliboo [공식 / Official / 正式 / 官方] | セイケンボンプ [공식 / Official / 正式 / 官方] | 圣剑布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -478,7 +493,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53016 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 엑스칼리부 · Excaliboo · セイケンボンプ · 圣剑布 · 聖劍布 · Sirebou · Excalibú · Экскалибу · Boo Thánh Kiếm
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 엑스칼리부 · Excaliboo · セイケンボンプ · 圣剑布 · 聖劍布 · Sirebou · Excalibú · Экскалибу · Boo Thánh Kiếm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -488,7 +504,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 기사부 | Knightboo | キシドウボンプ | 骑士布 |
+| 기사부 [공식 / Official / 正式 / 官方] | Knightboo [공식 / Official / 正式 / 官方] | キシドウボンプ [공식 / Official / 正式 / 官方] | 骑士布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -507,7 +523,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53017 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 기사부 · Knightboo · キシドウボンプ · 骑士布 · 騎士布 · Ritterboo · Excalibou · Caballerobú · Cavaleiroboo · Рыцарьбу · Boo Kỵ Sĩ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기사부 · Knightboo · キシドウボンプ · 骑士布 · 騎士布 · Ritterboo · Excalibou · Caballerobú · Cavaleiroboo · Рыцарьбу · Boo Kỵ Sĩ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -517,7 +534,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 블록부 | Bild N. Boolok | ブロックボンプ | 乐玩布 |
+| 블록부 [공식 / Official / 正式 / 官方] | Bild N. Boolok [공식 / Official / 正式 / 官方] | ブロックボンプ [공식 / Official / 正式 / 官方] | 乐玩布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -536,7 +553,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53019 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 블록부 · Bild N. Boolok · ブロックボンプ · 乐玩布 · 樂玩布 · Roi Blocbou · Bloquebú · Blocoboo · Деталькабу · Boo Vui Nhộn
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 블록부 · Bild N. Boolok · ブロックボンプ · 乐玩布 · 樂玩布 · Roi Blocbou · Bloquebú · Blocoboo · Деталькабу · Boo Vui Nhộn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -546,7 +564,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 유령부 | Booltergeist | ユウレイボンプ | 幽浮布 |
+| 유령부 [공식 / Official / 正式 / 官方] | Booltergeist [공식 / Official / 正式 / 官方] | ユウレイボンプ [공식 / Official / 正式 / 官方] | 幽浮布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -565,7 +583,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:53021 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 유령부 · Booltergeist · ユウレイボンプ · 幽浮布 · Boultergeist · Bultergueist · Flutuaboo · Бурабашка · Boo Bóng Ma
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 유령부 · Booltergeist · ユウレイボンプ · 幽浮布 · Boultergeist · Bultergueist · Flutuaboo · Бурабашка · Boo Bóng Ma
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -575,7 +594,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 샤크부 | Sharkboo | ガブットボンプ | 鲨牙布 |
+| 샤크부 [공식 / Official / 正式 / 官方] | Sharkboo [공식 / Official / 正式 / 官方] | ガブットボンプ [공식 / Official / 正式 / 官方] | 鲨牙布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -594,7 +613,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54001 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 샤크부 · Sharkboo · ガブットボンプ · 鲨牙布 · 鯊牙布 · Haiboo · Requinbou · Tiburonbú · Tubaboo · Акулабу · Boo Cá Mập
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 샤크부 · Sharkboo · ガブットボンプ · 鲨牙布 · 鯊牙布 · Haiboo · Requinbou · Tiburonbú · Tubaboo · Акулабу · Boo Cá Mập
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -604,7 +624,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 세이프티 | Safety | ゴアンゼン | 阿全 |
+| 세이프티 [공식 / Official / 正式 / 官方] | Safety [공식 / Official / 正式 / 官方] | ゴアンゼン [공식 / Official / 正式 / 官方] | 阿全 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -623,7 +643,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54002 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 세이프티 · Safety · ゴアンゼン · 阿全 · Sicherheitsboo · Sécu · Amparo · Прорабу
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 세이프티 · Safety · ゴアンゼン · 阿全 · Sicherheitsboo · Sécu · Amparo · Прорабу
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -633,7 +654,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 데빌부 | Devilboo | アクマデボンプ | 恶魔布 |
+| 데빌부 [공식 / Official / 正式 / 官方] | Devilboo [공식 / Official / 正式 / 官方] | アクマデボンプ [공식 / Official / 正式 / 官方] | 恶魔布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -652,7 +673,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54003 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 데빌부 · Devilboo · アクマデボンプ · 恶魔布 · 惡魔布 · Teufelsboo · Belzébou · Belcebú · Malignoboo · Вельзебу · Boo Ác Ma
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 데빌부 · Devilboo · アクマデボンプ · 恶魔布 · 惡魔布 · Teufelsboo · Belzébou · Belcebú · Malignoboo · Вельзебу · Boo Ác Ma
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -662,7 +684,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 버틀러 | Butler | バトラー | 巴特勒 |
+| 버틀러 [공식 / Official / 正式 / 官方] | Butler [공식 / Official / 正式 / 官方] | バトラー [공식 / Official / 正式 / 官方] | 巴特勒 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -681,7 +703,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54004 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 버틀러 · Butler · バトラー · 巴特勒 · Mayordomo · Мажордом
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 버틀러 · Butler · バトラー · 巴特勒 · Mayordomo · Мажордом
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -691,7 +714,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 에밀리온 | Amillion | アミリオン | 艾米莉安 |
+| 에밀리온 [공식 / Official / 正式 / 官方] | Amillion [공식 / Official / 正式 / 官方] | アミリオン [공식 / Official / 正式 / 官方] | 艾米莉安 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -710,7 +733,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54005 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 에밀리온 · Amillion · アミリオン · 艾米莉安 · Амиллион
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에밀리온 · Amillion · アミリオン · 艾米莉安 · Амиллион
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -720,7 +744,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 날쌘부 | Rocketboo | ハヤスギボンプ | 飚速布 |
+| 날쌘부 [공식 / Official / 正式 / 官方] | Rocketboo [공식 / Official / 正式 / 官方] | ハヤスギボンプ [공식 / Official / 正式 / 官方] | 飚速布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -739,7 +763,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54006 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 날쌘부 · Rocketboo · ハヤスギボンプ · 飚速布 · 飆速布 · Raketenboo · Roquettobou. · Sonibú · Fogueteboo · Ракетабу · Boo Tốc Độ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 날쌘부 · Rocketboo · ハヤスギボンプ · 飚速布 · 飆速布 · Raketenboo · Roquettobou. · Sonibú · Fogueteboo · Ракетабу · Boo Tốc Độ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -749,7 +774,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 플러그부 | Plugboo | プラグノボンプ | 插头布 |
+| 플러그부 [공식 / Official / 正式 / 官方] | Plugboo [공식 / Official / 正式 / 官方] | プラグノボンプ [공식 / Official / 正式 / 官方] | 插头布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -768,7 +793,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54008 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 플러그부 · Plugboo · プラグノボンプ · 插头布 · 插頭布 · Prisabou. · Cablebú · Штекербу · Boo Trình Cắm
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 플러그부 · Plugboo · プラグノボンプ · 插头布 · 插頭布 · Prisabou. · Cablebú · Штекербу · Boo Trình Cắm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -778,7 +804,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 공명부 | Resonaboo | レゾナンボンプ | 共鸣布 |
+| 공명부 [공식 / Official / 正式 / 官方] | Resonaboo [공식 / Official / 正式 / 官方] | レゾナンボンプ [공식 / Official / 正式 / 官方] | 共鸣布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -797,7 +823,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54009 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 공명부 · Resonaboo · レゾナンボンプ · 共鸣布 · 共鳴布 · Resonanzboo · Résonabou. · Ecobú · Ecoaboo · Резонабу · Boo Cộng Hưởng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 공명부 · Resonaboo · レゾナンボンプ · 共鸣布 · 共鳴布 · Resonanzboo · Résonabou. · Ecobú · Ecoaboo · Резонабу · Boo Cộng Hưởng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -807,7 +834,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 팬팬 | Biggest Fan | コサン | 阿饭 |
+| 팬팬 [공식 / Official / 正式 / 官方] | Biggest Fan [공식 / Official / 正式 / 官方] | コサン [공식 / Official / 正式 / 官方] | 阿饭 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -826,7 +853,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54010 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 팬팬 · Biggest Fan · コサン · 阿饭 · 阿飯 · Größter Fan · MégaFan · Megafan · Mega Fã · Фанбу · Fan Cứng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 팬팬 · Biggest Fan · コサン · 阿饭 · 阿飯 · Größter Fan · MégaFan · Megafan · Mega Fã · Фанбу · Fan Cứng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -836,7 +864,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 레드모쿠스 | Red Moccus | 真紅のモックス | 赤红莫库斯 |
+| 레드모쿠스 [공식 / Official / 正式 / 官方] | Red Moccus [공식 / Official / 正式 / 官方] | 真紅のモックス [공식 / Official / 正式 / 官方] | 赤红莫库斯 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -855,7 +883,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54011 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 레드모쿠스 · Red Moccus · 真紅のモックス · 赤红莫库斯 · 赤紅莫庫斯 · Rotes Moccus · Moccus pourpre · Moccus Tinto · Moccus Carmesim · Красный Моккус
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 레드모쿠스 · Red Moccus · 真紅のモックス · 赤红莫库斯 · 赤紅莫庫斯 · Rotes Moccus · Moccus pourpre · Moccus Tinto · Moccus Carmesim · Красный Моккус
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -865,7 +894,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 최 순찰대원 | Officer Cui | ツェイ巡査 | 阿崔巡查 |
+| 최 순찰대원 [공식 / Official / 正式 / 官方] | Officer Cui [공식 / Official / 正式 / 官方] | ツェイ巡査 [공식 / Official / 正式 / 官方] | 阿崔巡查 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -884,7 +913,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54012 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 최 순찰대원 · 최순찰대원 · Officer Cui · ツェイ巡査 · 阿崔巡查 · Offizier Cui · Officier Cui · Cui · Oficial Cui · Офицер Цуй · Tuần Vệ Cui
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 최 순찰대원 · 최순찰대원 · Officer Cui · ツェイ巡査 · 阿崔巡查 · Offizier Cui · Officier Cui · Cui · Oficial Cui · Офицер Цуй · Tuần Vệ Cui
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -894,7 +924,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 리볼버부 | Bangvolver | リボルバボンプ | 左轮布 |
+| 리볼버부 [공식 / Official / 正式 / 官方] | Bangvolver [공식 / Official / 正式 / 官方] | リボルバボンプ [공식 / Official / 正式 / 官方] | 左轮布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -913,7 +943,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54013 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 리볼버부 · Bangvolver · リボルバボンプ · 左轮布 · 左輪布 · Bangvolver. · Revolverbú · Bangvólver · Револьвербу · Boo Pằng Pằng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 리볼버부 · Bangvolver · リボルバボンプ · 左轮布 · 左輪布 · Bangvolver. · Revolverbú · Bangvólver · Револьвербу · Boo Pằng Pằng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -923,7 +954,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 걸리버 요원 | Agent Gulliver | ガリバー隊員 | 格列佛探员 |
+| 걸리버 요원 [공식 / Official / 正式 / 官方] | Agent Gulliver [공식 / Official / 正式 / 官方] | ガリバー隊員 [공식 / Official / 正式 / 官方] | 格列佛探员 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -942,7 +973,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54014 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 걸리버 요원 · 걸리버요원 · Agent Gulliver · ガリバー隊員 · 格列佛探员 · 格列佛探員 · Agente Gulliver · Агент Гулливер · Đặc Vụ Gulliver
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 걸리버 요원 · 걸리버요원 · Agent Gulliver · ガリバー隊員 · 格列佛探员 · 格列佛探員 · Agente Gulliver · Агент Гулливер · Đặc Vụ Gulliver
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -952,7 +984,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 찰칵이 | Snap | カチャコ | 咔嚓仔 |
+| 찰칵이 [공식 / Official / 正式 / 官方] | Snap [공식 / Official / 正式 / 官方] | カチャコ [공식 / Official / 正式 / 官方] | 咔嚓仔 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -971,7 +1003,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54015 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 찰칵이 · Snap · カチャコ · 咔嚓仔 · 喀嚓仔 · Clac · Snapster · Щелкун
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 찰칵이 · Snap · カチャコ · 咔嚓仔 · 喀嚓仔 · Clac · Snapster · Щелкун
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -981,7 +1014,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 로빈 | Robin | ロビン | 罗宾 |
+| 로빈 [공식 / Official / 正式 / 官方] | Robin [공식 / Official / 正式 / 官方] | ロビン [공식 / Official / 正式 / 官方] | 罗宾 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1000,7 +1033,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54016 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 로빈 · Robin · ロビン · 罗宾 · 羅賓 · Робин
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 로빈 · Robin · ロビン · 罗宾 · 羅賓 · Робин
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -1010,7 +1044,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 사야 | Belion | オシシ | 狮耶 |
+| 사야 [공식 / Official / 正式 / 官方] | Belion [공식 / Official / 正式 / 官方] | オシシ [공식 / Official / 正式 / 官方] | 狮耶 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1029,7 +1063,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54017 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 사야 · Belion · オシシ · 狮耶
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 사야 · Belion · オシシ · 狮耶
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -1039,7 +1074,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 에스메 양 | Miss Esme | ミス・エスメ | 艾丝弥小姐 |
+| 에스메 양 [공식 / Official / 正式 / 官方] | Miss Esme [공식 / Official / 正式 / 官方] | ミス・エスメ [공식 / Official / 正式 / 官方] | 艾丝弥小姐 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1058,7 +1093,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54018 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 에스메 양 · 에스메양 · Miss Esme · ミス・エスメ · 艾丝弥小姐 · 艾絲彌小姐 · Mlle Esmée · Señorita Esme · Senhorita Esme · Госпожа Эсме
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에스메 양 · 에스메양 · Miss Esme · ミス・エスメ · 艾丝弥小姐 · 艾絲彌小姐 · Mlle Esmée · Señorita Esme · Senhorita Esme · Госпожа Эсме
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -1068,7 +1104,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「머큐리」 | Mercury | 「マーキュリー」 | 「墨丘利」 |
+| 「머큐리」 [공식 / Official / 正式 / 官方] | Mercury [공식 / Official / 正式 / 官方] | 「マーキュリー」 [공식 / Official / 正式 / 官方] | 「墨丘利」 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1087,7 +1123,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54019 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「머큐리」 · 머큐리 · Mercury · 「マーキュリー」 · マーキュリー · 「墨丘利」 · 墨丘利 · Mercure · Меркурий · "Mercury"
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「머큐리」 · 머큐리 · Mercury · 「マーキュリー」 · マーキュリー · 「墨丘利」 · 墨丘利 · Mercure · Меркурий · "Mercury"
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -1097,7 +1134,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 비르크블리크 | Birkblick | ビャークブリック | 比克布利克 |
+| 비르크블리크 [공식 / Official / 正式 / 官方] | Birkblick [공식 / Official / 正式 / 官方] | ビャークブリック [공식 / Official / 正式 / 官方] | 比克布利克 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1116,7 +1153,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54020 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 비르크블리크 · Birkblick · ビャークブリック · 比克布利克 · Биркблик
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 비르크블리크 · Birkblick · ビャークブリック · 比克布利克 · Биркблик
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -1126,7 +1164,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 싹싹 | Sprout | メメ | 芽芽 |
+| 싹싹 [공식 / Official / 正式 / 官方] | Sprout [공식 / Official / 正式 / 官方] | メメ [공식 / Official / 正式 / 官方] | 芽芽 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1145,7 +1183,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54021 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 싹싹 · Sprout · メメ · 芽芽 · Petite pousse · Pimpollo · Колосок
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 싹싹 · Sprout · メメ · 芽芽 · Petite pousse · Pimpollo · Колосок
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -1155,7 +1194,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 울트라 제이크 | Ultra Jake | ウルトラネイヴ | 超极杰克 |
+| 울트라 제이크 [공식 / Official / 正式 / 官方] | Ultra Jake [공식 / Official / 正式 / 官方] | ウルトラネイヴ [공식 / Official / 正式 / 官方] | 超极杰克 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1174,7 +1213,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54022 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 울트라 제이크 · 울트라제이크 · Ultra Jake · ウルトラネイヴ · 超极杰克 · 超極傑克 · Ultra-Jake · Супер-Джейк · Jake Siêu Cấp
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 울트라 제이크 · 울트라제이크 · Ultra Jake · ウルトラネイヴ · 超极杰克 · 超極傑克 · Ultra-Jake · Супер-Джейк · Jake Siêu Cấp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -1184,7 +1224,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 아리엘 | Ariel | アリエル | 艾瑞儿 |
+| 아리엘 [공식 / Official / 正式 / 官方] | Ariel [공식 / Official / 正式 / 官方] | アリエル [공식 / Official / 正式 / 官方] | 艾瑞儿 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1203,7 +1243,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:54023 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 아리엘 · Ariel · アリエル · 艾瑞儿 · 艾瑞兒 · Ариэль
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 아리엘 · Ariel · アリエル · 艾瑞儿 · 艾瑞兒 · Ариэль
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)
@@ -1213,7 +1254,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 이아스 | Eous | イアス | 伊埃斯 |
+| 이아스 [공식 / Official / 正式 / 官方] | Eous [공식 / Official / 正式 / 官方] | イアス [공식 / Official / 正式 / 官方] | 伊埃斯 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1232,7 +1273,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: bangboo:55098 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 이아스 · Eous · イアス · 伊埃斯 · Éous · Eus · Эос
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이아스 · Eous · イアス · 伊埃斯 · Éous · Eus · Эос
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 bangboo 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/bangboo.json)

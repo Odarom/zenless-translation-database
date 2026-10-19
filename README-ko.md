@@ -14,6 +14,7 @@ Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2314** 개념 항�
 - [전체 명칭 색인](catalog/INDEX.md)
 - [약어 설명](catalog/ABBREVIATIONS.md)
 - [범위·출처 안내](catalog/README.md)
+- [공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方](catalog/TAGS.md)
 
 ## 데이터 파일
 
@@ -26,6 +27,7 @@ Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2314** 개념 항�
 | [localizations.json](catalog/localizations.json) | 기존 개념에 연결한 추가 언어 이름 |
 | [sources.json](catalog/sources.json) | 원본 버전·수집 시점·해시 |
 | [latest.json](latest.json) | 프로그램용 업데이트 정보 |
+| [classification.json](catalog/classification.json) | 공식 / Official / 正式 / 官方 / 비공식 / Unofficial / 非公式 / 非官方 |
 | [LIFECYCLE.md](catalog/LIFECYCLE.md) | 후보 생성·검토·백업·적용 절차 |
 
 ## 이용·업데이트

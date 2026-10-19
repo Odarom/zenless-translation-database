@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 도플갱어·벨룸 | Doppelganger - Bellum | ドッペルゲンガー・ベルラム | 多佩冈亚·巴罗姆 |
+| 도플갱어·벨룸 [공식 / Official / 正式 / 官方] | Doppelganger - Bellum [공식 / Official / 正式 / 官方] | ドッペルゲンガー・ベルラム [공식 / Official / 正式 / 官方] | 多佩冈亚·巴罗姆 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:200251 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 도플갱어·벨룸 · Doppelganger - Bellum · ドッペルゲンガー・ベルラム · 多佩冈亚·巴罗姆 · 多佩岡亞·巴羅姆 · Doppelgänger – Bellum · Doppelganger – Bellum · Doppelgänger de Bellum · Sósia - Bellum · Доппельгангер Беллум
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 도플갱어·벨룸 · Doppelganger - Bellum · ドッペルゲンガー・ベルラム · 多佩冈亚·巴罗姆 · 多佩岡亞·巴羅姆 · Doppelgänger – Bellum · Doppelganger – Bellum · Doppelgänger de Bellum · Sósia - Bellum · Доппельгангер Беллум
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -53,7 +54,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 듀라한·에너지형 | Dullahan - Energized | デュラハン・蓄エネ型 | 杜拉罕·蓄能型 |
+| 듀라한·에너지형 [공식 / Official / 正式 / 官方] | Dullahan - Energized [공식 / Official / 正式 / 官方] | デュラハン・蓄エネ型 [공식 / Official / 正式 / 官方] | 杜拉罕·蓄能型 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -72,7 +73,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300001 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 듀라한·에너지형 · Dullahan - Energized · デュラハン・蓄エネ型 · 杜拉罕·蓄能型 · Dullahan – Energiegeladen · Dullahan (Énergisé) · Dullahan energizado · Dullahan - Energizado · Заряженный Дюллахан · Dullahan - Tụ Năng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 듀라한·에너지형 · Dullahan - Energized · デュラハン・蓄エネ型 · 杜拉罕·蓄能型 · Dullahan – Energiegeladen · Dullahan (Énergisé) · Dullahan energizado · Dullahan - Energizado · Заряженный Дюллахан · Dullahan - Tụ Năng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -82,7 +84,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 갓 태어난 듀라한 | Newborn Dullahan | 初生のデュラハン | 初生杜拉罕 |
+| 갓 태어난 듀라한 [공식 / Official / 正式 / 官方] | Newborn Dullahan [공식 / Official / 正式 / 官方] | 初生のデュラハン [공식 / Official / 正式 / 官方] | 初生杜拉罕 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -101,7 +103,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300002 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 갓 태어난 듀라한 · 갓태어난듀라한 · Newborn Dullahan · 初生のデュラハン · 初生杜拉罕 · Neugeborener Dullahan · Dullahan nouveau-né · Cría de dullahan · Filhote de Dullahan · Новорождённый Дюллахан · Dullahan Sơ Sinh
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 갓 태어난 듀라한 · 갓태어난듀라한 · Newborn Dullahan · 初生のデュラハン · 初生杜拉罕 · Neugeborener Dullahan · Dullahan nouveau-né · Cría de dullahan · Filhote de Dullahan · Новорождённый Дюллахан · Dullahan Sơ Sinh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -111,7 +114,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 플라스마·듀라한 | Ionized - Dullahan | 電離体・デュラハン | 离子体·杜拉罕 |
+| 플라스마·듀라한 [공식 / Official / 正式 / 官方] | Ionized - Dullahan [공식 / Official / 正式 / 官方] | 電離体・デュラハン [공식 / Official / 正式 / 官方] | 离子体·杜拉罕 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -130,7 +133,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300004 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 플라스마·듀라한 · Ionized - Dullahan · 電離体・デュラハン · 离子体·杜拉罕 · 離子體·杜拉罕 · Ionisiert – Dullahan · Dullahan (Ionisé) · Dullahan ionizado · Dullahan - Ionizado · Плазменный Дюллахан · Ionized Dullahan · Thể Ion - Dullahan
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 플라스마·듀라한 · Ionized - Dullahan · 電離体・デュラハン · 离子体·杜拉罕 · 離子體·杜拉罕 · Ionisiert – Dullahan · Dullahan (Ionisé) · Dullahan ionizado · Dullahan - Ionizado · Плазменный Дюллахан · Ionized Dullahan · Thể Ion - Dullahan
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -140,7 +144,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 노토리우스·듀라한 | Notorious - Dullahan | 要警戒・デュラハン | 恶名·杜拉罕 |
+| 노토리우스·듀라한 [공식 / Official / 正式 / 官方] | Notorious - Dullahan [공식 / Official / 正式 / 官方] | 要警戒・デュラハン [공식 / Official / 正式 / 官方] | 恶名·杜拉罕 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -159,7 +163,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300005 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 노토리우스·듀라한 · Notorious - Dullahan · 要警戒・デュラハン · 恶名·杜拉罕
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 노토리우스·듀라한 · Notorious - Dullahan · 要警戒・デュラハン · 恶名·杜拉罕
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -169,7 +174,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 타나토스·에너지형 | Thanatos - Energized | タナトス・蓄エネ型 | 塔纳托斯·蓄能型 |
+| 타나토스·에너지형 [공식 / Official / 正式 / 官方] | Thanatos - Energized [공식 / Official / 正式 / 官方] | タナトス・蓄エネ型 [공식 / Official / 正式 / 官方] | 塔纳托斯·蓄能型 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -188,7 +193,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300011 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 타나토스·에너지형 · Thanatos - Energized · タナトス・蓄エネ型 · 塔纳托斯·蓄能型 · 塔納托斯·蓄能型 · Thanatos – Energiegeladen · Thanatos (Énergisé) · Tánatos energizado · Tânatos - Energizado · Заряженный Танатос · Thanatos - Tụ Năng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 타나토스·에너지형 · Thanatos - Energized · タナトス・蓄エネ型 · 塔纳托斯·蓄能型 · 塔納托斯·蓄能型 · Thanatos – Energiegeladen · Thanatos (Énergisé) · Tánatos energizado · Tânatos - Energizado · Заряженный Танатос · Thanatos - Tụ Năng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -198,7 +204,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 플라스마·타나토스 | Ionized - Thanatos | 電離体・タナトス | 离子体·塔纳托斯 |
+| 플라스마·타나토스 [공식 / Official / 正式 / 官方] | Ionized - Thanatos [공식 / Official / 正式 / 官方] | 電離体・タナトス [공식 / Official / 正式 / 官方] | 离子体·塔纳托斯 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -217,7 +223,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300014 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 플라스마·타나토스 · Ionized - Thanatos · 電離体・タナトス · 离子体·塔纳托斯 · 離子體·塔納托斯 · Ionisiert – Thanatos · Thanatos (Ionisé) · Tánatos ionizado · Ionizado - Tânatos · Плазменный Танатос · Ionized Thanatos · Thể Ion - Thanatos
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 플라스마·타나토스 · Ionized - Thanatos · 電離体・タナトス · 离子体·塔纳托斯 · 離子體·塔納托斯 · Ionisiert – Thanatos · Thanatos (Ionisé) · Tánatos ionizado · Ionizado - Tânatos · Плазменный Танатос · Ionized Thanatos · Thể Ion - Thanatos
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -227,7 +234,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 노토리우스·타나토스 | Notorious - Thanatos | 要警戒・タナトス | 恶名·塔纳托斯 |
+| 노토리우스·타나토스 [공식 / Official / 正式 / 官方] | Notorious - Thanatos [공식 / Official / 正式 / 官方] | 要警戒・タナトス [공식 / Official / 正式 / 官方] | 恶名·塔纳托斯 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -246,7 +253,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300015 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 노토리우스·타나토스 · Notorious - Thanatos · 要警戒・タナトス · 恶名·塔纳托斯 · 惡名·塔納托斯 · Notorisch – Thanatos · Thanatos (Infâme) · Tánatos infame · Tânatos - Notável · Зловещий Танатос · Notorious Thanatos · Ác Danh - Thanatos
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 노토리우스·타나토스 · Notorious - Thanatos · 要警戒・タナトス · 恶名·塔纳托斯 · 惡名·塔納托斯 · Notorisch – Thanatos · Thanatos (Infâme) · Tánatos infame · Tânatos - Notável · Зловещий Танатос · Notorious Thanatos · Ác Danh - Thanatos
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -256,7 +264,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「가디언 Ⅱ형」 | Guardian MK II | 「ガーディアンⅡ型」 | 「卫士Ⅱ型」 |
+| 「가디언 Ⅱ형」 [공식 / Official / 正式 / 官方] | Guardian MK II [공식 / Official / 正式 / 官方] | 「ガーディアンⅡ型」 [공식 / Official / 正式 / 官方] | 「卫士Ⅱ型」 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -275,7 +283,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300021 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「가디언 Ⅱ형」 · 가디언 Ⅱ형 · 가디언Ⅱ형 · Guardian MK II · 「ガーディアンⅡ型」 · ガーディアンⅡ型 · 「卫士Ⅱ型」 · 卫士Ⅱ型 · 「衛士Ⅱ型」 · 衛士Ⅱ型 · Wächter Typ II · Gardien MK II · Guardián (II) · Guardião Modelo II · Страж MK II · "Guardian MK II" · Vệ Sĩ II
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「가디언 Ⅱ형」 · 가디언 Ⅱ형 · 가디언Ⅱ형 · Guardian MK II · 「ガーディアンⅡ型」 · ガーディアンⅡ型 · 「卫士Ⅱ型」 · 卫士Ⅱ型 · 「衛士Ⅱ型」 · 衛士Ⅱ型 · Wächter Typ II · Gardien MK II · Guardián (II) · Guardião Modelo II · Страж MK II · "Guardian MK II" · Vệ Sĩ II
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -285,7 +294,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「가디언 Ⅲ형」 | Guardian MK III | 「ガーディアンⅢ型」 | 「卫士Ⅲ型」 |
+| 「가디언 Ⅲ형」 [공식 / Official / 正式 / 官方] | Guardian MK III [공식 / Official / 正式 / 官方] | 「ガーディアンⅢ型」 [공식 / Official / 正式 / 官方] | 「卫士Ⅲ型」 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -304,7 +313,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300022 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「가디언 Ⅲ형」 · 가디언 Ⅲ형 · 가디언Ⅲ형 · Guardian MK III · 「ガーディアンⅢ型」 · ガーディアンⅢ型 · 「卫士Ⅲ型」 · 卫士Ⅲ型 · 「衛士Ⅲ型」 · 衛士Ⅲ型 · Wächter Typ III · Gardien MK III · Guardián (III) · Guardião Modelo III · Страж MK III · "Guardian MK II" · Vệ Sĩ III
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「가디언 Ⅲ형」 · 가디언 Ⅲ형 · 가디언Ⅲ형 · Guardian MK III · 「ガーディアンⅢ型」 · ガーディアンⅢ型 · 「卫士Ⅲ型」 · 卫士Ⅲ型 · 「衛士Ⅲ型」 · 衛士Ⅲ型 · Wächter Typ III · Gardien MK III · Guardián (III) · Guardião Modelo III · Страж MK III · "Guardian MK II" · Vệ Sĩ III
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -314,7 +324,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 그레텔·에너지형 | Greta - Energized | グレーテル・蓄エネ型 | 格莱特·蓄能型 |
+| 그레텔·에너지형 [공식 / Official / 正式 / 官方] | Greta - Energized [공식 / Official / 正式 / 官方] | グレーテル・蓄エネ型 [공식 / Official / 正式 / 官方] | 格莱特·蓄能型 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -333,7 +343,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300041 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 그레텔·에너지형 · Greta - Energized · グレーテル・蓄エネ型 · 格莱特·蓄能型 · 格萊特·蓄能型 · Greta – Energiegeladen · Gretel (Énergisé) · Gretel energizada · Gretel - Energizada · Заряженная Гретель · Greta - Tụ Năng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 그레텔·에너지형 · Greta - Energized · グレーテル・蓄エネ型 · 格莱特·蓄能型 · 格萊特·蓄能型 · Greta – Energiegeladen · Gretel (Énergisé) · Gretel energizada · Gretel - Energizada · Заряженная Гретель · Greta - Tụ Năng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -343,7 +354,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 그레텔·오버클럭형 | Greta - Overclocked | グレーテル・高周波数型 | 格莱特·超频型 |
+| 그레텔·오버클럭형 [공식 / Official / 正式 / 官方] | Greta - Overclocked [공식 / Official / 正式 / 官方] | グレーテル・高周波数型 [공식 / Official / 正式 / 官方] | 格莱特·超频型 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -362,7 +373,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300042 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 그레텔·오버클럭형 · Greta - Overclocked · グレーテル・高周波数型 · 格莱特·超频型 · 格萊特·超頻型 · Greta – Übertaktet · Gretel (Surcadencée) · Gretel acelerada · Gretel - Overclock · Ускоренная Гретель · Greta - Ép Xung
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 그레텔·오버클럭형 · Greta - Overclocked · グレーテル・高周波数型 · 格莱特·超频型 · 格萊特·超頻型 · Greta – Übertaktet · Gretel (Surcadencée) · Gretel acelerada · Gretel - Overclock · Ускоренная Гретель · Greta - Ép Xung
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -372,7 +384,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 한스·에너지형 | Hans - Energized | ハンス・蓄エネ型 | 汉斯·蓄能型 |
+| 한스·에너지형 [공식 / Official / 正式 / 官方] | Hans - Energized [공식 / Official / 正式 / 官方] | ハンス・蓄エネ型 [공식 / Official / 正式 / 官方] | 汉斯·蓄能型 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -391,7 +403,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300051 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 한스·에너지형 · Hans - Energized · ハンス・蓄エネ型 · 汉斯·蓄能型
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 한스·에너지형 · Hans - Energized · ハンス・蓄エネ型 · 汉斯·蓄能型
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -401,7 +414,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 한스·오버클럭형 | Hans - Overclocked | ハンス・高周波数型 | 汉斯·超频型 |
+| 한스·오버클럭형 [공식 / Official / 正式 / 官方] | Hans - Overclocked [공식 / Official / 正式 / 官方] | ハンス・高周波数型 [공식 / Official / 正式 / 官方] | 汉斯·超频型 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -420,7 +433,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300052 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 한스·오버클럭형 · Hans - Overclocked · ハンス・高周波数型 · 汉斯·超频型 · 漢斯·超頻型 · Hans – Übertaktet · Hansel (Surcadencé) · Hansel acelerado · Hans - Overclock · Ускоренный Ганс · Hans - Ép Xung
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 한스·오버클럭형 · Hans - Overclocked · ハンス・高周波数型 · 汉斯·超频型 · 漢斯·超頻型 · Hans – Übertaktet · Hansel (Surcadencé) · Hansel acelerado · Hans - Overclock · Ускоренный Ганс · Hans - Ép Xung
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -430,7 +444,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 프라이데이·에너지형 | Friday - Energized | フライデー・蓄エネ型 | 星期五·蓄能型 |
+| 프라이데이·에너지형 [공식 / Official / 正式 / 官方] | Friday - Energized [공식 / Official / 正式 / 官方] | フライデー・蓄エネ型 [공식 / Official / 正式 / 官方] | 星期五·蓄能型 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -449,7 +463,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300061 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 프라이데이·에너지형 · Friday - Energized · フライデー・蓄エネ型 · 星期五·蓄能型 · Freitag – Energiegeladen · Vendredi (Énergisé) · Viernes energizado · Sexta - Energizado · Заряженный Пятница · Friday - Tụ Năng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 프라이데이·에너지형 · Friday - Energized · フライデー・蓄エネ型 · 星期五·蓄能型 · Freitag – Energiegeladen · Vendredi (Énergisé) · Viernes energizado · Sexta - Energizado · Заряженный Пятница · Friday - Tụ Năng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -459,7 +474,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 프라이데이·오버클럭형 | Friday - Overclocked | フライデー・高周波数型 | 星期五·超频型 |
+| 프라이데이·오버클럭형 [공식 / Official / 正式 / 官方] | Friday - Overclocked [공식 / Official / 正式 / 官方] | フライデー・高周波数型 [공식 / Official / 正式 / 官方] | 星期五·超频型 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -478,7 +493,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300062 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 프라이데이·오버클럭형 · Friday - Overclocked · フライデー・高周波数型 · 星期五·超频型 · 星期五·超頻型 · Freitag – Übertaktet · Vendredi (Surcadencé) · Viernes acelerado · Sexta - Overclock · Ускоренный Пятница · Friday - Ép Xung
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 프라이데이·오버클럭형 · Friday - Overclocked · フライデー・高周波数型 · 星期五·超频型 · 星期五·超頻型 · Freitag – Übertaktet · Vendredi (Surcadencé) · Viernes acelerado · Sexta - Overclock · Ускоренный Пятница · Friday - Ép Xung
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -488,7 +504,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 갓 태어난 죽음의 도살자 | Newborn Dead End Butcher | 初生のデッドエンドブッチャー | 初生死路屠夫 |
+| 갓 태어난 죽음의 도살자 [공식 / Official / 正式 / 官方] | Newborn Dead End Butcher [공식 / Official / 正式 / 官方] | 初生のデッドエンドブッチャー [공식 / Official / 正式 / 官方] | 初生死路屠夫 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -507,7 +523,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300071 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 갓 태어난 죽음의 도살자 · 갓태어난죽음의도살자 · Newborn Dead End Butcher · 初生のデッドエンドブッチャー · 初生死路屠夫
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 갓 태어난 죽음의 도살자 · 갓태어난죽음의도살자 · Newborn Dead End Butcher · 初生のデッドエンドブッチャー · 初生死路屠夫
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -517,7 +534,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 노토리우스·죽음의 도살자 | Notorious - Dead End Butcher | 要警戒・デッドエンドブッチャー | 恶名·死路屠夫 |
+| 노토리우스·죽음의 도살자 [공식 / Official / 正式 / 官方] | Notorious - Dead End Butcher [공식 / Official / 正式 / 官方] | 要警戒・デッドエンドブッチャー [공식 / Official / 正式 / 官方] | 恶名·死路屠夫 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -536,8 +553,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300072 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 노토리우스·죽음의 도살자 · 노토리우스·죽음의도살자 · Notorious - Dead End Butcher · 要警戒・デッドエンドブッチャー · 恶名·死路屠夫 · 매살자 · 매지컬 도살자 · 매지컬도살자 · 노토리우스 죽음의 도살자 · 惡名·死路屠夫 · Notorisch – Sackgassen-Schlächter · Infâme – Boucher de l'Impasse · Carnicero del Callejón infame · Notável - Carniceiro do Beco · Зловещий Мясник из тупика · Ác Danh - Đồ Tể Đường Cùng
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 매살자
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 노토리우스·죽음의 도살자 · 노토리우스·죽음의도살자 · Notorious - Dead End Butcher · 要警戒・デッドエンドブッチャー · 恶名·死路屠夫 · 惡名·死路屠夫 · Notorisch – Sackgassen-Schlächter · Infâme – Boucher de l'Impasse · Carnicero del Callejón infame · Notável - Carniceiro do Beco · Зловещий Мясник из тупика · Ác Danh - Đồ Tể Đường Cùng
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 매살자 · 매지컬 도살자 · 매지컬도살자 · 노토리우스 죽음의 도살자
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 매살자 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 사용자가 확인한 해당 보스의 약칭일 때만 이 항목의 네 언어 preferred 명칭을 쓴다. 매지컬을 Magical로 직역하지 말고 Notorious 변형을 유지한다. 단순히 도살자나 Butcher라고만 했을 때 이 변형으로 단정하지 않는다. 원문에 일반형 또는 갓 태어난 변형이 명시되면 해당 다른 보스 항목을 선택한다.
@@ -548,7 +567,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「티폰·슬러거」 | Typhon Slugger | 「テューポーン・スラッガー」 | 「提丰·重击者型」 |
+| 「티폰·슬러거」 [공식 / Official / 正式 / 官方] | Typhon Slugger [공식 / Official / 正式 / 官方] | 「テューポーン・スラッガー」 [공식 / Official / 正式 / 官方] | 「提丰·重击者型」 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -567,7 +586,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300081 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「티폰·슬러거」 · 티폰·슬러거 · Typhon Slugger · 「テューポーン・スラッガー」 · テューポーン・スラッガー · 「提丰·重击者型」 · 提丰·重击者型
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「티폰·슬러거」 · 티폰·슬러거 · Typhon Slugger · 「テューポーン・スラッガー」 · テューポーン・スラッガー · 「提丰·重击者型」 · 提丰·重击者型
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -577,7 +597,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 자율 강습 유닛·「티폰·디스트로이어」 | Autonomous Assault Unit - Typhon Destroyer | 自律強襲ユニット・「テューポーン・デストロイヤー」 | 自律强袭单位·「提丰·破坏者型」 |
+| 자율 강습 유닛·「티폰·디스트로이어」 [공식 / Official / 正式 / 官方] | Autonomous Assault Unit - Typhon Destroyer [공식 / Official / 正式 / 官方] | 自律強襲ユニット・「テューポーン・デストロイヤー」 [공식 / Official / 正式 / 官方] | 自律强袭单位·「提丰·破坏者型」 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -596,7 +616,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300082 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 자율 강습 유닛·「티폰·디스트로이어」 · 자율강습유닛·「티폰·디스트로이어」 · Autonomous Assault Unit - Typhon Destroyer · 自律強襲ユニット・「テューポーン・デストロイヤー」 · 自律强袭单位·「提丰·破坏者型」 · 自律強襲單位·「提豐·破壞者型」 · Autonome Ansturmeinheit – Typhon – Zerstörer · Unité offensive autonome – Typhon destructeur · Unidad de apoyo autónoma: tifón destructor · Unidade Autônoma de Suporte - Tufão Destruidor · Автономная боевая машина наступления — Тифон-разрушитель · Đơn Vị Tấn Công Tự Động: Typhon - Kẻ Phá Hoại
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 자율 강습 유닛·「티폰·디스트로이어」 · 자율강습유닛·「티폰·디스트로이어」 · Autonomous Assault Unit - Typhon Destroyer · 自律強襲ユニット・「テューポーン・デストロイヤー」 · 自律强袭单位·「提丰·破坏者型」 · 自律強襲單位·「提豐·破壞者型」 · Autonome Ansturmeinheit – Typhon – Zerstörer · Unité offensive autonome – Typhon destructeur · Unidad de apoyo autónoma: tifón destructor · Unidade Autônoma de Suporte - Tufão Destruidor · Автономная боевая машина наступления — Тифон-разрушитель · Đơn Vị Tấn Công Tự Động: Typhon - Kẻ Phá Hoại
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -606,7 +627,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「티폰·챌린저」 | Typhon Challenger | 「テューポーン・チャレンジャー」 | 「提丰·挑战者型」 |
+| 「티폰·챌린저」 [공식 / Official / 正式 / 官方] | Typhon Challenger [공식 / Official / 正式 / 官方] | 「テューポーン・チャレンジャー」 [공식 / Official / 正式 / 官方] | 「提丰·挑战者型」 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -625,7 +646,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300083 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「티폰·챌린저」 · 티폰·챌린저 · Typhon Challenger · 「テューポーン・チャレンジャー」 · テューポーン・チャレンジャー · 「提丰·挑战者型」 · 提丰·挑战者型 · 「提豐·挑戰者型」 · 提豐·挑戰者型 · Typhon – Herausforderer · Typhon combattant · Tifón retador · Tufão Desafiante · Тифон-борец · "Typhon Challenger" · Typhon Khiêu Chiến
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「티폰·챌린저」 · 티폰·챌린저 · Typhon Challenger · 「テューポーン・チャレンジャー」 · テューポーン・チャレンジャー · 「提丰·挑战者型」 · 提丰·挑战者型 · 「提豐·挑戰者型」 · 提豐·挑戰者型 · Typhon – Herausforderer · Typhon combattant · Tifón retador · Tufão Desafiante · Тифон-борец · "Typhon Challenger" · Typhon Khiêu Chiến
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -635,7 +657,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 노토리우스·마리오네트 | Notorious - Marionette | 要警戒・マリオネット | 恶名·冥宁芙 |
+| 노토리우스·마리오네트 [공식 / Official / 正式 / 官方] | Notorious - Marionette [공식 / Official / 正式 / 官方] | 要警戒・マリオネット [공식 / Official / 正式 / 官方] | 恶名·冥宁芙 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -654,7 +676,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300121 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 노토리우스·마리오네트 · Notorious - Marionette · 要警戒・マリオネット · 恶名·冥宁芙 · 惡名·冥寧芙 · Notorisch – Marionette · Infâme – Marionnette · Marioneta infame · Notável - Marionete · Зловещая Марионетка · Ác Danh - Marionette
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 노토리우스·마리오네트 · Notorious - Marionette · 要警戒・マリオネット · 恶名·冥宁芙 · 惡名·冥寧芙 · Notorisch – Marionette · Infâme – Marionnette · Marioneta infame · Notável - Marionete · Зловещая Марионетка · Ác Danh - Marionette
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -664,7 +687,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 횡포자 | Rampant Brute | 剛力横暴者 | 蛮横力士 |
+| 횡포자 [공식 / Official / 正式 / 官方] | Rampant Brute [공식 / Official / 正式 / 官方] | 剛力横暴者 [공식 / Official / 正式 / 官方] | 蛮横力士 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -683,7 +706,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300191 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 횡포자 · Rampant Brute · 剛力横暴者 · 蛮横力士
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 횡포자 · Rampant Brute · 剛力横暴者 · 蛮横力士
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -693,7 +717,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 노토리우스·폼페이 | Notorious - Pompey | 要警戒・ポンペイ | 恶名·庞培 |
+| 노토리우스·폼페이 [공식 / Official / 正式 / 官方] | Notorious - Pompey [공식 / Official / 正式 / 官方] | 要警戒・ポンペイ [공식 / Official / 正式 / 官方] | 恶名·庞培 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -712,7 +736,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300211 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 노토리우스·폼페이 · Notorious - Pompey · 要警戒・ポンペイ · 恶名·庞培 · 惡名·龐培 · Notorisch – Pompey · Infâme – Pompée · Pompey infame · Pompey - Notável · Зловещий Помпей · Ác Danh - Pompey
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 노토리우스·폼페이 · Notorious - Pompey · 要警戒・ポンペイ · 恶名·庞培 · 惡名·龐培 · Notorisch – Pompey · Infâme – Pompée · Pompey infame · Pompey - Notável · Зловещий Помпей · Ác Danh - Pompey
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -722,7 +747,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 도플갱어·암연 징벌자 | Doppelganger - Abyssal Enforcer | ドッペルゲンガー・深淵の断罪者 | 多佩冈亚·暗渊惩戒者 |
+| 도플갱어·암연 징벌자 [공식 / Official / 正式 / 官方] | Doppelganger - Abyssal Enforcer [공식 / Official / 正式 / 官方] | ドッペルゲンガー・深淵の断罪者 [공식 / Official / 正式 / 官方] | 多佩冈亚·暗渊惩戒者 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -741,7 +766,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300301 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 도플갱어·암연 징벌자 · 도플갱어·암연징벌자 · Doppelganger - Abyssal Enforcer · ドッペルゲンガー・深淵の断罪者 · 多佩冈亚·暗渊惩戒者 · 多佩岡亞·暗淵懲戒者 · Doppelgänger – Abyssus-Vollstrecker · Doppelganger - Exécuteur abyssal · Doppelgänger de Castigador Sombrío · Sósia — Executor Abismal · Доппельгангер Каратель Бездны · Doppelganger - Kẻ Trừng Trị Vực Sâu
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 도플갱어·암연 징벌자 · 도플갱어·암연징벌자 · Doppelganger - Abyssal Enforcer · ドッペルゲンガー・深淵の断罪者 · 多佩冈亚·暗渊惩戒者 · 多佩岡亞·暗淵懲戒者 · Doppelgänger – Abyssus-Vollstrecker · Doppelganger - Exécuteur abyssal · Doppelgänger de Castigador Sombrío · Sósia — Executor Abismal · Доппельгангер Каратель Бездны · Doppelganger - Kẻ Trừng Trị Vực Sâu
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -751,7 +777,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 도플갱어·「변절자」 | Doppelganger - The Defector | ドッペルゲンガー・「背信者」 | 多佩冈亚·「变节者」 |
+| 도플갱어·「변절자」 [공식 / Official / 正式 / 官方] | Doppelganger - The Defector [공식 / Official / 正式 / 官方] | ドッペルゲンガー・「背信者」 [공식 / Official / 正式 / 官方] | 多佩冈亚·「变节者」 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -770,7 +796,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300371 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 도플갱어·「변절자」 · Doppelganger - The Defector · ドッペルゲンガー・「背信者」 · 多佩冈亚·「变节者」 · 多佩岡亞·「變節者」 · Doppelgänger – Abtrünnige · Doppelganger - Le Déserteur · Doppelgänger de Desertora · Sósia — Desertora · Доппельгангер — ренегат · Doppelganger - Kẻ Biến Chất
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 도플갱어·「변절자」 · Doppelganger - The Defector · ドッペルゲンガー・「背信者」 · 多佩冈亚·「变节者」 · 多佩岡亞·「變節者」 · Doppelgänger – Abtrünnige · Doppelganger - Le Déserteur · Doppelgänger de Desertora · Sósia — Desertora · Доппельгангер — ренегат · Doppelganger - Kẻ Biến Chất
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -780,7 +807,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 미아즈믹·도플갱어·「변절자」 | Miasmic - Doppelganger - The Defector | ミアズミック・ドッペルゲンガー・「背信者」 | 秽蚀·多佩冈亚·「变节者」 |
+| 미아즈믹·도플갱어·「변절자」 [공식 / Official / 正式 / 官方] | Miasmic - Doppelganger - The Defector [공식 / Official / 正式 / 官方] | ミアズミック・ドッペルゲンガー・「背信者」 [공식 / Official / 正式 / 官方] | 秽蚀·多佩冈亚·「变节者」 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -799,7 +826,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300372 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 미아즈믹·도플갱어·「변절자」 · Miasmic - Doppelganger - The Defector · ミアズミック・ドッペルゲンガー・「背信者」 · 秽蚀·多佩冈亚·「变节者」 · 穢蝕·多佩岡亞·「變節者」 · Miasmisch – Doppelgänger – Abtrünnige · Miasmatique - Doppelganger - Le Déserteur · Doppelgänger miasmático de Desertora · Miasmática — Sósia — Desertora · Осквернённый доппельгангер — ренегат · Miasmic: Doppelganger - The Defector · Uế Thực: Doppelganger - Kẻ Biến Chất
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 미아즈믹·도플갱어·「변절자」 · Miasmic - Doppelganger - The Defector · ミアズミック・ドッペルゲンガー・「背信者」 · 秽蚀·多佩冈亚·「变节者」 · 穢蝕·多佩岡亞·「變節者」 · Miasmisch – Doppelgänger – Abtrünnige · Miasmatique - Doppelganger - Le Déserteur · Doppelgänger miasmático de Desertora · Miasmática — Sósia — Desertora · Осквернённый доппельгангер — ренегат · Miasmic: Doppelganger - The Defector · Uế Thực: Doppelganger - Kẻ Biến Chất
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -809,7 +837,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 헤이토 | Haytor | ハイヨト | 赫由托 |
+| 헤이토 [공식 / Official / 正式 / 官方] | Haytor [공식 / Official / 正式 / 官方] | ハイヨト [공식 / Official / 正式 / 官方] | 赫由托 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -828,7 +856,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300391 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 헤이토 · Haytor · ハイヨト · 赫由托 · 赫由託 · Hayuz · Хейтор
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 헤이토 · Haytor · ハイヨト · 赫由托 · 赫由託 · Hayuz · Хейтор
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -838,7 +867,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 도플갱어·코마노 마나토 | Doppelganger Komano Manato | ドッペルゲンガー・狛野真斗 | 多佩冈亚·狛野真斗 |
+| 도플갱어·코마노 마나토 [공식 / Official / 正式 / 官方] | Doppelganger Komano Manato [공식 / Official / 正式 / 官方] | ドッペルゲンガー・狛野真斗 [공식 / Official / 正式 / 官方] | 多佩冈亚·狛野真斗 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -857,7 +886,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300401 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 도플갱어·코마노 마나토 · 도플갱어·코마노마나토 · Doppelganger Komano Manato · ドッペルゲンガー・狛野真斗 · 多佩冈亚·狛野真斗 · 多佩岡亞·狛野真斗 · Doppelgänger – Komano Manato · Doppelganger - Komano Manato · Doppelgänger de Komano Manato · Sósia — Komano Manato · Доппельгангер Комано Манато
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 도플갱어·코마노 마나토 · 도플갱어·코마노마나토 · Doppelganger Komano Manato · ドッペルゲンガー・狛野真斗 · 多佩冈亚·狛野真斗 · 多佩岡亞·狛野真斗 · Doppelgänger – Komano Manato · Doppelganger - Komano Manato · Doppelgänger de Komano Manato · Sósia — Komano Manato · Доппельгангер Комано Манато
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -867,7 +897,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 미아즈믹·코마노 마나토 | Miasmic Komano Manato | ミアズミック・狛野真斗 | 秽蚀·狛野真斗 |
+| 미아즈믹·코마노 마나토 [공식 / Official / 正式 / 官方] | Miasmic Komano Manato [공식 / Official / 正式 / 官方] | ミアズミック・狛野真斗 [공식 / Official / 正式 / 官方] | 秽蚀·狛野真斗 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -886,7 +916,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:300402 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 미아즈믹·코마노 마나토 · 미아즈믹·코마노마나토 · Miasmic Komano Manato · ミアズミック・狛野真斗 · 秽蚀·狛野真斗 · 穢蝕·狛野真斗 · Miasmisch – Komano Manato · Miasmatique - Komano Manato · Komano Manato miasmático · Miasmático — Komano Manato · Осквернённый Комано Манато · Miasmic: Komano Manato · Uế Thực: Komano Manato · Miasmic - Komano Manato
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 미아즈믹·코마노 마나토 · 미아즈믹·코마노마나토 · Miasmic Komano Manato · ミアズミック・狛野真斗 · 秽蚀·狛野真斗 · 穢蝕·狛野真斗 · Miasmisch – Komano Manato · Miasmatique - Komano Manato · Komano Manato miasmático · Miasmático — Komano Manato · Осквернённый Комано Манато · Miasmic: Komano Manato · Uế Thực: Komano Manato · Miasmic - Komano Manato
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -896,7 +927,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 티르빙 | Tyrfing | ティルヴィング | 提尔锋 |
+| 티르빙 [공식 / Official / 正式 / 官方] | Tyrfing [공식 / Official / 正式 / 官方] | ティルヴィング [공식 / Official / 正式 / 官方] | 提尔锋 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -915,7 +946,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930146 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 티르빙 · Tyrfing · ティルヴィング · 提尔锋 · 提爾鋒 · Тюрфинг
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 티르빙 · Tyrfing · ティルヴィング · 提尔锋 · 提爾鋒 · Тюрфинг
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -925,7 +957,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 아라운 | Arlaune | アルラウネ | 阿劳恩 |
+| 아라운 [공식 / Official / 正式 / 官方] | Arlaune [공식 / Official / 正式 / 官方] | アルラウネ [공식 / Official / 正式 / 官方] | 阿劳恩 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -944,7 +976,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930147 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 아라운 · Arlaune · アルラウネ · 阿劳恩 · 阿勞恩 · Alrune · Альраун
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 아라운 · Arlaune · アルラウネ · 阿劳恩 · 阿勞恩 · Alrune · Альраун
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -954,7 +987,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 악령 | Ahriman | アフリマン | 恶灵 |
+| 악령 [공식 / Official / 正式 / 官方] | Ahriman [공식 / Official / 正式 / 官方] | アフリマン [공식 / Official / 正式 / 官方] | 恶灵 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -973,7 +1006,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930148 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 악령 · Ahriman · アフリマン · 恶灵 · 惡靈 · Arimán · Arimã · Ариман · Ác Linh
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 악령 · Ahriman · アフリマン · 恶灵 · 惡靈 · Arimán · Arimã · Ариман · Ác Linh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -983,7 +1017,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 알페카 | Alpeca | アルペカ | 阿佩卡 |
+| 알페카 [공식 / Official / 正式 / 官方] | Alpeca [공식 / Official / 正式 / 官方] | アルペカ [공식 / Official / 正式 / 官方] | 阿佩卡 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1002,7 +1036,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930149 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 알페카 · Alpeca · アルペカ · 阿佩卡 · Альпека
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 알페카 · Alpeca · アルペカ · 阿佩卡 · Альпека
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1012,7 +1047,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 듀라한 | Dullahan | デュラハン | 杜拉罕 |
+| 듀라한 [공식 / Official / 正式 / 官方] | Dullahan [공식 / Official / 正式 / 官方] | デュラハン [공식 / Official / 正式 / 官方] | 杜拉罕 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1031,7 +1066,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930150 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 듀라한 · Dullahan · デュラハン · 杜拉罕
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 듀라한 · Dullahan · デュラハン · 杜拉罕
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1041,7 +1077,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 황금 「Bangboo」 | Golden Bangboo | ゴールドボンプ | 黄金邦布 |
+| 황금 「Bangboo」 [공식 / Official / 正式 / 官方] | Golden Bangboo [공식 / Official / 正式 / 官方] | ゴールドボンプ [공식 / Official / 正式 / 官方] | 黄金邦布 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1060,7 +1096,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930151 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 황금 「Bangboo」 · 황금「Bangboo」 · Golden Bangboo · ゴールドボンプ · 黄金邦布 · 黃金邦布 · Goldenes Bangboo · Bangbou doré · Bangbú dorado · Bangboo Dourado · Золотой банбу · Bangboo Vàng · Bangboo Emas
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 황금 「Bangboo」 · 황금「Bangboo」 · Golden Bangboo · ゴールドボンプ · 黄金邦布 · 黃金邦布 · Goldenes Bangboo · Bangbou doré · Bangbú dorado · Bangboo Dourado · Золотой банбу · Bangboo Vàng · Bangboo Emas
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1070,7 +1107,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 호플리타이 | Hoplitai | ホプリタイ | 霍普利泰 |
+| 호플리타이 [공식 / Official / 正式 / 官方] | Hoplitai [공식 / Official / 正式 / 官方] | ホプリタイ [공식 / Official / 正式 / 官方] | 霍普利泰 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1089,7 +1126,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930152 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 호플리타이 · Hoplitai · ホプリタイ · 霍普利泰 · Hoplites · Hoplita · Гоплит
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 호플리타이 · Hoplitai · ホプリタイ · 霍普利泰 · Hoplites · Hoplita · Гоплит
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1099,7 +1137,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 파우누스 | Faun | サテュロス | 萨提尔 |
+| 파우누스 [공식 / Official / 正式 / 官方] | Faun [공식 / Official / 正式 / 官方] | サテュロス [공식 / Official / 正式 / 官方] | 萨提尔 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1118,7 +1156,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930153 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 파우누스 · Faun · サテュロス · 萨提尔 · 薩提爾 · Faune · Sátiro · Сатир
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 파우누스 · Faun · サテュロス · 萨提尔 · 薩提爾 · Faune · Sátiro · Сатир
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1128,7 +1167,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 블라스트크롤러 | Blastcrawler | ブラストスパイダー | 雷蛛 |
+| 블라스트크롤러 [공식 / Official / 正式 / 官方] | Blastcrawler [공식 / Official / 正式 / 官方] | ブラストスパイダー [공식 / Official / 正式 / 官方] | 雷蛛 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1147,7 +1186,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930154 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 블라스트크롤러 · Blastcrawler · ブラストスパイダー · 雷蛛 · Blitzspinne · Araignée explosive · Araña explosiva · Explodaranha · Взрывной паук · Blast Spider
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 블라스트크롤러 · Blastcrawler · ブラストスパイダー · 雷蛛 · Blitzspinne · Araignée explosive · Araña explosiva · Explodaranha · Взрывной паук · Blast Spider
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1157,7 +1197,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 악독한 싸움꾼 | Vicious Striker | 悪辣討手 | 恶毒打手 |
+| 악독한 싸움꾼 [공식 / Official / 正式 / 官方] | Vicious Striker [공식 / Official / 正式 / 官方] | 悪辣討手 [공식 / Official / 正式 / 官方] | 恶毒打手 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1176,7 +1216,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930155 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 악독한 싸움꾼 · 악독한싸움꾼 · Vicious Striker · 悪辣討手 · 恶毒打手 · 惡毒打手 · Boshafter Schläger · Frappeur sournois · Matón despiadado · Golpeador Cruel · Злобный громила · Côn Đồ Độc Ác
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 악독한 싸움꾼 · 악독한싸움꾼 · Vicious Striker · 悪辣討手 · 恶毒打手 · 惡毒打手 · Boshafter Schläger · Frappeur sournois · Matón despiadado · Golpeador Cruel · Злобный громила · Côn Đồ Độc Ác
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1186,7 +1227,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 악독한 싸움꾼 | Vicious Striker | 悪辣討手 | 恶毒打手 |
+| 악독한 싸움꾼 [공식 / Official / 正式 / 官方] | Vicious Striker [공식 / Official / 正式 / 官方] | 悪辣討手 [공식 / Official / 正式 / 官方] | 恶毒打手 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1205,7 +1246,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930156 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 악독한 싸움꾼 · 악독한싸움꾼 · Vicious Striker · 悪辣討手 · 恶毒打手 · 惡毒打手 · Boshafter Schläger · Frappeur sournois · Matón despiadado · Golpeador Cruel · Злобный громила · Côn Đồ Độc Ác
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 악독한 싸움꾼 · 악독한싸움꾼 · Vicious Striker · 悪辣討手 · 恶毒打手 · 惡毒打手 · Boshafter Schläger · Frappeur sournois · Matón despiadado · Golpeador Cruel · Злобный громила · Côn Đồ Độc Ác
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1215,7 +1257,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 티르빙 | Tyrfing | ティルヴィング | 提尔锋 |
+| 티르빙 [공식 / Official / 正式 / 官方] | Tyrfing [공식 / Official / 正式 / 官方] | ティルヴィング [공식 / Official / 正式 / 官方] | 提尔锋 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1234,7 +1276,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930157 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 티르빙 · Tyrfing · ティルヴィング · 提尔锋 · 提爾鋒 · Тюрфинг
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 티르빙 · Tyrfing · ティルヴィング · 提尔锋 · 提爾鋒 · Тюрфинг
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1244,7 +1287,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 아라운 | Arlaune | アルラウネ | 阿劳恩 |
+| 아라운 [공식 / Official / 正式 / 官方] | Arlaune [공식 / Official / 正式 / 官方] | アルラウネ [공식 / Official / 正式 / 官方] | 阿劳恩 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1263,7 +1306,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930158 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 아라운 · Arlaune · アルラウネ · 阿劳恩 · 阿勞恩 · Alrune · Альраун
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 아라운 · Arlaune · アルラウネ · 阿劳恩 · 阿勞恩 · Alrune · Альраун
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1273,7 +1317,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 악령 | Ahriman | アフリマン | 恶灵 |
+| 악령 [공식 / Official / 正式 / 官方] | Ahriman [공식 / Official / 正式 / 官方] | アフリマン [공식 / Official / 正式 / 官方] | 恶灵 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1292,7 +1336,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930159 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 악령 · Ahriman · アフリマン · 恶灵 · 惡靈 · Arimán · Arimã · Ариман · Ác Linh
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 악령 · Ahriman · アフリマン · 恶灵 · 惡靈 · Arimán · Arimã · Ариман · Ác Linh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1302,7 +1347,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 알페카 | Alpeca | アルペカ | 阿佩卡 |
+| 알페카 [공식 / Official / 正式 / 官方] | Alpeca [공식 / Official / 正式 / 官方] | アルペカ [공식 / Official / 正式 / 官方] | 阿佩卡 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1321,7 +1366,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930160 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 알페카 · Alpeca · アルペカ · 阿佩卡 · Альпека
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 알페카 · Alpeca · アルペカ · 阿佩卡 · Альпека
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1331,7 +1377,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 듀라한 | Dullahan | デュラハン | 杜拉罕 |
+| 듀라한 [공식 / Official / 正式 / 官方] | Dullahan [공식 / Official / 正式 / 官方] | デュラハン [공식 / Official / 正式 / 官方] | 杜拉罕 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1350,7 +1396,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930161 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 듀라한 · Dullahan · デュラハン · 杜拉罕
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 듀라한 · Dullahan · デュラハン · 杜拉罕
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1360,7 +1407,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 호플리타이 | Hoplitai | ホプリタイ | 霍普利泰 |
+| 호플리타이 [공식 / Official / 正式 / 官方] | Hoplitai [공식 / Official / 正式 / 官方] | ホプリタイ [공식 / Official / 正式 / 官方] | 霍普利泰 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1379,7 +1426,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930162 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 호플리타이 · Hoplitai · ホプリタイ · 霍普利泰 · Hoplites · Hoplita · Гоплит
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 호플리타이 · Hoplitai · ホプリタイ · 霍普利泰 · Hoplites · Hoplita · Гоплит
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1389,7 +1437,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 파우누스 | Faun | サテュロス | 萨提尔 |
+| 파우누스 [공식 / Official / 正式 / 官方] | Faun [공식 / Official / 正式 / 官方] | サテュロス [공식 / Official / 正式 / 官方] | 萨提尔 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1408,7 +1456,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930163 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 파우누스 · Faun · サテュロス · 萨提尔 · 薩提爾 · Faune · Sátiro · Сатир
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 파우누스 · Faun · サテュロス · 萨提尔 · 薩提爾 · Faune · Sátiro · Сатир
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1418,7 +1467,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 블라스트크롤러 | Blastcrawler | ブラストスパイダー | 雷蛛 |
+| 블라스트크롤러 [공식 / Official / 正式 / 官方] | Blastcrawler [공식 / Official / 正式 / 官方] | ブラストスパイダー [공식 / Official / 正式 / 官方] | 雷蛛 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1437,7 +1486,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930164 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 블라스트크롤러 · Blastcrawler · ブラストスパイダー · 雷蛛 · Blitzspinne · Araignée explosive · Araña explosiva · Explodaranha · Взрывной паук · Blast Spider
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 블라스트크롤러 · Blastcrawler · ブラストスパイダー · 雷蛛 · Blitzspinne · Araignée explosive · Araña explosiva · Explodaranha · Взрывной паук · Blast Spider
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
@@ -1447,7 +1497,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 악독한 싸움꾼 | Vicious Striker | 悪辣討手 | 恶毒打手 |
+| 악독한 싸움꾼 [공식 / Official / 正式 / 官方] | Vicious Striker [공식 / Official / 正式 / 官方] | 悪辣討手 [공식 / Official / 正式 / 官方] | 恶毒打手 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1466,7 +1516,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: monster:930165 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 악독한 싸움꾼 · 악독한싸움꾼 · Vicious Striker · 悪辣討手 · 恶毒打手 · 惡毒打手 · Boshafter Schläger · Frappeur sournois · Matón despiadado · Golpeador Cruel · Злобный громила · Côn Đồ Độc Ác
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 악독한 싸움꾼 · 악독한싸움꾼 · Vicious Striker · 悪辣討手 · 恶毒打手 · 惡毒打手 · Boshafter Schläger · Frappeur sournois · Matón despiadado · Golpeador Cruel · Злобный громила · Côn Đồ Độc Ác
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)

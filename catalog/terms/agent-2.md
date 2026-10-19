@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 시시아 | Cissia | シーシィア | 希希芙 |
+| 시시아 [공식 / Official / 正式 / 官方] | Cissia [공식 / Official / 正式 / 官方] | シーシィア [공식 / Official / 正式 / 官方] | 希希芙 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1521 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 시시아 · Cissia · シーシィア · 希希芙 · Císsia · Циссия
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 시시아 · Cissia · シーシィア · 希希芙 · Císsia · Циссия
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -53,7 +54,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 스타라이트·빌리 | Starlight - Billy | スターライト･ビリー | 星徽·比利 |
+| 스타라이트·빌리 [공식 / Official / 正式 / 官方] | Starlight - Billy [공식 / Official / 正式 / 官方] | スターライト･ビリー [공식 / Official / 正式 / 官方] | 星徽·比利 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -72,7 +73,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1531 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 스타라이트·빌리 · Starlight - Billy · スターライト･ビリー · 星徽·比利
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 스타라이트·빌리 · Starlight - Billy · スターライト･ビリー · 星徽·比利
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -82,7 +84,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 프로미아 | Promeia | プロメイア | 普罗米娅 |
+| 프로미아 [공식 / Official / 正式 / 官方] | Promeia [공식 / Official / 正式 / 官方] | プロメイア [공식 / Official / 正式 / 官方] | 普罗米娅 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -101,7 +103,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1541 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 프로미아 · Promeia · プロメイア · 普罗米娅 · 普羅米婭 · Промея
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 프로미아 · Promeia · プロメイア · 普罗米娅 · 普羅米婭 · Промея
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -111,7 +114,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 피로이스 | Pyrois | ピュロイス | 佩洛伊斯 |
+| 피로이스 [공식 / Official / 正式 / 官方] | Pyrois [공식 / Official / 正式 / 官方] | ピュロイス [공식 / Official / 正式 / 官方] | 佩洛伊斯 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -130,7 +133,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1551 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 피로이스 · Pyrois · ピュロイス · 佩洛伊斯 · Pyroïs · Пироис
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 피로이스 · Pyrois · ピュロイス · 佩洛伊斯 · Pyroïs · Пироис
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -140,7 +144,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 벨리나 | Velina | ヴェリナ | 维琳娜 |
+| 벨리나 [공식 / Official / 正式 / 官方] | Velina [공식 / Official / 正式 / 官方] | ヴェリナ [공식 / Official / 正式 / 官方] | 维琳娜 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -159,7 +163,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1561 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 벨리나 · Velina · ヴェリナ · 维琳娜 · 維琳娜 · Vélina · Велина
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 벨리나 · Velina · ヴェリナ · 维琳娜 · 維琳娜 · Vélina · Велина
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -169,7 +174,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 노르마 | Norma | ノルムー | 诺姆 |
+| 노르마 [공식 / Official / 正式 / 官方] | Norma [공식 / Official / 正式 / 官方] | ノルムー [공식 / Official / 正式 / 官方] | 诺姆 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -188,7 +193,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1571 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 노르마 · Norma · ノルムー · 诺姆 · 諾姆 · Норма
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 노르마 · Norma · ノルムー · 诺姆 · 諾姆 · Норма
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -198,7 +204,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 레미엘 | Remielle | レミエール | 蕾米埃尔 |
+| 레미엘 [공식 / Official / 正式 / 官方] | Remielle [공식 / Official / 正式 / 官方] | レミエール [공식 / Official / 正式 / 官方] | 蕾米埃尔 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -217,7 +223,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1581 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 레미엘 · Remielle · レミエール · 蕾米埃尔
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 레미엘 · Remielle · レミエール · 蕾米埃尔
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -227,7 +234,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 시그리드 | Sigrid | シグリッド | 希格莉德 |
+| 시그리드 [공식 / Official / 正式 / 官方] | Sigrid [공식 / Official / 正式 / 官方] | シグリッド [공식 / Official / 正式 / 官方] | 希格莉德 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -246,7 +253,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1591 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 시그리드 · Sigrid · シグリッド · 希格莉德 · Сигрид
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 시그리드 · Sigrid · シグリッド · 希格莉德 · Сигрид
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -256,7 +264,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 클라렛 | Claret | クラレッタ | 克拉蕾 |
+| 클라렛 [공식 / Official / 正式 / 官方] | Claret [공식 / Official / 正式 / 官方] | クラレッタ [공식 / Official / 正式 / 官方] | 克拉蕾 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -275,7 +283,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1611 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 클라렛 · Claret · クラレッタ · 克拉蕾 · Clarette · Кларет
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 클라렛 · Claret · クラレッタ · 克拉蕾 · Clarette · Кларет
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -285,7 +294,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 록시 | Roxy | ロクシー | 洛克茜 |
+| 록시 [공식 / Official / 正式 / 官方] | Roxy [공식 / Official / 正式 / 官方] | ロクシー [공식 / Official / 正式 / 官方] | 洛克茜 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -304,7 +313,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1621 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 록시 · Roxy · ロクシー · 洛克茜 · Рокси
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 록시 · Roxy · ロクシー · 洛克茜 · Рокси
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
@@ -314,7 +324,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 세베리안 | Severian | セヴェリアン | 赛维里安 |
+| 세베리안 [공식 / Official / 正式 / 官方] | Severian [공식 / Official / 正式 / 官方] | セヴェリアン [공식 / Official / 正式 / 官方] | 赛维里安 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -333,7 +343,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1631 · Status: prerelease · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 세베리안 · Severian · セヴェリアン · 赛维里安
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 세베리안 · Severian · セヴェリアン · 赛维里安
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/character.json)
@@ -343,7 +354,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 피닉스 | Phoenix | フィオニー | 菲欧妮 |
+| 피닉스 [공식 / Official / 正式 / 官方] | Phoenix [공식 / Official / 正式 / 官方] | フィオニー [공식 / Official / 正式 / 官方] | 菲欧妮 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -362,7 +373,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: character:1641 · Status: prerelease · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 피닉스 · Phoenix · フィオニー · 菲欧妮
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 피닉스 · Phoenix · フィオニー · 菲欧妮
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/character.json)

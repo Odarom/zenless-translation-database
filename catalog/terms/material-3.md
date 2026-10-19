@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고차원 데이터: 부식된 집게 코어 | Higher Dimensional Data: Spiked Corruption Core | 高次元データ：蝕まれた刺 | 高维数据：淬刺蚀芯 |
+| 고차원 데이터: 부식된 집게 코어 [공식 / Official / 正式 / 官方] | Higher Dimensional Data: Spiked Corruption Core [공식 / Official / 正式 / 官方] | 高次元データ：蝕まれた刺 [공식 / Official / 正式 / 官方] | 高维数据：淬刺蚀芯 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:110513 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고차원 데이터: 부식된 집게 코어 · 고차원데이터:부식된집게코어 · Higher Dimensional Data: Spiked Corruption Core · 高次元データ：蝕まれた刺 · 高维数据：淬刺蚀芯 · 高維資料：淬刺蝕芯 · Hochdimensionale Daten: Gehärteter Korrosionskern · Données dimensionnelles supérieures : Noyau de corrosion à aiguillons · Datos de alta dimensionalidad: núcleo de corrupción espinado · Dados de Dimensões Superiores: Núcleo Corrompido · Высокоразмерные данные: Закалённое ядро · ข้อมูลมิติสูง: Spiked Corruption Core · Dữ Liệu Đa Chiều: Tôi Luyện Chip Ăn Mòn · Higher Dimensional Data: Spiked Corrosion Core
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 부식된 집게 코어 · 고차원데이터:부식된집게코어 · Higher Dimensional Data: Spiked Corruption Core · 高次元データ：蝕まれた刺 · 高维数据：淬刺蚀芯 · 高維資料：淬刺蝕芯 · Hochdimensionale Daten: Gehärteter Korrosionskern · Données dimensionnelles supérieures : Noyau de corrosion à aiguillons · Datos de alta dimensionalidad: núcleo de corrupción espinado · Dados de Dimensões Superiores: Núcleo Corrompido · Высокоразмерные данные: Закалённое ядро · ข้อมูลมิติสูง: Spiked Corruption Core · Dữ Liệu Đa Chiều: Tôi Luyện Chip Ăn Mòn · Higher Dimensional Data: Spiked Corrosion Core
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -53,7 +54,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고차원 데이터: 피로 얼룩진 깃털 | Higher Dimensional Data: Bloodstained Miasma Feather | 高次元データ：穢れた血塗れ羽 | 高维数据：喋血秽羽 |
+| 고차원 데이터: 피로 얼룩진 깃털 [공식 / Official / 正式 / 官方] | Higher Dimensional Data: Bloodstained Miasma Feather [공식 / Official / 正式 / 官方] | 高次元データ：穢れた血塗れ羽 [공식 / Official / 正式 / 官方] | 高维数据：喋血秽羽 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -72,7 +73,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:110514 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고차원 데이터: 피로 얼룩진 깃털 · 고차원데이터:피로얼룩진깃털 · Higher Dimensional Data: Bloodstained Miasma Feather · 高次元データ：穢れた血塗れ羽 · 高维数据：喋血秽羽 · 高維資料：喋血穢羽 · Hochdimensionale Daten: Blutbefleckte Miasmafeder · Données dimensionnelles supérieures : Plume miasmatique meurtrière · Datos de alta dimensionalidad: pluma miasmática ensangrentada · Dados de Dimensões Superiores: Penas Miasmáticas Ensanguentadas · Высокоразмерные данные: Кровавое осквернённое перо · ข้อมูลมิติสูง: Bloodstained Miasma Feather · Dữ Liệu Đa Chiều: Lông Vũ Nhuốm Đỏ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 피로 얼룩진 깃털 · 고차원데이터:피로얼룩진깃털 · Higher Dimensional Data: Bloodstained Miasma Feather · 高次元データ：穢れた血塗れ羽 · 高维数据：喋血秽羽 · 高維資料：喋血穢羽 · Hochdimensionale Daten: Blutbefleckte Miasmafeder · Données dimensionnelles supérieures : Plume miasmatique meurtrière · Datos de alta dimensionalidad: pluma miasmática ensangrentada · Dados de Dimensões Superiores: Penas Miasmáticas Ensanguentadas · Высокоразмерные данные: Кровавое осквернённое перо · ข้อมูลมิติสูง: Bloodstained Miasma Feather · Dữ Liệu Đa Chiều: Lông Vũ Nhuốm Đỏ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -82,7 +84,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고차원 데이터: 고도로 침식된 회로 | Higher Dimensional Data: Deep Erosion Circuit | 高次元データ：深く蝕まれた回路 | 高维数据：深蚀回路 |
+| 고차원 데이터: 고도로 침식된 회로 [공식 / Official / 正式 / 官方] | Higher Dimensional Data: Deep Erosion Circuit [공식 / Official / 正式 / 官方] | 高次元データ：深く蝕まれた回路 [공식 / Official / 正式 / 官方] | 高维数据：深蚀回路 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -101,7 +103,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:110515 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고차원 데이터: 고도로 침식된 회로 · 고차원데이터:고도로침식된회로 · Higher Dimensional Data: Deep Erosion Circuit · 高次元データ：深く蝕まれた回路 · 高维数据：深蚀回路 · 高維資料：深蝕迴路 · Hochdimensionale Daten: Tiefenkorrosions-Schaltkreis · Données dimensionnelles supérieures : Circuit hautement érodé · Datos de alta dimensionalidad: circuito de erosión profunda · Dados de Dimensões Superiores: Circuito de Erosão Profunda · Высокоразмерные данные: Контур глубокого травления · ข้อมูลมิติสูง: Deep Erosion Circuit · Dữ Liệu Đa Chiều: Mạch Điện Ăn Mòn
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 고도로 침식된 회로 · 고차원데이터:고도로침식된회로 · Higher Dimensional Data: Deep Erosion Circuit · 高次元データ：深く蝕まれた回路 · 高维数据：深蚀回路 · 高維資料：深蝕迴路 · Hochdimensionale Daten: Tiefenkorrosions-Schaltkreis · Données dimensionnelles supérieures : Circuit hautement érodé · Datos de alta dimensionalidad: circuito de erosión profunda · Dados de Dimensões Superiores: Circuito de Erosão Profunda · Высокоразмерные данные: Контур глубокого травления · ข้อมูลมิติสูง: Deep Erosion Circuit · Dữ Liệu Đa Chiều: Mạch Điện Ăn Mòn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -111,7 +114,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고차원 데이터: 모조 코어 | Higher Dimensional Data: Imitation Core | 高次元データ：模造コア | 高维数据：拟造核心 |
+| 고차원 데이터: 모조 코어 [공식 / Official / 正式 / 官方] | Higher Dimensional Data: Imitation Core [공식 / Official / 正式 / 官方] | 高次元データ：模造コア [공식 / Official / 正式 / 官方] | 高维数据：拟造核心 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -130,7 +133,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:110516 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고차원 데이터: 모조 코어 · 고차원데이터:모조코어 · Higher Dimensional Data: Imitation Core · 高次元データ：模造コア · 高维数据：拟造核心 · 高維資料：擬造核心 · Hochdimensionale Daten: Imitationskern · Données dimensionnelles supérieures : Noyau d'imitation · Datos de alta dimensionalidad: núcleo de imitación · Dados de Dimensões Superiores: Núcleo de Imitação · Высокоразмерные данные: имитационное ядро · ข้อมูลมิติสูง: Imitation Core · Dữ Liệu Đa Chiều: Lõi Mô Phỏng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 모조 코어 · 고차원데이터:모조코어 · Higher Dimensional Data: Imitation Core · 高次元データ：模造コア · 高维数据：拟造核心 · 高維資料：擬造核心 · Hochdimensionale Daten: Imitationskern · Données dimensionnelles supérieures : Noyau d'imitation · Datos de alta dimensionalidad: núcleo de imitación · Dados de Dimensões Superiores: Núcleo de Imitação · Высокоразмерные данные: имитационное ядро · ข้อมูลมิติสูง: Imitation Core · Dữ Liệu Đa Chiều: Lõi Mô Phỏng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -140,7 +144,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「Bangboo」 에너지 플러그인 | Bangboo Energy Module Plug-In | ボンプエネルギープラグイン | 邦布能源插件 |
+| 「Bangboo」 에너지 플러그인 [공식 / Official / 正式 / 官方] | Bangboo Energy Module Plug-In [공식 / Official / 正式 / 官方] | ボンプエネルギープラグイン [공식 / Official / 正式 / 官方] | 邦布能源插件 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -159,7 +163,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:120001 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「Bangboo」 에너지 플러그인 · 「Bangboo」에너지플러그인 · Bangboo Energy Module Plug-In · ボンプエネルギープラグイン · 邦布能源插件 · 邦布能源擴充元件 · Bangboo-Energie-Plug-in · Module énergétique pour Bangbou · Plug-in de energía para bangbú · Plug-In de Energia de Bangboo · Плагин энергомодуля банбу · ปลั๊กอินพลังงาน Bangboo · Trình Cắm Năng Lượng Bangboo
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「Bangboo」 에너지 플러그인 · 「Bangboo」에너지플러그인 · Bangboo Energy Module Plug-In · ボンプエネルギープラグイン · 邦布能源插件 · 邦布能源擴充元件 · Bangboo-Energie-Plug-in · Module énergétique pour Bangbou · Plug-in de energía para bangbú · Plug-In de Energia de Bangboo · Плагин энергомодуля банбу · ปลั๊กอินพลังงาน Bangboo · Trình Cắm Năng Lượng Bangboo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -169,7 +174,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 메마른 결정체·파랑 | Withered Crystal: Heaven's Azure | 枯渇結晶・天青 | 枯萎脉晶·天青 |
+| 메마른 결정체·파랑 [공식 / Official / 正式 / 官方] | Withered Crystal: Heaven's Azure [공식 / Official / 正式 / 官方] | 枯渇結晶・天青 [공식 / Official / 正式 / 官方] | 枯萎脉晶·天青 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -188,7 +193,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:150101 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 메마른 결정체·파랑 · 메마른결정체·파랑 · Withered Crystal: Heaven's Azure · 枯渇結晶・天青 · 枯萎脉晶·天青 · 枯萎脈晶·天青 · Verwelkter Kristall – Himmelblau · Cristal terni : Azur céleste · Cristal mustio: celeste · Cristal Atrofiado: Azul Celestial · Кристалл упадка: небесно-голубой · ผลึกซูบเซียว - สีฟ้าคราม · Tinh Thể Khô Héo - Xanh
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 메마른 결정체·파랑 · 메마른결정체·파랑 · Withered Crystal: Heaven's Azure · 枯渇結晶・天青 · 枯萎脉晶·天青 · 枯萎脈晶·天青 · Verwelkter Kristall – Himmelblau · Cristal terni : Azur céleste · Cristal mustio: celeste · Cristal Atrofiado: Azul Celestial · Кристалл упадка: небесно-голубой · ผลึกซูบเซียว - สีฟ้าคราม · Tinh Thể Khô Héo - Xanh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -198,7 +204,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 메마른 결정체·노랑 | Withered Crystal: Ink-Yellow | 枯渇結晶・玄黄 | 枯萎脉晶·玄黄 |
+| 메마른 결정체·노랑 [공식 / Official / 正式 / 官方] | Withered Crystal: Ink-Yellow [공식 / Official / 正式 / 官方] | 枯渇結晶・玄黄 [공식 / Official / 正式 / 官方] | 枯萎脉晶·玄黄 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -217,7 +223,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:150102 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 메마른 결정체·노랑 · 메마른결정체·노랑 · Withered Crystal: Ink-Yellow · 枯渇結晶・玄黄 · 枯萎脉晶·玄黄 · 枯萎脈晶·玄黃 · Verwelkter Kristall – Erdegelb · Cristal terni : Topaze ocre · Cristal mustio: ocre · Cristal Atrofiado: Amarelo Nanquim · Кристалл упадка: чёрно-жёлтый · ผลึกซูบเซียว - สีดำเหลือง · Tinh Thể Khô Héo - Vàng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 메마른 결정체·노랑 · 메마른결정체·노랑 · Withered Crystal: Ink-Yellow · 枯渇結晶・玄黄 · 枯萎脉晶·玄黄 · 枯萎脈晶·玄黃 · Verwelkter Kristall – Erdegelb · Cristal terni : Topaze ocre · Cristal mustio: ocre · Cristal Atrofiado: Amarelo Nanquim · Кристалл упадка: чёрно-жёлтый · ผลึกซูบเซียว - สีดำเหลือง · Tinh Thể Khô Héo - Vàng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -227,7 +234,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 메마른 결정체·빨강 | Withered Crystal: Iron Red | 枯渇結晶・赤釉 | 枯萎脉晶·矾红 |
+| 메마른 결정체·빨강 [공식 / Official / 正式 / 官方] | Withered Crystal: Iron Red [공식 / Official / 正式 / 官方] | 枯渇結晶・赤釉 [공식 / Official / 正式 / 官方] | 枯萎脉晶·矾红 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -246,7 +253,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:150103 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 메마른 결정체·빨강 · 메마른결정체·빨강 · Withered Crystal: Iron Red · 枯渇結晶・赤釉 · 枯萎脉晶·矾红 · 枯萎脈晶·礬紅 · Verwelkter Kristall – Alaunrot · Cristal terni : Hématite pourpre · Cristal mustio: bermejo · Cristal Atrofiado: Vermelho Ferroso · Кристалл упадка: кирпично-красный · ผลึกซูบเซียว - สีแดงอิฐ · Tinh Thể Khô Héo - Đỏ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 메마른 결정체·빨강 · 메마른결정체·빨강 · Withered Crystal: Iron Red · 枯渇結晶・赤釉 · 枯萎脉晶·矾红 · 枯萎脈晶·礬紅 · Verwelkter Kristall – Alaunrot · Cristal terni : Hématite pourpre · Cristal mustio: bermejo · Cristal Atrofiado: Vermelho Ferroso · Кристалл упадка: кирпично-красный · ผลึกซูบเซียว - สีแดงอิฐ · Tinh Thể Khô Héo - Đỏ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -256,7 +264,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 그림자 결정 | Shadow Crystal | シャドウ結晶 | 阴影结晶 |
+| 그림자 결정 [공식 / Official / 正式 / 官方] | Shadow Crystal [공식 / Official / 正式 / 官方] | シャドウ結晶 [공식 / Official / 正式 / 官方] | 阴影结晶 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -275,7 +283,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:150104 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 그림자 결정 · 그림자결정 · Shadow Crystal · シャドウ結晶 · 阴影结晶 · 陰影結晶 · Schattenkristall · Cristal sombre · Cristal sombrío · Cristal Sombrio · Теневой кристалл · Kết Tinh Bóng Tối
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 그림자 결정 · 그림자결정 · Shadow Crystal · シャドウ結晶 · 阴影结晶 · 陰影結晶 · Schattenkristall · Cristal sombre · Cristal sombrío · Cristal Sombrio · Теневой кристалл · Kết Tinh Bóng Tối
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -285,7 +294,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 얼룩덜룩한 에테르 입자 | Mottled Ether Particle | まばらなエーテル微粒子 | 斑驳以太微粒 |
+| 얼룩덜룩한 에테르 입자 [공식 / Official / 正式 / 官方] | Mottled Ether Particle [공식 / Official / 正式 / 官方] | まばらなエーテル微粒子 [공식 / Official / 正式 / 官方] | 斑驳以太微粒 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -304,7 +313,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:150105 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 얼룩덜룩한 에테르 입자 · 얼룩덜룩한에테르입자 · Mottled Ether Particle · まばらなエーテル微粒子 · 斑驳以太微粒 · 斑駁以太微粒 · Fleckiger Ätherpartikel · Particule d'éther tachée · Partícula etérea veteada · Partículas de Éter · Пёстрый эфир · อนุภาคอีเทอร์ที่มีรอยด่าง · Vi Hạt Ether Lốm Đốm
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 얼룩덜룩한 에테르 입자 · 얼룩덜룩한에테르입자 · Mottled Ether Particle · まばらなエーテル微粒子 · 斑驳以太微粒 · 斑駁以太微粒 · Fleckiger Ätherpartikel · Particule d'éther tachée · Partícula etérea veteada · Partículas de Éter · Пёстрый эфир · อนุภาคอีเทอร์ที่มีรอยด่าง · Vi Hạt Ether Lốm Đốm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -314,7 +324,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 크림슨 실크 | Crimson Silk | 深紅の晶糸 | 绯红晶丝 |
+| 크림슨 실크 [공식 / Official / 正式 / 官方] | Crimson Silk [공식 / Official / 正式 / 官方] | 深紅の晶糸 [공식 / Official / 正式 / 官方] | 绯红晶丝 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -333,7 +343,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:150201 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 크림슨 실크 · 크림슨실크 · Crimson Silk · 深紅の晶糸 · 绯红晶丝 · 緋紅晶絲 · Karminrote Seide · Soie écarlate · Filamento cristalizado granate · Seda Carmesim · Алая кристальная нить · Tơ Tinh Thể Đỏ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 크림슨 실크 · 크림슨실크 · Crimson Silk · 深紅の晶糸 · 绯红晶丝 · 緋紅晶絲 · Karminrote Seide · Soie écarlate · Filamento cristalizado granate · Seda Carmesim · Алая кристальная нить · Tơ Tinh Thể Đỏ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -343,7 +354,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 메마른 결정체·노랑 | Withered Crystal: Ink-Yellow | 枯渇結晶・玄黄 | 枯萎脉晶·玄黄 |
+| 메마른 결정체·노랑 [공식 / Official / 正式 / 官方] | Withered Crystal: Ink-Yellow [공식 / Official / 正式 / 官方] | 枯渇結晶・玄黄 [공식 / Official / 正式 / 官方] | 枯萎脉晶·玄黄 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -362,7 +373,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:150202 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 메마른 결정체·노랑 · 메마른결정체·노랑 · Withered Crystal: Ink-Yellow · 枯渇結晶・玄黄 · 枯萎脉晶·玄黄 · 枯萎脈晶·玄黃 · Verwelkter Kristall – Erdegelb · Cristal terni : Topaze ocre · Cristal mustio: ocre · Cristal Atrofiado: Amarelo Nanquim · Кристалл упадка: чёрно-жёлтый · ผลึกซูบเซียว - สีดำเหลือง · Tinh Thể Khô Héo - Vàng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 메마른 결정체·노랑 · 메마른결정체·노랑 · Withered Crystal: Ink-Yellow · 枯渇結晶・玄黄 · 枯萎脉晶·玄黄 · 枯萎脈晶·玄黃 · Verwelkter Kristall – Erdegelb · Cristal terni : Topaze ocre · Cristal mustio: ocre · Cristal Atrofiado: Amarelo Nanquim · Кристалл упадка: чёрно-жёлтый · ผลึกซูบเซียว - สีดำเหลือง · Tinh Thể Khô Héo - Vàng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -372,7 +384,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 수습 조사원 기록 | Trainee Investigator Log | 見習い調査員の記録 | 见习调查员记录 |
+| 수습 조사원 기록 [공식 / Official / 正式 / 官方] | Trainee Investigator Log [공식 / Official / 正式 / 官方] | 見習い調査員の記録 [공식 / Official / 正式 / 官方] | 见习调查员记录 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -391,7 +403,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:300001 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 수습 조사원 기록 · 수습조사원기록 · Trainee Investigator Log · 見習い調査員の記録 · 见习调查员记录 · 見習調查員紀錄 · Aufzeichnung eines auszubildenden Ermittlers · Journal d'apprenti inspecteur · Registro del investigador novato · Registro de Investigador Aprendiz · Журнал новичка · บันทึกนักสำรวจฝึกหัด · Ghi Chép Điều Tra Viên Thực Tập
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 수습 조사원 기록 · 수습조사원기록 · Trainee Investigator Log · 見習い調査員の記録 · 见习调查员记录 · 見習調查員紀錄 · Aufzeichnung eines auszubildenden Ermittlers · Journal d'apprenti inspecteur · Registro del investigador novato · Registro de Investigador Aprendiz · Журнал новичка · บันทึกนักสำรวจฝึกหัด · Ghi Chép Điều Tra Viên Thực Tập
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -401,7 +414,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 정규 조사원 기록 | Official Investigator Log | 正式調査員の記録 | 正式调查员记录 |
+| 정규 조사원 기록 [공식 / Official / 正式 / 官方] | Official Investigator Log [공식 / Official / 正式 / 官方] | 正式調査員の記録 [공식 / Official / 正式 / 官方] | 正式调查员记录 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -420,7 +433,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:300002 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 정규 조사원 기록 · 정규조사원기록 · Official Investigator Log · 正式調査員の記録 · 正式调查员记录 · 正式調查員紀錄 · Aufzeichnung eines offiziellen Ermittlers · Journal d'inspecteur officiel · Registro del investigador oficial · Registro de Investigador Oficial · Журнал специалиста · บันทึกนักสำรวจทางการ · Ghi Chép Điều Tra Viên Chính Thức
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 정규 조사원 기록 · 정규조사원기록 · Official Investigator Log · 正式調査員の記録 · 正式调查员记录 · 正式調查員紀錄 · Aufzeichnung eines offiziellen Ermittlers · Journal d'inspecteur officiel · Registro del investigador oficial · Registro de Investigador Oficial · Журнал специалиста · บันทึกนักสำรวจทางการ · Ghi Chép Điều Tra Viên Chính Thức
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -430,7 +444,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 선임 조사원 기록 | Senior Investigator Log | ベテラン調査員の記録 | 资深调查员记录 |
+| 선임 조사원 기록 [공식 / Official / 正式 / 官方] | Senior Investigator Log [공식 / Official / 正式 / 官方] | ベテラン調査員の記録 [공식 / Official / 正式 / 官方] | 资深调查员记录 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -449,7 +463,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:300003 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 선임 조사원 기록 · 선임조사원기록 · Senior Investigator Log · ベテラン調査員の記録 · 资深调查员记录 · 資深調查員紀錄 · Aufzeichnung eines erfahrenen Ermittlers · Journal d'inspecteur principal · Registro del investigador veterano · Registro de Investigador Sênior · Журнал эксперта · Ghi Chép Điều Tra Viên Cao Cấp
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 선임 조사원 기록 · 선임조사원기록 · Senior Investigator Log · ベテラン調査員の記録 · 资深调查员记录 · 資深調查員紀錄 · Aufzeichnung eines erfahrenen Ermittlers · Journal d'inspecteur principal · Registro del investigador veterano · Registro de Investigador Sênior · Журнал эксперта · Ghi Chép Điều Tra Viên Cao Cấp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -459,7 +474,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| W-엔진 배터리 | W-Engine Battery | 音動機用蓄電池 | 音擎蓄电池 |
+| W-엔진 배터리 [공식 / Official / 正式 / 官方] | W-Engine Battery [공식 / Official / 正式 / 官方] | 音動機用蓄電池 [공식 / Official / 正式 / 官方] | 音擎蓄电池 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -478,7 +493,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:301001 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: W-엔진 배터리 · W-엔진배터리 · W-Engine Battery · 音動機用蓄電池 · 音擎蓄电池 · 音擎蓄電池 · W-Motor-Batterie · Batterie de moteur-ampli · Batería · Bateria de Motor-W · Аккумулятор амплификатора · Pin W-Engine
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: W-엔진 배터리 · W-엔진배터리 · W-Engine Battery · 音動機用蓄電池 · 音擎蓄电池 · 音擎蓄電池 · W-Motor-Batterie · Batterie de moteur-ampli · Batería · Bateria de Motor-W · Аккумулятор амплификатора · Pin W-Engine
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -488,7 +504,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 변조 W-엔진 전원 | W-Engine Power Supply | 周波数変換型音動機電源 | 变频音擎电源 |
+| 변조 W-엔진 전원 [공식 / Official / 正式 / 官方] | W-Engine Power Supply [공식 / Official / 正式 / 官方] | 周波数変換型音動機電源 [공식 / Official / 正式 / 官方] | 变频音擎电源 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -507,7 +523,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:301002 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 변조 W-엔진 전원 · 변조W-엔진전원 · W-Engine Power Supply · 周波数変換型音動機電源 · 变频音擎电源 · 變頻音擎電源 · W-Motor-Stromversorgung · Alim de moteur-ampli · Fuente de alimentación · Fonte de Energia de Motor-W · Источник питания амплификатора · Nguồn W-Engine Biến Tần
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 변조 W-엔진 전원 · 변조W-엔진전원 · W-Engine Power Supply · 周波数変換型音動機電源 · 变频音擎电源 · 變頻音擎電源 · W-Motor-Stromversorgung · Alim de moteur-ampli · Fuente de alimentación · Fonte de Energia de Motor-W · Источник питания амплификатора · Nguồn W-Engine Biến Tần
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -517,7 +534,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| W-엔진 에너지 모듈 | W-Engine Energy Module | 音動機用エネルギーモジュール | 音擎能源模块 |
+| W-엔진 에너지 모듈 [공식 / Official / 正式 / 官方] | W-Engine Energy Module [공식 / Official / 正式 / 官方] | 音動機用エネルギーモジュール [공식 / Official / 正式 / 官方] | 音擎能源模块 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -536,7 +553,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:301003 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: W-엔진 에너지 모듈 · W-엔진에너지모듈 · W-Engine Energy Module · 音動機用エネルギーモジュール · 音擎能源模块 · 音擎能源模組 · W-Motor-Energiemodul · Module énergétique de moteur-ampli · Módulo de energía · Módulo de Energia de Motor-W · Энергомодуль амплификатора · Mô Đun Năng Lượng W-Engine
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: W-엔진 에너지 모듈 · W-엔진에너지모듈 · W-Engine Energy Module · 音動機用エネルギーモジュール · 音擎能源模块 · 音擎能源模組 · W-Motor-Energiemodul · Module énergétique de moteur-ampli · Módulo de energía · Módulo de Energia de Motor-W · Энергомодуль амплификатора · Mô Đun Năng Lượng W-Engine
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -546,7 +564,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 플라스틱 도금제 | Molded Plating Agent | 可塑化助剤 | 塑化镀剂 |
+| 플라스틱 도금제 [공식 / Official / 正式 / 官方] | Molded Plating Agent [공식 / Official / 正式 / 官方] | 可塑化助剤 [공식 / Official / 正式 / 官方] | 塑化镀剂 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -565,7 +583,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:302001 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 플라스틱 도금제 · 플라스틱도금제 · Molded Plating Agent · 可塑化助剤 · 塑化镀剂 · 塑化鍍劑 · Geformtes Beschichtungsmittel · Revêtement moulé · Revestimiento plástico · Revestimento Moldado · Пластичное покрытие · สารเคลือบแม่พิมพ์ · Dung Dịch Mạ Đúc
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 플라스틱 도금제 · 플라스틱도금제 · Molded Plating Agent · 可塑化助剤 · 塑化镀剂 · 塑化鍍劑 · Geformtes Beschichtungsmittel · Revêtement moulé · Revestimiento plástico · Revestimento Moldado · Пластичное покрытие · สารเคลือบแม่พิมพ์ · Dung Dịch Mạ Đúc
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -575,7 +594,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 크리스털 도금제 | Crystallized Plating Agent | 結晶化助剤 | 晶质镀剂 |
+| 크리스털 도금제 [공식 / Official / 正式 / 官方] | Crystallized Plating Agent [공식 / Official / 正式 / 官方] | 結晶化助剤 [공식 / Official / 正式 / 官方] | 晶质镀剂 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -594,7 +613,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:302002 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 크리스털 도금제 · 크리스털도금제 · Crystallized Plating Agent · 結晶化助剤 · 晶质镀剂 · 晶質鍍劑 · Kristallisiertes Beschichtungsmittel · Revêtement cristallisé · Revestimiento cristalizado · Revestimento Cristalizado · Кристаллическое покрытие · สารเคลือบคริสตัล · Dung Dịch Mạ Kết Tinh
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 크리스털 도금제 · 크리스털도금제 · Crystallized Plating Agent · 結晶化助剤 · 晶质镀剂 · 晶質鍍劑 · Kristallisiertes Beschichtungsmittel · Revêtement cristallisé · Revestimiento cristalizado · Revestimento Cristalizado · Кристаллическое покрытие · สารเคลือบคริสตัล · Dung Dịch Mạ Kết Tinh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -604,7 +624,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 에테르 도금제 | Ether Plating Agent | エーテル助剤 | 以太镀剂 |
+| 에테르 도금제 [공식 / Official / 正式 / 官方] | Ether Plating Agent [공식 / Official / 正式 / 官方] | エーテル助剤 [공식 / Official / 正式 / 官方] | 以太镀剂 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -623,7 +643,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:302003 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 에테르 도금제 · 에테르도금제 · Ether Plating Agent · エーテル助剤 · 以太镀剂 · 以太鍍劑 · Äther-Beschichtungsmittel · Revêtement éthérique · Revestimiento etéreo · Revestimento de Éter · Эфирное покрытие · สารเคลือบอีเทอร์ · Dung Dịch Mạ Ether
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에테르 도금제 · 에테르도금제 · Ether Plating Agent · エーテル助剤 · 以太镀剂 · 以太鍍劑 · Äther-Beschichtungsmittel · Revêtement éthérique · Revestimiento etéreo · Revestimento de Éter · Эфирное покрытие · สารเคลือบอีเทอร์ · Dung Dịch Mạ Ether
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -633,7 +654,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「Bangboo」 소프트웨어 패치 | Bangboo Software Patch | ボンプ用ソフトウェアパッチ | 邦布软件补丁 |
+| 「Bangboo」 소프트웨어 패치 [공식 / Official / 正式 / 官方] | Bangboo Software Patch [공식 / Official / 正式 / 官方] | ボンプ用ソフトウェアパッチ [공식 / Official / 正式 / 官方] | 邦布软件补丁 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -652,7 +673,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:303001 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「Bangboo」 소프트웨어 패치 · 「Bangboo」소프트웨어패치 · Bangboo Software Patch · ボンプ用ソフトウェアパッチ · 邦布软件补丁 · 邦布軟體修復程式 · Bangboo-Software-Patch · Correctif logiciel de Bangbou · Parche de software · Patch de Software do Bangboo · Патч банбу · แพตช์ซอฟต์แวร์ Bangboo · Bản Vá Phần Mềm Bangboo
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「Bangboo」 소프트웨어 패치 · 「Bangboo」소프트웨어패치 · Bangboo Software Patch · ボンプ用ソフトウェアパッチ · 邦布软件补丁 · 邦布軟體修復程式 · Bangboo-Software-Patch · Correctif logiciel de Bangbou · Parche de software · Patch de Software do Bangboo · Патч банбу · แพตช์ซอฟต์แวร์ Bangboo · Bản Vá Phần Mềm Bangboo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -662,7 +684,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「Bangboo」 알고리즘 모듈 | Bangboo Algorithm Module | ボンプ用アルゴリズムモジュール | 邦布算法模块 |
+| 「Bangboo」 알고리즘 모듈 [공식 / Official / 正式 / 官方] | Bangboo Algorithm Module [공식 / Official / 正式 / 官方] | ボンプ用アルゴリズムモジュール [공식 / Official / 正式 / 官方] | 邦布算法模块 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -681,7 +703,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:303002 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「Bangboo」 알고리즘 모듈 · 「Bangboo」알고리즘모듈 · Bangboo Algorithm Module · ボンプ用アルゴリズムモジュール · 邦布算法模块 · 邦布演算法模組 · Bangboo-Algorithmus-Modul · Module algorithmique de Bangbou · Módulo de algoritmo · Módulo de Algoritmo de Bangboo · Алгоритмический модуль банбу · โมดูลอัลกอริทึม Bangboo · Mô Đun Thuật Toán Bangboo
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「Bangboo」 알고리즘 모듈 · 「Bangboo」알고리즘모듈 · Bangboo Algorithm Module · ボンプ用アルゴリズムモジュール · 邦布算法模块 · 邦布演算法模組 · Bangboo-Algorithmus-Modul · Module algorithmique de Bangbou · Módulo de algoritmo · Módulo de Algoritmo de Bangboo · Алгоритмический модуль банбу · โมดูลอัลกอริทึม Bangboo · Mô Đun Thuật Toán Bangboo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -691,7 +714,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「Bangboo」 시스템 컨트롤 | Bangboo System Widget | ボンプ用システムウィジェット | 邦布系统控件 |
+| 「Bangboo」 시스템 컨트롤 [공식 / Official / 正式 / 官方] | Bangboo System Widget [공식 / Official / 正式 / 官方] | ボンプ用システムウィジェット [공식 / Official / 正式 / 官方] | 邦布系统控件 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -710,7 +733,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:303003 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「Bangboo」 시스템 컨트롤 · 「Bangboo」시스템컨트롤 · Bangboo System Widget · ボンプ用システムウィジェット · 邦布系统控件 · 邦布系統資料卡 · Bangboo-System-Widget · Widget de système Bangbou · Panel de control · Widget de Sistema de Bangboo · Виджет системы банбу · Điều Khiển Hệ Thống Bangboo
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「Bangboo」 시스템 컨트롤 · 「Bangboo」시스템컨트롤 · Bangboo System Widget · ボンプ用システムウィジェット · 邦布系统控件 · 邦布系統資料卡 · Bangboo-System-Widget · Widget de système Bangbou · Panel de control · Widget de Sistema de Bangboo · Виджет системы банбу · Điều Khiển Hệ Thống Bangboo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -720,7 +744,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 이십사번풍 | Blooming Wind | 二十四番花信風 | 二十四番风 |
+| 이십사번풍 [공식 / Official / 正式 / 官方] | Blooming Wind [공식 / Official / 正式 / 官方] | 二十四番花信風 [공식 / Official / 正式 / 官方] | 二十四番风 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -739,7 +763,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:307001 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 이십사번풍 · Blooming Wind · 二十四番花信風 · 二十四番风 · 二十四番風 · Blühende Brise · Brise florale · Céfiros florecidos · Brisas Florais · Цветочный ветерок · Blooming Winds · Hai Mươi Bốn Mùa Hoa
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이십사번풍 · Blooming Wind · 二十四番花信風 · 二十四番风 · 二十四番風 · Blühende Brise · Brise florale · Céfiros florecidos · Brisas Florais · Цветочный ветерок · Blooming Winds · Hai Mươi Bốn Mùa Hoa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -749,7 +774,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 물결치는 아우성 | Roaring Tides | どよめく音波 | 隆隆声浪 |
+| 물결치는 아우성 [공식 / Official / 正式 / 官方] | Roaring Tides [공식 / Official / 正式 / 官方] | どよめく音波 [공식 / Official / 正式 / 官方] | 隆隆声浪 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -768,7 +793,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:307002 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 물결치는 아우성 · 물결치는아우성 · Roaring Tides · どよめく音波 · 隆隆声浪 · 隆隆聲浪 · Grollende Wellen · Marées rugissantes · Marea ondisonante · Onda de Clamor · Рокочущие волны · Sóng Âm Vang Dội
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 물결치는 아우성 · 물결치는아우성 · Roaring Tides · どよめく音波 · 隆隆声浪 · 隆隆聲浪 · Grollende Wellen · Marées rugissantes · Marea ondisonante · Onda de Clamor · Рокочущие волны · Sóng Âm Vang Dội
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -778,7 +804,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 16mm 필름 | 16mm Film | 16ミリフィルム | 十六毫米光影 |
+| 16mm 필름 [공식 / Official / 正式 / 官方] | 16mm Film [공식 / Official / 正式 / 官方] | 16ミリフィルム [공식 / Official / 正式 / 官方] | 十六毫米光影 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -797,7 +823,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:307003 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 16mm 필름 · 16mm필름 · 16mm Film · 16ミリフィルム · 十六毫米光影 · 16-mm-Film · Pellicule 16 mm · Película de 16 mm · Filme de 16mm · 16-мм плёнка · Phim Nhựa Mười Sáu Milimet
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 16mm 필름 · 16mm필름 · 16mm Film · 16ミリフィルム · 十六毫米光影 · 16-mm-Film · Pellicule 16 mm · Película de 16 mm · Filme de 16mm · 16-мм плёнка · Phim Nhựa Mười Sáu Milimet
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -807,7 +834,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 짙푸른 현음 | Cerulean Echoes | 青より出でし玄音 | 青礼玄音 |
+| 짙푸른 현음 [공식 / Official / 正式 / 官方] | Cerulean Echoes [공식 / Official / 正式 / 官方] | 青より出でし玄音 [공식 / Official / 正式 / 官方] | 青礼玄音 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -826,7 +853,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:307004 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 짙푸른 현음 · 짙푸른현음 · Cerulean Echoes · 青より出でし玄音 · 青礼玄音 · 青禮玄音 · Himmelblaue Echos · Échos céruléens · Resonancia cerúlea · Eufonia Cerúlea · Эхо поднебесья · Thanh Lễ Huyền Âm
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 짙푸른 현음 · 짙푸른현음 · Cerulean Echoes · 青より出でし玄音 · 青礼玄音 · 青禮玄音 · Himmelblaue Echos · Échos céruléens · Resonancia cerúlea · Eufonia Cerúlea · Эхо поднебесья · Thanh Lễ Huyền Âm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -836,7 +864,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 작열하는 홍고추 | Blazing Chili | 激辛チリ | 炽焰红椒 |
+| 작열하는 홍고추 [공식 / Official / 正式 / 官方] | Blazing Chili [공식 / Official / 正式 / 官方] | 激辛チリ [공식 / Official / 正式 / 官方] | 炽焰红椒 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -855,7 +883,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:307005 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 작열하는 홍고추 · 작열하는홍고추 · Blazing Chili · 激辛チリ · 炽焰红椒 · 熾焰紅椒 · Glühender Chili · Piment ardent · Pimiento ardiente · Malagueta Ardente · Огненный перчик · Ớt Đỏ Rực Lửa
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 작열하는 홍고추 · 작열하는홍고추 · Blazing Chili · 激辛チリ · 炽焰红椒 · 熾焰紅椒 · Glühender Chili · Piment ardent · Pimiento ardiente · Malagueta Ardente · Огненный перчик · Ớt Đỏ Rực Lửa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -865,7 +894,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 잃지 않은 동심 | Child at Heart | 失われぬ童心 | 未泯童心 |
+| 잃지 않은 동심 [공식 / Official / 正式 / 官方] | Child at Heart [공식 / Official / 正式 / 官方] | 失われぬ童心 [공식 / Official / 正式 / 官方] | 未泯童心 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -884,7 +913,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:307006 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 잃지 않은 동심 · 잃지않은동심 · Child at Heart · 失われぬ童心 · 未泯童心 · Kind im Herzen · Âme d'enfant · Alma infantil · Coração de Criança · Вечный ребёнок · Tâm Hồn Trẻ Thơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 잃지 않은 동심 · 잃지않은동심 · Child at Heart · 失われぬ童心 · 未泯童心 · Kind im Herzen · Âme d'enfant · Alma infantil · Coração de Criança · Вечный ребёнок · Tâm Hồn Trẻ Thơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -894,7 +924,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 황혼의 잔상 | Twilight Afterimage | 黄昏の残像 | 黄昏残像 |
+| 황혼의 잔상 [공식 / Official / 正式 / 官方] | Twilight Afterimage [공식 / Official / 正式 / 官方] | 黄昏の残像 [공식 / Official / 正式 / 官方] | 黄昏残像 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -913,7 +943,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:307007 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 황혼의 잔상 · 황혼의잔상 · Twilight Afterimage · 黄昏の残像 · 黄昏残像 · 黃昏殘像 · Nachbild im Dämmerschein · Image rémanente du crépuscule · Imagen residual del crepúsculo · Imagem Residual do Crepúsculo · Сумеречный отсвет · Tàn Ảnh Hoàng Hôn
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 황혼의 잔상 · 황혼의잔상 · Twilight Afterimage · 黄昏の残像 · 黄昏残像 · 黃昏殘像 · Nachbild im Dämmerschein · Image rémanente du crépuscule · Imagen residual del crepúsculo · Imagem Residual do Crepúsculo · Сумеречный отсвет · Tàn Ảnh Hoàng Hôn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -923,7 +954,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 금고 확장 플러그인 | Safe Expansion Plug-In | 金庫拡張プラグイン | 安全箱扩容插件 |
+| 금고 확장 플러그인 [공식 / Official / 正式 / 官方] | Safe Expansion Plug-In [공식 / Official / 正式 / 官方] | 金庫拡張プラグイン [공식 / Official / 正式 / 官方] | 安全箱扩容插件 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -942,7 +973,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:4300003 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 금고 확장 플러그인 · 금고확장플러그인 · Safe Expansion Plug-In · 金庫拡張プラグイン · 安全箱扩容插件 · 安全箱擴容擴充元件 · Safe-Erweiterungs-Plug-in · Module d'extension de mallette sécurisée · Plug-in de ampliación de caja fuerte · Plugin de Expansão do Cofre · Плагин расширения безопасного хранилища · ปลั๊กอินขยายกล่องนิรภัย · Trình Cắm Mở Rộng Hộp An Toàn · Plug-in Ekspansi Brankas
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 금고 확장 플러그인 · 금고확장플러그인 · Safe Expansion Plug-In · 金庫拡張プラグイン · 安全箱扩容插件 · 安全箱擴容擴充元件 · Safe-Erweiterungs-Plug-in · Module d'extension de mallette sécurisée · Plug-in de ampliación de caja fuerte · Plugin de Expansão do Cofre · Плагин расширения безопасного хранилища · ปลั๊กอินขยายกล่องนิรภัย · Trình Cắm Mở Rộng Hộp An Toàn · Plug-in Ekspansi Brankas
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -952,7 +984,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 금고 확장 플러그인 | Safe Expansion Plug-In | 金庫拡張プラグイン | 安全箱扩容插件 |
+| 금고 확장 플러그인 [공식 / Official / 正式 / 官方] | Safe Expansion Plug-In [공식 / Official / 正式 / 官方] | 金庫拡張プラグイン [공식 / Official / 正式 / 官方] | 安全箱扩容插件 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -971,7 +1003,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:4300004 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 금고 확장 플러그인 · 금고확장플러그인 · Safe Expansion Plug-In · 金庫拡張プラグイン · 安全箱扩容插件 · 安全箱擴容擴充元件 · Safe-Erweiterungs-Plug-in · Module d'extension de mallette sécurisée · Plug-in de ampliación de caja fuerte · Plugin de Expansão do Cofre · Плагин расширения безопасного хранилища · ปลั๊กอินขยายกล่องนิรภัย · Trình Cắm Mở Rộng Hộp An Toàn · Plug-in Ekspansi Brankas
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 금고 확장 플러그인 · 금고확장플러그인 · Safe Expansion Plug-In · 金庫拡張プラグイン · 安全箱扩容插件 · 安全箱擴容擴充元件 · Safe-Erweiterungs-Plug-in · Module d'extension de mallette sécurisée · Plug-in de ampliación de caja fuerte · Plugin de Expansão do Cofre · Плагин расширения безопасного хранилища · ปลั๊กอินขยายกล่องนิรภัย · Trình Cắm Mở Rộng Hộp An Toàn · Plug-in Ekspansi Brankas
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -981,7 +1014,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 시즌 배낭 확장 플러그인 | Inventory Expansion Plug-In (Seasonal) | シーズンバッグ拡張プラグイン | 赛季背包扩容插件 |
+| 시즌 배낭 확장 플러그인 [공식 / Official / 正式 / 官方] | Inventory Expansion Plug-In (Seasonal) [공식 / Official / 正式 / 官方] | シーズンバッグ拡張プラグイン [공식 / Official / 正式 / 官方] | 赛季背包扩容插件 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1000,7 +1033,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:4300005 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 시즌 배낭 확장 플러그인 · 시즌배낭확장플러그인 · Inventory Expansion Plug-In (Seasonal) · シーズンバッグ拡張プラグイン · 赛季背包扩容插件 · 賽季背包容量擴充元件 · Saisonales Inventar-Erweiterungs-Plug-in · Module d'extension d'inventaire (Saisonnier) · Plug-in de ampliación del inventario de temporada · Plug-in Sazonal de Expansão de Inventário · Сезонный плагин для расширения инвентаря · ปลั๊กอินขยายช่องเก็บของประจำซีซัน · Plugin Mở Rộng Túi Mùa Giải · Plug-in Ekspansi Tas Season
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 시즌 배낭 확장 플러그인 · 시즌배낭확장플러그인 · Inventory Expansion Plug-In (Seasonal) · シーズンバッグ拡張プラグイン · 赛季背包扩容插件 · 賽季背包容量擴充元件 · Saisonales Inventar-Erweiterungs-Plug-in · Module d'extension d'inventaire (Saisonnier) · Plug-in de ampliación del inventario de temporada · Plug-in Sazonal de Expansão de Inventário · Сезонный плагин для расширения инвентаря · ปลั๊กอินขยายช่องเก็บของประจำซีซัน · Plugin Mở Rộng Túi Mùa Giải · Plug-in Ekspansi Tas Season
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1010,7 +1044,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 다듬지 않은 호박 | Uncarved Pumpkin | 彫刻前のかぼちゃ | 未雕瓜胚 |
+| 다듬지 않은 호박 [공식 / Official / 正式 / 官方] | Uncarved Pumpkin [공식 / Official / 正式 / 官方] | 彫刻前のかぼちゃ [공식 / Official / 正式 / 官方] | 未雕瓜胚 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1029,7 +1063,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:307008 · Status: prerelease · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 다듬지 않은 호박 · 다듬지않은호박 · Uncarved Pumpkin · 彫刻前のかぼちゃ · 未雕瓜胚 · Uncarved Melon Blank · 未彫刻のカボチャ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 다듬지 않은 호박 · 다듬지않은호박 · Uncarved Pumpkin · 彫刻前のかぼちゃ · 未雕瓜胚 · Uncarved Melon Blank · 未彫刻のカボチャ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/item.json)

@@ -1,6 +1,6 @@
 # 카탈로그 둘러보기 / Browse / 用語一覧 / 浏览目录
 
-[전체 명칭 색인 / Name index / 名称索引 / 名称索引](INDEX.md) · [약어 / Abbreviations / 略語 / 简称](ABBREVIATIONS.md) · [DB 안내 / Guide / 案内 / 说明](README.md) · [신고 / Report / 報告 / 举报](https://github.com/Odarom/zenless-translation-database/issues/new/choose)
+[전체 명칭 색인 / Name index / 名称索引 / 名称索引](INDEX.md) · [약어 / Abbreviations / 略語 / 简称](ABBREVIATIONS.md) · [공식·비공식 태그 / Tags / タグ / 标签](TAGS.md) · [DB 안내 / Guide / 案内 / 说明](README.md) · [신고 / Report / 報告 / 举报](https://github.com/Odarom/zenless-translation-database/issues/new/choose)
 
 [한국어](#한국어) · [English](#english) · [日本語](#日本語) · [简体中文](#简体中文)
 

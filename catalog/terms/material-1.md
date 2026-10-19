@@ -24,7 +24,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 에테르 배터리 | Ether Battery | エーテル電池 | 以太电池 |
+| 에테르 배터리 [공식 / Official / 正式 / 官方] | Ether Battery [공식 / Official / 正式 / 官方] | エーテル電池 [공식 / Official / 正式 / 官方] | 以太电池 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -43,7 +43,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:502 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 에테르 배터리 · 에테르배터리 · Ether Battery · エーテル電池 · 以太电池 · 以太電池 · Ätherbatterie · Batterie d'éther · Batería etérea · Bateria de Éter · Эфирная батарея · แบตเตอรี่อีเทอร์ · Pin Ether
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에테르 배터리 · 에테르배터리 · Ether Battery · エーテル電池 · 以太电池 · 以太電池 · Ätherbatterie · Batterie d'éther · Batería etérea · Bateria de Éter · Эфирная батарея · แบตเตอรี่อีเทอร์ · Pin Ether
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -53,7 +54,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 보조 배터리 | Backup Battery Charge | 予備バッテリー | 储蓄电量 |
+| 보조 배터리 [공식 / Official / 正式 / 官方] | Backup Battery Charge [공식 / Official / 正式 / 官方] | 予備バッテリー [공식 / Official / 正式 / 官方] | 储蓄电量 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -72,7 +73,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:503 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 보조 배터리 · 보조배터리 · Backup Battery Charge · 予備バッテリー · 储蓄电量 · 儲蓄電量 · Reserve-Batterieladung · Charge de batterie de secours · Almacenamiento de pilas · Carga de Bateria Reserva · Заряд резервного аккумулятора · Battery Charge สำรอง · Điện Lượng Dự Trữ · Backup Battery
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 보조 배터리 · 보조배터리 · Backup Battery Charge · 予備バッテリー · 储蓄电量 · 儲蓄電量 · Reserve-Batterieladung · Charge de batterie de secours · Almacenamiento de pilas · Carga de Bateria Reserva · Заряд резервного аккумулятора · Battery Charge สำรอง · Điện Lượng Dự Trữ · Backup Battery
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -82,7 +84,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 기본 물리 칩 | Basic Physical Chip | 基礎物理チップ | 基础物理芯片 |
+| 기본 물리 칩 [공식 / Official / 正式 / 官方] | Basic Physical Chip [공식 / Official / 正式 / 官方] | 基礎物理チップ [공식 / Official / 正式 / 官方] | 基础物理芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -101,7 +103,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100110 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 기본 물리 칩 · 기본물리칩 · Basic Physical Chip · 基礎物理チップ · 基础物理芯片 · 基礎物理晶片 · Basischip – Physisch · Puce de base : Physique · Chip físico básico · Chip Físico Básico · Базовый физический чип · ชิปกายภาพพื้นฐาน · Chip Vật Lý Cơ Bản
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기본 물리 칩 · 기본물리칩 · Basic Physical Chip · 基礎物理チップ · 基础物理芯片 · 基礎物理晶片 · Basischip – Physisch · Puce de base : Physique · Chip físico básico · Chip Físico Básico · Базовый физический чип · ชิปกายภาพพื้นฐาน · Chip Vật Lý Cơ Bản
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -111,7 +114,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 기본 화상 칩 | Basic Burn Chip | 基礎着火チップ | 基础引燃芯片 |
+| 기본 화상 칩 [공식 / Official / 正式 / 官方] | Basic Burn Chip [공식 / Official / 正式 / 官方] | 基礎着火チップ [공식 / Official / 正式 / 官方] | 基础引燃芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -130,7 +133,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100111 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 기본 화상 칩 · 기본화상칩 · Basic Burn Chip · 基礎着火チップ · 基础引燃芯片 · 基礎引燃晶片 · Basischip – Flammen · Puce de base : Feu · Chip ígneo básico · Chip de Queima Básico · Базовый чип поджога · ชิปลุกไหม้พื้นฐาน · Chip Dẫn Cháy Cơ Bản
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기본 화상 칩 · 기본화상칩 · Basic Burn Chip · 基礎着火チップ · 基础引燃芯片 · 基礎引燃晶片 · Basischip – Flammen · Puce de base : Feu · Chip ígneo básico · Chip de Queima Básico · Базовый чип поджога · ชิปลุกไหม้พื้นฐาน · Chip Dẫn Cháy Cơ Bản
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -140,7 +144,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 기본 빙결 칩 | Basic Freeze Chip | 基礎氷結チップ | 基础冰结芯片 |
+| 기본 빙결 칩 [공식 / Official / 正式 / 官方] | Basic Freeze Chip [공식 / Official / 正式 / 官方] | 基礎氷結チップ [공식 / Official / 正式 / 官方] | 基础冰结芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -159,7 +163,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100112 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 기본 빙결 칩 · 기본빙결칩 · Basic Freeze Chip · 基礎氷結チップ · 基础冰结芯片 · 基礎冰結晶片 · Basischip – Frost · Puce de base : Glace · Chip glacial básico · Chip de Congelamento Básico · Базовый чип заморозки · ชิปแช่แข็งพื้นฐาน · Chip Đóng Băng Cơ Bản
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기본 빙결 칩 · 기본빙결칩 · Basic Freeze Chip · 基礎氷結チップ · 基础冰结芯片 · 基礎冰結晶片 · Basischip – Frost · Puce de base : Glace · Chip glacial básico · Chip de Congelamento Básico · Базовый чип заморозки · ชิปแช่แข็งพื้นฐาน · Chip Đóng Băng Cơ Bản
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -169,7 +174,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 기본 전기충격 칩 | Basic Shock Chip | 基礎感電チップ | 基础电击芯片 |
+| 기본 전기충격 칩 [공식 / Official / 正式 / 官方] | Basic Shock Chip [공식 / Official / 正式 / 官方] | 基礎感電チップ [공식 / Official / 正式 / 官方] | 基础电击芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -188,7 +193,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100113 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 기본 전기충격 칩 · 기본전기충격칩 · Basic Shock Chip · 基礎感電チップ · 基础电击芯片 · 基礎電擊晶片 · Basischip – Schock · Puce de base : Électrique · Chip eléctrico básico · Chip de Choque Básico · Базовый чип шока · ชิปไฟช็อตพื้นฐาน · Chip Điện Kích Cơ Bản
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기본 전기충격 칩 · 기본전기충격칩 · Basic Shock Chip · 基礎感電チップ · 基础电击芯片 · 基礎電擊晶片 · Basischip – Schock · Puce de base : Électrique · Chip eléctrico básico · Chip de Choque Básico · Базовый чип шока · ชิปไฟช็อตพื้นฐาน · Chip Điện Kích Cơ Bản
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -198,7 +204,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 기본 에테르 칩 | Basic Ether Chip | 基礎エーテルチップ | 基础以太芯片 |
+| 기본 에테르 칩 [공식 / Official / 正式 / 官方] | Basic Ether Chip [공식 / Official / 正式 / 官方] | 基礎エーテルチップ [공식 / Official / 正式 / 官方] | 基础以太芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -217,7 +223,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100115 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 기본 에테르 칩 · 기본에테르칩 · Basic Ether Chip · 基礎エーテルチップ · 基础以太芯片 · 基礎以太晶片 · Basischip – Äther · Puce de base : Éther · Chip etéreo básico · Chip de Éter Básico · Базовый чип эфира · ชิปอีเทอร์พื้นฐาน · Chip Ether Cơ Bản
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기본 에테르 칩 · 기본에테르칩 · Basic Ether Chip · 基礎エーテルチップ · 基础以太芯片 · 基礎以太晶片 · Basischip – Äther · Puce de base : Éther · Chip etéreo básico · Chip de Éter Básico · Базовый чип эфира · ชิปอีเทอร์พื้นฐาน · Chip Ether Cơ Bản
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -227,7 +234,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 기본 풍식 칩 | Basic Windbite Chip | 基礎風食チップ | 基础风蚀芯片 |
+| 기본 풍식 칩 [공식 / Official / 正式 / 官方] | Basic Windbite Chip [공식 / Official / 正式 / 官方] | 基礎風食チップ [공식 / Official / 正式 / 官方] | 基础风蚀芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -246,7 +253,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100116 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 기본 풍식 칩 · 기본풍식칩 · Basic Windbite Chip · 基礎風食チップ · 基础风蚀芯片 · 基礎風蝕晶片 · Basischip – Windbiss · Puce de base : Vent · Chip de desgaste eólico básico · Chip de Erosão Eólica Básico · Базовый чип выветривания · ชิปลมกรดพื้นฐาน · Chip Phong Thực Cơ Bản
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기본 풍식 칩 · 기본풍식칩 · Basic Windbite Chip · 基礎風食チップ · 基础风蚀芯片 · 基礎風蝕晶片 · Basischip – Windbiss · Puce de base : Vent · Chip de desgaste eólico básico · Chip de Erosão Eólica Básico · Базовый чип выветривания · ชิปลมกรดพื้นฐาน · Chip Phong Thực Cơ Bản
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -256,7 +264,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 기본 루멘 칩 | Basic Lumiflux Chip | 基礎流明チップ | 基础流明芯片 |
+| 기본 루멘 칩 [공식 / Official / 正式 / 官方] | Basic Lumiflux Chip [공식 / Official / 正式 / 官方] | 基礎流明チップ [공식 / Official / 正式 / 官方] | 基础流明芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -275,7 +283,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100117 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 기본 루멘 칩 · 기본루멘칩 · Basic Lumiflux Chip · 基礎流明チップ · 基础流明芯片 · 基礎流明晶片 · Basischip – Lumiflux · Puce de base : Lumen · Chip lumiflujo básico · Chip de Lúmen Básico · Базовый чип люмена · ชิปลูมิฟลักซ์พื้นฐาน · Chip Lưu Minh Cơ Bản
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기본 루멘 칩 · 기본루멘칩 · Basic Lumiflux Chip · 基礎流明チップ · 基础流明芯片 · 基礎流明晶片 · Basischip – Lumiflux · Puce de base : Lumen · Chip lumiflujo básico · Chip de Lúmen Básico · Базовый чип люмена · ชิปลูมิฟลักซ์พื้นฐาน · Chip Lưu Minh Cơ Bản
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -285,7 +294,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 심화 물리 칩 | Advanced Physical Chip | 上級物理チップ | 进阶物理芯片 |
+| 심화 물리 칩 [공식 / Official / 正式 / 官方] | Advanced Physical Chip [공식 / Official / 正式 / 官方] | 上級物理チップ [공식 / Official / 正式 / 官方] | 进阶物理芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -304,7 +313,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100120 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 심화 물리 칩 · 심화물리칩 · Advanced Physical Chip · 上級物理チップ · 进阶物理芯片 · 進階物理晶片 · Fortgeschrittener Chip – Physisch · Puce avancée : Physique · Chip físico avanzado · Chip Físico Avançado · Продвинутый физический чип · ชิปกายภาพขั้นสูง · Chip Vật Lý Nâng Cấp
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 심화 물리 칩 · 심화물리칩 · Advanced Physical Chip · 上級物理チップ · 进阶物理芯片 · 進階物理晶片 · Fortgeschrittener Chip – Physisch · Puce avancée : Physique · Chip físico avanzado · Chip Físico Avançado · Продвинутый физический чип · ชิปกายภาพขั้นสูง · Chip Vật Lý Nâng Cấp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -314,7 +324,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 심화 화상 칩 | Advanced Burn Chip | 上級着火チップ | 进阶引燃芯片 |
+| 심화 화상 칩 [공식 / Official / 正式 / 官方] | Advanced Burn Chip [공식 / Official / 正式 / 官方] | 上級着火チップ [공식 / Official / 正式 / 官方] | 进阶引燃芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -333,7 +343,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100121 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 심화 화상 칩 · 심화화상칩 · Advanced Burn Chip · 上級着火チップ · 进阶引燃芯片 · 進階引燃晶片 · Fortgeschrittener Chip – Flammen · Puce avancée : Feu · Chip ígneo avanzado · Chip de Queima Avançado · Продвинутый чип поджога · ชิปลุกไหม้ขั้นสูง · Chip Dẫn Cháy Nâng Cấp
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 심화 화상 칩 · 심화화상칩 · Advanced Burn Chip · 上級着火チップ · 进阶引燃芯片 · 進階引燃晶片 · Fortgeschrittener Chip – Flammen · Puce avancée : Feu · Chip ígneo avanzado · Chip de Queima Avançado · Продвинутый чип поджога · ชิปลุกไหม้ขั้นสูง · Chip Dẫn Cháy Nâng Cấp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -343,7 +354,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 심화 빙결 칩 | Advanced Freeze Chip | 上級氷結チップ | 进阶冰结芯片 |
+| 심화 빙결 칩 [공식 / Official / 正式 / 官方] | Advanced Freeze Chip [공식 / Official / 正式 / 官方] | 上級氷結チップ [공식 / Official / 正式 / 官方] | 进阶冰结芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -362,7 +373,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100122 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 심화 빙결 칩 · 심화빙결칩 · Advanced Freeze Chip · 上級氷結チップ · 进阶冰结芯片 · 進階冰結晶片 · Fortgeschritter Chip – Frost · Puce avancée : Glace · Chip glacial avanzado · Chip de Congelamento Avançado · Продвинутый чип заморозки · ชิปแช่แข็งขั้นสูง · Chip Đóng Băng Nâng Cấp
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 심화 빙결 칩 · 심화빙결칩 · Advanced Freeze Chip · 上級氷結チップ · 进阶冰结芯片 · 進階冰結晶片 · Fortgeschritter Chip – Frost · Puce avancée : Glace · Chip glacial avanzado · Chip de Congelamento Avançado · Продвинутый чип заморозки · ชิปแช่แข็งขั้นสูง · Chip Đóng Băng Nâng Cấp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -372,7 +384,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 심화 전기충격 칩 | Advanced Shock Chip | 上級感電チップ | 进阶电击芯片 |
+| 심화 전기충격 칩 [공식 / Official / 正式 / 官方] | Advanced Shock Chip [공식 / Official / 正式 / 官方] | 上級感電チップ [공식 / Official / 正式 / 官方] | 进阶电击芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -391,7 +403,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100123 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 심화 전기충격 칩 · 심화전기충격칩 · Advanced Shock Chip · 上級感電チップ · 进阶电击芯片 · 進階電擊晶片 · Fortgeschrittener Chip – Schock · Puce avancée : Électrique · Chip eléctrico avanzado · Chip de Choque Avançado · Продвинутый чип шока · ชิปไฟช็อตขั้นสูง · Chip Điện Kích Nâng Cấp
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 심화 전기충격 칩 · 심화전기충격칩 · Advanced Shock Chip · 上級感電チップ · 进阶电击芯片 · 進階電擊晶片 · Fortgeschrittener Chip – Schock · Puce avancée : Électrique · Chip eléctrico avanzado · Chip de Choque Avançado · Продвинутый чип шока · ชิปไฟช็อตขั้นสูง · Chip Điện Kích Nâng Cấp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -401,7 +414,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 심화 에테르 칩 | Advanced Ether Chip | 上級エーテルチップ | 进阶以太芯片 |
+| 심화 에테르 칩 [공식 / Official / 正式 / 官方] | Advanced Ether Chip [공식 / Official / 正式 / 官方] | 上級エーテルチップ [공식 / Official / 正式 / 官方] | 进阶以太芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -420,7 +433,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100125 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 심화 에테르 칩 · 심화에테르칩 · Advanced Ether Chip · 上級エーテルチップ · 进阶以太芯片 · 進階以太晶片 · Fortgeschrittener Chip – Äther · Puce avancée : Éther · Chip etéreo avanzado · Chip de Éter Avançado · Продвинутый чип эфира · ชิปอีเทอร์ขั้นสูง · Chip Ether Nâng Cấp
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 심화 에테르 칩 · 심화에테르칩 · Advanced Ether Chip · 上級エーテルチップ · 进阶以太芯片 · 進階以太晶片 · Fortgeschrittener Chip – Äther · Puce avancée : Éther · Chip etéreo avanzado · Chip de Éter Avançado · Продвинутый чип эфира · ชิปอีเทอร์ขั้นสูง · Chip Ether Nâng Cấp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -430,7 +444,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 심화 풍식 칩 | Advanced Windbite Chip | 上級風食チップ | 进阶风蚀芯片 |
+| 심화 풍식 칩 [공식 / Official / 正式 / 官方] | Advanced Windbite Chip [공식 / Official / 正式 / 官方] | 上級風食チップ [공식 / Official / 正式 / 官方] | 进阶风蚀芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -449,7 +463,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100126 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 심화 풍식 칩 · 심화풍식칩 · Advanced Windbite Chip · 上級風食チップ · 进阶风蚀芯片 · 進階風蝕晶片 · Fortgeschrittener Chip – Windbiss · Puce avancée : Vent · Chip de desgaste eólico avanzado · Chip de Erosão Eólica Avançado · Продвинутый чип выветривания · ชิปลมกรดขั้นสูง · Chip Phong Thực Cao Cấp
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 심화 풍식 칩 · 심화풍식칩 · Advanced Windbite Chip · 上級風食チップ · 进阶风蚀芯片 · 進階風蝕晶片 · Fortgeschrittener Chip – Windbiss · Puce avancée : Vent · Chip de desgaste eólico avanzado · Chip de Erosão Eólica Avançado · Продвинутый чип выветривания · ชิปลมกรดขั้นสูง · Chip Phong Thực Cao Cấp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -459,7 +474,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 심화 루멘 칩 | Advanced Lumiflux Chip | 上級流明チップ | 进阶流明芯片 |
+| 심화 루멘 칩 [공식 / Official / 正式 / 官方] | Advanced Lumiflux Chip [공식 / Official / 正式 / 官方] | 上級流明チップ [공식 / Official / 正式 / 官方] | 进阶流明芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -478,7 +493,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100127 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 심화 루멘 칩 · 심화루멘칩 · Advanced Lumiflux Chip · 上級流明チップ · 进阶流明芯片 · 進階流明晶片 · Fortgeschrittener Chip – Lumiflux · Puce avancée : Lumen · Chip lumiflujo avanzado · Chip de Lúmen Avançado · Продвинутый чип люмена · ชิปลูมิฟลักซ์ขั้นสูง · Chip Lưu Minh Nâng Cấp
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 심화 루멘 칩 · 심화루멘칩 · Advanced Lumiflux Chip · 上級流明チップ · 进阶流明芯片 · 進階流明晶片 · Fortgeschrittener Chip – Lumiflux · Puce avancée : Lumen · Chip lumiflujo avanzado · Chip de Lúmen Avançado · Продвинутый чип люмена · ชิปลูมิฟลักซ์ขั้นสูง · Chip Lưu Minh Nâng Cấp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -488,7 +504,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특화 물리 칩 | Specialized Physical Chip | 特化物理チップ | 特化物理芯片 |
+| 특화 물리 칩 [공식 / Official / 正式 / 官方] | Specialized Physical Chip [공식 / Official / 正式 / 官方] | 特化物理チップ [공식 / Official / 正式 / 官方] | 特化物理芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -507,7 +523,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100130 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특화 물리 칩 · 특화물리칩 · Specialized Physical Chip · 特化物理チップ · 特化物理芯片 · 特化物理晶片 · Spezialisierter Chip – Physisch · Puce spécialisée : Physique · Chip físico especializado · Chip Físico Especializado · Специализированный физический чип · ชิปกายภาพพิเศษ · Chip Vật Lý Đặc Biệt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화 물리 칩 · 특화물리칩 · Specialized Physical Chip · 特化物理チップ · 特化物理芯片 · 特化物理晶片 · Spezialisierter Chip – Physisch · Puce spécialisée : Physique · Chip físico especializado · Chip Físico Especializado · Специализированный физический чип · ชิปกายภาพพิเศษ · Chip Vật Lý Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -517,7 +534,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특화 화상 칩 | Specialized Burn Chip | 特化着火チップ | 特化引燃芯片 |
+| 특화 화상 칩 [공식 / Official / 正式 / 官方] | Specialized Burn Chip [공식 / Official / 正式 / 官方] | 特化着火チップ [공식 / Official / 正式 / 官方] | 特化引燃芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -536,7 +553,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100131 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특화 화상 칩 · 특화화상칩 · Specialized Burn Chip · 特化着火チップ · 特化引燃芯片 · 特化引燃晶片 · Spezialisierter Chip – Flammen · Puce spécialisée : Feu · Chip ígneo especializado · Chip de Queima Especializado · Специализированный чип поджога · ชิปลุกไหม้พิเศษ · Chip Dẫn Cháy Đặc Biệt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화 화상 칩 · 특화화상칩 · Specialized Burn Chip · 特化着火チップ · 特化引燃芯片 · 特化引燃晶片 · Spezialisierter Chip – Flammen · Puce spécialisée : Feu · Chip ígneo especializado · Chip de Queima Especializado · Специализированный чип поджога · ชิปลุกไหม้พิเศษ · Chip Dẫn Cháy Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -546,7 +564,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특화 빙결 칩 | Specialized Freeze Chip | 特化氷結チップ | 特化冰结芯片 |
+| 특화 빙결 칩 [공식 / Official / 正式 / 官方] | Specialized Freeze Chip [공식 / Official / 正式 / 官方] | 特化氷結チップ [공식 / Official / 正式 / 官方] | 特化冰结芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -565,7 +583,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100132 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특화 빙결 칩 · 특화빙결칩 · Specialized Freeze Chip · 特化氷結チップ · 特化冰结芯片 · 特化冰結晶片 · Spezialisierter Chip – Frost · Puce spécialisée : Glace · Chip glacial especializado · Chip de Congelamento Especializado · Специализированный чип заморозки · ชิปแช่แข็งพิเศษ · Chip Đóng Băng Đặc Biệt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화 빙결 칩 · 특화빙결칩 · Specialized Freeze Chip · 特化氷結チップ · 特化冰结芯片 · 特化冰結晶片 · Spezialisierter Chip – Frost · Puce spécialisée : Glace · Chip glacial especializado · Chip de Congelamento Especializado · Специализированный чип заморозки · ชิปแช่แข็งพิเศษ · Chip Đóng Băng Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -575,7 +594,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특화 전기충격 칩 | Specialized Shock Chip | 特化感電チップ | 特化电击芯片 |
+| 특화 전기충격 칩 [공식 / Official / 正式 / 官方] | Specialized Shock Chip [공식 / Official / 正式 / 官方] | 特化感電チップ [공식 / Official / 正式 / 官方] | 特化电击芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -594,7 +613,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100133 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특화 전기충격 칩 · 특화전기충격칩 · Specialized Shock Chip · 特化感電チップ · 特化电击芯片 · 特化電擊晶片 · Spezialisierter Chip – Schock · Puce spécialisée : Électrique · Chip eléctrico especializado · Chip de Choque Especializado · Специализированный чип шока · ชิปไฟช็อตพิเศษ · Chip Điện Kích Đặc Biệt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화 전기충격 칩 · 특화전기충격칩 · Specialized Shock Chip · 特化感電チップ · 特化电击芯片 · 特化電擊晶片 · Spezialisierter Chip – Schock · Puce spécialisée : Électrique · Chip eléctrico especializado · Chip de Choque Especializado · Специализированный чип шока · ชิปไฟช็อตพิเศษ · Chip Điện Kích Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -604,7 +624,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특화 에테르 칩 | Specialized Ether Chip | 特化エーテルチップ | 特化以太芯片 |
+| 특화 에테르 칩 [공식 / Official / 正式 / 官方] | Specialized Ether Chip [공식 / Official / 正式 / 官方] | 特化エーテルチップ [공식 / Official / 正式 / 官方] | 特化以太芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -623,7 +643,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100135 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특화 에테르 칩 · 특화에테르칩 · Specialized Ether Chip · 特化エーテルチップ · 特化以太芯片 · 特化以太晶片 · Spezialisierter Chip – Äther · Puce spécialisée : Éther · Chip etéreo especializado · Chip de Éter Especializado · Специализированный чип эфира · ชิปอีเทอร์พิเศษ · Chip Ether Đặc Biệt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화 에테르 칩 · 특화에테르칩 · Specialized Ether Chip · 特化エーテルチップ · 特化以太芯片 · 特化以太晶片 · Spezialisierter Chip – Äther · Puce spécialisée : Éther · Chip etéreo especializado · Chip de Éter Especializado · Специализированный чип эфира · ชิปอีเทอร์พิเศษ · Chip Ether Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -633,7 +654,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특화 풍식 칩 | Specialized Windbite Chip | 特化風食チップ | 特化风蚀芯片 |
+| 특화 풍식 칩 [공식 / Official / 正式 / 官方] | Specialized Windbite Chip [공식 / Official / 正式 / 官方] | 特化風食チップ [공식 / Official / 正式 / 官方] | 特化风蚀芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -652,7 +673,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100136 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특화 풍식 칩 · 특화풍식칩 · Specialized Windbite Chip · 特化風食チップ · 特化风蚀芯片 · 特化風蝕晶片 · Spezialisierter Chip – Windbiss · Puce spécialisée : Vent · Chip de desgaste eólico especializado · Chip de Erosão de Vento Especializado · Специализированный чип выветривания · ชิปลมกรดพิเศษ · Chip Phong Thực Đặc Biệt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화 풍식 칩 · 특화풍식칩 · Specialized Windbite Chip · 特化風食チップ · 特化风蚀芯片 · 特化風蝕晶片 · Spezialisierter Chip – Windbiss · Puce spécialisée : Vent · Chip de desgaste eólico especializado · Chip de Erosão de Vento Especializado · Специализированный чип выветривания · ชิปลมกรดพิเศษ · Chip Phong Thực Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -662,7 +684,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특화 루멘 칩 | Specialized Lumiflux Chip | 特化流明チップ | 特化流明芯片 |
+| 특화 루멘 칩 [공식 / Official / 正式 / 官方] | Specialized Lumiflux Chip [공식 / Official / 正式 / 官方] | 特化流明チップ [공식 / Official / 正式 / 官方] | 特化流明芯片 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -681,7 +703,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100137 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 특화 루멘 칩 · 특화루멘칩 · Specialized Lumiflux Chip · 特化流明チップ · 特化流明芯片 · 特化流明晶片 · Spezialisierter Chip – Lumiflux · Puce spécialisée : Lumen · Chip lumiflujo especializado · Chip de Lúmen Especializado · Специализированный чип люмена · ชิปลูมิฟลักซ์พิเศษ · Chip Lưu Minh Đặc Biệt
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화 루멘 칩 · 특화루멘칩 · Specialized Lumiflux Chip · 特化流明チップ · 特化流明芯片 · 特化流明晶片 · Spezialisierter Chip – Lumiflux · Puce spécialisée : Lumen · Chip lumiflujo especializado · Chip de Lúmen Especializado · Специализированный чип люмена · ชิปลูมิฟลักซ์พิเศษ · Chip Lưu Minh Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -691,7 +714,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 초급 강공 휘장 | Basic Attack Certification Seal | 初級強攻認証バッジ | 初阶强攻认证章 |
+| 초급 강공 휘장 [공식 / Official / 正式 / 官方] | Basic Attack Certification Seal [공식 / Official / 正式 / 官方] | 初級強攻認証バッジ [공식 / Official / 正式 / 官方] | 初阶强攻认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -710,7 +733,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100211 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 초급 강공 휘장 · 초급강공휘장 · Basic Attack Certification Seal · 初級強攻認証バッジ · 初阶强攻认证章 · 初階強攻認證章 · Basis-Zertifizierungs-Siegel – Attacke · Sceau Attaque de base · Insignia atacante básica · Selo de Certificação de Ataque - Básico · Жетон Нападения начального уровня · ตรารับรองโจมตีรุนแรงระดับต้น · Dấu Tiên Phong - Sơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 초급 강공 휘장 · 초급강공휘장 · Basic Attack Certification Seal · 初級強攻認証バッジ · 初阶强攻认证章 · 初階強攻認證章 · Basis-Zertifizierungs-Siegel – Attacke · Sceau Attaque de base · Insignia atacante básica · Selo de Certificação de Ataque - Básico · Жетон Нападения начального уровня · ตรารับรองโจมตีรุนแรงระดับต้น · Dấu Tiên Phong - Sơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -720,7 +744,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 초급 격파 휘장 | Basic Stun Certification Seal | 初級撃破認証バッジ | 初阶击破认证章 |
+| 초급 격파 휘장 [공식 / Official / 正式 / 官方] | Basic Stun Certification Seal [공식 / Official / 正式 / 官方] | 初級撃破認証バッジ [공식 / Official / 正式 / 官方] | 初阶击破认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -739,7 +763,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100212 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 초급 격파 휘장 · 초급격파휘장 · Basic Stun Certification Seal · 初級撃破認証バッジ · 初阶击破认证章 · 初階擊破認證章 · Basis-Zertifizierungs-Siegel – Durchbruch · Sceau Confusion de base · Insignia aturdidora básica · Selo de Certificação de Atordoamento - Básico · Жетон Устрашения начального уровня · ตรารับรองสตั๊นระดับต้น · Dấu Khống Chế - Sơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 초급 격파 휘장 · 초급격파휘장 · Basic Stun Certification Seal · 初級撃破認証バッジ · 初阶击破认证章 · 初階擊破認證章 · Basis-Zertifizierungs-Siegel – Durchbruch · Sceau Confusion de base · Insignia aturdidora básica · Selo de Certificação de Atordoamento - Básico · Жетон Устрашения начального уровня · ตรารับรองสตั๊นระดับต้น · Dấu Khống Chế - Sơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -749,7 +774,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 초급 이상 휘장 | Basic Anomaly Certification Seal | 初級異常認証バッジ | 初阶异常认证章 |
+| 초급 이상 휘장 [공식 / Official / 正式 / 官方] | Basic Anomaly Certification Seal [공식 / Official / 正式 / 官方] | 初級異常認証バッジ [공식 / Official / 正式 / 官方] | 初阶异常认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -768,7 +793,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100213 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 초급 이상 휘장 · 초급이상휘장 · Basic Anomaly Certification Seal · 初級異常認証バッジ · 初阶异常认证章 · 初階異常認證章 · Basis-Zertifizierungs-Siegel – Anomalie · Sceau Anomalie de base · Insignia anómala básica · Selo de Certificação de Anomalia - Básico · Жетон Аномалии начального уровня · ตรารับรองธาตุผิดปกติระดับต้น · Dấu Dị Thường - Sơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 초급 이상 휘장 · 초급이상휘장 · Basic Anomaly Certification Seal · 初級異常認証バッジ · 初阶异常认证章 · 初階異常認證章 · Basis-Zertifizierungs-Siegel – Anomalie · Sceau Anomalie de base · Insignia anómala básica · Selo de Certificação de Anomalia - Básico · Жетон Аномалии начального уровня · ตรารับรองธาตุผิดปกติระดับต้น · Dấu Dị Thường - Sơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -778,7 +804,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 초급 지원 휘장 | Basic Support Certification Seal | 初級支援認証バッジ | 初阶支援认证章 |
+| 초급 지원 휘장 [공식 / Official / 正式 / 官方] | Basic Support Certification Seal [공식 / Official / 正式 / 官方] | 初級支援認証バッジ [공식 / Official / 正式 / 官方] | 初阶支援认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -797,7 +823,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100214 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 초급 지원 휘장 · 초급지원휘장 · Basic Support Certification Seal · 初級支援認証バッジ · 初阶支援认证章 · 初階支援認證章 · Basis-Zertifizierungs-Siegel – Support · Sceau Soutien de base · Insignia auxiliar básica · Selo de Certificação de Assistência- Básico · Жетон Поддержки начального уровня · ตรารับรองซัปพอร์ตระดับต้น · Dấu Chi Viện - Sơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 초급 지원 휘장 · 초급지원휘장 · Basic Support Certification Seal · 初級支援認証バッジ · 初阶支援认证章 · 初階支援認證章 · Basis-Zertifizierungs-Siegel – Support · Sceau Soutien de base · Insignia auxiliar básica · Selo de Certificação de Assistência- Básico · Жетон Поддержки начального уровня · ตรารับรองซัปพอร์ตระดับต้น · Dấu Chi Viện - Sơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -807,7 +834,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 초급 방어 휘장 | Basic Defense Certification Seal | 初級防護認証バッジ | 初阶防护认证章 |
+| 초급 방어 휘장 [공식 / Official / 正式 / 官方] | Basic Defense Certification Seal [공식 / Official / 正式 / 官方] | 初級防護認証バッジ [공식 / Official / 正式 / 官方] | 初阶防护认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -826,7 +853,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100215 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 초급 방어 휘장 · 초급방어휘장 · Basic Defense Certification Seal · 初級防護認証バッジ · 初阶防护认证章 · 初階防護認證章 · Basis-Zertifizierungs-Siegel – Defensive · Sceau Défense de base · Insignia defensiva básica · Selo de Certificação de Defesa - Básico · Жетон Обороны начального уровня · ตรารับรองป้องกันระดับต้น · Dấu Thủ Hộ - Sơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 초급 방어 휘장 · 초급방어휘장 · Basic Defense Certification Seal · 初級防護認証バッジ · 初阶防护认证章 · 初階防護認證章 · Basis-Zertifizierungs-Siegel – Defensive · Sceau Défense de base · Insignia defensiva básica · Selo de Certificação de Defesa - Básico · Жетон Обороны начального уровня · ตรารับรองป้องกันระดับต้น · Dấu Thủ Hộ - Sơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -836,7 +864,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 초급 명파 휘장 | Basic Rupture Certification Seal | 初級命破認証バッジ | 初阶命破认证章 |
+| 초급 명파 휘장 [공식 / Official / 正式 / 官方] | Basic Rupture Certification Seal [공식 / Official / 正式 / 官方] | 初級命破認証バッジ [공식 / Official / 正式 / 官方] | 初阶命破认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -855,7 +883,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100216 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 초급 명파 휘장 · 초급명파휘장 · Basic Rupture Certification Seal · 初級命破認証バッジ · 初阶命破认证章 · 初階命破認證章 · Basis-Zertifizierungs-Siegel – Spaltung · Sceau Rupture de base · Insignia disruptiva básica · Selo de Certificação de Destruição - Básico · Жетон Разрушения начального уровня · ตรารับรองตัดสะบั้นระดับต้น · Dấu Mệnh Phá - Sơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 초급 명파 휘장 · 초급명파휘장 · Basic Rupture Certification Seal · 初級命破認証バッジ · 初阶命破认证章 · 初階命破認證章 · Basis-Zertifizierungs-Siegel – Spaltung · Sceau Rupture de base · Insignia disruptiva básica · Selo de Certificação de Destruição - Básico · Жетон Разрушения начального уровня · ตรารับรองตัดสะบั้นระดับต้น · Dấu Mệnh Phá - Sơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -865,7 +894,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 초급 단조 휘장 | Basic Armorer Certification Seal | 初級鋭御認証バッジ | 初阶锋御认证章 |
+| 초급 단조 휘장 [공식 / Official / 正式 / 官方] | Basic Armorer Certification Seal [공식 / Official / 正式 / 官方] | 初級鋭御認証バッジ [공식 / Official / 正式 / 官方] | 初阶锋御认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -884,7 +913,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100217 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 초급 단조 휘장 · 초급단조휘장 · Basic Armorer Certification Seal · 初級鋭御認証バッジ · 初阶锋御认证章 · 初階鋒御認證章 · Basis-Zertifizierungs-Siegel – Schmiedung · Sceau Forge de base · Insignia de armero básica · Selo de Certificação de Armeiro - Básico · Жетон Оружейника начального уровня · ตรารับรองประจัญบานระดับต้น · Dấu Ngự Kích - Sơ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 초급 단조 휘장 · 초급단조휘장 · Basic Armorer Certification Seal · 初級鋭御認証バッジ · 初阶锋御认证章 · 初階鋒御認證章 · Basis-Zertifizierungs-Siegel – Schmiedung · Sceau Forge de base · Insignia de armero básica · Selo de Certificação de Armeiro - Básico · Жетон Оружейника начального уровня · ตรารับรองประจัญบานระดับต้น · Dấu Ngự Kích - Sơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -894,7 +924,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고급 강공 휘장 | Advanced Attack Certification Seal | 高級強攻認証バッジ | 高阶强攻认证章 |
+| 고급 강공 휘장 [공식 / Official / 正式 / 官方] | Advanced Attack Certification Seal [공식 / Official / 正式 / 官方] | 高級強攻認証バッジ [공식 / Official / 正式 / 官方] | 高阶强攻认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -913,7 +943,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100221 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고급 강공 휘장 · 고급강공휘장 · Advanced Attack Certification Seal · 高級強攻認証バッジ · 高阶强攻认证章 · 高階強攻認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Attacke · Sceau Attaque avancé · Insignia atacante avanzada · Selo de Certificação de Ataque - Avançado · Жетон Нападения высшего уровня · ตรารับรองโจมตีรุนแรงระดับสูง · Dấu Tiên Phong - Cao
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고급 강공 휘장 · 고급강공휘장 · Advanced Attack Certification Seal · 高級強攻認証バッジ · 高阶强攻认证章 · 高階強攻認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Attacke · Sceau Attaque avancé · Insignia atacante avanzada · Selo de Certificação de Ataque - Avançado · Жетон Нападения высшего уровня · ตรารับรองโจมตีรุนแรงระดับสูง · Dấu Tiên Phong - Cao
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -923,7 +954,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고급 격파 휘장 | Advanced Stun Certification Seal | 高級撃破認証バッジ | 高阶击破认证章 |
+| 고급 격파 휘장 [공식 / Official / 正式 / 官方] | Advanced Stun Certification Seal [공식 / Official / 正式 / 官方] | 高級撃破認証バッジ [공식 / Official / 正式 / 官方] | 高阶击破认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -942,7 +973,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100222 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고급 격파 휘장 · 고급격파휘장 · Advanced Stun Certification Seal · 高級撃破認証バッジ · 高阶击破认证章 · 高階擊破認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Durchbruch · Sceau Confusion avancé · Insignia aturdidora avanzada · Selo de Certificação de Atordoamento - Avançado · Жетон Устрашения высшего уровня · ตรารับรองสตั๊นระดับสูง · Dấu Khống Chế - Cao
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고급 격파 휘장 · 고급격파휘장 · Advanced Stun Certification Seal · 高級撃破認証バッジ · 高阶击破认证章 · 高階擊破認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Durchbruch · Sceau Confusion avancé · Insignia aturdidora avanzada · Selo de Certificação de Atordoamento - Avançado · Жетон Устрашения высшего уровня · ตรารับรองสตั๊นระดับสูง · Dấu Khống Chế - Cao
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -952,7 +984,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고급 이상 휘장 | Advanced Anomaly Certification Seal | 高級異常認証バッジ | 高阶异常认证章 |
+| 고급 이상 휘장 [공식 / Official / 正式 / 官方] | Advanced Anomaly Certification Seal [공식 / Official / 正式 / 官方] | 高級異常認証バッジ [공식 / Official / 正式 / 官方] | 高阶异常认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -971,7 +1003,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100223 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고급 이상 휘장 · 고급이상휘장 · Advanced Anomaly Certification Seal · 高級異常認証バッジ · 高阶异常认证章 · 高階異常認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Anomalie · Sceau Anomalie avancé · Insignia anómala avanzada · Selo de Certificação de Anomalia - Avançado · Жетон Аномалии высшего уровня · ตรารับรองธาตุผิดปกติระดับสูง · Dấu Dị Thường - Cao
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고급 이상 휘장 · 고급이상휘장 · Advanced Anomaly Certification Seal · 高級異常認証バッジ · 高阶异常认证章 · 高階異常認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Anomalie · Sceau Anomalie avancé · Insignia anómala avanzada · Selo de Certificação de Anomalia - Avançado · Жетон Аномалии высшего уровня · ตรารับรองธาตุผิดปกติระดับสูง · Dấu Dị Thường - Cao
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -981,7 +1014,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고급 지원 휘장 | Advanced Support Certification Seal | 高級支援認証バッジ | 高阶支援认证章 |
+| 고급 지원 휘장 [공식 / Official / 正式 / 官方] | Advanced Support Certification Seal [공식 / Official / 正式 / 官方] | 高級支援認証バッジ [공식 / Official / 正式 / 官方] | 高阶支援认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1000,7 +1033,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100224 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고급 지원 휘장 · 고급지원휘장 · Advanced Support Certification Seal · 高級支援認証バッジ · 高阶支援认证章 · 高階支援認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Support · Sceau Soutien avancé · Insignia auxiliar avanzada · Selo de Certificação de Assistência - Avançado · Жетон Поддержки высшего уровня · ตรารับรองซัปพอร์ตระดับสูง · Dấu Chi Viện - Cao
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고급 지원 휘장 · 고급지원휘장 · Advanced Support Certification Seal · 高級支援認証バッジ · 高阶支援认证章 · 高階支援認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Support · Sceau Soutien avancé · Insignia auxiliar avanzada · Selo de Certificação de Assistência - Avançado · Жетон Поддержки высшего уровня · ตรารับรองซัปพอร์ตระดับสูง · Dấu Chi Viện - Cao
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1010,7 +1044,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고급 방어 휘장 | Advanced Defense Certification Seal | 高級防護認証バッジ | 高阶防护认证章 |
+| 고급 방어 휘장 [공식 / Official / 正式 / 官方] | Advanced Defense Certification Seal [공식 / Official / 正式 / 官方] | 高級防護認証バッジ [공식 / Official / 正式 / 官方] | 高阶防护认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1029,7 +1063,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100225 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고급 방어 휘장 · 고급방어휘장 · Advanced Defense Certification Seal · 高級防護認証バッジ · 高阶防护认证章 · 高階防護認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Defensive · Sceau Défense avancé · Insignia defensiva avanzada · Selo de Certificação de Defesa - Avançado · Жетон Обороны высшего уровня · ตรารับรองป้องกันระดับสูง · Dấu Thủ Hộ - Cao
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고급 방어 휘장 · 고급방어휘장 · Advanced Defense Certification Seal · 高級防護認証バッジ · 高阶防护认证章 · 高階防護認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Defensive · Sceau Défense avancé · Insignia defensiva avanzada · Selo de Certificação de Defesa - Avançado · Жетон Обороны высшего уровня · ตรารับรองป้องกันระดับสูง · Dấu Thủ Hộ - Cao
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1039,7 +1074,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고급 명파 휘장 | Advanced Rupture Certification Seal | 高級命破認証バッジ | 高阶命破认证章 |
+| 고급 명파 휘장 [공식 / Official / 正式 / 官方] | Advanced Rupture Certification Seal [공식 / Official / 正式 / 官方] | 高級命破認証バッジ [공식 / Official / 正式 / 官方] | 高阶命破认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1058,7 +1093,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100226 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고급 명파 휘장 · 고급명파휘장 · Advanced Rupture Certification Seal · 高級命破認証バッジ · 高阶命破认证章 · 高階命破認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Spaltung · Sceau Rupture avancé · Insignia disruptiva avanzada · Selo de Certificação de Destruição - Avançado · Жетон Разрушения высшего уровня · ตรารับรองตัดสะบั้นระดับสูง · Dấu Mệnh Phá - Cao
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고급 명파 휘장 · 고급명파휘장 · Advanced Rupture Certification Seal · 高級命破認証バッジ · 高阶命破认证章 · 高階命破認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Spaltung · Sceau Rupture avancé · Insignia disruptiva avanzada · Selo de Certificação de Destruição - Avançado · Жетон Разрушения высшего уровня · ตรารับรองตัดสะบั้นระดับสูง · Dấu Mệnh Phá - Cao
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1068,7 +1104,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 고급 단조 휘장 | Advanced Armorer Certification Seal | 高級鋭御認証バッジ | 高阶锋御认证章 |
+| 고급 단조 휘장 [공식 / Official / 正式 / 官方] | Advanced Armorer Certification Seal [공식 / Official / 正式 / 官方] | 高級鋭御認証バッジ [공식 / Official / 正式 / 官方] | 高阶锋御认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1087,7 +1123,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100227 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 고급 단조 휘장 · 고급단조휘장 · Advanced Armorer Certification Seal · 高級鋭御認証バッジ · 高阶锋御认证章 · 高階鋒御認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Schmiedung · Sceau Forge avancé · Insignia de armero avanzada · Selo de Certificação de Armeiro - Avançado · Жетон Оружейника высшего уровня · ตรารับรองประจัญบานระดับสูง · Dấu Ngự Kích - Cao
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고급 단조 휘장 · 고급단조휘장 · Advanced Armorer Certification Seal · 高級鋭御認証バッジ · 高阶锋御认证章 · 高階鋒御認證章 · Fortgeschrittenes Zertifizierungs-Siegel – Schmiedung · Sceau Forge avancé · Insignia de armero avanzada · Selo de Certificação de Armeiro - Avançado · Жетон Оружейника высшего уровня · ตรารับรองประจัญบานระดับสูง · Dấu Ngự Kích - Cao
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1097,7 +1134,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 선구자 휘장 | Pioneer's Certification Seal | バンガード認証バッジ | 先行者认证章 |
+| 선구자 휘장 [공식 / Official / 正式 / 官方] | Pioneer's Certification Seal [공식 / Official / 正式 / 官方] | バンガード認証バッジ [공식 / Official / 正式 / 官方] | 先行者认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1116,7 +1153,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100231 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 선구자 휘장 · 선구자휘장 · Pioneer's Certification Seal · バンガード認証バッジ · 先行者认证章 · 先行者認證章 · Zertifizierungs-Siegel – Pionier · Sceau du Pionnier · Insignia del pionero · Selo de Certificação de Pioneiro · Жетон пионера · ตรารับรองผู้บุกเบิก · Dấu Người Tiên Phong
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 선구자 휘장 · 선구자휘장 · Pioneer's Certification Seal · バンガード認証バッジ · 先行者认证章 · 先行者認證章 · Zertifizierungs-Siegel – Pionier · Sceau du Pionnier · Insignia del pionero · Selo de Certificação de Pioneiro · Жетон пионера · ตรารับรองผู้บุกเบิก · Dấu Người Tiên Phong
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1126,7 +1164,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 파괴자 휘장 | Buster Certification Seal | ブレイカー認証バッジ | 破阵者认证章 |
+| 파괴자 휘장 [공식 / Official / 正式 / 官方] | Buster Certification Seal [공식 / Official / 正式 / 官方] | ブレイカー認証バッジ [공식 / Official / 正式 / 官方] | 破阵者认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1145,7 +1183,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100232 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 파괴자 휘장 · 파괴자휘장 · Buster Certification Seal · ブレイカー認証バッジ · 破阵者认证章 · 破陣者認證章 · Zertifizierungs-Siegel – Durchbrecher · Sceau du Destructeur · Insignia rompefilas · Selo de Certificação de Demolidor · Жетон победителя · ตรารับรองนักทำลาย · Dấu Người Phá Trận
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 파괴자 휘장 · 파괴자휘장 · Buster Certification Seal · ブレイカー認証バッジ · 破阵者认证章 · 破陣者認證章 · Zertifizierungs-Siegel – Durchbrecher · Sceau du Destructeur · Insignia rompefilas · Selo de Certificação de Demolidor · Жетон победителя · ตรารับรองนักทำลาย · Dấu Người Phá Trận
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1155,7 +1194,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 지배자 휘장 | Controller Certification Seal | ルーラー認証バッジ | 掌控者认证章 |
+| 지배자 휘장 [공식 / Official / 正式 / 官方] | Controller Certification Seal [공식 / Official / 正式 / 官方] | ルーラー認証バッジ [공식 / Official / 正式 / 官方] | 掌控者认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1174,7 +1213,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100233 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 지배자 휘장 · 지배자휘장 · Controller Certification Seal · ルーラー認証バッジ · 掌控者认证章 · 掌控者認證章 · Zertifizierungs-Siegel – Kontroller · Sceau du Maître · Insignia controladora · Selo de Certificação de Controlador · Жетон контролёра · ตรารับรองผู้ควบคุม · Dấu Người Điều Khiển
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 지배자 휘장 · 지배자휘장 · Controller Certification Seal · ルーラー認証バッジ · 掌控者认证章 · 掌控者認證章 · Zertifizierungs-Siegel – Kontroller · Sceau du Maître · Insignia controladora · Selo de Certificação de Controlador · Жетон контролёра · ตรารับรองผู้ควบคุม · Dấu Người Điều Khiển
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1184,7 +1224,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 통솔자 휘장 | Ruler Certification Seal | コマンダー認証バッジ | 统御者认证章 |
+| 통솔자 휘장 [공식 / Official / 正式 / 官方] | Ruler Certification Seal [공식 / Official / 正式 / 官方] | コマンダー認証バッジ [공식 / Official / 正式 / 官方] | 统御者认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1203,7 +1243,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100234 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 통솔자 휘장 · 통솔자휘장 · Ruler Certification Seal · コマンダー認証バッジ · 统御者认证章 · 統御者認證章 · Zertifizierungs-Siegel – Regierer · Sceau du Souverain · Insignia dominante · Selo de Certificação de Comandante · Жетон правителя · ตรารับรองผู้ครอบครอง · Dấu Người Thống Trị
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 통솔자 휘장 · 통솔자휘장 · Ruler Certification Seal · コマンダー認証バッジ · 统御者认证章 · 統御者認證章 · Zertifizierungs-Siegel – Regierer · Sceau du Souverain · Insignia dominante · Selo de Certificação de Comandante · Жетон правителя · ตรารับรองผู้ครอบครอง · Dấu Người Thống Trị
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1213,7 +1254,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 수호자 휘장 | Defender Certification Seal | ガードナー認証バッジ | 捍卫者认证章 |
+| 수호자 휘장 [공식 / Official / 正式 / 官方] | Defender Certification Seal [공식 / Official / 正式 / 官方] | ガードナー認証バッジ [공식 / Official / 正式 / 官方] | 捍卫者认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1232,7 +1273,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100235 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 수호자 휘장 · 수호자휘장 · Defender Certification Seal · ガードナー認証バッジ · 捍卫者认证章 · 捍衛者認證章 · Zertifizierungs-Siegel – Verteidiger · Sceau du Protecteur · Insignia protectora · Selo de Certificação de Defensor · Жетон защитника · ตรารับรองผู้พิทักษ์ · Dấu Người Bảo Vệ
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 수호자 휘장 · 수호자휘장 · Defender Certification Seal · ガードナー認証バッジ · 捍卫者认证章 · 捍衛者認證章 · Zertifizierungs-Siegel – Verteidiger · Sceau du Protecteur · Insignia protectora · Selo de Certificação de Defensor · Жетон защитника · ตรารับรองผู้พิทักษ์ · Dấu Người Bảo Vệ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1242,7 +1284,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 판결자 휘장 | Arbiter Certification Seal | アービター認証バッジ | 裁决者认证章 |
+| 판결자 휘장 [공식 / Official / 正式 / 官方] | Arbiter Certification Seal [공식 / Official / 正式 / 官方] | アービター認証バッジ [공식 / Official / 正式 / 官方] | 裁决者认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1261,7 +1303,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100236 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 판결자 휘장 · 판결자휘장 · Arbiter Certification Seal · アービター認証バッジ · 裁决者认证章 · 裁決者認證章 · Zertifizierungs-Siegel – Richter · Sceau du Juge · Insignia dictaminadora · Selo de Certificação de Destruição · Жетон судьи · ตรารับรองผู้พิพากษา · Dấu Người Phán Quyết
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 판결자 휘장 · 판결자휘장 · Arbiter Certification Seal · アービター認証バッジ · 裁决者认证章 · 裁決者認證章 · Zertifizierungs-Siegel – Richter · Sceau du Juge · Insignia dictaminadora · Selo de Certificação de Destruição · Жетон судьи · ตรารับรองผู้พิพากษา · Dấu Người Phán Quyết
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1271,7 +1314,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 집봉자 휘장 | Bladebearer Certification Seal | アーマラー認証バッジ | 执锋者认证章 |
+| 집봉자 휘장 [공식 / Official / 正式 / 官方] | Bladebearer Certification Seal [공식 / Official / 正式 / 官方] | アーマラー認証バッジ [공식 / Official / 正式 / 官方] | 执锋者认证章 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1290,7 +1333,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100237 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 집봉자 휘장 · 집봉자휘장 · Bladebearer Certification Seal · アーマラー認証バッジ · 执锋者认证章 · 執鋒者認證章 · Zertifizierungs-Siegel – Klingenträger · Sceau de Métallurgiste · Insignia metalúrgica · Selo de Certificação do Manejo da Lâmina · Жетон мечника · ตรารับรองผู้ฝ่าทะลวง · Dấu Người Chấp Phong
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 집봉자 휘장 · 집봉자휘장 · Bladebearer Certification Seal · アーマラー認証バッジ · 执锋者认证章 · 執鋒者認證章 · Zertifizierungs-Siegel – Klingenträger · Sceau de Métallurgiste · Insignia metalúrgica · Selo de Certificação do Manejo da Lâmina · Жетон мечника · ตรารับรองผู้ฝ่าทะลวง · Dấu Người Chấp Phong
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1300,7 +1344,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 「햄스터 우리」 접근기 | Hamster Cage Pass | アクセサリ「ハムスターケージ」 | 「仓鼠笼」访问器 |
+| 「햄스터 우리」 접근기 [공식 / Official / 正式 / 官方] | Hamster Cage Pass [공식 / Official / 正式 / 官方] | アクセサリ「ハムスターケージ」 [공식 / Official / 正式 / 官方] | 「仓鼠笼」访问器 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1319,7 +1363,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100941 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 「햄스터 우리」 접근기 · 「햄스터우리」접근기 · Hamster Cage Pass · アクセサリ「ハムスターケージ」 · 「仓鼠笼」访问器 · 「倉鼠籠」存取器 · Hamsterkäfig-Pass · Accès à la Cage à hamster · Descriptor «jaula de hámster» · Passe de Gaiola de Hamster · Пропуск в «Хомячью клетку» · Chìa Khóa Chuồng Hamster
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「햄스터 우리」 접근기 · 「햄스터우리」접근기 · Hamster Cage Pass · アクセサリ「ハムスターケージ」 · 「仓鼠笼」访问器 · 「倉鼠籠」存取器 · Hamsterkäfig-Pass · Accès à la Cage à hamster · Descriptor «jaula de hámster» · Passe de Gaiola de Hamster · Пропуск в «Хомячью клетку» · Chìa Khóa Chuồng Hamster
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1329,7 +1374,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 조율 튜너 | Tuning Calibrator | 調律チューナー | 调律校音器 |
+| 조율 튜너 [공식 / Official / 正式 / 官方] | Tuning Calibrator [공식 / Official / 正式 / 官方] | 調律チューナー [공식 / Official / 正式 / 官方] | 调律校音器 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1348,7 +1393,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100942 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 조율 튜너 · 조율튜너 · Tuning Calibrator · 調律チューナー · 调律校音器 · 調律校音器 · Tuning-Kalibrator · Accordeur · Calibrador de afinación · Calibrador de Afinação · Калибратор интонировки · อุปกรณ์ปรับจูน · Thiết Bị Chỉnh Âm
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 조율 튜너 · 조율튜너 · Tuning Calibrator · 調律チューナー · 调律校音器 · 調律校音器 · Tuning-Kalibrator · Accordeur · Calibrador de afinación · Calibrador de Afinação · Калибратор интонировки · อุปกรณ์ปรับจูน · Thiết Bị Chỉnh Âm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1358,7 +1404,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 공진 코어 장치 | Resonating Core | 共振ガジェット | 谐振核心仪 |
+| 공진 코어 장치 [공식 / Official / 正式 / 官方] | Resonating Core [공식 / Official / 正式 / 官方] | 共振ガジェット [공식 / Official / 正式 / 官方] | 谐振核心仪 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1377,7 +1423,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:100944 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 공진 코어 장치 · 공진코어장치 · Resonating Core · 共振ガジェット · 谐振核心仪 · 諧振核心儀 · Resonanzkern · Noyau de résonance · Núcleo resonante · Núcleo de Ressonância · Резонансное ядро · อุปกรณ์สั่นพ้องแกนกลาง · Lõi Cộng Hưởng
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 공진 코어 장치 · 공진코어장치 · Resonating Core · 共振ガジェット · 谐振核心仪 · 諧振核心儀 · Resonanzkern · Noyau de résonance · Núcleo resonante · Núcleo de Ressonância · Резонансное ядро · อุปกรณ์สั่นพ้องแกนกลาง · Lõi Cộng Hưởng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1387,7 +1434,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 강공 부품 | Attack Component | 強攻キット | 强攻组件 |
+| 강공 부품 [공식 / Official / 正式 / 官方] | Attack Component [공식 / Official / 正式 / 官方] | 強攻キット [공식 / Official / 正式 / 官方] | 强攻组件 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1406,7 +1453,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:101010 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 강공 부품 · 강공부품 · Attack Component · 強攻キット · 强攻组件 · 強攻元件 · Attacke-Komponente · Composant Attaque · Componente atacante · Polarizador · Компонент «Нападение» · ส่วนประกอบโจมตีรุนแรง · Linh Kiện Tiên Phong
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강공 부품 · 강공부품 · Attack Component · 強攻キット · 强攻组件 · 強攻元件 · Attacke-Komponente · Composant Attaque · Componente atacante · Polarizador · Компонент «Нападение» · ส่วนประกอบโจมตีรุนแรง · Linh Kiện Tiên Phong
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1416,7 +1464,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 격파 부품 | Stun Component | 撃破キット | 击破组件 |
+| 격파 부품 [공식 / Official / 正式 / 官方] | Stun Component [공식 / Official / 正式 / 官方] | 撃破キット [공식 / Official / 正式 / 官方] | 击破组件 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1435,7 +1483,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:101011 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 격파 부품 · 격파부품 · Stun Component · 撃破キット · 击破组件 · 擊破元件 · Durchbruch-Komponente · Composant Confusion · Componente aturdidor · Diafragma · Компонент «Устрашение» · ส่วนประกอบสตั๊น · Linh Kiện Khống Chế
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 격파 부품 · 격파부품 · Stun Component · 撃破キット · 击破组件 · 擊破元件 · Durchbruch-Komponente · Composant Confusion · Componente aturdidor · Diafragma · Компонент «Устрашение» · ส่วนประกอบสตั๊น · Linh Kiện Khống Chế
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
@@ -1445,7 +1494,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 이상 부품 | Anomaly Component | 異常キット | 异常组件 |
+| 이상 부품 [공식 / Official / 正式 / 官方] | Anomaly Component [공식 / Official / 正式 / 官方] | 異常キット [공식 / Official / 正式 / 官方] | 异常组件 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1464,7 +1513,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 </details>
 
 - ID: item:101012 · Status: live · autoUse: true
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名: 이상 부품 · 이상부품 · Anomaly Component · 異常キット · 异常组件 · 異常元件 · Anomalie-Komponente · Composant Anomalie · Componente anómalo · Ímã · Компонент «Аномалия» · ส่วนประกอบธาตุผิดปกติ · Linh Kiện Dị Thường
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이상 부품 · 이상부품 · Anomaly Component · 異常キット · 异常组件 · 異常元件 · Anomalie-Komponente · Composant Anomalie · Componente anómalo · Ímã · Компонент «Аномалия» · ส่วนประกอบธาตุผิดปกติ · Linh Kiện Dị Thường
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
