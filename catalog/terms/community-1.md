@@ -579,8 +579,8 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 - ID: community:damage-reduction · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 비공식 / Unofficial / 非公式 / 非官方 · 확인 필요 / Needs review / 要確認 / 待确认
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 피감 · 뎀감 · damage reduction · ダメージ軽減 · 减伤
-- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 피감 [비공식 / Unofficial / 非公式 / 非官方] · zh-CN: 减伤 [비공식 / Unofficial / 非公式 / 非官方]
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 받피감 · 피감 · 뎀감 · damage reduction · ダメージ軽減 · 减伤
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 받피감 [비공식 / Unofficial / 非公式 / 非官方] · zh-CN: 减伤 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 받는 피해가 줄어드는 효과.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 피해를 받는 주체를 보존한다. 이상피감의 이상 등 수식어를 생략하지 않으며 내성 감소나 주는 피해 증가로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
 - 출처 / Sources / 出典 / 来源: [1](https://wikiwiki.jp/mukankeizone/用語集)

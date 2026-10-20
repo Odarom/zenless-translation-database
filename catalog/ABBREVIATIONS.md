@@ -57,7 +57,7 @@
 | 전무 · 전용무기 · 전엔 · 전용엔진 · signature W-Engine · signature engine · sig · signature weapon · 餅武器 · 餅 · モチーフ音動機 · 专武 · 专属音擎 · 전용 W-엔진 · 전용W-엔진 | 전용 W-엔진 | signature W-Engine | モチーフ音動機 | 专属音擎 |
 | 쿨 · 쿨타임 · 쿨탐 · CD · cooldown · クールタイム · 冷却 | 재사용 대기시간 | cooldown | クールタイム | 冷却时间 |
 | 피증 · 뎀증 · DMG bonus · damage bonus · ダメバフ · 增伤 | 피해 증가 | DMG Bonus | 与ダメージアップ | 伤害加成 |
-| 피감 · 뎀감 · damage reduction · ダメージ軽減 · 减伤 | 받는 피해 감소 | damage taken reduction | 被ダメージ軽減 | 受到的伤害降低 |
+| 받피감 · 피감 · 뎀감 · damage reduction · ダメージ軽減 · 减伤 | 받는 피해 감소 | damage taken reduction | 被ダメージ軽減 | 受到的伤害降低 |
 | 방깎 · 방어깎 · DEF shred · DEF reduction · 防御ダウン · 减防 | 방어력 감소 | DEF reduction | 防御力ダウン | 防御力降低 |
 | 내성깎 · 내성깎기 · 내성 감소 · RES shred · RES reduction · 耐性ダウン · 减抗 · 속성 피해 저항 감소 · 속성피해저항감소 · 속저깎 · 내성깍 · 속성 피해 저항 · 속성피해저항 · 피해 저항 · 피해저항 · RES · 伤害抗性 · ダメージ耐性 | 속성 피해 저항 감소 | RES reduction | 耐性ダウン | 抗性降低 |
 | 온필드 · on-field · on field · 表運用 · 站场 | 온필드 | on-field | 表で操作 | 站场 |
@@ -143,7 +143,7 @@
 | 전용 W-엔진 | 전무 | sig | 餅武器 | 专武 |
 | 재사용 대기시간 | 쿨타임 | — | — | — |
 | 피해 증가 | 피증 | — | ダメバフ | 增伤 |
-| 받는 피해 감소 | 피감 | — | — | 减伤 |
+| 받는 피해 감소 | 받피감 | — | — | 减伤 |
 | 방어력 감소 | 방깎 | DEF shred | — | 减防 |
 | 속성 피해 저항 감소 | 속저깎 | RES shred | — | 减抗 |
 | 최적 장비 | — | BiS | — | — |

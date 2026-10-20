@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "2026-10-20-3a1c909cce9d",
-  "sha256": "3a1c909cce9de534a0839ab3d4bcdffa20c79b8b4d6c385b278e2a746a39cfd7",
-  "bytes": 8023459,
+  "version": "2026-10-20-53375b154504",
+  "sha256": "53375b154504497233614d922ea5e08dddc6bd8803c870c23fb972b3420c886c",
+  "bytes": 8023508,
   "count": 2314,
-  "file": "releases/3a1c909cce9de534a0839ab3d4bcdffa20c79b8b4d6c385b278e2a746a39cfd7.json",
+  "file": "releases/53375b154504497233614d922ea5e08dddc6bd8803c870c23fb972b3420c886c.json",
   "sourceVersion": "3.2",
   "languages": [
     "ko",

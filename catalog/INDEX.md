@@ -814,7 +814,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [character:1471](terms/agent-1.md#character1471) | 반악 | Banyue | 盤岳 | 般岳 |  | live | official |
 | [character:1421](terms/agent-1.md#character1421) | 반인호 | Pan Yinhu | 潘引壺 | 潘引壶 |  | live | official |
 | [talent:1121:1](terms/mindscape-name-2.md#talent11211) | 반작용력 | Reacting Force | 反作用力 | 反作用力 |  | live | official |
-| [community:damage-reduction](terms/community-1.md#communitydamage-reduction) | 받는 피해 감소 | damage taken reduction | 被ダメージ軽減 | 受到的伤害降低 | ko: 피감 · zh-CN: 减伤 | live | unofficial · needs-review |
+| [community:damage-reduction](terms/community-1.md#communitydamage-reduction) | 받는 피해 감소 | damage taken reduction | 被ダメージ軽減 | 受到的伤害降低 | ko: 받피감 · zh-CN: 减伤 | live | unofficial · needs-review |
 | [talent:1021:4](terms/mindscape-name-1.md#talent10214) | 발톱 갈기 | Sharpen Claws | 爪研ぎ | 磨爪 |  | live | official |
 | [talent:1441:1](terms/mindscape-name-6.md#talent14411) | 방랑자의 생존 법칙 | Drifter's Rules of Survival | 浮浪生存戦略 | 流浪生存法则 |  | live | official |
 | [item:101014](terms/material-2.md#item101014) | 방어 부품 | Defense Component | 防護キット | 防护组件 |  | live | official |

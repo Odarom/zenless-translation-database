@@ -216535,6 +216535,7 @@
     {
       "id": "community:damage-reduction",
       "aliases": [
+        "받피감",
         "피감",
         "뎀감",
         "damage reduction",
@@ -216557,10 +216558,10 @@
         "신고에서 확인한 이상피감/내성 감소 구분, 2026-10-08"
       ],
       "communityPreferred": {
-        "ko": "피감",
+        "ko": "받피감",
         "zh-CN": "减伤"
       },
-      "outputReviewedAt": "2026-10-12",
+      "outputReviewedAt": "2026-10-20",
       "communityPreferredDrafts": {
         "zh-Hant": null,
         "de": null,
@@ -216589,6 +216590,7 @@
         "aliases": {
           "official": [],
           "unofficial": [
+            "받피감",
             "피감",
             "뎀감",
             "damage reduction",
@@ -227225,7 +227227,7 @@
     },
     "aliases": {
       "official": 35498,
-      "unofficial": 343,
+      "unofficial": 344,
       "needs-review": 59
     },
     "communityOutputs": {
@@ -227235,7 +227237,7 @@
     }
   },
   "betaVersion": "3.3.12+19629936",
-  "checkedAt": "2026-10-20T05:54:17.442Z",
+  "checkedAt": "2026-10-20T06:03:32.310Z",
   "textLanguages": [
     "ko",
     "en",

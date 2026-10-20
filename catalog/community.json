@@ -1782,6 +1782,7 @@
     {
       "id": "community:damage-reduction",
       "aliases": [
+        "받피감",
         "피감",
         "뎀감",
         "damage reduction",
@@ -1804,10 +1805,10 @@
         "신고에서 확인한 이상피감/내성 감소 구분, 2026-10-08"
       ],
       "communityPreferred": {
-        "ko": "피감",
+        "ko": "받피감",
         "zh-CN": "减伤"
       },
-      "outputReviewedAt": "2026-10-12",
+      "outputReviewedAt": "2026-10-20",
       "communityPreferredDrafts": {
         "zh-Hant": null,
         "de": null,
