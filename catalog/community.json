@@ -1368,6 +1368,10 @@
         "https://zenless-zone-zero.fandom.com/wiki/Glossary",
         "기존 공식 동작을 바탕으로 정리한 커뮤니티/띄어쓰기 별칭, 2026-10-09"
       ],
+      "communityPreferred": {
+        "ko": "콤스"
+      },
+      "outputReviewedAt": "2026-10-20",
       "communityPreferredDrafts": {
         "zh-Hant": null,
         "de": null,

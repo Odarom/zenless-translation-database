@@ -1692,7 +1692,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [noun:4000030](terms/contextual-term-1.md#noun4000030) | 콤보 | Chain Attack | 連携 | 连携 |  | live | official |
 | [noun:4000041](terms/contextual-term-2.md#noun4000041) | 콤보 | Chain Attack | 連携 | 连携 |  | prerelease | official |
 | [noun:4000048](terms/contextual-term-2.md#noun4000048) | 콤보 | Chain Attack | 連携 | 连携 |  | prerelease | official |
-| [combat:chain-attack](terms/combat-action-1.md#combatchain-attack) | 콤보 스킬 | Chain Attack | 連携スキル | 连携技 |  | live | official · unofficial |
+| [combat:chain-attack](terms/combat-action-1.md#combatchain-attack) | 콤보 스킬 | Chain Attack | 連携スキル | 连携技 | ko: 콤스 | live | official · unofficial |
 | [skill:1311:chain:0](terms/skill-10.md#skill1311chain0) | 콤보 스킬: 〈취중 협주곡〉 | Chain Attack: "Tipsy Concerto" | 連携スキル：ほろ酔いコンツェルト | 连携技：《微醺协奏》 |  | live | official |
 | [skill:1181:chain:0](terms/skill-6.md#skill1181chain0) | 콤보 스킬: 건설 합작 | Chain Attack: Collaborative Construction | 連携スキル：協同施工 | 连携技：协作施工 |  | live | official |
 | [skill:1581:chain:0](terms/skill-19.md#skill1581chain0) | 콤보 스킬: 겹치는 춤사위 | Chain Attack: Interwoven Dance Steps | 連携スキル：交差するステップ | 连携技：交叠舞步 |  | live | official |

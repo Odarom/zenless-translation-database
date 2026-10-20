@@ -237,6 +237,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 콤보 스킬 · 콤보스킬 · Chain Attack · 連携スキル · 连携技 · 連攜技 · Kettenangriff · Enchaînement · Técnica en cadena · Ataque em Cadeia · Цепочка атак · สกิลต่อเนื่อง · Liên Kích
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 連携 · 콤스
+- 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 콤스 [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 일반적인 콤보 공격 순서 전체가 아니라 게임의 Chain Attack 동작을 가리킬 때만 적용한다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.

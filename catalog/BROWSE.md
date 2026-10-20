@@ -42,4 +42,4 @@ One ID represents one concept. Names, input aliases and community-style output h
 | 전투 효과 / Combat effects / 戦闘効果 / 战斗效果 | 1 | [1](terms/combat-effect-1.md) |
 | 커뮤니티 표현 / Community expressions / コミュニティ表現 / 社区用语 | 37 | [1](terms/community-1.md) |
 
-2314 concepts · 2026-10-19
+2314 concepts · 2026-10-20
