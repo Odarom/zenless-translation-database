@@ -20,6 +20,126 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 同一ID代表同一概念。请区分语言名称、输入匹配别名与社区风格输出。含义及规则保留DB原文，目前主要为韩语；不编造缺失名称。prerelease表示既有未发布资料，autoUse:false表示不自动引用。live不等于制作方直接审核。
 
+### noun:3000011
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| \[풍화\] [공식 / Official / 正式 / 官方] | Windswept [공식 / Official / 正式 / 官方] | 「風化」 [공식 / Official / 正式 / 官方] | \[风化\] [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: noun:3000011 · Status: prerelease · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[풍화\] · 풍화 · Windswept · 「風化」 · 風化 · \[风化\] · 风化 · \[Windswept\]
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임의 전투·속성 이상·자원·피해 종류·스킬 효과 문맥에서만 이 이름을 사용한다. 같은 원본 ID의 언어별 기믹 이름을 유지한다. 관련 캐릭터와 효과가 있으면 참고하며 일반적인 동음어·감정·이야기의 단어에는 적용하지 않는다. 원문에 없는 수치·효과·조작·캐릭터를 추가하지 않는다. 피해 종류와 이상 효과, 자원 이름과 스킬 이름을 서로 바꾸지 않는다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
+
+
+### noun:3000012
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| \[빠른 교체\] [공식 / Official / 正式 / 官方] | Quick Swap [공식 / Official / 正式 / 官方] | 交代運用 [공식 / Official / 正式 / 官方] | 速切 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: noun:3000012 · Status: prerelease · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[빠른 교체\] · 빠른 교체 · 빠른교체 · Quick Swap · 交代運用 · 速切 · Quick Switch · 瞬間火力/交代運用
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임의 전투·속성 이상·자원·피해 종류·스킬 효과 문맥에서만 이 이름을 사용한다. 같은 원본 ID의 언어별 기믹 이름을 유지한다. 관련 캐릭터와 효과가 있으면 참고하며 일반적인 동음어·감정·이야기의 단어에는 적용하지 않는다. 원문에 없는 수치·효과·조작·캐릭터를 추가하지 않는다. 피해 종류와 이상 효과, 자원 이름과 스킬 이름을 서로 바꾸지 않는다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
+
+
+### noun:3000013
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| \[범용형\] [공식 / Official / 正式 / 官方] | Versatile [공식 / Official / 正式 / 官方] | 汎用型 [공식 / Official / 正式 / 官方] | 泛用型 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: noun:3000013 · Status: prerelease · autoUse: false
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[범용형\] · 범용형 · Versatile · 汎用型 · 泛用型 · General-Purpose
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 참고 용어·특정 효과·모드의 명칭. 일반 전투 동작과 동명이의어 및 사이트 표기와의 혼동이 있으므로 검수 전 자동 조회에서 제외한다. 예: 효과 이름 Chain Attack=콤보는 전투 동작 Chain Attack=콤보 스킬과 별개다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
+
+
+### noun:3000014
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| \[순환\] [공식 / Official / 正式 / 官方] | Cycle [공식 / Official / 正式 / 官方] | スキル回し [공식 / Official / 正式 / 官方] | 循环 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: noun:3000014 · Status: prerelease · autoUse: false
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[순환\] · 순환 · Cycle · スキル回し · 循环 · \[루프\] · Loop
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 참고 용어·특정 효과·모드의 명칭. 일반 전투 동작과 동명이의어 및 사이트 표기와의 혼동이 있으므로 검수 전 자동 조회에서 제외한다. 예: 효과 이름 Chain Attack=콤보는 전투 동작 Chain Attack=콤보 스킬과 별개다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
+
+
 ### noun:3000015
 
 | 한국어 | English | 日本語 | 简体中文 |

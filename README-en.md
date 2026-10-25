@@ -4,7 +4,7 @@
 
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-Shared by the Discord bot and Subtitle Studio: **2314** concepts · **13** languages
+Shared by the Discord bot and Subtitle Studio: **2318** concepts · **13** languages
 
 ## Browse
 

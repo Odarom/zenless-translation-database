@@ -1100,6 +1100,127 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.2/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/noun.json)
 
 
+### specialty:armorer
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 단조 [공식 / Official / 正式 / 官方] | Armorer [공식 / Official / 正式 / 官方] | 鋭御 [공식 / Official / 正式 / 官方] | 锋御 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: specialty:armorer · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 단조 · Armorer · 鋭御 · 锋御
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 아머러
+- 의미 / Meaning / 意味 / 含义: 젠레스 에이전트와 W-엔진의 특성 Armorer. 재료를 가공하는 일반적인 금속 단조와 별개인 게임 분류다.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 에이전트 특성·포지션·직군·파티 구성·전용 지원·W-엔진·육성 재료를 말하는 문맥에서만 적용한다. 단조 한정 지원이나 단조 전용 서포터는 Armorer 특성 에이전트를 대상으로 하는 지원이라는 제한을 보존한다. 직군 이름을 Crafting, Forging, Weaponsmith 등 일반 제작 표현으로 번역하지 않는다. 단조된 금속·제작·대장간·단조로운 음악 등 일반 어휘에는 적용하지 않는다. 단조라는 이름만으로 지원(Support) 특성이나 방어(Defense) 특성과 동일시하지 않으며 원문에 없는 등급·속성·성능·대상 범위를 추가하지 않는다.
+- 출처 / Sources / 出典 / 来源: [1](https://zenless.hoyoverse.com/ko-kr/news/165979) · [2](https://zenless.hoyoverse.com/en-us/news/166000) · [3](https://zenless.hoyoverse.com/ja-jp/news/165979) · [4](https://zzz.mihoyo.com/news/166026)
+
+
+### npc:dracaene-sunbringer
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 드라케나 [공식 / Official / 正式 / 官方] | Dracaene [공식 / Official / 正式 / 官方] | ドラキナ [공식 / Official / 正式 / 官方] | 德蕾琪娜 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: npc:dracaene-sunbringer · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 드라케나 · Dracaene · ドラキナ · 德蕾琪娜 · 드라케나·태양을 가져온 자 · Dracaene Sunbringer · ドラキナ・サンブリンガー · 德蕾琪娜·挽昼
+- 의미 / Meaning / 意味 / 含义: 로스캘리퍼 스토리에 등장한 인물 Dracaene Sunbringer의 이름. 이 항목은 기존 NPC의 명칭 대응만 보완한다.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 인물을 지칭하는 문맥에서 언어별 preferred 이름을 적용하고 일반 명사·식물 이름 등 동음이의어에는 적용하지 않는다. 짧은 이름에는 짧은 현지화 이름을 쓰며, 원문에 Sunbringer/태양을 가져온 자/サンブリンガー/挽昼 호칭이 있으면 그 호칭을 보존한다. 다른 두 인물이나 원래의 Sunbringer와 이름을 합치지 않는다. 이름만으로 미출시 플레이어블 특성·속성·스킬·전투 성능을 보충하거나 확정하지 않는다. 등장 비중이라는 표현만으로 스토리 분량이나 전투 기여도 중 하나를 임의로 확정하지 않는다.
+- 출처 / Sources / 出典 / 来源: [1](https://www.youtube.com/watch?v=gZ3Y0I1qzUA) · [2](https://www.hoyolab.com/article/47171818) · [3](https://zenless-zone-zero.fandom.com/wiki/Dracaene_Sunbringer)
+
+
+### npc:lindverne-sunbringer
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 린드베른 [공식 / Official / 正式 / 官方] | Lindverne [공식 / Official / 正式 / 官方] | リンドヴェルヌ [공식 / Official / 正式 / 官方] | 林德薇恩 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: npc:lindverne-sunbringer · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 린드베른 · Lindverne · リンドヴェルヌ · 林德薇恩 · 린드베른·태양을 가져온 자 · Lindverne Sunbringer · リンドヴェルヌ・サンブリンガー · 林德薇恩·挽昼
+- 의미 / Meaning / 意味 / 含义: 로스캘리퍼 스토리에 등장한 인물 Lindverne Sunbringer의 이름. 이 항목은 기존 NPC의 명칭 대응만 보완한다.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 인물을 지칭하는 문맥에서 언어별 preferred 이름을 적용하고 일반 명사·식물 이름 등 동음이의어에는 적용하지 않는다. 짧은 이름에는 짧은 현지화 이름을 쓰며, 원문에 Sunbringer/태양을 가져온 자/サンブリンガー/挽昼 호칭이 있으면 그 호칭을 보존한다. 다른 두 인물이나 원래의 Sunbringer와 이름을 합치지 않는다. 이름만으로 미출시 플레이어블 특성·속성·스킬·전투 성능을 보충하거나 확정하지 않는다. 등장 비중이라는 표현만으로 스토리 분량이나 전투 기여도 중 하나를 임의로 확정하지 않는다.
+- 출처 / Sources / 出典 / 来源: [1](https://www.youtube.com/watch?v=heBSLppUYAI) · [2](https://www.hoyolab.com/article/47174033) · [3](https://zenless-zone-zero.fandom.com/wiki/Lindverne_Sunbringer) · [4](https://static.nanoka.cc/zzz/3.2/ko/character/1591.json) · [5](https://static.nanoka.cc/zzz/3.2/en/character/1591.json) · [6](https://static.nanoka.cc/zzz/3.2/ja/character/1591.json) · [7](https://static.nanoka.cc/zzz/3.2/zh/character/1591.json)
+
+
+### npc:eldreda-sunbringer
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 엘드레다 [공식 / Official / 正式 / 官方] | Eldreda [공식 / Official / 正式 / 官方] | エルダ [공식 / Official / 正式 / 官方] | 艾尔妲 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: npc:eldreda-sunbringer · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 엘드레다 · Eldreda · エルダ · 艾尔妲 · 엘드레다·태양을 가져온 자 · Eldreda Sunbringer · エルダ・サンブリンガー · 艾尔妲·挽昼
+- 의미 / Meaning / 意味 / 含义: 로스캘리퍼 스토리에 등장한 인물 Eldreda Sunbringer의 이름. 이 항목은 기존 NPC의 명칭 대응만 보완한다.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 인물을 지칭하는 문맥에서 언어별 preferred 이름을 적용하고 일반 명사·식물 이름 등 동음이의어에는 적용하지 않는다. 짧은 이름에는 짧은 현지화 이름을 쓰며, 원문에 Sunbringer/태양을 가져온 자/サンブリンガー/挽昼 호칭이 있으면 그 호칭을 보존한다. 다른 두 인물이나 원래의 Sunbringer와 이름을 합치지 않는다. 이름만으로 미출시 플레이어블 특성·속성·스킬·전투 성능을 보충하거나 확정하지 않는다. 등장 비중이라는 표현만으로 스토리 분량이나 전투 기여도 중 하나를 임의로 확정하지 않는다.
+- 출처 / Sources / 出典 / 来源: [1](https://www.youtube.com/watch?v=oOgREhYTMLw) · [2](https://www.hoyolab.com/article/47172014) · [3](https://zenless-zone-zero.fandom.com/wiki/Eldreda_Sunbringer)
+
+
 ### noun:3000001
 
 | 한국어 | English | 日本語 | 简体中文 |
@@ -1397,126 +1518,6 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[오염\] · 오염 · Contamination · 「浸透」 · 浸透 · \[浸染\] · 浸染 · \[Contamination\]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임의 전투·속성 이상·자원·피해 종류·스킬 효과 문맥에서만 이 이름을 사용한다. 같은 원본 ID의 언어별 기믹 이름을 유지한다. 관련 캐릭터와 효과가 있으면 참고하며 일반적인 동음어·감정·이야기의 단어에는 적용하지 않는다. 원문에 없는 수치·효과·조작·캐릭터를 추가하지 않는다. 피해 종류와 이상 효과, 자원 이름과 스킬 이름을 서로 바꾸지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
-
-
-### noun:3000011
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| \[풍화\] [공식 / Official / 正式 / 官方] | Windswept [공식 / Official / 正式 / 官方] | 「風化」 [공식 / Official / 正式 / 官方] | \[风化\] [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: noun:3000011 · Status: prerelease · autoUse: true
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[풍화\] · 풍화 · Windswept · 「風化」 · 風化 · \[风化\] · 风化 · \[Windswept\]
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임의 전투·속성 이상·자원·피해 종류·스킬 효과 문맥에서만 이 이름을 사용한다. 같은 원본 ID의 언어별 기믹 이름을 유지한다. 관련 캐릭터와 효과가 있으면 참고하며 일반적인 동음어·감정·이야기의 단어에는 적용하지 않는다. 원문에 없는 수치·효과·조작·캐릭터를 추가하지 않는다. 피해 종류와 이상 효과, 자원 이름과 스킬 이름을 서로 바꾸지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
-
-
-### noun:3000012
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| \[빠른 교체\] [공식 / Official / 正式 / 官方] | Quick Swap [공식 / Official / 正式 / 官方] | 交代運用 [공식 / Official / 正式 / 官方] | 速切 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: noun:3000012 · Status: prerelease · autoUse: true
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[빠른 교체\] · 빠른 교체 · 빠른교체 · Quick Swap · 交代運用 · 速切 · Quick Switch · 瞬間火力/交代運用
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임의 전투·속성 이상·자원·피해 종류·스킬 효과 문맥에서만 이 이름을 사용한다. 같은 원본 ID의 언어별 기믹 이름을 유지한다. 관련 캐릭터와 효과가 있으면 참고하며 일반적인 동음어·감정·이야기의 단어에는 적용하지 않는다. 원문에 없는 수치·효과·조작·캐릭터를 추가하지 않는다. 피해 종류와 이상 효과, 자원 이름과 스킬 이름을 서로 바꾸지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
-
-
-### noun:3000013
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| \[범용형\] [공식 / Official / 正式 / 官方] | Versatile [공식 / Official / 正式 / 官方] | 汎用型 [공식 / Official / 正式 / 官方] | 泛用型 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: noun:3000013 · Status: prerelease · autoUse: false
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[범용형\] · 범용형 · Versatile · 汎用型 · 泛用型 · General-Purpose
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 참고 용어·특정 효과·모드의 명칭. 일반 전투 동작과 동명이의어 및 사이트 표기와의 혼동이 있으므로 검수 전 자동 조회에서 제외한다. 예: 효과 이름 Chain Attack=콤보는 전투 동작 Chain Attack=콤보 스킬과 별개다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
-
-
-### noun:3000014
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| \[순환\] [공식 / Official / 正式 / 官方] | Cycle [공식 / Official / 正式 / 官方] | スキル回し [공식 / Official / 正式 / 官方] | 循环 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: noun:3000014 · Status: prerelease · autoUse: false
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[순환\] · 순환 · Cycle · スキル回し · 循环 · \[루프\] · Loop
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 참고 용어·특정 효과·모드의 명칭. 일반 전투 동작과 동명이의어 및 사이트 표기와의 혼동이 있으므로 검수 전 자동 조회에서 제외한다. 예: 효과 이름 Chain Attack=콤보는 전투 동작 Chain Attack=콤보 스킬과 별개다.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
 
 

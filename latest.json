@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "2026-10-21-c4016b541b63",
-  "sha256": "c4016b541b634dedf5782fb01c750e323e1b1317a56bcfd54af57c37e5bf2891",
-  "bytes": 8023908,
-  "count": 2314,
-  "file": "releases/c4016b541b634dedf5782fb01c750e323e1b1317a56bcfd54af57c37e5bf2891.json",
+  "version": "2026-10-25-7a7408865aa3",
+  "sha256": "7a7408865aa3523513fb87b8ce0a73f6c62b7b23df044d72608470a7f58af873",
+  "bytes": 8035087,
+  "count": 2318,
+  "file": "releases/7a7408865aa3523513fb87b8ce0a73f6c62b7b23df044d72608470a7f58af873.json",
   "sourceVersion": "3.2",
   "languages": [
     "ko",
@@ -22,10 +22,10 @@
     "id"
   ],
   "coverage": {
-    "ko": 2313,
-    "en": 2314,
-    "ja": 2312,
-    "zh-CN": 2311,
+    "ko": 2317,
+    "en": 2318,
+    "ja": 2316,
+    "zh-CN": 2315,
     "zh-Hant": 1868,
     "de": 1868,
     "fr": 1868,

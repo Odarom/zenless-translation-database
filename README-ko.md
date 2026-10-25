@@ -4,7 +4,7 @@
 
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2314** 개념 항목 · **13** 개 언어
+Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2318** 개념 항목 · **13** 개 언어
 
 ## 둘러보기
 

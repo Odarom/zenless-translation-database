@@ -47,9 +47,9 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [noun:1000040](terms/character-mechanic-1.md#noun1000040) | \[바람의 눈\] | Eye of the Storm | 「嵐の目」 | \[风眼\] |  | live | official |
 | [noun:2000006](terms/character-mechanic-1.md#noun2000006) | \[반격 지원\] | Counter Assist | 『カウンター支援』 | \[反制支援\] |  | live | official |
 | [noun:1000047](terms/character-mechanic-1.md#noun1000047) | \[번염\] | Pyre | 「業火」 | \[燔焰\] |  | prerelease | official |
-| [noun:3000013](terms/contextual-term-1.md#noun3000013) | \[범용형\] | Versatile | 汎用型 | 泛用型 |  | prerelease | official |
+| [noun:3000013](terms/contextual-term-2.md#noun3000013) | \[범용형\] | Versatile | 汎用型 | 泛用型 |  | prerelease | official |
 | [noun:1000031](terms/combat-mechanic-1.md#noun1000031) | \[변이\] | Refringe | 「昇華」 | \[异化\] |  | live | official |
-| [noun:3000012](terms/contextual-term-1.md#noun3000012) | \[빠른 교체\] | Quick Swap | 交代運用 | 速切 |  | prerelease | official |
+| [noun:3000012](terms/contextual-term-2.md#noun3000012) | \[빠른 교체\] | Quick Swap | 交代運用 | 速切 |  | prerelease | official |
 | [noun:3000027](terms/contextual-term-2.md#noun3000027) | \[사냥꾼의 걸음\] | Hunter's Gait | 「猟歩」 | \[猎步\] |  | prerelease | official |
 | [noun:1000046](terms/character-mechanic-1.md#noun1000046) | \[산화 공격\] | Combustion Attack | 『焦熱攻撃』 | \[燃烧攻击\] |  | prerelease | official |
 | [noun:1000035](terms/character-mechanic-1.md#noun1000035) | \[상변하는 시류\] | Phase Flow | 「相転時流」 | \[相变时流\] |  | live | official |
@@ -58,7 +58,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [noun:1000042](terms/character-mechanic-1.md#noun1000042) | \[섬영\] | Shadowflash | 「シェード」 | \[烁影\] |  | prerelease | official |
 | [noun:1000038](terms/combat-mechanic-1.md#noun1000038) | \[속성 정화\] | Cleanse | 「清浄」 | \[净化\] |  | live | official |
 | [noun:3000034](terms/contextual-term-2.md#noun3000034) | \[순행\] | Roaming | 「遊狩」 | \[巡游\] |  | prerelease | official |
-| [noun:3000014](terms/contextual-term-1.md#noun3000014) | \[순환\] | Cycle | スキル回し | 循环 |  | prerelease | official |
+| [noun:3000014](terms/contextual-term-2.md#noun3000014) | \[순환\] | Cycle | スキル回し | 循环 |  | prerelease | official |
 | [noun:3000035](terms/contextual-term-2.md#noun3000035) | \[술법\] | Technique Point | 「術法値」 | \[术法值\] |  | prerelease | official |
 | [noun:1000041](terms/character-mechanic-1.md#noun1000041) | \[숨결\] | Flow | 「凪」 | \[流息\] |  | prerelease | official |
 | [noun:1000049](terms/character-mechanic-1.md#noun1000049) | \[승격\] | Ascension | 「昇焔」 | \[升变\] |  | prerelease | official |
@@ -93,7 +93,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [noun:1000014](terms/character-mechanic-1.md#noun1000014) | \[풍식\] | Windbite | 「風食」 | \[风蚀\] |  | live | official |
 | [noun:1000008](terms/character-mechanic-1.md#noun1000008) | \[풍채\] | Windbloom | 「風雅」 | \[风华\] |  | live | official |
 | [noun:10000081](terms/contextual-term-1.md#noun10000081) | \[풍채\] | Windbloom | 「風雅」 | \[风华\] |  | live | official |
-| [noun:3000011](terms/contextual-term-1.md#noun3000011) | \[풍화\] | Windswept | 「風化」 | \[风化\] |  | prerelease | official |
+| [noun:3000011](terms/contextual-term-2.md#noun3000011) | \[풍화\] | Windswept | 「風化」 | \[风化\] |  | prerelease | official |
 | [noun:1000020](terms/character-mechanic-1.md#noun1000020) | \[플레어\] | Sunflare | 「増光」 | \[耀斑\] |  | live | official |
 | [noun:1000030](terms/character-mechanic-1.md#noun1000030) | \[하늘을 지키는 창\] | Aerial Patrol Spear | 「不落の構え」 | \[巡空枪势\] |  | live | official |
 | [noun:1000033](terms/character-mechanic-1.md#noun1000033) | \[허무\] | Voidflare | 「虚光」 | \[虚曜\] |  | live | official |
@@ -570,6 +570,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [item:307008](terms/material-3.md#item307008) | 다듬지 않은 호박 | Uncarved Pumpkin | 彫刻前のかぼちゃ | 未雕瓜胚 |  | prerelease | official |
 | [character:1481](terms/agent-1.md#character1481) | 다이아린 | Dialyn | ダイアリン | 琉音 |  | live | official |
 | [noun:4000008](terms/contextual-term-1.md#noun4000008) | 단색 주문 | Single-Color Order | 一色オーダー | 单色单 |  | live | official |
+| [specialty:armorer](terms/contextual-term-1.md#specialtyarmorer) | 단조 | Armorer | 鋭御 | 锋御 |  | live | official · unofficial |
 | [item:101016](terms/material-2.md#item101016) | 단조 부품 | Armorer Component | 鋭御キット | 锋御组件 |  | live | official |
 | [equipment:33400](terms/drive-disc-1.md#equipment33400) | 달빛 기사의 칭송 | Moonlight Lullaby | 月光騎士の讃歌 | 月光骑士颂 |  | live | official |
 | [skill:1411:special:3](terms/skill-14.md#skill1411special3) | 달콤한 공포 | Sweet Scare | スイートパニック | 甜蜜惊吓 |  | live | official |
@@ -686,6 +687,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [monster:930150](terms/enemy-5.md#monster930150) | 듀라한 | Dullahan | デュラハン | 杜拉罕 |  | live | official |
 | [monster:930161](terms/enemy-5.md#monster930161) | 듀라한 | Dullahan | デュラハン | 杜拉罕 |  | live | official |
 | [monster:300001](terms/enemy-5.md#monster300001) | 듀라한·에너지형 | Dullahan - Energized | デュラハン・蓄エネ型 | 杜拉罕·蓄能型 |  | live | official |
+| [npc:dracaene-sunbringer](terms/contextual-term-1.md#npcdracaene-sunbringer) | 드라케나 | Dracaene | ドラキナ | 德蕾琪娜 |  | live | official |
 | [talent:1501:3](terms/mindscape-name-6.md#talent15013) | 드리머 | Delulu | 妄想する女の子 | 梦想家 |  | live | official |
 | [talent:1041:4](terms/mindscape-name-1.md#talent10414) | 드세지는 불길 | Indulgent Blaze | 強まる火勢 | 纵情燃烧 |  | live | official |
 | [talent:1051:3](terms/mindscape-name-1.md#talent10513) | 듣는 이가 없는 이야기 | A Story Without an Audience | 聴衆なき物語 | 无人聆听的故事 |  | live | official |
@@ -723,6 +725,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [weapon:14003](terms/w-engine-2.md#weapon14003) | 리볼버 로터 | Six Shooter | シックスシューター | 左轮转子 |  | live | official |
 | [bangboo:54013](terms/bangboo-1.md#bangboo54013) | 리볼버부 | Bangvolver | リボルバボンプ | 左轮布 |  | live | official |
 | [character:1141](terms/agent-1.md#character1141) | 리카온 | Lycaon | ライカン | 莱卡恩 |  | live | official |
+| [npc:lindverne-sunbringer](terms/contextual-term-1.md#npclindverne-sunbringer) | 린드베른 | Lindverne | リンドヴェルヌ | 林德薇恩 |  | live | official |
 | [character:1441](terms/agent-1.md#character1441) | 마나토 | Manato | 狛野真斗 | 真斗 |  | live | official |
 | [monster:30010](terms/enemy-2.md#monster30010) | 마리오네트·검은 베일 | Black Veil Marionette | マリオネット・ブラックベール | 冥宁芙·黑纱 |  | live | official |
 | [monster:30012](terms/enemy-2.md#monster30012) | 마리오네트·쌍둥이 | Twin Marionettes | マリオネット・ツインズ | 冥宁芙·双子 |  | live | official |
@@ -1142,6 +1145,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [stat:32300](terms/stat-1.md#stat32300) | 에테르 피해 | Ether DMG | エーテル属性ダメージ | 以太伤害 | ko: 에피증 · zh-CN: 以太伤 | live | official · unofficial |
 | [bangboo:53016](terms/bangboo-1.md#bangboo53016) | 엑스칼리부 | Excaliboo | セイケンボンプ | 圣剑布 |  | live | official |
 | [character:1011](terms/agent-1.md#character1011) | 엔비 | Anby | アンビー | 安比 |  | live | official |
+| [npc:eldreda-sunbringer](terms/contextual-term-1.md#npceldreda-sunbringer) | 엘드레다 | Eldreda | エルダ | 艾尔妲 |  | live | official |
 | [character:1191](terms/agent-1.md#character1191) | 엘렌 | Ellen | エレン | 艾莲 |  | live | official |
 | [equipment:33300](terms/drive-disc-1.md#equipment33300) | 여명의 꽃 | Dawn's Bloom | 暁に咲く花 | 拂晓生花 |  | live | official |
 | [talent:1551:6](terms/mindscape-name-7.md#talent15516) | 여명의 샛별 | Morning Star at Dawn | 夜明けの暁光 | 拂晓晨星 |  | live | official |

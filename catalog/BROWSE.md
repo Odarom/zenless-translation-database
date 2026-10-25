@@ -29,7 +29,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 | 적·보스 / Enemies and bosses / 敵・ボス / 敌人与首领 | 277 | [1](terms/enemy-1.md) · [2](terms/enemy-2.md) · [3](terms/enemy-3.md) · [4](terms/enemy-4.md) · [5](terms/enemy-5.md) · [6](terms/enemy-6.md) |
 | 캐릭터 기믹 / Character mechanics / キャラ固有要素 / 角色机制 | 44 | [1](terms/character-mechanic-1.md) |
 | 전투 기믹 / Combat mechanics / 戦闘仕様 / 战斗机制 | 7 | [1](terms/combat-mechanic-1.md) |
-| 참고 명사 / Contextual terms / 文脈を要する用語 / 语境用语 | 95 | [1](terms/contextual-term-1.md) · [2](terms/contextual-term-2.md) |
+| 참고 명사 / Contextual terms / 文脈を要する用語 / 语境用语 | 99 | [1](terms/contextual-term-1.md) · [2](terms/contextual-term-2.md) |
 | 재화 / Currencies / 通貨 / 货币 | 13 | [1](terms/currency-1.md) |
 | 재료 / Materials / 素材 / 材料 | 135 | [1](terms/material-1.md) · [2](terms/material-2.md) · [3](terms/material-3.md) |
 | 스킬·패시브 / Skills and passives / スキル・パッシブ / 技能与被动 | 1047 | [1](terms/skill-1.md) · [2](terms/skill-2.md) · [3](terms/skill-3.md) · [4](terms/skill-4.md) · [5](terms/skill-5.md) · [6](terms/skill-6.md) · [7](terms/skill-7.md) · [8](terms/skill-8.md) · [9](terms/skill-9.md) · [10](terms/skill-10.md) · [11](terms/skill-11.md) · [12](terms/skill-12.md) · [13](terms/skill-13.md) · [14](terms/skill-14.md) · [15](terms/skill-15.md) · [16](terms/skill-16.md) · [17](terms/skill-17.md) · [18](terms/skill-18.md) · [19](terms/skill-19.md) · [20](terms/skill-20.md) · [21](terms/skill-21.md) |
@@ -42,4 +42,4 @@ One ID represents one concept. Names, input aliases and community-style output h
 | 전투 효과 / Combat effects / 戦闘効果 / 战斗效果 | 1 | [1](terms/combat-effect-1.md) |
 | 커뮤니티 표현 / Community expressions / コミュニティ表現 / 社区用语 | 37 | [1](terms/community-1.md) |
 
-2314 concepts · 2026-10-21
+2318 concepts · 2026-10-25

@@ -4,7 +4,7 @@
 
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-Discord机器人与字幕工作室共用的 **2314** 个概念 · **13** 种语言
+Discord机器人与字幕工作室共用的 **2318** 个概念 · **13** 种语言
 
 ## 浏览
 

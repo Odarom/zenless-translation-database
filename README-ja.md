@@ -4,7 +4,7 @@
 
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-Discordボットと字幕スタジオで共有する **2314** 概念 · **13** 言語
+Discordボットと字幕スタジオで共有する **2318** 概念 · **13** 言語
 
 ## 閲覧
 
