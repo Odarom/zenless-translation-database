@@ -2,6 +2,8 @@
 
 [**Report names or shorthand without installing a program**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — Report aliases, community output, official-name errors, missing terms or usage rules manually. GitHub login is required; the report and account name are public. Do not post personal information, API keys or private material. Reports join the Discord/video review queue; submission does not automatically change the DB.
 
+[**Use this DB in your own program**](database/README-en.md) — Complete concept JSON, a schema, standalone query helpers and a runnable example. Existing app `zzz.json` and update URLs remain compatible.
+
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
 Shared by the Discord bot and Subtitle Studio: **2318** concepts · **13** languages

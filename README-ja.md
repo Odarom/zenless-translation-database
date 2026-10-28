@@ -2,6 +2,8 @@
 
 [**アプリなしで用語・略語の誤りを報告**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — 入力別名、コミュニティ出力、正式名の誤り、未登録用語、適用ルールを記入できます。GitHubログインが必要で、内容とアカウント名は公開されます。個人情報・APIキー・非公開資料は投稿しないでください。Discord・動画報告と同じ一覧で確認し、送信だけでDBは変更されません。
 
+[**外部プログラムでDBを使う**](database/README-ja.md) — 概念別JSON、スキーマ、独立した検索ツールと実行例。既存アプリ用の `zzz.json` と更新URLは維持します。
+
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
 Discordボットと字幕スタジオで共有する **2318** 概念 · **13** 言語

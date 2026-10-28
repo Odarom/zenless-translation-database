@@ -2,6 +2,8 @@
 
 [**프로그램 없이 용어·약어 오류 신고하기**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — 약어·입력 별칭, 커뮤니티 출력, 공식 명칭 오류, 누락 용어, 적용 규칙을 직접 작성할 수 있습니다. GitHub 로그인은 필요하며 신고 내용과 계정 이름은 공개됩니다. 개인정보·API 키·비공개 자료는 올리지 마세요. Discord·영상 신고와 같은 검토 목록으로 수집하며 제출만으로 DB가 바뀌지는 않습니다.
 
+[**외부 프로그램에서 DB 사용하기**](database/README-ko.md) — 개념별 JSON, 형식 명세, 독립 조회 도구와 실행 예제를 제공합니다. 기존 앱용 `zzz.json`과 업데이트 주소는 유지합니다.
+
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
 Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2318** 개념 항목 · **13** 개 언어

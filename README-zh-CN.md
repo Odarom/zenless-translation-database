@@ -2,6 +2,8 @@
 
 [**无需程序，举报术语及简称错误**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) — 可手动提交输入别名、社区输出、官方名称错误、缺失术语或适用规则。需要GitHub登录，内容和账号名公开。请勿发布个人信息、API密钥或非公开资料。与Discord及视频举报汇总审核，提交不会自动修改DB。
 
+[**在自己的程序中使用DB**](database/README-zh-CN.md) — 提供完整概念JSON、格式规范、独立查询工具及可运行示例；保留既有程序的 `zzz.json` 与更新地址。
+
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
 Discord机器人与字幕工作室共用的 **2318** 个概念 · **13** 种语言

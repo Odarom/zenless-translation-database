@@ -1,0 +1,2 @@
+# Keep JSON release bytes unchanged on every checkout platform.
+*.json -text

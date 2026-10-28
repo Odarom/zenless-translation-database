@@ -1,3 +1,10 @@
+[외부 개발자 시작하기](../database/README-ko.md) · [Developer quickstart](../database/README-en.md) · [開発者向け](../database/README-ja.md) · [开发者指南](../database/README-zh-CN.md)
+
+> 아래의 갱신 명령은 관리용 작업 폴더에서만 실행합니다. 공개 DB 저장소에는 해당 관리 도구가 없습니다.
+> Maintenance commands below require the authoring workspace; they are not included in this distribution.
+> 以下の更新コマンドは管理用作業フォルダー専用です。この配布には管理ツールを含みません。
+> 下方维护命令仅适用于维护工作区，本发布仓库不含这些管理工具。
+
 # ZZZ 번역 데이터베이스 · ZZZ translation database · ZZZ用語DB · ZZZ术语库
 
 [**용어·약어 오류 신고**](https://github.com/Odarom/zenless-translation-database/issues/new/choose) · [Report names / shorthand](https://github.com/Odarom/zenless-translation-database/issues/new/choose) · [用語・略語を報告](https://github.com/Odarom/zenless-translation-database/issues/new/choose) · [举报术语或简称](https://github.com/Odarom/zenless-translation-database/issues/new/choose)
