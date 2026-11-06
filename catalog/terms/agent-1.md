@@ -47,7 +47,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 엔비 · Anby · アンビー · 安比
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1021
@@ -77,7 +77,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 네코마타 · Nekomata · 猫又
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1031
@@ -107,7 +107,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 니콜 · Nicole · ニコ · 妮可
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1041
@@ -137,7 +137,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「11호」 · 11호 · Soldier 11 · 「11号」 · 11号 · 「11號」 · 11號 · Soldatin Nr. 11 · Soldat 11 · N.º 11 · N.º 11 · Солдат 11 · "Soldier 11" · Chiến Binh 11
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1051
@@ -167,7 +167,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이드하리 · Yidhari · イドリー · 伊德海莉 · Йидхари
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1061
@@ -197,7 +197,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 코린 · Corin · カリン · 可琳
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1071
@@ -227,7 +227,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 카이사르 · Caesar · シーザー · 凯撒 · 凱撒 · César · Цезарь
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1081
@@ -257,7 +257,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빌리 · Billy · ビリー · 比利
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1091
@@ -287,7 +287,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 미야비 · Miyabi · 星見雅 · 雅 · Мияби
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1101
@@ -317,7 +317,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 콜레다 · Koleda · クレタ · 珂蕾妲 · Коляда
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1111
@@ -347,7 +347,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 앤톤 · Anton · アンドー · 安东 · 安東 · Antón · Антон
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1121
@@ -377,7 +377,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 벤 · Ben · ベン · 本 · Бен
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1131
@@ -407,7 +407,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 소우카쿠 · Soukaku · 蒼角 · 苍角 · Сокаку
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1141
@@ -437,7 +437,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 리카온 · Lycaon · ライカン · 莱卡恩 · 萊卡恩 · Ликаон
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1151
@@ -467,7 +467,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 루시 · Lucy · ルーシー · 露西 · Люси
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1161
@@ -497,7 +497,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 라이터 · Lighter · ライト · 莱特 · 萊特 · Лайтер
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1171
@@ -527,7 +527,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 버니스 · Burnice · バーニス · 柏妮思 · Bernice · Бёрнис
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1181
@@ -557,7 +557,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 그레이스 · Grace · グレース · 格莉丝 · 格莉絲 · Грейс
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1191
@@ -587,7 +587,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 엘렌 · Ellen · エレン · 艾莲
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1201
@@ -617,7 +617,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 하루마사 · Harumasa · 浅羽悠真 · 悠真 · Харумаса
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1211
@@ -647,7 +647,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 리나 · Rina · リナ · 丽娜 · 麗娜 · Рина
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1221
@@ -677,7 +677,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 야나기 · Yanagi · 月城柳 · 柳 · Янаги
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1241
@@ -707,7 +707,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 주연 · Zhu Yuan · 朱鳶 · 朱鸢 · Чжу Юань
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1251
@@ -737,7 +737,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 청의 · Qingyi · 青衣 · Цинъи
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1261
@@ -767,7 +767,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 제인 · Jane · ジェーン · 简
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1271
@@ -797,7 +797,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 세스 · Seth · セス · 赛斯 · 賽斯 · Сет
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1281
@@ -827,7 +827,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 파이퍼 · Piper · パイパー · 派派 · Пайпер
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1291
@@ -857,7 +857,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 휴고 · Hugo · ヒューゴ · 雨果 · Хуго
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1301
@@ -887,7 +887,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 오피&amp;「도깨비불」 · Orphie &amp; Magus · オルペウス&amp;「鬼火」 · 奥菲丝&amp;「鬼火」 · 奧菲絲&amp;「鬼火」 · Orphie &amp; Magus · Orfia y Magas · Orfeu &amp; Magus · Орфея и Магус · Orphie &amp; "Magus" · Orphie và Magus
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1311
@@ -917,7 +917,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 아스트라 · Astra Yao · アストラ · 耀嘉音 · Астра Яо
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1321
@@ -947,7 +947,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이블린 · Evelyn · イヴリン · 伊芙琳
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1331
@@ -977,7 +977,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 비비안 · Vivian · ビビアン · 薇薇安
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1341
@@ -1007,7 +1007,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 자오 · Zhao · 照 · Чжао
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1351
@@ -1037,7 +1037,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 펄크라 · Pulchra · プルクラ · 波可娜 · Пульхра
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1361
@@ -1067,7 +1067,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「트리거」 · 트리거 · Trigger · 「トリガー」 · トリガー · 「扳机」 · 扳机 · 「扳機」 · 扳機 · Gâchette · Gatillo · Гашетка · "Trigger"
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1371
@@ -1100,7 +1100,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 젠레스 캐릭터·팀 편성·스킬·장비·돌파 문맥의 YX는 의현이며 character:1371의 언어별 이름을 사용한다. YSG/Ye/엽빛나와 구분한다. 일반 변수나 다른 이름의 약어로 쓰인 경우에는 확장하지 않으며 문맥이 불분명하면 YX를 유지한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1381
@@ -1130,7 +1130,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 0호·엔비 · Soldier 0 - Anby · 0号・アンビー · 零号·安比 · 零號·安比 · Soldatin Nr. 0 – Anby · Soldat 0 - Anby · N.º 0: Anby · Солдат 0 Энби · Chiến Binh 0 - Anby
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1391
@@ -1160,7 +1160,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 귤복복 · Ju Fufu · 橘福福 · Цзюй Фуфу
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1401
@@ -1190,7 +1190,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 앨리스 · Alice · アリス · 爱丽丝 · 愛麗絲 · Элис
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1411
@@ -1220,7 +1220,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 유즈하 · Yuzuha · 浮波柚葉 · 柚叶 · 柚葉 · Юдзуха
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1421
@@ -1250,7 +1250,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 반인호 · Pan Yinhu · 潘引壺 · 潘引壶 · Пань Иньху
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1431
@@ -1283,7 +1283,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 캐릭터·돌파·변신·극치·스킬·팀 편성 문맥의 빛나/YSG/Ye는 엽빛나를 뜻하며 character:1431의 언어별 이름으로 번역한다. 버니스(Burnice)로 바꾸지 않는다. 빛나가, 빛나는, 빛나의처럼 조사가 붙어도 캐릭터를 가리키면 적용한다. 반면 별이 빛나, 빛나는 맹세 등 일반 동사나 다른 긴 고유명사의 일부인 빛나는 이 캐릭터로 치환하지 않는다. Ye Shiyuan 등 다른 사람의 전체 이름에 포함된 Ye를 엽빛나로 바꾸지 않는다. 다른 이름·일반 영어 ye보다 캐릭터 약칭이라는 문맥이 확인될 때만 적용하며 불분명한 약어는 임의로 확장하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1441
@@ -1313,7 +1313,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 마나토 · Manato · 狛野真斗 · 真斗 · Манато
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1451
@@ -1343,7 +1343,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 루시아 · Lucia · リュシア · 卢西娅 · 盧西婭 · Lucía · Lúcia · Люсия
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1461
@@ -1373,7 +1373,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「시드」 · 시드 · Seed · 「シード」 · シード · 「席德」 · 席德 · Sporos · Сид · "Seed"
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1471
@@ -1403,7 +1403,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 반악 · Banyue · 盤岳 · 般岳
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1481
@@ -1433,7 +1433,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 다이아린 · Dialyn · ダイアリン · 琉音 · Диалинь
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1491
@@ -1463,7 +1463,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 수나 · Sunna · 千夏 · Sunniva · Санна
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1501
@@ -1493,7 +1493,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 아리아 · Aria · アリア · 爱芮 · 愛芮 · Ария
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1511
@@ -1523,7 +1523,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 남궁우 · Nangong Yu · 南宮羽 · 南宫羽
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 [분류 / Categories / 分類 / 分类](../BROWSE.md) · [전체 / Index / 全件 / 全部](../INDEX.md) · [→](./agent-2.md)

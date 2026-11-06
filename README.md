@@ -12,7 +12,7 @@
 
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2318** 개념 항목 · **13** 개 언어
+Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2320** 개념 항목 · **13** 개 언어
 
 ## 둘러보기
 
@@ -60,7 +60,7 @@ Discord 봇과 영상 자막 작업실에서 함께 쓰는 **2318** 개념 항�
 
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-Shared by the Discord bot and Subtitle Studio: **2318** concepts · **13** languages
+Shared by the Discord bot and Subtitle Studio: **2320** concepts · **13** languages
 
 ## Browse
 
@@ -108,7 +108,7 @@ This is a fan project, not an official or publisher-reviewed dictionary. Existin
 
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-Discordボットと字幕スタジオで共有する **2318** 概念 · **13** 言語
+Discordボットと字幕スタジオで共有する **2320** 概念 · **13** 言語
 
 ## 閲覧
 
@@ -156,7 +156,7 @@ Discordボットと字幕スタジオで共有する **2318** 概念 · **13** �
 
 [한국어](README-ko.md) · [English](README-en.md) · [日本語](README-ja.md) · [简体中文](README-zh-CN.md)
 
-Discord机器人与字幕工作室共用的 **2318** 个概念 · **13** 种语言
+Discord机器人与字幕工作室共用的 **2320** 个概念 · **13** 种语言
 
 ## 浏览
 

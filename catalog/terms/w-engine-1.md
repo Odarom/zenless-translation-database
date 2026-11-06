@@ -47,7 +47,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「루나」-보름달 · \[Lunar\] Pleniluna · 「月相」-望 · „Mondphase“ – Pleniluna · \[Lunaire\] Pleine lune · Fase lunar - Plenilunio · \[Lunar\] Plenilúnio · Фаза луны: Полнолуние · \[Lunar\] - Pleniluna · \[Pha Mặt Trăng\] Pleniluna
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12002
@@ -77,7 +77,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「루나」-그믐달 · \[Lunar\] Decrescent · 「月相」-晦 · „Mondphase“ – Abnehmend · \[Lunaire\] Décroissante · Fase lunar - Luna menguante · \[Lunar\] Decrescente · Фаза луны: Убывающая · \[Lunar\] - Decrescent · \[Pha Mặt Trăng\] Decrescent
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12003
@@ -107,7 +107,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「루나」-초승달 · \[Lunar\] Noviluna · 「月相」-朔 · „Mondphase“ – Noviluna · \[Lunaire\] Nouvelle lune · Fase lunar - Novilunio · \[Lunar\] Novilúnio · Фаза луны: Новолуние · \[Lunar\] - Noviluna · \[Pha Mặt Trăng\] Noviluna
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12004
@@ -137,7 +137,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「잔향」-Ⅰ형 · \[Reverb\] Mark I · 「残響」-Ⅰ型 · 「残响」-Ⅰ型 · 「殘響」-Ⅰ型 · „Nachhall“ – Typ I · \[Réverbération\] Mark I · Repercusión - Modelo I · \[Reverberação\] Tipo I · Ревербератор I · \[Reverb\] - Mark I · \[Âm Vang\] Loại I
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12005
@@ -167,7 +167,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「잔향」-Ⅱ형 · \[Reverb\] Mark II · 「残響」-Ⅱ型 · 「残响」-Ⅱ型 · 「殘響」-Ⅱ型 · „Nachhall“ – Typ II · \[Réverbération\] Mark II · Repercusión - Modelo II · \[Reverberação\] Tipo II · Ревербератор II · \[Reverb\] - Mark II · \[Âm Vang\] Loại II
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12006
@@ -197,7 +197,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「잔향」-Ⅲ형 · \[Reverb\] Mark III · 「残響」-Ⅲ型 · 「残响」-Ⅲ型 · 「殘響」-Ⅲ型 · „Nachhall“ – Typ III · \[Réverbération\] Mark III · Repercusión - Modelo III · \[Reverberação\] Tipo III · Ревербератор III · \[Reverb\] - Mark III · \[Âm Vang\] Loại III
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12007
@@ -227,7 +227,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「급류」-총 · \[Vortex\] Revolver · 「激流」-銃型 · 「湍流」-铳型 · 「湍流」-銃型 · „Turbulenz“ – Revolver · Turbulencia - Arcabuz · \[Vórtice\] Revólver · Турбулентность: Револьвер · \[Vortex\] - Revolver · \[Nước Xiết\] Dạng Súng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12008
@@ -257,7 +257,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「급류」-화살 · \[Vortex\] Arrow · 「激流」-矢型 · 「湍流」-矢型 · „Turbulenz“ – Pfeil · \[Vortex\] Flèche · Turbulencia - Flecha · \[Vórtice\] Flecha · Турбулентность: Стрела · \[Vortex\] - Arrow · \[Nước Xiết\] Dạng Tiễn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12009
@@ -287,7 +287,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「급류」-도끼 · \[Vortex\] Hatchet · 「激流」-斧型 · 「湍流」-斧型 · „Turbulenz“ – Beil · \[Vortex\] Hachette · Turbulencia - Hacha · \[Vórtice\] Machado · Турбулентность: Топор · \[Vortex\] - Hatchet · \[Nước Xiết\] Dạng Rìu
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12010
@@ -317,7 +317,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「자기 폭풍」-알파 · 「자기폭풍」-알파 · \[Magnetic Storm\] Alpha · 「磁気嵐」-壱式 · 「电磁暴」-壹式 · 「電磁暴」-壹式 · „Magnetischer Sturm“ – Alpha · \[Tempête magnétique\] Alpha · Tormenta magnética - Alfa · \[Tempestade Magnética\] Alfa · Магнитная буря: Альфа · \[Magnetic Storm\] - Alpha · \[Bão Từ\] Alpha
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12011
@@ -347,7 +347,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「자기 폭풍」-브라보 · 「자기폭풍」-브라보 · \[Magnetic Storm\] Bravo · 「磁気嵐」-弐式 · 「电磁暴」-贰式 · 「電磁暴」-貳式 · „Magnetischer Sturm“ – Bravo · \[Tempête magnétique\] Bravo · Tormenta magnética - Bravo · \[Tempestade Magnética\] Bravo · Магнитная буря: Браво · \[Magnetic Storm\] - Bravo · \[Bão Từ\] Bravo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12012
@@ -377,7 +377,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「자기 폭풍」-찰리 · 「자기폭풍」-찰리 · \[Magnetic Storm\] Charlie · 「磁気嵐」-参式 · 「电磁暴」-叁式 · 「電磁暴」-參式 · „Magnetischer Sturm“ – Charlie · \[Tempête magnétique\] Charlie · Tormenta magnética - Charlie · \[Tempestade Magnética\] Charlie · Магнитная буря: Чарли · \[Magnetic Storm\] - Charlie · \[Bão Từ\] Charlie
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12013
@@ -407,7 +407,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「아이덴티티」-베이스 · \[Identity\] Base · 「恒等式」-本格 · 「恆等式」-本格 · „Identität“ – Basis · \[Identité\] Base · Identidad - Raíz · \[Identidade\] Base · Идентичность: Постоянство · \[Identity\] - Base · \[Hằng Đẳng Thức\] Cơ Bản
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12014
@@ -437,7 +437,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「아이덴티티」-인플렉션 · \[Identity\] Inflection · 「恒等式」-変格 · 「恒等式」-变格 · 「恆等式」-變格 · „Identität“ – Flexion · \[Identité\] Déclinaison · Identidad - Desinencia · \[Identidade\] Inflexão · Идентичность: Изменчивость · \[Identity\] - Inflection · \[Hằng Đẳng Thức\] Biến Cách
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12015
@@ -467,7 +467,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「잿더미」-코발트블루 · \[Cinder\] Cobalt · 「灰燼」-蒼藍 · 「灰烬」-钴蓝 · 「灰燼」-鈷藍 · „Asche“ – Kobalt · \[Cendres\] Cobalt · Ceniza - Cobalto · \[Cinzas\] Cobalto · Пепел: Кобальт · \[Tro Tàn\] Xanh Coban
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:12016
@@ -497,7 +497,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「루나」-반달 · \[Lunar\] Semiluna · 「月相」-弦 · „Mondphase“ – Semiluna · \[Lunaire\] Croissante · Fase lunar - Semiluna · \[Lunar\] Crescente · Фаза луны: Полумесяц · "Lunar" Semiluna · \[Pha Mặt Trăng\] Semiluna
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13001
@@ -527,7 +527,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 거리의 슈퍼스타 · 거리의슈퍼스타 · Street Superstar · ストリートスター · 街头巨星 · 街頭巨星 · Straßenstar · Star de la rue · Estrella callejera · Superestrela das Ruas · Звезда улиц · Siêu Sao Đường Phố
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13002
@@ -557,7 +557,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 시간의 파편 · 시간의파편 · Slice of Time · 歳月の薄片 · 时光切片 · 時光切片 · Zeitfragment · Figeur temporel · Lapso de tiempo · Fração de Tempo · Кадр на память · Mảnh Ghép Thời Gian
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13003
@@ -587,7 +587,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 우림의 식객 · 우림의식객 · Rainforest Gourmet · 密林の食いしん坊 · 雨林饕客 · Regenwald-Gourmet · Gourmet sylvestre · Gastrónomo selvático · Gourmet Tropical · Тропический гурман · Khách Tham Ăn Rừng Mưa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13004
@@ -617,7 +617,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 별빛 엔진 · 별빛엔진 · Starlight Engine · スターライトエンジン · 星徽引擎 · Sternenlicht-Engine · Moteur stellaire · Motor estelar · Motor da Constelação · Звёздный двигатель · Engine Ánh Sao
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13005
@@ -647,7 +647,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 스팀오븐 · Steam Oven · まな板の鯉 · 人为刀俎 · 人為刀俎 · Dampfofen · Four à vapeur · Última cena · Cozido a Vapor · Пароварка · Cá Nằm Trên Thớt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13006
@@ -677,7 +677,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 귀중한 화석 코어 · 귀중한화석코어 · Precious Fossilized Core · 貴重な石化コア · 贵重骨核 · 貴重骨核 · Kostbarer Fossilkern · Noyau fossilisé précieux · Fósil preciado · Relíquia Óssea · Драгоценная окаменелость · Lõi Hóa Thạch Quý
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13007
@@ -707,7 +707,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 오리지널 변신 아이템 · 오리지널변신아이템 · Original Transmorpher · 正規版変身装置 · 正版变身器 · 正版變身器 · Original-Verwandler · Transformateur originel · Transmorfer original · Transmorfo Original · Оригинальный трансформатор · Máy Biến Hình Chính Hãng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13008
@@ -737,7 +737,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 쌍둥이의 눈물 · 쌍둥이의눈물 · Weeping Gemini · 双生の涙 · 双生泣星 · 雙生泣星 · Weinende Gemini · Gémeaux éplorés · Llanto mielgo · Lamento das Estrelas · Плачущие близнецы · Song Tinh Rơi Lệ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13009
@@ -767,7 +767,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 감전 립글로스 · 감전립글로스 · Electro-Lip Gloss · 電撃リップグロス · 触电唇彩 · 觸電唇彩 · Elektro-Lippenglanz · Brillant à lèvres électro · Brillo labial electrizante · Batom Elétrico · Электроблеск для губ · Son Môi Nhiễm Điện
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13010
@@ -797,7 +797,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 버니 밴드 · 버니밴드 · Bunny Band · ラビットチャージャー · 兔能环 · 兔能環 · Häschenband · Panier-lapin · Cesta conejera · Band de Coelhinho · Заячья корзинка · Vòng Năng Lượng Thỏ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13011
@@ -827,7 +827,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 봄날의 포옹 · 봄날의포옹 · Spring Embrace · ホットスプリング · 春日融融 · Frühlingsumarmung · Source printanière · Primavera termal · Abraço da Primavera · Весеннее тепло · Ngày Xuân Ấm Áp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13012
@@ -857,7 +857,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기변의 큐브 · 기변의큐브 · Puzzle Sphere · 魔法の立体パズル · 幻变魔方 · 幻變魔方 · Rätselsphäre · Casse-tête sphérique · Rompecabezas ilusorio · Cubo Mágico · Шар-головоломка · Rubik Ảo Diệu
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13013
@@ -887,7 +887,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 도금된 화신풍 · 도금된화신풍 · Gilded Blossom · 金メッキの花信 · 鎏金花信 · Vergoldete Blüte · Floraison dorée · Florescencia aurífera · Florescer Dourado · Златоцвет · Mùa Hoa Vàng Rực
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13014
@@ -917,7 +917,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일렉트로 워크 · 일렉트로워크 · Radiowave Journey · エレクトロウォーク · 电波漫步 · 電波漫步 · Radiowellenreise · Radio-baladeur · Tránsito herciano · Passeio Eletromagnético · Радиопрогулка · Sóng Âm Rảo Bước
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13015
@@ -947,7 +947,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 열망의 악센트 · 열망의악센트 · Marcato Desire · 強音デザイア · 强音热望 · 強音熱望 · Sehnsucht in Marcato · Capriccio marcato · Anhelo marcato · Desejo Irreprimível · Маркато-реверб · Khát Vọng Cường Âm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13016
@@ -977,7 +977,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 조명을 새기는 칼 · 조명을새기는칼 · Reel Projector · 光と影のカット · 光影刻刀 · Filmrollenprojektor · Projecteur à bobines · Proyector de celuloide · Projetor Analógico · Кинопроектор · Khắc Họa Tối Sáng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13017
@@ -1007,7 +1007,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 묘운이 눈앞에 · 묘운이눈앞에 · Catty Luck · ニャン運到来 · 喵运当头 · 喵運當頭 · Enormiaues Glück · Felis Fortuna · Fortuna felina · Sorte Felina · Котик удачи · Vận Meow Gõ Cửa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13018
@@ -1037,7 +1037,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 둥둥 메아리 · 둥둥메아리 · Boisterous Echoes · ドンカツエコー · 咚哒回声 · 咚噠回聲 · Ausgelassene Echos · Échos retentissants · Ecos bulliciosos · Eco Rítmico · Тадам-барабан · Tiếng Vọng Vang Dội
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13019
@@ -1067,7 +1067,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 푸른 물결의 솥 · 푸른물결의솥 · Cauldron of Clarity · 蒼き波の霊器 · 青漪灵鼎 · 青漪靈鼎 · Kessel der Klarheit · Chaudron d'émeraude · Caldero de la claridad · Caldeirão da Lucidez · Треножник поднебесья · Thanh Y Linh Đỉnh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13020
@@ -1097,7 +1097,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 들끓는 가마솥 · 들끓는가마솥 · The Simmering Pot · 炎々沸々鍋一丁 · 炎炙沸釜 · Der simmernde Topf · Marmite mijotante · Caldero ardiente · Caldeirão Fervente · Клокочущий котелок · Nồi Lửa Sục Sôi
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13021
@@ -1127,7 +1127,37 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 진혈의 비갑 · 진혈의비갑 · Bloodmarrow Coffer · ブラッドボックス · 血髓秘匣 · Blutmarktruhe · Coffre de moelle sanguine · Arca de médula ósea · Arca de Medula Sangrenta · Кроветворный ларец · Huyết Tủy Bí Hạp
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
+
+
+### weapon:13022
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 촛불 트릭 [공식 / Official / 正式 / 官方] | Candlelit Scheme [공식 / Official / 正式 / 官方] | キャンドル・トリック [공식 / Official / 正式 / 官方] | 烛光诡计 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: weapon:13022 · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 촛불 트릭 · 촛불트릭 · Candlelit Scheme · キャンドル・トリック · 烛光诡计 · Candlelight Conspiracy · 燭光の詭計
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13101
@@ -1157,7 +1187,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 데마라 배터리 Ⅱ형 · 데마라배터리Ⅱ형 · Demara Battery Mark II · デマラ式電池Ⅱ型 · 德玛拉电池Ⅱ型 · 德瑪拉電池Ⅱ型 · Demara-Batterie Typ II · Batterie Demara Mark II · Batería de Demara (II) · Bateria da Demara - Tipo II · Аккумулятор Демары II · Pin Demara Loại II
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13103
@@ -1187,7 +1217,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 보물함 · The Vault · ザ・ボールト · 聚宝箱 · 聚寶箱 · Füllhorn · Chambre forte · Cámara acorazada · Baú da Fortuna · Сундук сокровищ · Rương Kho Báu
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13106
@@ -1217,7 +1247,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 하우스키퍼 · Housekeeper · ハウスキーパー · 家政员 · 居家服務員 · Haushälter · Aide à domicile · Amo de llaves · Assistente Doméstico · Домработница · Nhân Viên Nội Trợ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13108
@@ -1247,7 +1277,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 별빛 엔진 레플리카 · 별빛엔진레플리카 · Starlight Engine Replica · なんちゃってスターライトエンジン · 仿制星徽引擎 · 仿製星徽引擎 · Replikat der Sternenlicht-Engine · Réplique du moteur stellaire · Réplica de motor estelar · Réplica de Motor da Constelação · Реплика Звёздного двигателя · Engine Ánh Sao Mô Phỏng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13111
@@ -1277,7 +1307,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 굴착기-붉은 축 · 굴착기-붉은축 · Drill Rig - Red Axis · ドリルリグ-レッドシャフト · 旋钻机-赤轴 · 旋鑽機-赤軸 · Drehbohrer – Rote Achse · Foreuse – Axe rouge · Taladradora giratoria - Eje rojo · Perfuratriz - Eixo Vermelho · Бур — красная ось · Máy Khoan-Trục Đỏ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13112
@@ -1307,7 +1337,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빅 실린더 · 빅실린더 · Big Cylinder · ビガー・シリンダー · 比格气缸 · 比格氣缸 · Big-Cylinder · Big-cylindre · Cilindro neumático de Bigger · Cilindro Grande · Большой цилиндр · Xi Lanh Lớn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13113
@@ -1337,7 +1367,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 수줍은 악마 · 수줍은악마 · Bashful Demon · 恥じらう悪面 · 含羞恶面 · 含羞惡面 · Verwegener Dämon · Démon pudique · Demonio cohibido · Demônio Bisonho · Застенчивый монстр · Ác Diện Thẹn Thùng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13115
@@ -1370,7 +1400,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비·루시·W-엔진·장착·교체·공격력 버프·중첩·빌드 계산 문맥의 Kaboom은 weapon:13115의 W-엔진를 뜻한다. 해당 문맥에서는 언어별 preferred의 정식 명칭을 사용한다. 폭발 소리나 감탄사 kaboom!은 이 장비명으로 바꾸지 말고 해당 언어의 자연스러운 의성어로 번역한다. 근거가 부족한 경우 장비명이라고 단정하지 않는다. 숫자 다음에 stacks가 오면 중첩 수를 뜻하며 소수인 경우에도 게임 버전으로 바꾸지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13127
@@ -1400,7 +1430,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 평화 수호자-특화형 · 평화수호자-특화형 · Peacekeeper - Specialized · 秩序の守り手・特化型 · 维序者-特化型 · 維序者-特化型 · Friedenswächter – Spezialisiert · Défenseur de la paix – Spécialisé · Pacificador especializado · Pacificador — Especializado · Миротворец — специализированный · Duy Trì Trật Tự - Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13128
@@ -1430,7 +1460,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 뛰뛰빵빵 · Roaring Ride · グロウル・マイ・カー · 轰鸣座驾 · 轟鳴座駕 · Donnerndes Gefährt · Moteur hurlant · Viaje estruendoso · Rugido das Chamas · Ревущая тачка · Ghế Lái Rền Vang
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13135
@@ -1460,7 +1490,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 커터칼 · Box Cutter · ペーパーカッター · 裁纸刀 · 裁紙刀 · Kartonmesser · Cutter · Cúter · Estilete · Бумагорезка · Dao Rọc Giấy
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:13142
@@ -1490,37 +1520,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 진괘를 담은 함 · 진괘를담은함 · Tremor Trigram Vessel · 雷鳴が如き八卦 · 震元奇枢 · 震元奇樞 · Schocktrigramm-Gefäß · Boîtier du trigramme sismique · Receptáculo de trigramas sísmico · Núcleo Sísmico · Триграмма Гром · Chấn Nguyên Kỳ Thuật
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
-
-
-### weapon:13144
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| 어스름한 밤의 화염 [공식 / Official / 正式 / 官方] | Grill O'Wisp [공식 / Official / 正式 / 官方] | 燔火の朧夜 [공식 / Official / 正式 / 官方] | 燔火胧夜 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | 燔火朧夜 |
-| Deutsch (de) | Irres Grilllicht |
-| Français (fr) | Fournaise follette |
-| Español (es) | Ignición fatua |
-| Português (pt) | Fogo Fátuo |
-| Русский (ru) | Жарево заката |
-| ไทย (th) | Grill O'Wisp |
-| Tiếng Việt (vi) | Đêm Đen Rực Lửa |
-| Bahasa Indonesia (id) | Grill O'Wisp |
-
-</details>
-
-- ID: weapon:13144 · Status: live · autoUse: true
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 어스름한 밤의 화염 · 어스름한밤의화염 · Grill O'Wisp · 燔火の朧夜 · 燔火胧夜 · 燔火朧夜 · Irres Grilllicht · Fournaise follette · Ignición fatua · Fogo Fátuo · Жарево заката · Đêm Đen Rực Lửa
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 [분류 / Categories / 分類 / 分类](../BROWSE.md) · [전체 / Index / 全件 / 全部](../INDEX.md) · [→](./w-engine-2.md)

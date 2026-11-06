@@ -47,7 +47,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기어 코인 · 기어코인 · Gear Coins · ギアコイン · 齿轮硬币 · 齒輪硬幣 · Zahnrad-Münzen · Pièces rouages · Mecamonedas · Mecamoedas · Шестерлинги · เหรียญเฟือง · Xu Bánh Răng · Gear Coin
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:10
@@ -77,7 +77,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 데니 · Denny · ディニー · 丁尼 · Denique · Денни
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:100
@@ -107,7 +107,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 폴리크롬 · Polychrome · ポリクローム · 菲林 · Polychrom · Película · Policromo · Полихромы · Film Màu
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101
@@ -137,7 +137,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 모노크롬 · Monochrome · モノクローム · 菲林底片 · Monochrom · Fotograma · Monocromo · Монохромы · Film Trắng Đen
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110
@@ -167,7 +167,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 오리지널 마스터 테이프 · 오리지널마스터테이프 · Master Tape · 未加工マスターテープ · 原装母带 · 原裝母帶 · Masterkassette · Bande maîtresse · Cinta original · Gravação Original · Мастер-копия · Băng Gốc
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:111
@@ -197,7 +197,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 기밀 마스터 테이프 · 기밀마스터테이프 · Encrypted Master Tape · 暗号化マスターテープ · 加密母带 · 加密母帶 · Verschlüsselte Masterkassette · Bande maîtresse chiffrée · Cinta cifrada · Gravação Original Criptografada · Шифрокопия · Băng Gốc Mã Hóa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:112
@@ -227,7 +227,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 「Bangboo 티켓」 · Bangboo 티켓 · Bangboo티켓 · Boopon · ボンプチケット · 邦布券 · Boupon · Bangbupón · Банбулеты
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:115
@@ -257,7 +257,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 잔류 신호 · 잔류신호 · Residual Signal · 余波シグナル · 信号余波 · 訊號餘波 · Restsignal · Signal résiduel · Repercusiones de señal · Sinais Residuais · Отголоски сигнала · สัญญาณตกค้าง · Dư Âm Tín Hiệu
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:116
@@ -287,7 +287,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: Bangboo 코인 · Bangboo코인 · Bangbuck · ボンプコイン · 邦布币 · 邦布幣 · Bootaler · Bangsou · Bangbuniques · Dindimboo · Банбукоины · Xu Bangboo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:117
@@ -317,7 +317,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 잔향 신호 · 잔향신호 · Fading Signal · 残響シグナル · 信号残响 · 訊號殘響 · Nachhallsignal · Signal évanescent · Ecos de señal · Ecos de Sinal · Реверберация сигнала · สัญญาณเลือนราง · Tàn Dư Tín Hiệu
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:118
@@ -347,7 +347,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 제로 실적 · 제로실적 · Z-Merits · 零号スコア · 零号业绩 · 零號業績 · Null-Erfolge · Mérites-Z · Créditos CC · Méritos-Z · Заслуги в Нулевой · Z-Merit · Thành Tích Số 0
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:119
@@ -377,7 +377,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 조사 실적 · 조사실적 · Investigation Merits · 調査スコア · 调查业绩 · 調查業績 · Ermittlungserfolge · Mérites d'inspection · Méritos de investigación · Méritos de Investigação · Заслуги в исследовании · ผลงานการสำรวจ · Thành Tích Điều Tra · Investigation Merit
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:201
@@ -407,7 +407,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 로프넷 신용 · 로프넷신용 · Inter-Knot Credit · クレジット · 绳网信用 · 繩網信用 · Inter-Knot-Kredit · Crédit Inter-nœud · Crédito proxy · Crédito da Interlaço · Кредиты Интернота · เครดิต Inter-Knot · Tín Dụng Inter-Knot
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 currency 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 [분류 / Categories / 分類 / 分类](../BROWSE.md) · [전체 / Index / 全件 / 全部](../INDEX.md)

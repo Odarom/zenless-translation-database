@@ -50,7 +50,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: CR은 능력치 문맥에서만 치명타 확률이며 치명타 피해와 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:31100
@@ -83,7 +83,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 관통은 능력치·디스크 옵션 문맥에서 관통률을 줄인 표현으로만 적용한다. 깡관·깡관통·고정 관통·flat PEN과는 별개이며 고정 수치에 퍼센트를 붙이지 않는다. 깡관·고정 관통 수치(flat PEN)와 구분한다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:31200
@@ -115,7 +115,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 능력치·디스크 옵션인 충격력만 해당한다. 충격을 받았다는 감탄·일반 현상은 번역 사전의 능력치로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:31300
@@ -148,7 +148,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: AP는 Anomaly Proficiency이다. AM(Anomaly Mastery, 이상 장악력)과 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:31400
@@ -178,7 +178,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 공격력 · ATK · 攻撃力 · 攻击力 · 攻擊力 · ANG · ATQ · Ataque · Сила атаки · Tấn Công
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:31500
@@ -208,7 +208,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 방어력 · DEF · 防御力 · 防禦力 · VTD · DÉF · Defensa · Защита · Phòng Thủ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:31600
@@ -241,7 +241,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 이 능력치를 뜻할 때만 적용한다. ER을 응급실 등 일반 약어에 적용하지 않는다. 에너지 획득 효율(Energy Generation Rate)은 자동 회복과 별개이므로 원문이 획득 효율을 명시하면 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:32200
@@ -274,7 +274,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:32300
@@ -307,7 +307,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:32400
@@ -340,7 +340,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:32500
@@ -373,7 +373,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:32600
@@ -406,7 +406,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 장비 옵션·피해 보너스를 뜻할 때만 적용하며 다른 속성이나 내성 감소로 바꾸지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:32700
@@ -439,7 +439,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: CD는 능력치 비교에서는 치명타 피해 후보이나 스킬 재사용 시간(cooldown) 문맥과 구분한다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:33000
@@ -472,7 +472,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
 - 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: AM은 Anomaly Mastery이다. AP(Anomaly Proficiency, 이상 마스터리)와 구분한다. I am 같은 일반 영어 동사나 오전 시간 표시는 이 능력치가 아니다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:33100
@@ -502,7 +502,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: HP · 生命值
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat:33900
@@ -532,7 +532,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 바람 속성 피해 · 바람속성피해 · Wind DMG · 風属性ダメージ · 风属性伤害
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 stat 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/equipment.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/equipment.json)
 
 
 ### stat-flat-pen

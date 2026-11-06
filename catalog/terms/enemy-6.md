@@ -20,6 +20,216 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 同一ID代表同一概念。请区分语言名称、输入匹配别名与社区风格输出。含义及规则保留DB原文，目前主要为韩语；不编造缺失名称。prerelease表示既有未发布资料，autoUse:false表示不自动引用。live不等于制作方直接审核。
 
+### monster:930159
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 악령 [공식 / Official / 正式 / 官方] | Ahriman [공식 / Official / 正式 / 官方] | アフリマン [공식 / Official / 正式 / 官方] | 恶灵 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | 惡靈 |
+| Deutsch (de) | Ahriman |
+| Français (fr) | Ahriman |
+| Español (es) | Arimán |
+| Português (pt) | Arimã |
+| Русский (ru) | Ариман |
+| ไทย (th) | Ahriman |
+| Tiếng Việt (vi) | Ác Linh |
+| Bahasa Indonesia (id) | Ahriman |
+
+</details>
+
+- ID: monster:930159 · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 악령 · Ahriman · アフリマン · 恶灵 · 惡靈 · Arimán · Arimã · Ариман · Ác Linh
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
+
+
+### monster:930160
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 알페카 [공식 / Official / 正式 / 官方] | Alpeca [공식 / Official / 正式 / 官方] | アルペカ [공식 / Official / 正式 / 官方] | 阿佩卡 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | 阿佩卡 |
+| Deutsch (de) | Alpeca |
+| Français (fr) | Alpeca |
+| Español (es) | Alpeca |
+| Português (pt) | Alpeca |
+| Русский (ru) | Альпека |
+| ไทย (th) | Alpeca |
+| Tiếng Việt (vi) | Alpeca |
+| Bahasa Indonesia (id) | Alpeca |
+
+</details>
+
+- ID: monster:930160 · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 알페카 · Alpeca · アルペカ · 阿佩卡 · Альпека
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
+
+
+### monster:930161
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 듀라한 [공식 / Official / 正式 / 官方] | Dullahan [공식 / Official / 正式 / 官方] | デュラハン [공식 / Official / 正式 / 官方] | 杜拉罕 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | — |
+| Deutsch (de) | — |
+| Français (fr) | — |
+| Español (es) | — |
+| Português (pt) | — |
+| Русский (ru) | — |
+| ไทย (th) | — |
+| Tiếng Việt (vi) | — |
+| Bahasa Indonesia (id) | — |
+
+</details>
+
+- ID: monster:930161 · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 듀라한 · Dullahan · デュラハン · 杜拉罕
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
+
+
+### monster:930162
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 호플리타이 [공식 / Official / 正式 / 官方] | Hoplitai [공식 / Official / 正式 / 官方] | ホプリタイ [공식 / Official / 正式 / 官方] | 霍普利泰 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | 霍普利泰 |
+| Deutsch (de) | Hoplitai |
+| Français (fr) | Hoplites |
+| Español (es) | Hoplita |
+| Português (pt) | Hoplita |
+| Русский (ru) | Гоплит |
+| ไทย (th) | Hoplitai |
+| Tiếng Việt (vi) | Hoplitai |
+| Bahasa Indonesia (id) | Hoplitai |
+
+</details>
+
+- ID: monster:930162 · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 호플리타이 · Hoplitai · ホプリタイ · 霍普利泰 · Hoplites · Hoplita · Гоплит
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
+
+
+### monster:930163
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 파우누스 [공식 / Official / 正式 / 官方] | Faun [공식 / Official / 正式 / 官方] | サテュロス [공식 / Official / 正式 / 官方] | 萨提尔 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | 薩提爾 |
+| Deutsch (de) | Faun |
+| Français (fr) | Faune |
+| Español (es) | Sátiro |
+| Português (pt) | Sátiro |
+| Русский (ru) | Сатир |
+| ไทย (th) | Faun |
+| Tiếng Việt (vi) | Faun |
+| Bahasa Indonesia (id) | Faun |
+
+</details>
+
+- ID: monster:930163 · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 파우누스 · Faun · サテュロス · 萨提尔 · 薩提爾 · Faune · Sátiro · Сатир
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
+
+
+### monster:930164
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 블라스트크롤러 [공식 / Official / 正式 / 官方] | Blastcrawler [공식 / Official / 正式 / 官方] | ブラストスパイダー [공식 / Official / 正式 / 官方] | 雷蛛 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | 雷蛛 |
+| Deutsch (de) | Blitzspinne |
+| Français (fr) | Araignée explosive |
+| Español (es) | Araña explosiva |
+| Português (pt) | Explodaranha |
+| Русский (ru) | Взрывной паук |
+| ไทย (th) | Blastcrawler |
+| Tiếng Việt (vi) | Blast Spider |
+| Bahasa Indonesia (id) | Blastcrawler |
+
+</details>
+
+- ID: monster:930164 · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 블라스트크롤러 · Blastcrawler · ブラストスパイダー · 雷蛛 · Blitzspinne · Araignée explosive · Araña explosiva · Explodaranha · Взрывной паук · Blast Spider
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
+
+
+### monster:930165
+
+| 한국어 | English | 日本語 | 简体中文 |
+|---|---|---|---|
+| 악독한 싸움꾼 [공식 / Official / 正式 / 官方] | Vicious Striker [공식 / Official / 正式 / 官方] | 悪辣討手 [공식 / Official / 正式 / 官方] | 恶毒打手 [공식 / Official / 正式 / 官方] |
+
+<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
+
+| Language | Name |
+|---|---|
+| 繁體中文 (zh-Hant) | 惡毒打手 |
+| Deutsch (de) | Boshafter Schläger |
+| Français (fr) | Frappeur sournois |
+| Español (es) | Matón despiadado |
+| Português (pt) | Golpeador Cruel |
+| Русский (ru) | Злобный громила |
+| ไทย (th) | Vicious Striker |
+| Tiếng Việt (vi) | Côn Đồ Độc Ác |
+| Bahasa Indonesia (id) | Vicious Striker |
+
+</details>
+
+- ID: monster:930165 · Status: live · autoUse: true
+- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 악독한 싸움꾼 · 악독한싸움꾼 · Vicious Striker · 悪辣討手 · 恶毒打手 · 惡毒打手 · Boshafter Schläger · Frappeur sournois · Matón despiadado · Golpeador Cruel · Злобный громила · Côn Đồ Độc Ác
+- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
+
+
 ### monster:930166
 
 | 한국어 | English | 日本語 | 简体中文 |
@@ -47,7 +257,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 체페슈 · Tepes · ツェペシュ · 特佩什 · Цепеш
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930167
@@ -77,7 +287,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 불꽃의 선창자 · 불꽃의선창자 · Flame Cantor · 火を帯びし先導者 · 秉火领颂 · 秉火領頌 · Flammenkantor · Adorateur des flammes · Cantor del fuego · Arautos da Chama · Воспеватель огня · Dẫn Tụng Khống Hỏa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930168
@@ -107,7 +317,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 바니렉 · Banyrek · バニーレック · 班尼雷克 · Банирек
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930169
@@ -137,7 +347,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 미아즈마 침식자·아바루스 · 미아즈마침식자·아바루스 · Miasma Ravager - Avarus · ミアズマラヴェジャー・アヴァルス · 秽息蚀者·阿瓦鲁斯
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930170
@@ -167,7 +377,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 마신 황금 「Bangboo」 · 마신황금「Bangboo」 · Mecha Golden Bangboo · 黄金魔神ギアゴルド · 魔神黄金邦布 · 魔神黃金邦布 · Goldmecha-Bangboo · Bangbou mécha doré · Mecabú Dorado · Bangboo Dourado Meca · Чудесный золотой банбу · Bangboo Ma Thần Hoàng Kim
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930171
@@ -197,7 +407,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 피셔 크랩 · 피셔크랩 · Fisher Crab · ミミック蟹 · 渔人蟹
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930172
@@ -227,7 +437,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 허스크론 · Huskron · ハスクロン · 赫斯克龙 · 赫斯克龍 · Хаскрон
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930173
@@ -257,7 +467,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 미아즈마 워커·아카보르 · 미아즈마워커·아카보르 · Miasma Walker - Arcavor · ミアズマの歩者・アカヴォル · 秽息行者· 阿卡沃尔 · 穢息行者·阿卡沃爾 · Miasmawanderer – Arcavor · Arcavor · Caminante miasmático: Arcavor · Errante do Miasma - Arcavor · Скверноход Аркавор · Uế Tức Hành Giả - Arcavor
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930174
@@ -287,7 +497,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 칭송회 예찬자 · 칭송회예찬자 · Exalting Hymnist · 礼賛者 · 颂礼赞者 · 頌禮讚者 · Exaltierter Hymnist · Aède des Exaltés · Exaltador hímnico · Exaltador Hímnico · Панегирист Ликующих · Giáo Đồ Ca Tụng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930175
@@ -317,7 +527,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 미아즈믹·제인 · Miasmic - Jane · ミアズミック・ジェーン · 秽蚀·简 · 穢蝕·簡 · Miasmisch – Jane · Miasmatique - Jane · Jane miasmática · Miasmática — Jane · Осквернённая Джейн · Miasmic: Jane · Uế Thực: Jane
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930176
@@ -347,7 +557,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 미아즈믹·암연 징벌자 · 미아즈믹·암연징벌자 · Miasmic - Abyssal Enforcer · ミアズミック・深淵の断罪者 · 秽蚀·暗渊惩戒者 · 穢蝕·暗淵懲戒者 · Miasmisch – Abyssus-Vollstrecker · Miasmatique - Exécuteur abyssal · Castigador Sombrío miasmático · Miasmático — Executor Abismal · Осквернённый Каратель Бездны · Miasmic: Abyssal Enforcer · Uế Thực: Kẻ Trừng Trị Vực Sâu
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930177
@@ -377,7 +587,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 미아즈믹·도플갱어 · Miasmic - Doppelganger · ミアズミック・ドッペルゲンガー · 秽蚀·多佩冈亚 · 穢蝕·多佩岡亞 · Miasmisch – Doppelgänger · Miasmatique - Doppelganger · Doppelgänger miasmático · Miasmático — Sósia · Осквернённый доппельгангер · Miasmic: Doppelganger · Uế Thực: Doppelganger
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:930178
@@ -407,7 +617,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 미아즈믹·트라키안 · Miasmic - Thracian · ミアズミック・トラキアン · 秽蚀·色雷斯人 · 穢蝕·色雷斯人 · Miasmisch – Thracian · Miasmatique - Thrace · Tracio miasmático · Miasmático — Thracian · Осквернённый фракиец · Miasmic: Thracian · Uế Thực: Thracian
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:940001
@@ -437,7 +647,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 허스크론 · Huskron · ハスクロン · 赫斯克龙 · 赫斯克龍 · Хаскрон
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:940002
@@ -467,7 +677,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 벌목기 · Lumberjack · 伐採機 · 伐木机
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:940003
@@ -497,7 +707,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 횡포자 · Rampant Brute · 剛力横暴者 · 蛮横力士
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:940004
@@ -527,7 +737,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 불꽃의 선창자 · 불꽃의선창자 · Flame Cantor · 火を帯びし先導者 · 秉火领颂 · 秉火領頌 · Flammenkantor · Adorateur des flammes · Cantor del fuego · Arautos da Chama · Воспеватель огня · Dẫn Tụng Khống Hỏa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:990167
@@ -557,7 +767,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 불꽃 환몽가 · 불꽃환몽가 · Flame Dreamer · 火を帯びし夢見者 · 秉火梦徒 · 秉火夢徒 · Flammenträumer · Rêveur des flammes · Soñador del fuego · Discípulo do Portador do Fogo · Хранитель огня · Mộng Đồ Khống Hỏa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
 ### monster:990174
@@ -587,14 +797,14 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 환몽 예찬자 · 환몽예찬자 · Dreaming Hymnist · 幻賛者 · 幻梦赞者 · 幻夢讚者 · Träumender Hymnist · Aède onirique · Exaltador onírico · Exaltador Onírico · Панегирист во снах · Ca Tụng Mộng Ảo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/monster.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/monster.json)
 
 
-### monster:20039
+### enemy:blasphemer
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특전·「가디언 Ⅱ형」 [공식 / Official / 正式 / 官方] | Special Offensive - Guardian MK II [공식 / Official / 正式 / 官方] | 特戦・「ガーディアンⅡ型」 [공식 / Official / 正式 / 官方] | 特战·「卫士Ⅱ型」 [공식 / Official / 正式 / 官方] |
+| 참월자 [공식 / Official / 正式 / 官方] | Blasphemer [공식 / Official / 正式 / 官方] | 不遜なる者 [공식 / Official / 正式 / 官方] | 僭越者 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -612,192 +822,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: monster:20039 · Status: prerelease · autoUse: true
+- ID: enemy:blasphemer · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특전·「가디언 Ⅱ형」 · 특전·「가디언Ⅱ형」 · Special Offensive - Guardian MK II · 特戦・「ガーディアンⅡ型」 · 特战·「卫士Ⅱ型」 · Special Offensive · "Guardian Type II"
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/monster.json)
-
-
-### monster:30056
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| 탈피·체페슈 [공식 / Official / 正式 / 官方] | Metamorphosed - Tepes [공식 / Official / 正式 / 官方] | 羽化・ツェペシュ [공식 / Official / 正式 / 官方] | 蜕生·特佩什 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: monster:30056 · Status: prerelease · autoUse: true
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 탈피·체페슈 · Metamorphosed - Tepes · 羽化・ツェペシュ · 蜕生·特佩什 · Metamorphosed · Tepes
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/monster.json)
-
-
-### monster:40012
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| 僭越者 [공식 / Official / 正式 / 官方] | 僭越者 [공식 / Official / 正式 / 官方] | 僭越者 [공식 / Official / 正式 / 官方] | 僭越者 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: monster:40012 · Status: prerelease · autoUse: true
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 僭越者
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/monster.json)
-
-
-### monster:40014
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| 융합·퇴행 변종 [공식 / Official / 正式 / 官方] | Integrated - Stagnant Aberrant [공식 / Official / 正式 / 官方] | 異性体・歪みし異獣 [공식 / Official / 正式 / 官方] | 异构·滞变畸兽 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: monster:40014 · Status: prerelease · autoUse: true
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 융합·퇴행 변종 · 융합·퇴행변종 · Integrated - Stagnant Aberrant · 異性体・歪みし異獣 · 异构·滞变畸兽 · Integrated · Stasis-Shift Aberrant Beast · 異性体・滞変エーテル獣
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/monster.json)
-
-
-### monster:40015
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| 융합·연옥을 누비는 자 [공식 / Official / 正式 / 官方] | Integrated - Infernal Revenant [공식 / Official / 正式 / 官方] | 異性体・炎獄を往く者 [공식 / Official / 正式 / 官方] | 异构·熔狱行赭 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: monster:40015 · Status: prerelease · autoUse: true
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 융합·연옥을 누비는 자 · 융합·연옥을누비는자 · Integrated - Infernal Revenant · 異性体・炎獄を往く者 · 异构·熔狱行赭 · Integrated · Infernal Revenant
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/monster.json)
-
-
-### monster:40016
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| 융합·사악한 어릿광대 [공식 / Official / 正式 / 官方] | Integrated - Heretic Jester [공식 / Official / 正式 / 官方] | 異性体・ヘレティック・ジェスター [공식 / Official / 正式 / 官方] | 异构·凶魁愚者 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: monster:40016 · Status: prerelease · autoUse: true
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 융합·사악한 어릿광대 · 융합·사악한어릿광대 · Integrated - Heretic Jester · 異性体・ヘレティック・ジェスター · 异构·凶魁愚者 · Integrated · Heretic Jester
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/monster.json)
-
-
-### monster:40017
-
-| 한국어 | English | 日本語 | 简体中文 |
-|---|---|---|---|
-| 융합·헤이토 [공식 / Official / 正式 / 官方] | Integrated - Haytor [공식 / Official / 正式 / 官方] | 異性体・ハイヨト [공식 / Official / 正式 / 官方] | 异构·赫由托 [공식 / Official / 正式 / 官方] |
-
-<details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
-
-| Language | Name |
-|---|---|
-| 繁體中文 (zh-Hant) | — |
-| Deutsch (de) | — |
-| Français (fr) | — |
-| Español (es) | — |
-| Português (pt) | — |
-| Русский (ru) | — |
-| ไทย (th) | — |
-| Tiếng Việt (vi) | — |
-| Bahasa Indonesia (id) | — |
-
-</details>
-
-- ID: monster:40017 · Status: prerelease · autoUse: true
-- [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 융합·헤이토 · Integrated - Haytor · 異性体・ハイヨト · 异构·赫由托 · Integrated · Haytor
-- 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 enemy 명칭. 동일 원본 항목의 언어별 표기를 연결함.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/monster.json)
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 참월자 · Blasphemer · 不遜なる者 · 僭越者
+- 의미 / Meaning / 意味 / 含义: 3.3 정식 업데이트 공지와 위험한 강습전 적 목록에 사용된 보스 명칭.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 젠레스 보스나 강습전 상대를 지칭할 때 이 명칭을 사용한다. 원문의 참월자/Blasphemer 호칭은 그대로 언어별 대응으로 옮기며, 원문에 없는 에테르 이형체·트루비아 전체 이름이나 인물 설명을 덧붙이지 않는다. 일반적인 불경한 사람을 뜻하는 blasphemer나 불遜한 태도 등 보통 명사에는 적용하지 않는다. 같은 인물과 관련된 짧은 인명 Truvia와 보스 호칭은 구별하고, 개별 공격이나 전투 성능을 이름만으로 추측하지 않는다.
+- 출처 / Sources / 出典 / 来源: [1](https://zenless.hoyoverse.com/ko-kr/news/166963) · [2](https://zenless.hoyoverse.com/en-us/news/166963) · [3](https://zenless.hoyoverse.com/ja-jp/news/166963) · [4](https://zenless.hoyoverse.com/zh-cn/news/166963)
 
 
 ### monster:40039

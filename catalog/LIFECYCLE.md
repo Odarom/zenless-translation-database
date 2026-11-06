@@ -6,6 +6,8 @@
 
 ## 한국어
 
+라이브 버전만 갱신하려면 `node scripts/sync-glossary.mjs sync --live-only`로 후보를 만듭니다. 새 정식 자료와 기존 미출시 버전의 온전한 캐시를 사용하며, 더 새로운 미출시 자료를 가져오지 않습니다. 출시 예정일이 따로 있는 항목은 공지의 실제 개방 시점을 확인한 뒤 수동 검토하며, 버전 번호만으로 출시 전환을 승인하지 않습니다.
+
 공식 명칭·비공식 표현·확인 필요 태그는 [TAGS.md](TAGS.md)에 설명합니다. 분류만 갱신하려면 `node scripts/sync-glossary.mjs sync --classifications-only`로 후보를 생성하고 차이를 검토한 뒤 기존 백업·적용 절차를 따릅니다. 새 용어·자료를 가져오지 않으며 대표 번역과 여러 별칭을 유지합니다.
 
 신고 수정만 재구성하고 새 정식·미출시 버전을 가져오지 않으려면 `node scripts/sync-glossary.mjs sync --cached --existing-versions`를 사용합니다. 공개 최신 버전은 확인·기록하되 기존 카탈로그의 자료 버전으로 후보를 구성합니다. 검토·백업·적용 절차는 동일합니다.
@@ -59,6 +61,8 @@ npm run glossary:apply
 
 ## English
 
+To update only live data, create a candidate with `node scripts/sync-glossary.mjs sync --live-only`. It uses the new live source and the intact cache of the existing prerelease version, without importing a newer beta. Review separately scheduled content against its actual availability; a version label alone does not approve release promotion.
+
 Official, unofficial and needs-review tags are documented in [TAGS.md](TAGS.md). For classification only, run `node scripts/sync-glossary.mjs sync --classifications-only`, review the candidate, then use the usual backup/apply workflow. It imports no new terms or sources and preserves selected translations and aliases.
 
 For report corrections without importing a newer live/beta source, use `node scripts/sync-glossary.mjs sync --cached --existing-versions`. It records the current public manifest but builds from the catalog’s existing source versions. Review, backup and apply checks still apply.
@@ -97,6 +101,8 @@ Potentially conflicting reference nouns have reviewed source names/context in re
 
 ## 日本語
 
+正式版だけを更新するには`node scripts/sync-glossary.mjs sync --live-only`で候補を作成します。新しい正式資料と既存未公開版の完全なキャッシュを使用し、新しい未公開版は取り込みません。別途実装日が定められた項目は実際の公開時点を確認して判断し、版番号だけで正式移行を承認しません。
+
 正式・非公式・要確認タグは[TAGS.md](TAGS.md)で説明します。分類だけを更新するには`node scripts/sync-glossary.mjs sync --classifications-only`で候補を作り、差分確認後に通常のバックアップ・適用を行います。新規用語・資料を取り込まず、代表訳と複数の別名を保持します。
 
 新しい正式・未公開資料を取り込まず報告修正だけを再構築する場合は、`node scripts/sync-glossary.mjs sync --cached --existing-versions`を使います。公開最新版は確認・記録し、既存カタログの資料版で候補を作ります。確認・バックアップ・適用の手順は同じです。
@@ -134,6 +140,8 @@ BriefName_…、OfficialName_…、(Test…)等は名前として登録しませ
 ---
 
 ## 简体中文
+
+仅更新正式资料时，用`node scripts/sync-glossary.mjs sync --live-only`生成候选。使用新正式资料及既有未发布版本的完整缓存，不导入新测试版。另有开放日期的内容须核实实际开放时间后人工审核，不能仅凭版本号批准转为已上线。
 
 官方、非官方及待确认标签见[TAGS.md](TAGS.md)。仅更新分类时运行`node scripts/sync-glossary.mjs sync --classifications-only`生成候选，核对差异后按现有流程备份并应用。不导入新词或新资料，保留代表译法及多个别名。
 

@@ -137,7 +137,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - [태그 / Tags / タグ / 标签](../TAGS.md): 비공식 / Unofficial / 非公式 / 非官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: EBA · Enhanced Basic Attack · 강화 평타 · 강화평타 · 강화된 일반 공격 · 강화 일반 공격 · 평꾹
 - 의미 / Meaning / 意味 / 含义: 강화된 일반 공격을 가리키는 커뮤니티 표현. 평꾹은 일반 공격 버튼을 길게 누르는 조작 표현으로 의미 범위가 다르다.
-- 적용 규칙 / Usage rule / 適用規則 / 使用规则: EBA와 평꾹을 무조건 서로 치환하지 않는다. 해당 캐릭터와 길게 누르는 조작이 문맥에서 확인될 때만 평꾹을 쓴다. 평꾹을 영문으로 옮길 때 공격 유형이 불명확하면 hold Basic Attack으로 조작 자체를 옮긴다. 선호 표현은 모든 캐릭터의 공식 스킬 이름이라는 뜻이 아니다.
+- 적용 규칙 / Usage rule / 適用規則 / 使用规则: EBA와 평꾹을 무조건 서로 치환하지 않는다. 해당 캐릭터와 길게 누르는 조작이 문맥에서 확인될 때만 평꾹을 쓴다. 평꾹을 영문으로 옮길 때 공격 유형이 불명확하면 hold Basic Attack으로 조작 자체를 옮긴다. 선호 표현은 모든 캐릭터의 공식 스킬 이름이라는 뜻이 아니다. EBA/eBa/eba is Enhanced Basic Attack in combat notation, NOT EX Special Attack (EX/EXS). Translate its attack type as 강화 평타 / 강화 일반 공격, never 강특 / 강화 특수 스킬. The adjective quick before eba only describes speed unless the context explicitly identifies Quick Assist; do not insert an assist, an EX attack or a hold input. Words such as drop do not change Basic Attack into Special Attack. If drop itself is ambiguous, preserve that uncertainty rather than inventing a specific action.
 
 
 ### stat-percent-atk

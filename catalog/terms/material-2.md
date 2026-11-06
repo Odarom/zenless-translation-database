@@ -47,7 +47,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 지원 부품 · 지원부품 · Support Component · 支援キット · 支援组件 · 支援元件 · Support-Komponente · Composant Soutien · Componente auxiliar · Divisor de Frequência · Компонент «Поддержка» · ส่วนประกอบซัปพอร์ต · Linh Kiện Chi Viện
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101014
@@ -77,7 +77,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 방어 부품 · 방어부품 · Defense Component · 防護キット · 防护组件 · 防護元件 · Defensive-Komponente · Composant Défense · Componente defensivo · Bobina · Компонент «Оборона» · ส่วนประกอบป้องกัน · Linh Kiện Thủ Hộ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101015
@@ -107,7 +107,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 명파 부품 · 명파부품 · Rupture Component · 命破キット · 命破组件 · 命破元件 · Spaltung-Komponente · Composant Rupture · Componente disruptivo · Diafragma Destruidor · Компонент «Разрушение» · ส่วนประกอบตัดสะบั้น · Linh Kiện Mệnh Phá
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101016
@@ -137,7 +137,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 단조 부품 · 단조부품 · Armorer Component · 鋭御キット · 锋御组件 · 鋒御元件 · Schmiedung-Komponente · Composant Forge · Componente armero · Turbina · Оружейник · ส่วนประกอบประจัญบาน · Linh Kiện Ngự Kích
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101020
@@ -167,7 +167,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화형 강공 부품 · 강화형강공부품 · Reinforced Attack Component · 強化型強攻キット · 增强型强攻组件 · 增強型強攻元件 · Verstärkte Attacke-Komponente · Composant Attaque renforcé · Componente atacante potenciado · Polarizador Reforçado · Усиленный компонент «Нападение» · ส่วนประกอบโจมตีรุนแรงรุ่นเสริมกำลัง · Linh Kiện Tiên Phong Tăng Cường
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101021
@@ -197,7 +197,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화형 격파 부품 · 강화형격파부품 · Reinforced Stun Component · 強化型撃破キット · 增强型击破组件 · 增強型擊破元件 · Verstärkte Durchbruch-Komponente · Composant Confusion renforcé · Componente aturdidor potenciado · Diafragma Reforçado · Усиленный компонент «Устрашение» · ส่วนประกอบสตั๊นรุ่นเสริมกำลัง · Linh Kiện Khống Chế Tăng Cường
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101022
@@ -227,7 +227,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화형 이상 부품 · 강화형이상부품 · Reinforced Anomaly Component · 強化型異常キット · 增强型异常组件 · 增強型異常元件 · Verstärkte Anomalie-Komponente · Composant Anomalie renforcé · Componente anómalo potenciado · Ímã Reforçado · Усиленный компонент «Аномалия» · ส่วนประกอบธาตุผิดปกติรุ่นเสริมกำลัง · Linh Kiện Dị Thường Tăng Cường
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101023
@@ -257,7 +257,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화형 지원 부품 · 강화형지원부품 · Reinforced Support Component · 強化型支援キット · 增强型支援组件 · 增強型支援元件 · Verstärkte Support-Komponente · Composant Soutien renforcé · Componente auxiliar potenciado · Divisor de Frequência Reforçado · Усиленный компонент «Поддержка» · ส่วนประกอบซัปพอร์ตรุ่นเสริมกำลัง · Linh Kiện Chi Viện Tăng Cường
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101024
@@ -287,7 +287,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화형 방어 부품 · 강화형방어부품 · Reinforced Defense Component · 強化型防護キット · 增强型防护组件 · 增強型防護元件 · Verstärkte Defensive-Komponente · Composant Défense renforcé · Componente defensivo potenciado · Bobina Reforçada · Усиленный компонент «Оборона» · ส่วนประกอบป้องกันรุ่นเสริมกำลัง · Linh Kiện Thủ Hộ Tăng Cường
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101025
@@ -317,7 +317,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화형 명파 부품 · 강화형명파부품 · Reinforced Rupture Component · 強化型命破キット · 增强型命破组件 · 增強型命破元件 · Verstärkte Spaltung-Komponente · Composant Rupture renforcé · Componente disruptivo potenciado · Diafragma Destruidor Reforçado · Усиленный компонент «Разрушение» · ส่วนประกอบตัดสะบั้นรุ่นเสริมกำลัง · Linh Kiện Mệnh Phá Tăng Cường
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101026
@@ -347,7 +347,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화형 단조 부품 · 강화형단조부품 · Reinforced Armorer Component · 強化型鋭御キット · 增强型锋御组件 · 增強型鋒御元件 · Verstärkte Schmiedung-Komponente · Composant Forge renforcé · Componente armero potenciado · Turbina Reforçada · Усиленный компонент «Оружейник» · ส่วนประกอบประจัญบานรุ่นเสริมกำลัง · Linh Kiện Ngự Kích Tăng Cường
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101030
@@ -377,7 +377,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화형 강공 부품 · 특화형강공부품 · Specialized Attack Component · 特化型強攻キット · 特化型强攻组件 · 特化型強攻元件 · Spezialisierte Attacke-Komponente · Composant Attaque spécialisé · Componente atacante especializado · Polarizador Especializado · Специализированный компонент «Нападение» · ส่วนประกอบโจมตีรุนแรงรุ่นพิเศษ · Linh Kiện Tiên Phong Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101031
@@ -407,7 +407,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화형 격파 부품 · 특화형격파부품 · Specialized Stun Component · 特化型撃破キット · 特化型击破组件 · 特化型擊破元件 · Spezialisierte Durchbruch-Komponente · Composant Confusion spécialisé · Componente aturdidor especializado · Diafragma Especializado · Специализированный компонент «Устрашение» · ส่วนประกอบสตั๊นรุ่นพิเศษ · Linh Kiện Khống Chế Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101032
@@ -437,7 +437,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화형 이상 부품 · 특화형이상부품 · Specialized Anomaly Component · 特化型異常キット · 特化型异常组件 · 特化型異常元件 · Spezialisierte Anomalie-Komponente · Composant Anomalie spécialisé · Componente anómalo especializado · Ímã Especializado · Специализированный компонент «Аномалия» · ส่วนประกอบธาตุผิดปกติรุ่นพิเศษ · Linh Kiện Dị Thường Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101033
@@ -467,7 +467,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화형 지원 부품 · 특화형지원부품 · Specialized Support Component · 特化型支援キット · 特化型支援组件 · 特化型支援元件 · Spezialisierte Support-Komponente · Composant Soutien spécialisé · Componente auxiliar especializado · Divisor de Frequência Especializado · Специализированный компонент «Поддержка» · ส่วนประกอบซัปพอร์ตรุ่นพิเศษ · Linh Kiện Chi Viện Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101034
@@ -497,7 +497,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화형 방어 부품 · 특화형방어부품 · Specialized Defense Component · 特化型防護キット · 特化型防护组件 · 特化型防護元件 · Spezialisierte Defensive-Komponente · Composant Défense spécialisé · Componente defensivo especializado · Bobina Especializada · Специализированный компонент «Оборона» · ส่วนประกอบป้องกันรุ่นพิเศษ · Linh Kiện Thủ Hộ Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101035
@@ -527,7 +527,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화형 명파 부품 · 특화형명파부품 · Specialized Rupture Component · 特化型命破キット · 特化型命破组件 · 特化型命破元件 · Spezialisierte Spaltung-Komponente · Composant Rupture spécialisé · Componente disruptivo especializado · Diafragma Destruidor Especializado · Специализированный компонент «Разрушение» · ส่วนประกอบตัดสะบั้นรุ่นพิเศษ · Linh Kiện Mệnh Phá Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:101036
@@ -557,7 +557,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특화형 단조 부품 · 특화형단조부품 · Specialized Armorer Component · 特化型鋭御キット · 特化型锋御组件 · 特化型鋒御元件 · Spezialisierte Schmiedung-Komponente · Composant Forge spécialisé · Componente armero especializado · Turbina Especializada · Специализированный компонент «Оружейник» · ส่วนประกอบประจัญบานรุ่นพิเศษ · Linh Kiện Ngự Kích Đặc Biệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:102010
@@ -587,7 +587,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에테르 전해액 · 에테르전해액 · Ether Electrolyte · エーテル電解液 · 以太电解液 · 以太電解液 · Ätherelektrolyt · Électrolyte éthérique · Fluido electrolítico · Eletrólito de Éter · Эфирный электролит · อิเล็กโทรไลต์อีเทอร์ · Chất Điện Giải Ether
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:102020
@@ -617,7 +617,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에너지 유체액 · 에너지유체액 · Energy Transfer Fluid · エネルギー循環液 · 能量循环液 · 能量循環液 · Flüssigkeit zur Energieübertragung · Fluide de transfert d'énergie · Fluido circulante · Fluido de Transferência de Energia · Жидкий проводник · ของเหลวหมุนเวียนพลังงาน · Dịch Tuần Hoàn Năng Lượng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:102030
@@ -647,7 +647,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 농축형 냉각액 · 농축형냉각액 · Concentrated Cooling Fluid · 濃縮型冷却液 · 浓缩型冷却液 · 濃縮型冷卻液 · Konzentriertes Kühlmittel · Réfrigérant concentré · Fluido refrigerante · Líquido Refrigerante Concentrado · Концентрированный хладагент · สารหล่อเย็นเข้มข้นสูง · Nước Làm Mát Cô Đặc
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:103020
@@ -677,7 +677,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 음질 강화 메인보드 · 음질강화메인보드 · Audio Booster Master Copy · 音質ブースト原盤 · 音质增强母盘 · 音質增強母碟 · Masterkopie mit Klangverbesserung · Copie originale boost audio · Disco original de amplificación de sonido · Cópia Mestre de Amplificador de Áudio · Мастер-диск для эквализации · แผ่นมาสเตอร์เสริมคุณภาพเสียง · Đĩa Gốc Tăng Âm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:103030
@@ -707,7 +707,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 노이즈 캔슬링 메인보드 · 노이즈캔슬링메인보드 · Noise Reduction Master Copy · ノイズ低減原盤 · 降噪处理母盘 · 降噪處理母碟 · Masterkopie mit Rauschunterdrückung · Copie originale réduction du bruit · Disco original de cancelación de ruido · Cópia Mestre de Redução de Ruído · Мастер-диск для шумоподавления · แผ่นมาสเตอร์ลดเสียงรบกวน · Đĩa Gốc Xử Lý Tiếng Ồn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:103040
@@ -737,7 +737,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 하이파이 메인보드 · 하이파이메인보드 · Hi-Fi Master Copy · Hi-Fi原盤 · 高保真母盘 · 高傳真母碟 · Hi-Fi-Masterkopie · Copie originale hi-fi · Disco original de alta fidelidad · Cópia Mestre de Alta Fidelidade · Мастер-диск Hi-Fi · แผ่นมาสเตอร์ไฮไฟ · Đĩa Gốc Hi-Fi
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:104001
@@ -767,7 +767,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 주조 훈장 · 주조훈장 · Prototype Seal · 原型バッジ · 初铸勋章 · 初鑄勳章 · Prototyp-Siegel · Sceau prototype · Prototipo de insignia · Protótipo de Selo · Печать прототипа · Huân Chương Đơn Sơ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:104002
@@ -797,7 +797,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 공용 부품 · 공용부품 · Master Component · 汎用キット · 通用组件 · 通用元件 · Master-Komponente · Composant maître · Componente maestro · Componente Geral · Универсальный модуль · ส่วนประกอบทั่วไป · Linh Kiện Thông Dụng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:104003
@@ -827,7 +827,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 오리지널 칩 · 오리지널칩 · Original Chip · 未加工チップ · 原装芯片 · 原裝晶片 · Original-Chip · Puce originelle · Chip original · Chip Original · Исходный чип · ชิปดั้งเดิม · Chip Nguyên Bản
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110001
@@ -857,7 +857,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 피바람의 손아귀 · 피바람의손아귀 · Ferocious Grip · 殺戮を掴む掌 · 腥风之握 · 腥風之握 · Griff des Sturms · Poigne féroce · Agarre despiadado · Aperto Tempestuoso · Кровожадный кулак · Nắm Bắt Gió Tanh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110002
@@ -887,7 +887,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 활력 구동 · 활력구동 · Living Drive · 活性ドライブ · 活态驱动 · 活態驅動 · Laufwerk der Vitalität · Volonté de vivre · Eje viviente · Articulação Viva · Агония тирана · Điều Khiển Hoạt Động
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110003
@@ -917,7 +917,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 피날레 슈즈 · 피날레슈즈 · Finale Dance Shoes · 終幕のダンスシューズ · 终幕舞鞋 · 終幕舞鞋 · Tanzschuhe des Ausklangs · Ultimes chaussures de danse · Zapato del acto final · Sapatilhas da Última Apresentação · Последний танец · Giày Khiêu Vũ Màn Cuối
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110004
@@ -947,7 +947,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 스칼렛 엔진 · 스칼렛엔진 · Scarlet Engine · スカーレットエンジン · 猩红引擎 · 猩紅引擎 · Scharlachroter Motor · Moteur écarlate · Motor escarlata · Motor Escarlate · Алый движок · Động Cơ Đỏ Thẫm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110005
@@ -977,7 +977,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 맹신의 형상 · 맹신의형상 · Sycophant's Refinement · 狂信の塊 · 狂信之塑 · Raffinesse des Schmeichlers · Façonnage de fanatique · Refinamiento del fanático · Efígie do Fanático · Слепок фанатизма · Đúc Kết Của Kẻ Cuồng Tín
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110006
@@ -1007,7 +1007,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 재창조의 유체 · 재창조의유체 · Exuvia of Refinement · 再創の遺殻 · 塑炼遗蜕 · 塑煉遺蛻 · Exuvie der Läuterung · Exuvia de raffinement · Exuvia refinada · Exúvia de Refinamento · Претворённая оболочка · Tàn Thể Tôi Luyện
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110007
@@ -1037,7 +1037,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 크림슨 스파이크 · 크림슨스파이크 · Crimson Miasma Spike · 真紅の晶刺 · 秽红晶刺 · 穢紅晶刺 · Karminroter Miasma-Stachel · Pic miasmatique écarlate · Espina miasmática carmesí · Espinho Miasmático Carmesim · Алый шип скверны · Gai Tinh Thể Đỏ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110008
@@ -1067,7 +1067,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 혼탁한 무늬의 결정 · 혼탁한무늬의결정 · Clouded Crystalline Substance · 結晶化沈殿物 · 浊纹晶质 · 濁紋晶質 · Trübgeäderter Kristall · Substance cristalline trouble · Sustancia de cristalinidad turbia · Cristal Turvo · Мутный кристалл · Kết Tinh Mờ Đục
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110009
@@ -1097,7 +1097,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 골수를 탐하는 가시 · 골수를탐하는가시 · Marrow-Draining Thorn · 餓狼の棘 · 吮髓之棘 · Dorn des Markrauschs · Épine dévoreuse de moelle · Espina devora-médula · Espinho Devorador de Medula · Пункционный шип · Gai Nhọn Hút Tủy
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110010
@@ -1127,7 +1127,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 죽음의 탈피 · 죽음의탈피 · Timeworn Husk · 刻まれし命の残痕 · 刻命残蜕 · 刻命殘蛻 · Schicksalsgeprägte Überreste · Exuvies érodées · Cubierta deteriorada · Carcaça Deteriorada · Иссохший панцирь · Tàn Xác Khắc Mệnh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110011
@@ -1157,7 +1157,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 위조된 이핵 · 위조된이핵 · Counterfeit Nucleus · 贋造体を離れしコア · 赝造离核 · 贗造離核 · Gefälschter Kern · Noyau de contrefaçon · Núcleo falsificado · Núcleo Falsificado · Поддельный нуклеус · Hạch Ngụy Tạo
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110501
@@ -1187,7 +1187,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 형벌 통지 · 고차원데이터:형벌통지 · Higher Dimensional Data: Murderous Obituary · 高次元データ：凶刑の訃報 · 高维数据：凶刑讣告 · 高維資料：凶刑訃告 · Hochdimensionale Daten: Tödliche Nachrufe · Données dimensionnelles supérieures : Nécrologie meurtrière · Datos de alta dimensionalidad: obituario mortífero · Dados de Dimensões Superiores: Obituário de Assassinato · Высокоразмерные данные: некролог · ข้อมูลมิติสูง: Murderous Obituary · Dữ Liệu Đa Chiều: Cáo Phó Hành Hình
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110502
@@ -1217,7 +1217,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 진홍색 공포 · 고차원데이터:진홍색공포 · Higher Dimensional Data: Crimson Awe · 高次元データ：深紅の震慄 · 高维数据：殷红震慑 · 高維資料：殷紅震懾 · Hochdimensionale Daten: Karmesinroter Schreck · Données dimensionnelles supérieures : Effroi cramoisi · Datos de alta dimensionalidad: terror carmesí · Dados de Dimensões Superiores - Terror Carmesim · Высокоразмерные данные: багровый ужас · ข้อมูลมิติสูง: Crimson Awe · Dữ Liệu Đa Chiều: Nỗi Sợ Đỏ Thẫm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110503
@@ -1247,7 +1247,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 추격의 잔영 · 고차원데이터:추격의잔영 · Higher Dimensional Data: Ethereal Pursuit · 高次元データ：追襲の骸影 · 高维数据：追袭骸影 · 高維資料：追襲骸影 · Hochdimensionale Daten: Jagender Schatten · Données dimensionnelles supérieures : Poursuite d'Éthéréens · Datos de alta dimensionalidad: persecución etérea · Dados de Dimensões Superiores - Perseguição Etérea · Высокоразмерные данные: погоня за призраком · ข้อมูลมิติสูง: Ethereal Pursuit · Dữ Liệu Đa Chiều: Bóng Hình Truy Kích
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110504
@@ -1277,7 +1277,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 단단한 악의 · 고차원데이터:단단한악의 · Higher Dimensional Data: Steel Malice · 高次元データ：鋼鉄の悪意 · 高维数据：钢铁恶意 · 高維資料：鋼鐵惡意 · Hochdimensionale Daten: Stählerne Bosheit · Données dimensionnelles supérieures : Acier malicieux · Datos de alta dimensionalidad: malicia de acero · Dados de Dimensões Superiores - Malícia de Aço · Высокоразмерные данные: стальное коварство · ข้อมูลมิติสูง: Steel Malice · Dữ Liệu Đa Chiều: Ác Ý Sắt Thép
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110505
@@ -1307,7 +1307,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 파멸의 돌진 · 고차원데이터:파멸의돌진 · Higher Dimensional Data: Destructive Advance · 高次元データ：壊滅の突進 · 高维数据：毁荡突进 · 高維資料：毀蕩突進 · Hochdimensionale Daten: Verheerender Sturm · Données dimensionnelles supérieures : Avance destructive · Datos de alta dimensionalidad: avance desolador · Dados de Dimensões Superiores - Investida Destrutiva · Высокоразмерные данные: разрушительный рывок · ข้อมูลมิติสูง: Destructive Advance · Dữ Liệu Đa Chiều: Đột Tiến Hủy Diệt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110506
@@ -1337,7 +1337,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 떨어지는 주먹 · 고차원데이터:떨어지는주먹 · Higher Dimensional Data: Falling Fist · 高次元データ：拳、墜つ · 高维数据：拳坠如陨 · 高維資料：拳墜如隕 · Hochdimensionale Daten: Wuchtige Faust · Données dimensionnelles supérieures : Poing météore · Datos de alta dimensionalidad: caída meteórica · Dados de Dimensões Superiores: Punho Meteórico · Высокоразмерные данные: пикирующий кулак · ข้อมูลมิติสูง: Falling Fist · Dữ Liệu Đa Chiều: Cú Đấm Trời Giáng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110507
@@ -1367,7 +1367,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 잠습하는 그림자 · 고차원데이터:잠습하는그림자 · Higher Dimensional Data: Stealth Phantom · 高次元データ：奇襲する魅影 · 高维数据：潜袭魅影 · 高維資料：潛襲魅影 · Hochdimensionale Daten: Phantom im Hinterhalt · Données dimensionnelles supérieures : Fantôme furtif · Datos de alta dimensionalidad: emboscada espectral · Dados de Dimensões Superiores: Espectro Furtivo · Высокоразмерные данные: скрытный фантом · ข้อมูลมิติสูง: Stealth Phantom · Dữ Liệu Đa Chiều: Bóng Ma Tập Kích
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110508
@@ -1397,7 +1397,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 번쩍이는 우레 · 고차원데이터:번쩍이는우레 · Higher Dimensional Data: Thunderous Dragon · 高次元データ：閃く雷光 · 高维数据：游鳞雷动 · 高維資料：游鱗雷動 · Hochdimensionale Daten: Donnernder Drache · Données dimensionnelles supérieures : Dragon tonitruant · Datos de alta dimensionalidad: dragón estentóreo · Dados de Dimensões Superiores: Dragão Trovejante · Высокоразмерные данные: громовой дракон · ข้อมูลมิติสูง: Thunderous Dragon · Dữ Liệu Đa Chiều: Du Long Lôi Đình
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110509
@@ -1427,7 +1427,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 죽음의 제벌 · 고차원데이터:죽음의제벌 · Higher Dimensional Data: Mortal Cleave · 高次元データ：断命の除伐 · 高维数据：索命切割 · 高維資料：索命切割 · Hochdimensionale Daten: Mörderische Spaltung · Données dimensionnelles supérieures : Scies fatales · Datos de alta dimensionalidad: sajadura fatídica · Dados de Dimensões Superiores: Dissecador Mortal · Высокоразмерные данные: рассекатель · ข้อมูลมิติสูง: Mortal Cleave · Dữ Liệu Đa Chiều: Nhát Cắt Đoạt Mạng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110510
@@ -1457,7 +1457,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 오염된 겉날개 · 고차원데이터:오염된겉날개 · Higher Dimensional Data: Miasmic Elytron · 高次元データ：穢れた鞘翅 · 高维数据：鞘翅秽种 · 高維資料：鞘翅穢種 · Hochdimensionale Daten: Miasma-Deckflügel · Données dimensionnelles supérieures : Élytre miasmatique · Datos de alta dimensionalidad: élitro miasmático · Dados de Dimensões Superiores: Élitro Miasmático · Высокоразмерные данные: элитр скверны · ข้อมูลมิติสูง: Miasmic Elytron · Dữ Liệu Đa Chiều: Cánh Cứng Ô Uế
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110511
@@ -1487,7 +1487,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 기이한 독검 · 고차원데이터:기이한독검 · Higher Dimensional Data: Toxic Edge · 高次元データ：奇怪なる毒刃 · 高维数据：诡运毒锋 · 高維資料：詭運毒鋒 · Hochdimensionale Daten: Giftige Kante · Données dimensionnelles supérieures : Lame toxique · Datos de alta dimensionalidad: púa deletérea · Dados de Dimensões Superiores: Lâmina Tóxica · Высокоразмерные данные: Токсичное жало · ข้อมูลมิติสูง: Toxic Edge · Dữ Liệu Đa Chiều: Mũi Độc Xui Rủi
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 ### item:110512
@@ -1517,7 +1517,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 고차원 데이터: 꿈을 좀먹는 고철 · 고차원데이터:꿈을좀먹는고철 · Higher Dimensional Data: Corrupted Dreamsteel · 高次元データ：夢蝕む残鉄 · 高维数据：蚀梦残铁 · 高維資料：蝕夢殘鐵 · Hochdimensionale Daten: Korrodierter Traumstahl · Données dimensionnelles supérieures : Acier des rêves corrompus · Datos de alta dimensionalidad: hierro onírico corrompido · Dados de Dimensões Superiores: Açonírico Corrompido · Высокоразмерные данные: Заражённая сомносталь · ข้อมูลมิติสูง: Corrupted Dreamsteel · Dữ Liệu Đa Chiều: Sắt Gỉ Thực Mộng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 material 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.2/en/item.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/item.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/item.json) · [2](https://static.nanoka.cc/zzz/3.3/en/item.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/item.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/item.json)
 
 
 [←](./material-1.md) · [분류 / Categories / 分類 / 分类](../BROWSE.md) · [전체 / Index / 全件 / 全部](../INDEX.md) · [→](./material-3.md)

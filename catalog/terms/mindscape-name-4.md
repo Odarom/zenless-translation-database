@@ -47,7 +47,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 영웅주의 · Heroism · ヒロイズム · 英雄主义 · 英雄主義 · Heldentum · Héroïsme · Heroísmo · Героизм · Chủ Nghĩa Anh Hùng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1271.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1271.json)
 
 
 ### talent:1271:2
@@ -77,7 +77,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 무모한 젊음 · 무모한젊음 · Recklessness of Youth · 若気の至り · 年少轻狂 · 年少輕狂 · Tollkühnheit der Jugend · Insouciance de la jeunesse · Imprudencia juvenil · Imprudência Juvenil · Молодой и горячий · Tuổi Trẻ Xốc Nổi
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1271.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1271.json)
 
 
 ### talent:1271:3
@@ -107,7 +107,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 둔감력 · Slow Reflexes · 鈍感力 · 钝感力 · Langsame Reflexe · Réaction à retardement · Lento de reflejos · Resistente · Непрошибаемость · Phản Xạ Chậm
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1271.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1271.json)
 
 
 ### talent:1271:4
@@ -137,7 +137,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 초심 · Core Aspiration · 初心 · Unverändertes Bestreben · Aspiration profonde · Aspiración intrínseca · Ambição Primordial · Исходная цель · Tấm Lòng Son Sắt
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1271.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1271.json)
 
 
 ### talent:1271:5
@@ -167,7 +167,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 동경의 거리 · 동경의거리 · Distant Admiration · 憧れの遠さ · 憧憬的距离 · 憧憬的距離 · Distanzierte Bewunderung · Admiration passée · Admiración distante · Admiração Distante · Восхищение издалека · Khoảng Cách Của Kỳ Vọng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1271.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1271.json)
 
 
 ### talent:1271:6
@@ -197,7 +197,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이상주의 · Idealist · 理想主義 · 理想主义 · Idealismus · Idéaliste · Idealismo · Идеалист · Chủ Nghĩa Lý Tưởng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1271.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1271.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1271.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1271.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1271.json)
 
 
 ### talent:1281:1
@@ -227,7 +227,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 여유 시간 · 여유시간 · Leisure Moment · のんびりとしたひと時 · 悠闲一刻 · 悠閒一刻 · Moment der Muße · Moment de détente · Momento de relajación · Momento de Descanso · Мгновение покоя · Khoảnh Khắc Nhàn Hạ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1281.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1281.json)
 
 
 ### talent:1281:2
@@ -257,7 +257,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 향상심 · Motivation · 向上心 · 上进心 · 上進心 · Ehrgeiz · Ambición · Ambição · Воодушевление · Tinh Thần Cầu Tiến
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1281.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1281.json)
 
 
 ### talent:1281:3
@@ -287,7 +287,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 트럭 전문가 · 트럭전문가 · Truck Expert · トラックのプロ · 卡车专家 · 卡車專家 · LKW-Spezialistin · Fana de camions · Camionera con experiencia · Siga Bem Caminhoneira · Эксперт по грузовикам · Chuyên Gia Xe Tải
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1281.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1281.json)
 
 
 ### talent:1281:4
@@ -317,7 +317,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 숙련된 기교 · 숙련된기교 · Refined Techniques · 熟練のドラテク · 技巧娴熟 · 技巧嫻熟 · Vertrauenswürdige Fahrtechniken · Techniques raffinées · Chófer hábil · Piloto de Fuga · Мастер своего дела · Tay Lái Điêu Luyện
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1281.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1281.json)
 
 
 ### talent:1281:5
@@ -347,7 +347,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 개인적인 취미 · 개인적인취미 · Personal Hobbies · 個人的な趣味 · 私人爱好 · 私人愛好 · Privates Hobby · Loisirs personnels · Afición personal · Hobbies Pessoais · Личное хобби · Sở Thích Cá Nhân
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1281.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1281.json)
 
 
 ### talent:1281:6
@@ -377,7 +377,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 가벼운 설렘 · 가벼운설렘 · Mild Excitement · 軽い興奮 · 轻度兴奋 · 輕度興奮 · Ein bisschen Spannung · Enthousiasme modéré · Momentos emocionantes · Levemente Empolgada · Лёгкое воодушевление · Hưng Phấn Độ Nhẹ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1281.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1281.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1281.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1281.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1281.json)
 
 
 ### talent:1291:1
@@ -407,7 +407,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 증오의 아이 · 증오의아이 · Child of Hatred · 憎しみの子 · 仇恨之子 · Kind des Hasses · Enfant de la haine · Vástago del odio · Filho do Ódio · Дитя ненависти · Đứa Con Của Hận Thù
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1291.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1291.json)
 
 
 ### talent:1291:2
@@ -437,7 +437,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 내면의 소년 · 내면의소년 · The Child Within · 内なる子ども · 内在小孩 · 內在小孩 · Inneres Kind · L'enfant à l'intérieur · Niño interior · Criança Interior · Внутренний ребёнок · Đứa Trẻ Bên Trong
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1291.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1291.json)
 
 
 ### talent:1291:3
@@ -467,7 +467,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 독수독과 · Fruit of the Poisonous Tree · 毒樹の果実 · 毒树之果 · 毒樹之果 · Frucht des Giftbaums · Fruit d'un arbre empoisonné · Fruto del árbol venenoso · Fruto Proibido · Плод ядовитого древа · Quả Của Cây Độc
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1291.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1291.json)
 
 
 ### talent:1291:4
@@ -497,7 +497,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 극작법 · Dramatic Theory · 作劇法 · 拟剧论 · 擬劇論 · Dramaturgie · Théorie dramatique · Dramaturgia · Teoria Dramática · Теория драмы · Lý Thuyết Kịch
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1291.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1291.json)
 
 
 ### talent:1291:5
@@ -527,7 +527,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 열반 · Nirvana · ネハン · 涅槃 · Nirwana · Нирвана · Niết Bàn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1291.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1291.json)
 
 
 ### talent:1291:6
@@ -557,7 +557,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 가시 왕관 · 가시왕관 · Crown of Thorns · 茨のかんむり · 荆棘王冠 · 荊棘王冠 · Dornenkrone · Couronne d'épines · Corona de espinas · Coroa de Espinhos · Терновый венец · Vương Miện Gai Góc
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1291.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1291.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1291.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1291.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1291.json)
 
 
 ### talent:1301:1
@@ -587,7 +587,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 호화로운 고양이집 · 호화로운고양이집 · Luxurious Cat House · 豪奢猫屋敷 · 豪华猫屋
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1301.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1301.json)
 
 
 ### talent:1301:2
@@ -617,7 +617,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 괴식 리스트 · 괴식리스트 · Weird Food List · 変な食品リスト · 怪味食品清单 · 怪味食品清單 · Seltsame Snackliste · Drôle de palais · Lista de comidas extrañas · Lista de Alimentos Estranhos · Список странных продуктов · Danh Sách Thực Phẩm Kỳ Lạ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1301.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1301.json)
 
 
 ### talent:1301:3
@@ -647,7 +647,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 〈전술 매뉴얼〉 · 〈전술매뉴얼〉 · "Tactics Manual" · 『戦術マニュアル』 · 戦術マニュアル · 《战术手册》 · 《戰術手冊》 · Taktisches Handbuch · « Manuel tactique » · Manual táctico · "Manual Tático" · «Боевой устав» · Sổ Tay Chiến Thuật
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1301.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1301.json)
 
 
 ### talent:1301:4
@@ -677,7 +677,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 핑크색 홀스터 · 핑크색홀스터 · Pink Holster · ピンクのホルスター · 粉红色枪套 · 粉紅色槍套 · Rosaroter Halfter · Étui rose · Cartuchera fucsia · Coldre Rosa · Розовая кобура · Bao Súng Màu Hồng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1301.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1301.json)
 
 
 ### talent:1301:5
@@ -707,7 +707,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 명계의 동전 · 명계의동전 · Ferry Toll · 冥府の記念コイン · 渡河的钱币 · 渡河的錢幣 · Fährgebühr · Le paiement du nocher · Pago para cruzar el río · Moeda da Travessia · Монета для переправы · Đồng Xu Qua Sông
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1301.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1301.json)
 
 
 ### talent:1301:6
@@ -737,7 +737,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 마법의 씨앗 · 마법의씨앗 · Magic Seed · 魔法の種 · 魔法种子 · 魔法種子 · Magisches Saatgut · Graine magique · Semillas mágicas · Sementes Mágicas · Магическое семечко · Hạt Giống Phép Thuật
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1301.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1301.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1301.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1301.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1301.json)
 
 
 ### talent:1311:1
@@ -767,7 +767,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 12평균율 · 12-Tone Equal Temperament · 十二平均律 · Gleichtemperierte Zwölfton-Stimmung · Gamme tempérée · Escala temperada · Escala Temperada · Равномерно темперированный строй · Mười Hai Bán Cung Bình Quân Luật
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1311.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1311.json)
 
 
 ### talent:1311:2
@@ -797,7 +797,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 탐욕의 예술 · 탐욕의예술 · Art of Greed · 欲張りの芸術 · 贪心艺术 · 貪心藝術 · Kunst der Gier · L'art de l'avarice · El arte de la codicia · Arte da Ganância · Алчность артиста · Nghệ Thuật Tham Lam
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1311.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1311.json)
 
 
 ### talent:1311:3
@@ -827,7 +827,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 엇갈리는 오선지 · 엇갈리는오선지 · Interwoven Staff Notation · 交錯する五線譜 · 交错五线谱 · 交錯五線譜 · Verflochtene Liniennotation · Portée entrelacée · Pentagrama entrelazado · Partitura Entrelaçada · Исчерканный нотный стан · Khuông Nhạc Giao Thoa
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1311.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1311.json)
 
 
 ### talent:1311:4
@@ -857,7 +857,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 〈목덜미의 잔머리〉 · 〈목덜미의잔머리〉 · "Hair Upon Your Nape" · 『貴方の首筋』 · 貴方の首筋 · 《后颈的碎发》 · 《後頸的碎髮》 · „Haar, das deinen Nacken kitzelt“ · « Les cheveux qui te caressent les épaules » · Cabello tras el cuello · Cabelos Por Trás da Nuca · «Смотрю тебе в затылок» · "Đuôi Tóc Sau Gáy"
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1311.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1311.json)
 
 
 ### talent:1311:5
@@ -887,7 +887,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 로프꾼과 현 · 로프꾼과현 · Proxy and Silk String · プロキシとワイヤー · 绳匠与丝弦 · 繩匠與絲弦 · Proxy und Seidensaite · Proxy et corde de soie · Proxy y cuerda de seda · Proxy e Fios de Seda · Прокси и струна · Người Kết Nối Và Dây Đàn
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1311.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1311.json)
 
 
 ### talent:1311:6
@@ -917,7 +917,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 우리가 곧 세계 · 우리가곧세계 · We Are the World · 私たちが世界 · 我们即是世界 · 我們即是世界 · Wir sind die Welt · Nous sommes le monde · Somos el mundo · Somos o Mundo · Весь мир — это мы · Chúng Ta Là Thế Giới
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1311.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1311.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1311.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1311.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1311.json)
 
 
 ### talent:1321:1
@@ -947,7 +947,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 엮어가는 꿈 · 엮어가는꿈 · Dreamweave · 織りなす夢 · 织梦 · 織夢 · Traumweberin · Tisse-rêve · Tejido onírico · Trama de Sonhos · Паутина сна · Dệt Mộng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1321.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1321.json)
 
 
 ### talent:1321:2
@@ -977,7 +977,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 불 속에서 춤을 · 불속에서춤을 · Dance of Fire · 飛んで火に舞う · 赴火之舞 · Feuertänzerin · Danse de feu · Danza de fuego · Dança do Fogo · Танец пламени · Vũ Điệu Lửa Thiêu
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1321.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1321.json)
 
 
 ### talent:1321:3
@@ -1007,7 +1007,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 허물벗기 · Metamorphosis · 繭を破る · 破茧 · 破繭 · Metamorphose · Hors du cocon · Eclosión de crisálida · Metamorfose · Выход из кокона · Phá Kén
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1321.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1321.json)
 
 
 ### talent:1321:4
@@ -1037,7 +1037,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 운명의 울림 · 운명의울림 · Fate's Melody · 運命の音 · 命运的弦音 · 命運的弦音 · Melodie des Schicksals · Mélodie du destin · Composición del destino · Melodia do Destino · Мелодия судьбы · Giai Điệu Của Vận Mệnh
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1321.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1321.json)
 
 
 ### talent:1321:5
@@ -1067,7 +1067,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 노을처럼 붉은 실 · 노을처럼붉은실 · Crimson Threads Like the Dawn · 朝焼け色の糸 · 丹缕如霞 · 丹縷如霞 · Fäden so rot wie die Dämmerung · Des cordes rouges comme l'aube · Hebras carmesí como el crepúsculo · Fios Vermelhos como o Amanhecer · Нить, красная как заря · Tơ Đỏ Tựa Ráng Chiều
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1321.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1321.json)
 
 
 ### talent:1321:6
@@ -1097,7 +1097,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빛과 그림자의 유대 · 빛과그림자의유대 · Bond of Light and Shadow · 光と影の繋がり · 光与影的牵绊 · 光與影的牽絆 · Bindung von Licht und Schatten · Ombre et lumière entremêlées · Vínculo de luces y sombras · União de Luz e Sombra · Связь света и тьмы · Ánh Sáng Và Chiếc Bóng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1321.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1321.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1321.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1321.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1321.json)
 
 
 ### talent:1331:1
@@ -1127,7 +1127,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 〈봄의 정원으로 오라〉 · 〈봄의정원으로오라〉 · "Walking Into the Orchard in Spring" · 『春の果樹園へおいでよ！』 · 春の果樹園へおいでよ！ · 《在春天走进果园》 · 《在春天走進果園》 · „Frühlingsspaziergang im Obstgarten“ · « Balade printanière dans le verger » · Entrando en el vergel en primavera · Passeio Primaveril no Pomar · «Прогулка по весеннему саду» · "Vào Vườn Cây Trái Mùa Xuân"
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1331.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1331.json)
 
 
 ### talent:1331:2
@@ -1157,7 +1157,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 〈폭풍우의 밤, 폭풍우의 밤〉 · 〈폭풍우의밤,폭풍우의밤〉 · "Stormy Night, Stormy Night" · 『あらしの夜よ、あらしの夜よ』 · あらしの夜よ、あらしの夜よ · 《暴风雨夜，暴风雨夜》 · 《暴風雨夜，暴風雨夜》 · „Stürmische Nacht, stürmische Nacht“ · « Nuit d'orage » · ¡Noches salvajes, noches salvajes! · Uma Noite Tempestuosa · «Грозовые ночи» · "Đêm Mưa Bão, Đêm Mưa Bão"
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1331.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1331.json)
 
 
 ### talent:1331:3
@@ -1187,7 +1187,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 〈타자, 그 자신〉 · 〈타자,그자신〉 · "Another and the Same" · 『違うもの、同じもの』 · 違うもの、同じもの · 《另一个，同一个》 · 《另一個，同一個》 · „Anders und doch gleich“ · « Autre et semblable » · El otro, el mismo · Outra Versão · Другая, но всё та же · "Một Người Khác, Cùng Một Người"
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1331.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1331.json)
 
 
 ### talent:1331:4
@@ -1217,7 +1217,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 〈갈대숲의 바람〉 · 〈갈대숲의바람〉 · "The Wind Between the Reeds" · 『葦間の風』 · 葦間の風 · 《苇间风》
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1331.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1331.json)
 
 
 ### talent:1331:5
@@ -1247,7 +1247,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 〈소네트〉 · "Sonnet" · 『ソネット』 · ソネット · 《十四行诗》 · 《十四行詩》 · „Sonett“ · « Sonnet » · Soneto · «Сонет» · "Bài Thơ Sonnet"
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1331.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1331.json)
 
 
 ### talent:1331:6
@@ -1277,7 +1277,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 〈비비안〉 · "Vivian" · 『ビビアン』 · ビビアン · 《薇薇安》 · „Vivian“ · « Viviane » · Vivian · «Вивиан»
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1331.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1331.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1331.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1331.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1331.json)
 
 
 ### talent:1341:1
@@ -1307,7 +1307,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 냉혹한 심판 · 냉혹한심판 · Righteous Verdict · 凛然たる裁決 · 凛然裁决 · 凜然裁決 · Eiskaltes Urteil · Jugement impitoyable · Juicio solemne · Julgamento Solene · Суровый приговор · Phán Quyết Lạnh Lùng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1341.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1341.json)
 
 
 ### talent:1341:2
@@ -1337,7 +1337,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 검은 가지 선배 · 검은가지선배 · Krampus Senior · 黒枝の大先輩 · 黑枝前辈 · 黑枝前輩 · Seniorkollegin bei Krampus · L'aînée de Krampus · Veterana de Krampus · Mentora da Krampus · Начальница из «Крампуса» · Tiền Bối Krampus
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1341.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1341.json)
 
 
 ### talent:1341:3
@@ -1367,7 +1367,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 서리달의 얼음날 · 서리달의얼음날 · Frostveil Edge · 霜嬋の氷刃 · 霜婵冰刃 · 霜嬋冰刃 · Frostschleier-Klinge · Lame de Voile de givre · Hoja de velo gélido · Véu Gelado · Обындевелый клинок · Lưỡi Băng Sương Thiền
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1341.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1341.json)
 
 
 ### talent:1341:4
@@ -1397,7 +1397,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 가벼운 발자국 · 가벼운발자국 · Featherlight Footsteps · トコトコ · 轻盈踏痕 · 輕盈踏痕 · Federleichte Schritte · Pas de plume · Andares ligeros · Passos Leves · Вприпрыжку · Dấu Chân Nhẹ Nhàng
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1341.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1341.json)
 
 
 ### talent:1341:5
@@ -1427,7 +1427,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 털북숭이 청취자 · 털북숭이청취자 · Fuzzy Listener · モフモフは聞いている · 毛茸茸聆听者 · 毛茸茸聆聽者 · Flauschige Lauscherin · Oreilles toutes douces · Oyente peluda · Ouvinte Felpuda · Пушистый наблюдатель · Thính Giả Lông Xù
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1341.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1341.json)
 
 
 ### talent:1341:6
@@ -1457,7 +1457,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 무가치도 가치다 · 무가치도가치다 · No Value Has Its Own Value · 値札のないもの · 无价亦是价值 · 無價亦是價值 · Unbezahlbar ist auch ein Preis · La valeur du sans valeur · Lo invaluable también tiene valor · Valor Inestimável · Бесценное имеет цену · Vô Giá Cũng Là Giá Trị
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1341.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1341.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1341.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1341.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1341.json)
 
 
 ### talent:1351:1
@@ -1487,7 +1487,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이기주의 · Self-Interest · エゴイスト · 利己主义 · 利己主義 · Eigeninteresse · Intérêts personnels · Egoísmo · Эгоизм · Chủ Nghĩa Vị Kỷ
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1351.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1351.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1351.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1351.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1351.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1351.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1351.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1351.json)
 
 
 ### talent:1351:2
@@ -1517,7 +1517,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 세력 활용력 · 세력활용력 · Opportunistic · 機を見るに敏 · 借势而为 · 借勢而為 · Opportunistin · Opportuniste · Oportunismo · Оппортунизм · Tùy Theo Thời Thế
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/character/1351.json) · [2](https://static.nanoka.cc/zzz/3.2/en/character/1351.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/character/1351.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/character/1351.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1351.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1351.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1351.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1351.json)
 
 
 [←](./mindscape-name-3.md) · [분류 / Categories / 分類 / 分类](../BROWSE.md) · [전체 / Index / 全件 / 全部](../INDEX.md) · [→](./mindscape-name-5.md)

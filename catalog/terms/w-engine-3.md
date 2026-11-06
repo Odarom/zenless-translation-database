@@ -20,11 +20,11 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 同一ID代表同一概念。请区分语言名称、输入匹配别名与社区风格输出。含义及规则保留DB原文，目前主要为韩语；不编造缺失名称。prerelease表示既有未发布资料，autoUse:false表示不自动引用。live不等于制作方直接审核。
 
-### weapon:13022
+### weapon:14162
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 촛불 트릭 [공식 / Official / 正式 / 官方] | Candlelit Scheme [공식 / Official / 正式 / 官方] | キャンドル・トリック [공식 / Official / 正式 / 官方] | 烛光诡计 [공식 / Official / 正式 / 官方] |
+| 진홍달의 은관 [공식 / Official / 正式 / 官方] | Crimson Moon Casket [공식 / Official / 正式 / 官方] | 緋月の銀棺 [공식 / Official / 正式 / 官方] | 绯月银棺 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -42,12 +42,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: weapon:13022 · Status: prerelease · autoUse: true
+- ID: weapon:14162 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 촛불 트릭 · 촛불트릭 · Candlelit Scheme · キャンドル・トリック · 烛光诡计 · Candlelight Conspiracy · 燭光の詭計
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 진홍달의 은관 · 진홍달의은관 · Crimson Moon Casket · 緋月の銀棺 · 绯月银棺
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:14163
@@ -102,12 +102,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: weapon:14164 · Status: prerelease · autoUse: true
+- ID: weapon:14164 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 열반의 첫 깃 · 열반의첫깃 · Plume of Rebirth · 転生の炎翼 · 涅槃初翎 · Nirvana's First Plume · ネハン初翎
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 [←](./w-engine-2.md) · [분류 / Categories / 分類 / 分类](../BROWSE.md) · [전체 / Index / 全件 / 全部](../INDEX.md)

@@ -47,7 +47,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[이상 효과 강도\] · 이상 효과 강도 · 이상효과강도 · Anomaly Effect Strength · 「状態異常レベル」 · 状態異常レベル · \[异常效果强度\] · 异常效果强度
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-mechanic 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 기믹 문맥에서만 적용. relatedSkills가 있으면 해당 스킬·캐릭터를 참고하며 다른 캐릭터의 효과와 동일시하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.2/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/noun.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/noun.json)
 
 
 ### noun:1000031
@@ -77,7 +77,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[변이\] · 변이 · Refringe · 「昇華」 · 昇華 · \[异化\] · 异化
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-mechanic 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 기믹 문맥에서만 적용. relatedSkills가 있으면 해당 스킬·캐릭터를 참고하며 다른 캐릭터의 효과와 동일시하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.2/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/noun.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/noun.json)
 
 
 ### noun:1000038
@@ -107,7 +107,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[속성 정화\] · 속성 정화 · 속성정화 · Cleanse · 「清浄」 · 清浄 · \[净化\] · 净化
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-mechanic 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 기믹 문맥에서만 적용. relatedSkills가 있으면 해당 스킬·캐릭터를 참고하며 다른 캐릭터의 효과와 동일시하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.2/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.2/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.2/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.2/zh/noun.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/noun.json)
 
 
 ### combat:shutdown

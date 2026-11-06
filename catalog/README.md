@@ -15,6 +15,8 @@
 
 ## 한국어
 
+2026-11-07 갱신: 정식 **3.3** 자료를 재대조해 **2,320개 항목**을 제공합니다. 참월자/Blasphemer, 짧은 인명 트루비아/Truvia, 라이브 도감 표제를 구분합니다. 기존 추가 언어와 사용자가 정한 커뮤니티 대표 출력을 보존했습니다. 아래 2026-10-19 수치는 당시의 이력이며 현재 수량은 카탈로그 색인과 latest.json을 참고하세요.
+
 공식 명칭·비공식 표현·확인 필요 태그는 [TAGS.md](TAGS.md)에 설명합니다. 분류만 갱신하려면 `node scripts/sync-glossary.mjs sync --classifications-only`로 후보를 생성하고 차이를 검토한 뒤 기존 백업·적용 절차를 따릅니다. 새 용어·자료를 가져오지 않으며 대표 번역과 여러 별칭을 유지합니다.
 
 2026-10-19 기준 **2,314개 개념 항목**을 저장했습니다. 정식 자료와 보완 항목 2,187개, 미출시 자료에만 있는 항목 127개입니다. 같은 표기가 여러 개념에 쓰이면 ID를 분리하므로 서로 다른 단어 2,314개라는 뜻은 아닙니다.
@@ -109,6 +111,8 @@ npm run glossary:apply
 
 ## English
 
+Updated 2026-11-07: **2,320 entries**, checked against live **3.3** data. Blasphemer, the short name Truvia and the full live dossier title remain distinct. Existing additional languages and user-selected community outputs are preserved. Figures dated 2026-10-19 below describe that earlier snapshot; use the catalog index and latest.json for current totals.
+
 Official, unofficial and needs-review tags are documented in [TAGS.md](TAGS.md). For classification only, run `node scripts/sync-glossary.mjs sync --classifications-only`, review the candidate, then use the usual backup/apply workflow. It imports no new terms or sources and preserves selected translations and aliases.
 
 As of 2026-10-19, the catalog contains 2,314 concepts: 2,187 released/supplemental and 127 prerelease-only entries. IDs distinguish concepts sharing a spelling, so this is not 2,314 unique strings. Names align Korean, English, Japanese and Simplified Chinese by source ID/location. Includes all 62 listed characters (60 source-marked released, 2 prerelease), 1,047 skill/passive names and 372 Mindscape names. Complete skill prose/stat tables are excluded. See the multilingual count/field tables below.
@@ -133,6 +137,8 @@ Prerelease names may change. Exclude placeholder languages; preserve the source 
 
 ## 日本語
 
+2026-11-07更新：正式版**3.3**と照合した**2,320項目**です。不遜なる者、短い人名トリヴィア、正式版の敵図鑑名を区別します。既存の追加言語と利用者が選んだコミュニティ表現を維持しています。以下の2026-10-19時点の数値は履歴です。現在の件数は用語一覧とlatest.jsonをご確認ください。
+
 正式・非公式・要確認タグは[TAGS.md](TAGS.md)で説明します。分類だけを更新するには`node scripts/sync-glossary.mjs sync --classifications-only`で候補を作り、差分確認後に通常のバックアップ・適用を行います。新規用語・資料を取り込まず、代表訳と複数の別名を保持します。
 
 2026-10-19時点で2,314概念を収録し、正式・補完2,187件と未公開のみ127件に分かれます。同じ表記の別概念はIDを分けるため、単語数とは異なります。韓国語・英語・日本語・簡体字中国語を原IDと位置で対応付けます。掲載全62キャラ（資料上正式60・未公開2）、スキル/パッシブ名1,047件、心象映画名372件を含み、説明全文と数値表は含めません。下の共通表で件数とフィールドを確認できます。
@@ -156,6 +162,8 @@ Prerelease names may change. Exclude placeholder languages; preserve the source 
 ---
 
 ## 简体中文
+
+2026-11-07更新：与正式版**3.3**资料核对后，共**2,320条**。分别保留僭越者、简短人名特里薇亚及正式敌人图鉴名称。保留既有追加语言和用户选定的社区译法。下文标注2026-10-19的数字属于历史快照，当前数量请查看目录索引和latest.json。
 
 官方、非官方及待确认标签见[TAGS.md](TAGS.md)。仅更新分类时运行`node scripts/sync-glossary.mjs sync --classifications-only`生成候选，核对差异后按现有流程备份并应用。不导入新词或新资料，保留代表译法及多个别名。
 
