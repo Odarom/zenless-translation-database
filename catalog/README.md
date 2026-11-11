@@ -15,6 +15,8 @@
 
 ## 한국어
 
+2026-11-11 보완: 세베리안 하반기 개방 후 보류 27개 항목을 라이브 자료로 재대조했습니다. 일본어 凪·颶風과 전투 생략형 強化通常·強化特殊를 인식합니다. 凪는 게임 문맥에서 숨결/Flow로 해석하며 일반적인 잔잔함과 구별합니다. 颶風은 세베리안의 맹렬한 선풍/Raging Whirlwind이며 일반 바람 속성과 구별합니다. 번역용 출력에서는 이름을 둘러싼 장식용 대괄호를 제거하고 등록된 커뮤니티 출력을 우선합니다. 기존 프로그램의 표시 방식 변경에는 프로그램 업데이트가 필요할 수 있습니다.
+
 2026-11-07 갱신: 정식 **3.3** 자료를 재대조해 **2,320개 항목**을 제공합니다. 참월자/Blasphemer, 짧은 인명 트루비아/Truvia, 라이브 도감 표제를 구분합니다. 기존 추가 언어와 사용자가 정한 커뮤니티 대표 출력을 보존했습니다. 아래 2026-10-19 수치는 당시의 이력이며 현재 수량은 카탈로그 색인과 latest.json을 참고하세요.
 
 공식 명칭·비공식 표현·확인 필요 태그는 [TAGS.md](TAGS.md)에 설명합니다. 분류만 갱신하려면 `node scripts/sync-glossary.mjs sync --classifications-only`로 후보를 생성하고 차이를 검토한 뒤 기존 백업·적용 절차를 따릅니다. 새 용어·자료를 가져오지 않으며 대표 번역과 여러 별칭을 유지합니다.
@@ -111,6 +113,8 @@ npm run glossary:apply
 
 ## English
 
+2026-11-11: Rechecked the 27 deferred entries after Severian’s second-half launch. Recognizes Japanese 凪, 颶風 and clipped combat terms 強化通常/強化特殊. In the relevant combat context, 凪 is Flow and 颶風 is Severian’s Raging Whirlwind, not generic calm or the Wind attribute. Translation prompt output omits decorative square brackets around names and retains the registered community rendering. Existing program builds may need a program update for the presentation change.
+
 Updated 2026-11-07: **2,320 entries**, checked against live **3.3** data. Blasphemer, the short name Truvia and the full live dossier title remain distinct. Existing additional languages and user-selected community outputs are preserved. Figures dated 2026-10-19 below describe that earlier snapshot; use the catalog index and latest.json for current totals.
 
 Official, unofficial and needs-review tags are documented in [TAGS.md](TAGS.md). For classification only, run `node scripts/sync-glossary.mjs sync --classifications-only`, review the candidate, then use the usual backup/apply workflow. It imports no new terms or sources and preserves selected translations and aliases.
@@ -137,6 +141,8 @@ Prerelease names may change. Exclude placeholder languages; preserve the source 
 
 ## 日本語
 
+2026-11-11：セヴェリアン実装後、保留していた27項目を正式資料と再照合しました。凪・颶風および省略表現の強化通常・強化特殊を認識します。戦闘文脈の凪は専用リソース、颶風はセヴェリアンの技名として扱い、一般語と区別します。翻訳用出力では名前の装飾用角括弧を外し、登録済みコミュニティ表現を優先します。既存アプリの表示変更にはアプリ更新が必要な場合があります。
+
 2026-11-07更新：正式版**3.3**と照合した**2,320項目**です。不遜なる者、短い人名トリヴィア、正式版の敵図鑑名を区別します。既存の追加言語と利用者が選んだコミュニティ表現を維持しています。以下の2026-10-19時点の数値は履歴です。現在の件数は用語一覧とlatest.jsonをご確認ください。
 
 正式・非公式・要確認タグは[TAGS.md](TAGS.md)で説明します。分類だけを更新するには`node scripts/sync-glossary.mjs sync --classifications-only`で候補を作り、差分確認後に通常のバックアップ・適用を行います。新規用語・資料を取り込まず、代表訳と複数の別名を保持します。
@@ -162,6 +168,8 @@ Prerelease names may change. Exclude placeholder languages; preserve the source 
 ---
 
 ## 简体中文
+
+2026-11-11：赛维里安下半版本开放后，重新核对了此前保留的27条。支持日语凪、颶風及简称強化通常/強化特殊。在相关战斗语境下，凪对应流息/Flow，颶風对应赛维里安的烈旋/Raging Whirlwind，而非普通的平静或风属性。翻译用输出移除名称外层的装饰方括号，优先使用已选定的社区表达。旧程序的显示变更可能需要更新程序。
 
 2026-11-07更新：与正式版**3.3**资料核对后，共**2,320条**。分别保留僭越者、简短人名特里薇亚及正式敌人图鉴名称。保留既有追加语言和用户选定的社区译法。下文标注2026-10-19的数字属于历史快照，当前数量请查看目录索引和latest.json。
 

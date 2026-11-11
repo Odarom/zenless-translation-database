@@ -944,9 +944,10 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 - ID: noun:1000041 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[숨결\] · 숨결 · Flow · 「凪」 · \[流息\] · 流息 · \[Flowing Breath\] · 「流息」
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: \[숨결\] · 숨결 · Flow · 「凪」 · \[流息\] · 流息 · 凪 · \[Flowing Breath\] · 「流息」
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 character-mechanic 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 전투 기믹 문맥에서만 적용. relatedSkills가 있으면 해당 스킬·캐릭터를 참고하며 다른 캐릭터의 효과와 동일시하지 않는다.
+- 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: In Severian combat, 凪 is the resource Flow/숨결, including 凪100pt, 凪80pt and recovery or consumption of 凪. Use the registered target-language name, never 잔잔함, 고요함 or a generic calm/breath paraphrase. Do not infer the resource from ordinary descriptions of calm seas, windless weather or an unrelated person named 凪. Preserve all amounts, recovery/consumption direction and action order. A bare resource name does not authorize adding a character or mechanic to an unrelated sentence.
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/noun.json)
 
 

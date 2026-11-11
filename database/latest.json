@@ -2,9 +2,9 @@
   "schema": 1,
   "format": "zzz-translation-concepts",
   "schemaVersion": 1,
-  "sha256": "8753d20fbe882ecd50f5431e31b4abe4d29cb89ecef6e7257903619ed5ce26bd",
-  "bytes": 5148090,
+  "sha256": "9100b009d3526a4a8e645bde7d5dae855acef88dd528e0a8f3b9d847ca2e6b53",
+  "bytes": 5150118,
   "count": 2320,
-  "file": "releases/concepts-v1-8753d20fbe882ecd50f5431e31b4abe4d29cb89ecef6e7257903619ed5ce26bd.json",
-  "sourceSha256": "43b6915a480f5d05bd250199eac4b751768f724c6055dd667f283e56a66783df"
+  "file": "releases/concepts-v1-9100b009d3526a4a8e645bde7d5dae855acef88dd528e0a8f3b9d847ca2e6b53.json",
+  "sourceSha256": "8c7f481a5f7bc5e2ef9fc6fef3ce2f70c0338c1015894d8d51e5d97543c180d9"
 }

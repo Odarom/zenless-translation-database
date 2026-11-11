@@ -1194,7 +1194,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 운동 에너지 축적 [공식 / Official / 正式 / 官方] | Kinetic Buildup [공식 / Official / 正式 / 官方] | エネルギー蓄積 [공식 / Official / 正式 / 官方] | 动能积蓄 [공식 / Official / 正式 / 官方] |
+| 에너지 축적 [공식 / Official / 正式 / 官方] | Kinetic Buildup [공식 / Official / 正式 / 官方] | エネルギー蓄積 [공식 / Official / 正式 / 官方] | 动能积蓄 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1212,19 +1212,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: noun:4000050 · Status: prerelease · autoUse: false
+- ID: noun:4000050 · Status: live · autoUse: false
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 운동 에너지 축적 · 운동에너지축적 · Kinetic Buildup · エネルギー蓄積 · 动能积蓄 · 運動エネルギー蓄積
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 에너지 축적 · 에너지축적 · Kinetic Buildup · エネルギー蓄積 · 动能积蓄 · 운동 에너지 축적 · 運動エネルギー蓄積
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 참고 용어·특정 효과·모드의 명칭. 일반 전투 동작과 동명이의어 및 사이트 표기와의 혼동이 있으므로 검수 전 자동 조회에서 제외한다. 예: 효과 이름 Chain Attack=콤보는 전투 동작 Chain Attack=콤보 스킬과 별개다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/noun.json)
 
 
 ### noun:4000051
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 정밀 축적 [공식 / Official / 正式 / 官方] | Precise Buildup [공식 / Official / 正式 / 官方] | 精密チャージ [공식 / Official / 正式 / 官方] | 精准积蓄 [공식 / Official / 正式 / 官方] |
+| 정밀 축적 [공식 / Official / 正式 / 官方] | Precise Buildup [공식 / Official / 正式 / 官方] | 高精度蓄積 [공식 / Official / 正式 / 官方] | 精准积蓄 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -1242,12 +1242,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: noun:4000051 · Status: prerelease · autoUse: false
+- ID: noun:4000051 · Status: live · autoUse: false
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 정밀 축적 · 정밀축적 · Precise Buildup · 精密チャージ · 精准积蓄 · Precision Charge · 精密蓄積
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 정밀 축적 · 정밀축적 · Precise Buildup · 高精度蓄積 · 精准积蓄 · 精密チャージ · Precision Charge · 精密蓄積
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 contextual-term 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 참고 용어·특정 효과·모드의 명칭. 일반 전투 동작과 동명이의어 및 사이트 표기와의 혼동이 있으므로 검수 전 자동 조회에서 제외한다. 예: 효과 이름 Chain Attack=콤보는 전투 동작 Chain Attack=콤보 스킬과 별개다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/noun.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/noun.json) · [2](https://static.nanoka.cc/zzz/3.3/en/noun.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/noun.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/noun.json)
 
 
 ### noun:4000052

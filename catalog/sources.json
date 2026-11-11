@@ -1,12 +1,12 @@
 {
   "version": "3.3",
   "betaVersion": "3.3.12+19629936",
-  "retrievedAt": "2026-11-07",
+  "retrievedAt": "2026-11-11",
   "manifest": {
     "url": "https://static.nanoka.cc/manifest.json",
     "observedLive": "3.3",
-    "observedLatest": "3.4.2+20052336",
-    "checkedAt": "2026-11-06T16:33:13.214Z",
+    "observedLatest": "3.4.3+20291004",
+    "checkedAt": "2026-11-11T10:04:01.383Z",
     "selection": "live-only",
     "selectedLive": "3.3",
     "selectedBeta": "3.3.12+19629936"

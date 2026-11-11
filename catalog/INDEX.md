@@ -294,7 +294,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1641:special:1](terms/skill-21.md#skill1641special1) | 강화 특수 스킬: 타오르는 참격 | EX Special Attack: Blazing Slash | 強化特殊スキル：りょうかいっせん燎火一閃 | 强化特殊技：燎斩 |  | live | official |
 | [skill:1491:special:2](terms/skill-16.md#skill1491special2) | 강화 특수 스킬: 특별한 촬영 기법 | EX Special Attack: Special Photography Technique | 強化特殊スキル：スペシャル・パシャリ | 强化特殊技：特别拍照技巧 |  | live | official |
 | [skill:1431:special:1](terms/skill-14.md#skill1431special1) | 강화 특수 스킬: 파란 평정 | EX Special Attack: Gale Suppression | 強化特殊スキル：薙ぎて凪ぐ | 强化特殊技：定风波 |  | live | official |
-| [skill:1631:special:1](terms/skill-21.md#skill1631special1) | 강화 특수 스킬: 파열의 돌풍 | EX Special Attack: Swiftwind Rupture | 強化特殊スキル：風瞬き、打ち毀す | 强化特殊技：瞬风裂毁 |  | prerelease | official |
+| [skill:1631:special:1](terms/skill-21.md#skill1631special1) | 강화 특수 스킬: 파열의 돌풍 | EX Special Attack: Swiftwind Rupture | 強化特殊スキル：風瞬き、打ち毀す | 强化特殊技：瞬风裂毁 |  | live | official |
 | [skill:1071:special:2](terms/skill-3.md#skill1071special2) | 강화 특수 스킬: 패링 반격 | EX Special Attack: Parry Counter | 強化特殊スキル：カウンターパリィ | 强化特殊技：招架反击 |  | live | official |
 | [skill:1621:special:3](terms/skill-21.md#skill1621special3) | 강화 특수 스킬: 편히 잠드시길 | EX Special Attack: Kindly Rest in Peace | 強化特殊スキル：安らかにお眠りを | 强化特殊技：敬请安息 |  | live | official |
 | [skill:1351:special:2](terms/skill-12.md#skill1351special2) | 강화 특수 스킬: 포식의 발톱·발놀림 | EX Special Attack: Rending Claw - Flashstep | 強化特殊スキル：バイトクロー・フラッシュ | 强化特殊技：噬爪·瞬步 |  | live | official |
@@ -424,7 +424,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1541:chain:1](terms/skill-18.md#skill1541chain1) | 궁극기: 사무치는 형벌 | Ultimate: Glaciating Impalement | 終結スキル：磔刑、罪凍つるまで | 终结技：彻骨磔罚 |  | live | official |
 | [skill:1591:chain:1](terms/skill-20.md#skill1591chain1) | 궁극기: 서리 어린 하늘 | Ultimate: Frozen Heavens | 終結スキル：氷天 | 终结技：霜天 |  | live | official |
 | [skill:1241:chain:1](terms/skill-8.md#skill1241chain1) | 궁극기: 섬멸 모드 MAX | Ultimate: Max Eradication Mode | 終結スキル：殲滅モードMAX | 终结技：歼灭模式MAX |  | live | official |
-| [skill:1631:chain:1](terms/skill-21.md#skill1631chain1) | 궁극기: 섬멸의 풍재 | Ultimate: Annihilating Windstorm | 終結スキル：かぜはしり風奔り、せんめつ殲滅する | 终结技：戮灭的风灾 |  | prerelease | official |
+| [skill:1631:chain:1](terms/skill-21.md#skill1631chain1) | 궁극기: 섬멸의 풍재 | Ultimate: Annihilating Windstorm | 終結スキル：風奔り、殲滅する | 终结技：戮灭的风灾 |  | live | official |
 | [skill:1641:chain:1](terms/skill-21.md#skill1641chain1) | 궁극기: 수만 번의 소생 | Ultimate: Perpetual Resurrection | 終結スキル：万死にこうせい甦生を | 终结技：万死重明 |  | live | official |
 | [skill:1081:chain:1](terms/skill-3.md#skill1081chain1) | 궁극기: 스타라이트, 여기서 반짝인다! | Ultimate: Starlight, Shine Bright | 終結スキル：スターライト、ここに輝く！ | 终结技：星徽在此闪耀 |  | live | official |
 | [skill:1551:chain:2](terms/skill-19.md#skill1551chain2) | 궁극기: 승리의 길 | Ultimate: Triumphant Return | 終結スキル：凱旋洋々 | 终结技：凯旋坦途 |  | live | official |
@@ -487,7 +487,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [talent:1261:2](terms/mindscape-name-3.md#talent12612) | 근주자적 | Adapt to the Environment | 朱に交われば赤くなる | 近朱者赤 |  | live | official |
 | [item:4300003](terms/material-3.md#item4300003) | 금고 확장 플러그인 | Safe Expansion Plug-In | 金庫拡張プラグイン | 安全箱扩容插件 |  | live | official |
 | [item:4300004](terms/material-3.md#item4300004) | 금고 확장 플러그인 | Safe Expansion Plug-In | 金庫拡張プラグイン | 安全箱扩容插件 |  | live | official |
-| [weapon:14163](terms/w-engine-3.md#weapon14163) | 금단의 감옥 | Incarcerating Grip | 罪捕らえる牢獄 | 禁罪囚笼 |  | prerelease | official |
+| [weapon:14163](terms/w-engine-3.md#weapon14163) | 금단의 감옥 | Incarcerating Grip | 罪捕らえる牢獄 | 禁罪囚笼 |  | live | official |
 | [talent:1041:1](terms/mindscape-name-1.md#talent10411) | 급격한 온도 상승 | Rapid Heat | 急速加熱 | 快速升温 |  | live | official |
 | [skill:1191:dodge:4](terms/skill-7.md#skill1191dodge4) | 급랭 | Flash Freeze | 急凍 | 急冻 |  | live | official |
 | [talent:1251:6](terms/mindscape-name-3.md#talent12516) | 기경팔맥 | Eight Meridians | 奇経八脈 | 奇经八脉 |  | live | official |
@@ -618,7 +618,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1451:dodge:1](terms/skill-15.md#skill1451dodge1) | 대시 공격: 빛의 굴절 | Dash Attack: Refraction | ダッシュ攻撃：ミラージュ | 冲刺攻击：折光 |  | live | official |
 | [skill:1191:dodge:2](terms/skill-6.md#skill1191dodge2) | 대시 공격: 살얼음 잠습 | Dash Attack: Arctic Ambush | ダッシュ攻撃：薄氷の急襲 | 冲刺攻击：冰渊潜袭 |  | live | official |
 | [skill:1191:dodge:3](terms/skill-7.md#skill1191dodge3) | 대시 공격: 살얼음 잠습 | Dash Attack: Arctic Ambush | ダッシュ攻撃：薄氷の急襲 | 冲刺攻击：冰渊潜袭 |  | live | official |
-| [skill:1631:dodge:1](terms/skill-21.md#skill1631dodge1) | 대시 공격: 서늘한 습격 | Dash Attack: Sheer Assault | ダッシュ攻撃：りんぷう凛風の如き強襲 | 冲刺攻击：凛袭 |  | prerelease | official |
+| [skill:1631:dodge:1](terms/skill-21.md#skill1631dodge1) | 대시 공격: 서늘한 습격 | Dash Attack: Sheer Assault | ダッシュ攻撃：りんぷう凛風の如き強襲 | 冲刺攻击：凛袭 |  | live | official |
 | [skill:1351:dodge:1](terms/skill-11.md#skill1351dodge1) | 대시 공격: 선제공격의 이점 | Dash Attack: First Strike Advantage | ダッシュ攻撃：早いもん勝ち | 冲刺攻击：先下手为强 |  | live | official |
 | [skill:1191:dodge:5](terms/skill-7.md#skill1191dodge5) | 대시 공격: 성난 파도 | Dash Attack: Monstrous Wave | ダッシュ攻撃：荒波 | 冲刺攻击：骇浪 |  | live | official |
 | [skill:1551:dodge:1](terms/skill-18.md#skill1551dodge1) | 대시 공격: 솟는 해 | Dash Attack: Sunrise | ダッシュ攻撃：暁光 | 冲刺攻击：旭日 |  | live | official |
@@ -655,7 +655,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1191:dodge:1](terms/skill-6.md#skill1191dodge1) | 대시: 사냥 순행 | Dash: Roaming Hunt | ダッシュ：狩り遊ぶ | 冲刺：狩猎巡游 |  | live | official |
 | [talent:1401:3](terms/mindscape-name-5.md#talent14013) | 대칭주의 | Symmetrism | シンメトリー | 对称主义 |  | live | official |
 | [talent:1151:1](terms/mindscape-name-2.md#talent11511) | 대형 연습 | Drill Formations | フォーメーション練習中 | 队形操练中 |  | live | official |
-| [talent:1631:1](terms/mindscape-name-8.md#talent16311) | 더블 에스프레소 | Double Espresso | ダブルエスプレッソ | 双份浓缩 |  | prerelease | official |
+| [talent:1631:1](terms/mindscape-name-8.md#talent16311) | 더블 에스프레소 | Double Espresso | エスプレッソ・ダブル | 双份浓缩 |  | live | official |
 | [monster:20017](terms/enemy-2.md#monster20017) | 덩치 행동대원 | Bulky Enforcer | 殴り屋 | 魁梧打手 |  | live | official |
 | [monster:20015](terms/enemy-2.md#monster20015) | 덩치 협박자 | Bulky Intimidator | 殴打暴虐者 | 魁梧施虐者 |  | live | official |
 | [item:10](terms/currency-1.md#item10) | 데니 | Denny | ディニー | 丁尼 |  | live | official |
@@ -696,7 +696,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [combat:entry-skill](terms/combat-action-1.md#combatentry-skill) | 등장 스킬 | Entry Skill | 入場スキル | 登场技 |  | live | official |
 | [skill:1431:assist:0](terms/skill-14.md#skill1431assist0) | 등장 스킬: 비춰진 그림자 | Entry Skill: Illuminating Darkness | 入場スキル：鏡影 | 登场技：照影 |  | live | official |
 | [skill:1341:assist:0](terms/skill-11.md#skill1341assist0) | 등장 스킬: 서리 폭발 | Entry Skill: Burst of Frost | 入場スキル：霜奔る | 登场技：霜迸 |  | live | official |
-| [skill:1631:assist:3](terms/skill-21.md#skill1631assist3) | 등장 스킬: 소탕의 시간 | Entry Skill: Clear Out | 入場スキル：制圧開始 | 登场技：清场时刻 |  | prerelease | official |
+| [skill:1631:assist:3](terms/skill-21.md#skill1631assist3) | 등장 스킬: 소탕의 시간 | Entry Skill: Clear Out | 入場スキル：制圧開始 | 登场技：清场时刻 |  | live | official |
 | [talent:1171:1](terms/mindscape-name-2.md#talent11711) | 따뜻한 공감 | Kindred Flames | 一心同火 | 热络同心 |  | live | official |
 | [talent:1251:3](terms/mindscape-name-3.md#talent12513) | 따뜻한 물 많이 마셔요 | Drink Hot Water | 白湯は万病に効く | 多喝热水 |  | live | official |
 | [equipment:31000](terms/drive-disc-1.md#equipment31000) | 딱따구리 일렉트로 | Woodpecker Electro | ウッドペッカー・エレクトロ | 啄木鸟电音 |  | live | official |
@@ -736,7 +736,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [talent:1351:6](terms/mindscape-name-5.md#talent13516) | 마스크 아래 | Behind the Mask | マスクの下には | 面具之下 |  | live | official |
 | [monster:930170](terms/enemy-6.md#monster930170) | 마신 황금 「Bangboo」 | Mecha Golden Bangboo | 黄金魔神ギアゴルド | 魔神黄金邦布 |  | live | official |
 | [talent:1401:6](terms/mindscape-name-5.md#talent14016) | 마음속 백리향 | A Heart of Thyme | 胸に抱くタイム | 心中的百里香 |  | live | official |
-| [talent:1631:3](terms/mindscape-name-8.md#talent16313) | 마지막 등불 | The Last Light | 最後の明かり | 最后一盏灯 |  | prerelease | official |
+| [talent:1631:3](terms/mindscape-name-8.md#talent16313) | 마지막 등불 | The Last Light | 最後の明かり | 最后一盏灯 |  | live | official |
 | [talent:1051:6](terms/mindscape-name-1.md#talent10516) | 마침내 평안을 만난 꿈 | At Last, a Peaceful Dream | ついには安らかな夢に | 终逢安宁之梦 |  | live | official |
 | [talent:1621:1](terms/mindscape-name-8.md#talent16211) | 만능 집사 | Versatile Attendant | 万能使用人 | 全能执事 |  | live | official |
 | [talent:1111:5](terms/mindscape-name-2.md#talent11115) | 만능형 전문가 | Jack of All Trades | フルスタック・エキスパート | 全栈专家 |  | live | official |
@@ -892,7 +892,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [character:1081](terms/agent-1.md#character1081) | 빌리 | Billy | ビリー | 比利 |  | live | official |
 | [talent:1501:5](terms/mindscape-name-6.md#talent15015) | 빗속의 눈물 | Tears in the Rain | 雨に消える涙 | 雨中之泪 |  | live | official |
 | [talent:1431:2](terms/mindscape-name-5.md#talent14312) | 빛과 그림자 | Light &amp; Shadow | 光と影 | 光与影 |  | live | official |
-| [talent:1631:4](terms/mindscape-name-8.md#talent16314) | 빛과 그림자의 경계 | Between Light and Shadow | 光と影の境界線 | 光与影的界限 |  | prerelease | official |
+| [talent:1631:4](terms/mindscape-name-8.md#talent16314) | 빛과 그림자의 경계 | Between Light and Shadow | 光と影のはざまに | 光与影的界限 |  | live | official |
 | [talent:1321:6](terms/mindscape-name-4.md#talent13216) | 빛과 그림자의 유대 | Bond of Light and Shadow | 光と影の繋がり | 光与影的牵绊 |  | live | official |
 | [monster:30047](terms/enemy-3.md#monster30047) | 빛나는 맹세·빌리 | Shining Promise - Billy | 輝ける誓い・ビリー | 闪耀之誓·比利 |  | live | official |
 | [talent:1531:5](terms/mindscape-name-7.md#talent15315) | 빛나는 무기 | Radiant Armaments | 輝かしきフォーム | 辉光武装 |  | live | official |
@@ -951,7 +951,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1641:assist:0](terms/skill-21.md#skill1641assist0) | 빠른 지원: 응급 처치 | Quick Assist: Emergency Aid | クイック支援：応急処置 | 快速支援：急救 |  | live | official |
 | [skill:1031:assist:0](terms/skill-1.md#skill1031assist0) | 빠른 지원: 응급 포격 | Quick Assist: Emergency Bombard | クイック支援：救急砲撃 | 快速支援：救急炮击 |  | live | official |
 | [skill:1291:assist:0](terms/skill-10.md#skill1291assist0) | 빠른 지원: 장송곡 | Quick Assist: Elegy | クイック支援：レクイエム | 快速支援：葬歌 |  | live | official |
-| [skill:1631:assist:0](terms/skill-21.md#skill1631assist0) | 빠른 지원: 전장 명령 | Quick Assist: Field Orders | クイック支援：前線指令 | 快速支援：火线调令 |  | prerelease | official |
+| [skill:1631:assist:0](terms/skill-21.md#skill1631assist0) | 빠른 지원: 전장 명령 | Quick Assist: Field Orders | クイック支援：前線指令 | 快速支援：火线调令 |  | live | official |
 | [skill:1501:assist:0](terms/skill-17.md#skill1501assist0) | 빠른 지원: 조각난 꿈 | Quick Assist: Shatter Fantasy | クイック支援：夢から夢へ | 快速支援：破碎幻梦 |  | live | official |
 | [skill:1111:assist:1](terms/skill-4.md#skill1111assist1) | 빠른 지원: 지원 드릴(폭발 상태) | Quick Assist: Protective Drill (Burst Mode) | クイック支援：サポート・ドリルブレイク（爆発状態） | 快速支援：援护钻击（爆发状态） |  | live | official |
 | [skill:1071:assist:0](terms/skill-3.md#skill1071assist0) | 빠른 지원: 차선 변경 | Quick Assist: Lane Change | クイック支援：車線変更 | 快速支援：变道支援 |  | live | official |
@@ -1001,7 +1001,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [monster:20019](terms/enemy-2.md#monster20019) | 성곽 수호부 | City Guardboo | シティー・ガーディアンナ | 城防戍卫布 |  | live | official |
 | [weapon:14147](terms/w-engine-2.md#weapon14147) | 성난 눈의 금강 | Wrathful Vajra | 金剛不壊怒髪衝冠 | 怒目金刚 |  | live | official |
 | [talent:1351:2](terms/mindscape-name-4.md#talent13512) | 세력 활용력 | Opportunistic | 機を見るに敏 | 借势而为 |  | live | official |
-| [character:1631](terms/agent-2.md#character1631) | 세베리안 | Severian | セヴェリアン | 赛维里安 |  | prerelease | official |
+| [character:1631](terms/agent-2.md#character1631) | 세베리안 | Severian | セヴェリアン | 赛维里安 |  | live | official |
 | [character:1271](terms/agent-1.md#character1271) | 세스 | Seth | セス | 赛斯 |  | live | official |
 | [bangboo:54002](terms/bangboo-1.md#bangboo54002) | 세이프티 | Safety | ゴアンゼン | 阿全 |  | live | official |
 | [talent:1441:4](terms/mindscape-name-6.md#talent14414) | 소년의 맹세 | Childhood Oath | 幼き日の誓い | 幼年的誓言 |  | live | official |
@@ -1124,11 +1124,13 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [item:150105](terms/material-3.md#item150105) | 얼룩덜룩한 에테르 입자 | Mottled Ether Particle | まばらなエーテル微粒子 | 斑驳以太微粒 |  | live | official |
 | [attribute:ice](terms/combat-attribute-1.md#attributeice) | 얼음 | Ice | 氷 | 冰 |  | live | official |
 | [stat:32500](terms/stat-1.md#stat32500) | 얼음 속성 피해 | Ice DMG | 氷属性ダメージ | 冰属性伤害 | ko: 얼피증 · zh-CN: 冰伤 | live | official · unofficial |
+| [talent:1631:5](terms/mindscape-name-8.md#talent16315) | 얼지 않은 마음 | A Heart Above 0°C | 心は零度になりきれない | 非零度的心 |  | live | official |
 | [talent:1031:5](terms/mindscape-name-1.md#talent10315) | 업계 유명 인사 | Industry Star | 業界の寵児 | 业界红人 |  | live | official |
 | [talent:1311:3](terms/mindscape-name-4.md#talent13113) | 엇갈리는 오선지 | Interwoven Staff Notation | 交錯する五線譜 | 交错五线谱 |  | live | official |
 | [item:102020](terms/material-2.md#item102020) | 에너지 유체액 | Energy Transfer Fluid | エネルギー循環液 | 能量循环液 |  | live | official |
 | [talent:1031:2](terms/mindscape-name-1.md#talent10312) | 에너지 응집 장치 | Charging Device | エネルギー収集装置 | 聚能装置 |  | live | official |
 | [stat:31600](terms/stat-1.md#stat31600) | 에너지 자동 회복 | Energy Regen | エネルギー自動回復 | 能量自动回复 | ko: 에회 · en: ER | live | official · unofficial |
+| [noun:4000050](terms/contextual-term-2.md#noun4000050) | 에너지 축적 | Kinetic Buildup | エネルギー蓄積 | 动能积蓄 |  | live | official |
 | [noun:4000038](terms/contextual-term-2.md#noun4000038) | 에너지 충전 | Energize | チャージ | 蓄能 |  | live | official |
 | [noun:4000045](terms/contextual-term-2.md#noun4000045) | 에너지 충전 | Energize | チャージ | 蓄能 |  | live | official |
 | [talent:1141:2](terms/mindscape-name-2.md#talent11412) | 에너지 피드백 | Energy Feedback | エネルギー還元 | 能量回馈 |  | live | official |
@@ -1166,7 +1168,6 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [talent:1151:6](terms/mindscape-name-2.md#talent11516) | 열화를 뚫는 송곳니 | Fierce Fangs of Fire | 牙は烈火にも勝る | 獠牙堪烈火 |  | live | official |
 | [monster:30014](terms/enemy-2.md#monster30014) | 염원의 피날레·아리아 | Wishful Finale - Aria | フィナーレの願い・アリア | 终曲之愿·爱芮 |  | live | official |
 | [character:1431](terms/agent-1.md#character1431) | 엽빛나 | Ye Shunguang | 葉瞬光 | 叶瞬光 | ko: 빛나 · en: YSG | live | official · unofficial |
-| [talent:1631:5](terms/mindscape-name-8.md#talent16315) | 영도가 아닌 마음 | A Heart Above 0°C | 心は零度にあらず | 非零度的心 |  | prerelease | official |
 | [weapon:14156](terms/w-engine-2.md#weapon14156) | 영롱한 금빛 마음 | Joyau Dore | 金襴の心 | 琳琅鎏心 |  | live | official |
 | [talent:1351:3](terms/mindscape-name-5.md#talent13513) | 영역 의식 | Territorial | 縄張り意識 | 领地意识 |  | live | official |
 | [talent:1031:4](terms/mindscape-name-1.md#talent10314) | 영역 확장 | Field Expansion | 領域拡大 | 领域扩增 |  | live | official |
@@ -1204,7 +1205,6 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [weapon:14131](terms/w-engine-2.md#weapon14131) | 우아한 베니티백 | Elegant Vanity | 優美のヴァニティ | 玲珑妆匣 |  | live | official |
 | [equipment:33100](terms/drive-disc-1.md#equipment33100) | 운규 이야기 | Yunkui Tales | 雲嶽は我に似たり | 云岿如我 |  | live | official |
 | [talent:1421:2](terms/mindscape-name-5.md#talent14212) | 운규점혈수 | Yunkui Pressure-Point Strike | 雲嶽流点穴術 | 云岿点穴手 |  | live | official |
-| [noun:4000050](terms/contextual-term-2.md#noun4000050) | 운동 에너지 축적 | Kinetic Buildup | エネルギー蓄積 | 动能积蓄 |  | prerelease | official |
 | [talent:1101:2](terms/mindscape-name-2.md#talent11012) | 운동 에너지 회수 | Kinetic Recovery | 運動エネルギー回生 | 动能回收 |  | live | official |
 | [talent:1321:4](terms/mindscape-name-4.md#talent13214) | 운명의 울림 | Fate's Melody | 運命の音 | 命运的弦音 |  | live | official |
 | [talent:1551:3](terms/mindscape-name-7.md#talent15513) | 운명의 족쇄 | Chains of Fate | 宿命の枷鎖 | 命定枷锁 |  | live | official |
@@ -1244,7 +1244,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [stat:33000](terms/stat-1.md#stat33000) | 이상 장악력 | Anomaly Mastery | 異常掌握 | 异常掌控 | ko: 장악 · en: AM | live | official · unofficial |
 | [talent:1271:6](terms/mindscape-name-4.md#talent12716) | 이상주의 | Idealist | 理想主義 | 理想主义 |  | live | official |
 | [equipment:33700](terms/drive-disc-1.md#equipment33700) | 이상한 나라의 눈토끼 | Bunny in Wonderland | 雪うさぎワンダーランド | 雪兔梦游仙境 |  | live | official |
-| [talent:1631:2](terms/mindscape-name-8.md#talent16312) | 이성의 고삐 | Reins of Reason | 理性の手綱 | 理性的缰绳 |  | prerelease | official |
+| [talent:1631:2](terms/mindscape-name-8.md#talent16312) | 이성의 고삐 | Reins of Reason | 理性の手綱 | 理性的缰绳 |  | live | official |
 | [item:307001](terms/material-3.md#item307001) | 이십사번풍 | Blooming Wind | 二十四番花信風 | 二十四番风 |  | live | official |
 | [bangboo:55098](terms/bangboo-1.md#bangboo55098) | 이아스 | Eous | イアス | 伊埃斯 |  | live | official |
 | [talent:1071:2](terms/mindscape-name-1.md#talent10712) | 이역 전승 | Legacy of the Far Lands | 異境からの伝承 | 异域传承 |  | live | official |
@@ -1304,7 +1304,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1331:basic:2](terms/skill-11.md#skill1331basic2) | 일반 공격: 떠오르는 치맛자락·낙하 | Basic Attack: Fluttering Frock - Suspension | 通常攻撃：スカートフロート・悠落 | 普通攻击：裙裾浮游·悬落 |  | live | official |
 | [skill:1201:basic:2](terms/skill-7.md#skill1201basic2) | 일반 공격: 떨어지는 날개 | Basic Attack: Falling Feather | 通常攻撃：羽落とし | 普通攻击：落羽 |  | live | official |
 | [skill:1051:basic:0](terms/skill-2.md#skill1051basic0) | 일반 공격: 망연함을 깨부수는 침격 | Basic Attack: Crushing Strike | 通常攻撃：迷いを砕く重撃 | 普通攻击：碎惘沉击 |  | live | official |
-| [skill:1631:basic:1](terms/skill-21.md#skill1631basic1) | 일반 공격: 맹렬한 선풍 | Basic Attack: Raging Whirlwind | 通常攻撃：ぐふう颶風 | 普通攻击：烈旋 |  | prerelease | official |
+| [skill:1631:basic:1](terms/skill-21.md#skill1631basic1) | 일반 공격: 맹렬한 선풍 | Basic Attack: Raging Whirlwind | 通常攻撃：ぐふう颶風 | 普通攻击：烈旋 |  | live | official |
 | [skill:1431:basic:2](terms/skill-14.md#skill1431basic2) | 일반 공격: 명심경·갈라진 물줄기 | Basic Attack: Enlightened Mind - Splitting Currents | 通常攻撃：澄心境・破浪 | 普通攻击：明心境·分水行 |  | live | official |
 | [skill:1431:basic:3](terms/skill-14.md#skill1431basic3) | 일반 공격: 명심경·솟구치는 기세 | Basic Attack: Enlightened Mind - Skyward Ascent | 通常攻撃：澄心境・昇舞 | 普通攻击：明心境·扶摇势 |  | live | official |
 | [skill:1431:basic:5](terms/skill-14.md#skill1431basic5) | 일반 공격: 명심경·참광 | Basic Attack: Enlightened Mind - Sunderlight | 通常攻撃：澄心境・光刃斬 | 普通攻击：明心境·斩流光 |  | live | official |
@@ -1372,10 +1372,10 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1021:basic:3](terms/skill-1.md#skill1021basic3) | 일반 공격: 적색 칼날 | Basic Attack: Crimson Blade | 通常攻撃：赤き刃 | 普通攻击：赤色之刃 |  | live | official |
 | [skill:1501:basic:1](terms/skill-17.md#skill1501basic1) | 일반 공격: 절대 음감 | Basic Attack: Perfect Pitch | 通常攻撃：絶対音感 | 普通攻击：绝对音准 |  | live | official |
 | [skill:1121:basic:0](terms/skill-4.md#skill1121basic0) | 일반 공격: 정산 | Basic Attack: Debt Reconciliation | 通常攻撃：帳尻合わせ | 普通攻击：对账 |  | live | official |
-| [skill:1631:basic:0](terms/skill-21.md#skill1631basic0) | 일반 공격: 질풍의 칼날 | Basic Attack: Swift Edge | 通常攻撃：はやきやいば疾き刃 | 普通攻击：疾锋 |  | prerelease | official |
+| [skill:1631:basic:0](terms/skill-21.md#skill1631basic0) | 일반 공격: 질풍의 칼날 | Basic Attack: Swift Edge | 通常攻撃：はや疾き刃 | 普通攻击：疾锋 |  | live | official |
 | [skill:1491:basic:1](terms/skill-16.md#skill1491basic1) | 일반 공격: 짓궂은 고양이, 등장! | Basic Attack: Naughty Cat Spotted | 通常攻撃：いたずらにゃんこおでまし | 普通攻击：坏猫出没 |  | live | official |
 | [skill:1591:basic:1](terms/skill-20.md#skill1591basic1) | 일반 공격: 창술·회수 | Basic Attack: Converging Spear | 通常攻撃：槍術・円舞の型 | 普通攻击：敛枪式 |  | live | official |
-| [skill:1631:basic:2](terms/skill-21.md#skill1631basic2) | 일반 공격: 창풍, 그림자 사냥 | Basic Attack: Azure Wind's Shadowhunt | 通常攻撃：蒼き風、影を狩る | 普通攻击：苍风影猎 |  | prerelease | official |
+| [skill:1631:basic:2](terms/skill-21.md#skill1631basic2) | 일반 공격: 창풍, 그림자 사냥 | Basic Attack: Azure Wind's Shadowhunt | 通常攻撃：蒼き風、影を狩る | 普通攻击：苍风影猎 |  | live | official |
 | [skill:1551:basic:1](terms/skill-18.md#skill1551basic1) | 일반 공격: 천광 | Basic Attack: Celestial Light | 通常攻撃：天光 | 普通攻击：天光 |  | live | official |
 | [skill:1371:basic:3](terms/skill-12.md#skill1371basic3) | 일반 공격: 청명의 뇌동 | Basic Attack: Qingming Eruption | 通常攻撃：青溟爆震 | 普通攻击：青溟震击 |  | live | official |
 | [skill:1061:basic:0](terms/skill-2.md#skill1061basic0) | 일반 공격: 청소 시작 | Basic Attack: Wipeout | 通常攻撃：お掃除開始 | 普通攻击：扫除开始 |  | live | official |
@@ -1417,7 +1417,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [monster:20006](terms/enemy-2.md#monster20006) | 자율 보조 유닛·「스위퍼」 | Autonomous Support Unit - Sweeper | 自律補助ユニット・「スイーパー」 | 自律辅助单位·「清扫者」 |  | live | official |
 | [talent:1041:6](terms/mindscape-name-1.md#talent10416) | 작열하는 몰입 | Scorching Flow | 灼熱のゾーン | 炽热心流 |  | live | official |
 | [item:307005](terms/material-3.md#item307005) | 작열하는 홍고추 | Blazing Chili | 激辛チリ | 炽焰红椒 |  | live | official |
-| [talent:1631:6](terms/mindscape-name-8.md#talent16316) | 작은 별 아래 | Beneath a Little Star | 小さな星の下で | 在一颗小星星下 |  | prerelease | official |
+| [talent:1631:6](terms/mindscape-name-8.md#talent16316) | 작은 별 아래 | Beneath a Little Star | 小さな星の下で | 在一颗小星星下 |  | live | official |
 | [noun:4000052](terms/contextual-term-2.md#noun4000052) | 작은 불씨 | Little Flame | 小さな火種 | 小火苗 |  | live | official |
 | [talent:1431:5](terms/mindscape-name-6.md#talent14315) | 작은 불씨의 인도 | Guiding Glimmer | 希望に手を引かれ | 微光引 |  | live | official |
 | [item:115](terms/currency-1.md#item115) | 잔류 신호 | Residual Signal | 余波シグナル | 信号余波 |  | live | official |
@@ -1449,7 +1449,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [community:shill-buff](terms/community-1.md#communityshill-buff) | 접대 | buffs favoring a particular character | 特定キャラ向けの強化効果 | 针对特定角色的增益 | ko: 접대 · en: shill buffs | live | unofficial |
 | [item:300002](terms/material-3.md#item300002) | 정규 조사원 기록 | Official Investigator Log | 正式調査員の記録 | 正式调查员记录 |  | live | official |
 | [talent:1011:2](terms/mindscape-name-1.md#talent10112) | 정밀 방전 | Precision Discharge | 精密放電 | 精准放电 |  | live | official |
-| [noun:4000051](terms/contextual-term-2.md#noun4000051) | 정밀 축적 | Precise Buildup | 精密チャージ | 精准积蓄 |  | prerelease | official |
+| [noun:4000051](terms/contextual-term-2.md#noun4000051) | 정밀 축적 | Precise Buildup | 高精度蓄積 | 精准积蓄 |  | live | official |
 | [talent:1041:3](terms/mindscape-name-1.md#talent10413) | 정예 사병 | Elite Soldier | 精鋭兵士 | 精锐士兵 |  | live | official |
 | [talent:1531:4](terms/mindscape-name-7.md#talent15314) | 정의의 불꽃 | Flames of Justice | 裁きの雷管 | 审判底火 |  | live | official |
 | [talent:1381:1](terms/mindscape-name-5.md#talent13811) | 정전하 | Static Charge | 静電荷 | 静滞电荷 |  | live | official |
@@ -1523,7 +1523,6 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1291:assist:2](terms/skill-10.md#skill1291assist2) | 지원 돌격: 역전의 카드 | Assist Follow-Up: Ace Reversal | 支援突撃：逆転の切り札 | 支援突击：王牌反转 |  | live | official |
 | [skill:1481:assist:2](terms/skill-16.md#skill1481assist2) | 지원 돌격: 연속 호출 | Assist Follow-Up: Back-to-Back Calls | 支援突撃：連続リダイヤル | 支援突击：连环呼叫 |  | live | official |
 | [skill:1541:assist:2](terms/skill-18.md#skill1541assist2) | 지원 돌격: 요격의 칼날 | Assist Follow-Up: Intercepting Strike | 支援突撃：刃を砕く | 支援突击：截兵 |  | live | official |
-| [skill:1631:assist:2](terms/skill-21.md#skill1631assist2) | 지원 돌격: 이전지전 | Assist Follow-Up: Fight Force with Force | 支援突撃：は刃にはは刃を | 支援突击：以戈止戈 |  | prerelease | official |
 | [skill:1621:assist:3](terms/skill-21.md#skill1621assist3) | 지원 돌격: 자정 수칙 | Assist Follow-Up: Midnight Code | 支援突撃：真夜中の掟 | 支援突击：午夜守则 |  | live | official |
 | [skill:1091:assist:2](terms/skill-3.md#skill1091assist2) | 지원 돌격: 작별하는 꽃 | Assist Follow-Up: Falling Petals | 支援突撃：帰り花 | 支援突击：花辞 |  | live | official |
 | [skill:1021:assist:2](terms/skill-1.md#skill1021assist2) | 지원 돌격: 재빠른 그림자 | Assist Follow-Up: Shadow Strike | 支援突撃：迅影 | 支援突击：迅影 |  | live | official |
@@ -1554,6 +1553,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1131:assist:2](terms/skill-5.md#skill1131assist2) | 지원 돌격: 휘몰아치는 타격 | Assist Follow-Up: Sweeping Strike | 支援突撃：巻き込み打撃 | 支援突击：席卷打击 |  | live | official |
 | [skill:1221:assist:2](terms/skill-8.md#skill1221assist2) | 지원 돌격: 흩날리는 칼 | Assist Follow-Up: Weeping Willow Stab | 支援突撃：飛絮の刺し | 支援突击：飞絮刺 |  | live | official |
 | [skill:1581:assist:2](terms/skill-20.md#skill1581assist2) | 지원 돌격: 희미하게 깨어난 빛 | Assist Follow-Up: Awakening Glimmer | 支援突撃：目覚めの残光 | 支援突击：眠醒残明 |  | live | official |
+| [skill:1631:assist:2](terms/skill-21.md#skill1631assist2) | 지원 돌격: 힘은 힘으로 다스린다 | Assist Follow-Up: Fight Force with Force | 支援突撃：は刃にはは刃を | 支援突击：以戈止戈 |  | live | official |
 | [item:101013](terms/material-2.md#item101013) | 지원 부품 | Support Component | 支援キット | 支援组件 |  | live | official |
 | [combat:assist](terms/combat-action-1.md#combatassist) | 지원 스킬 | Assist | 支援スキル | 支援技 |  | live | official |
 | [skill:1581:assist:3](terms/skill-20.md#skill1581assist3) | 지원 스킬: 꽃깃의 춤 | Assist: Flower &amp; Feather Dance | 支援スキル：花と翼のロンド | 支援技：花羽轮舞 |  | live | official |
@@ -1651,7 +1651,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [passive:1591:1](terms/skill-20.md#passive15911) | 추가 능력: 천공 연합 | Additional Ability: Legion of the Skies | 追加能力：天の彼方の軍勢 | 额外能力：天际联军 |  | live | official |
 | [passive:1511:1](terms/skill-17.md#passive15111) | 추가 능력: 천사 리더 | Additional Ability: Angel Captain | 追加能力：エンジェルのリーダー | 额外能力：天使队长 |  | live | official |
 | [passive:1061:1](terms/skill-2.md#passive10611) | 추가 능력: 청소 도우미 | Additional Ability: Cleanup Assistance | 追加能力：お掃除ヘルパー | 额外能力：扫除帮手 |  | live | official |
-| [passive:1631:1](terms/skill-21.md#passive16311) | 추가 능력: 최적 편성 | Additional Ability: Optimal Setup | 追加能力：最適采配 | 额外能力：最优编配 |  | prerelease | official |
+| [passive:1631:1](terms/skill-21.md#passive16311) | 추가 능력: 최적 편성 | Additional Ability: Optimal Setup | 追加能力：最適采配 | 额外能力：最优编配 |  | live | official |
 | [passive:1071:1](terms/skill-3.md#passive10711) | 추가 능력: 치솟는 전의 | Additional Ability: Battle Spirit | 追加能力：ほとばしる闘志 | 额外能力：战意激昂 |  | live | official |
 | [passive:1021:1](terms/skill-1.md#passive10211) | 추가 능력: 캣워크 | Additional Ability: Catwalk | 追加能力：キャットウォーク・ショー | 额外能力：猫步秀 |  | live | official |
 | [passive:1151:1](terms/skill-5.md#passive11511) | 추가 능력: 타격 준비! | Additional Ability: Batter Up! | 追加能力：打席に立て！ | 额外能力：击「球」准备！ |  | live | official |
@@ -1750,7 +1750,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1261:chain:0](terms/skill-9.md#skill1261chain0) | 콤보 스킬: 죄악의 꽃 | Chain Attack: Flowers of Sin | 連携スキル：罪悪の華 | 连携技：罪孽生花 |  | live | official |
 | [skill:1471:chain:0](terms/skill-16.md#skill1471chain0) | 콤보 스킬: 진노의 화염 | Chain Attack: Blazing Wrath | 連携スキル：憤激の焔 | 连携技：怒焰 |  | live | official |
 | [skill:1411:chain:0](terms/skill-14.md#skill1411chain0) | 콤보 스킬: 짓궂은 공격 | Chain Attack: Prank Assault | 連携スキル：いたずら合戦 | 连携技：恶作剧合战 |  | live | official |
-| [skill:1631:chain:0](terms/skill-21.md#skill1631chain0) | 콤보 스킬: 차가운 칼날의 수확 | Chain Attack: Coldblade Reap | 連携スキル：かりとるりんじん刈り取る凛刃 | 连携技：冽刃收割 |  | prerelease | official |
+| [skill:1631:chain:0](terms/skill-21.md#skill1631chain0) | 콤보 스킬: 차가운 칼날의 수확 | Chain Attack: Coldblade Reap | 連携スキル：刈り取るりんじん凛刃 | 连携技：冽刃收割 |  | live | official |
 | [skill:1271:chain:0](terms/skill-9.md#skill1271chain0) | 콤보 스킬: 최종 제재 | Chain Attack: Final Judgment | 連携スキル：最後の裁き | 连携技：最终制裁 |  | live | official |
 | [skill:1381:chain:0](terms/skill-13.md#skill1381chain0) | 콤보 스킬: 치닫는 낙뢰 | Chain Attack: Leaping Thunderstrike | 連携スキル：弾む落雷 | 连携技：疾跃落雷 |  | live | official |
 | [skill:1251:chain:0](terms/skill-8.md#skill1251chain0) | 콤보 스킬: 태평령 | Chain Attack: Tranquil Serenade | 連携スキル：太平令 | 连携技：太平令 |  | live | official |
@@ -1830,7 +1830,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1391:special:0](terms/skill-13.md#skill1391special0) | 특수 스킬: 대호칠식·산에서 내려온 호랑이 | Special Attack: Tiger Seven Forms - Mountain-Descending Tiger | 特殊スキル：悪虎の型・山下り | 特殊技：恶虎七式·下山虎 |  | live | official |
 | [skill:1131:special:0](terms/skill-4.md#skill1131special0) | 특수 스킬: 도시락 후~ 후~ | Special Attack: Cooling Bento | 特殊スキル：おべんとフーフー | 特殊技：吹凉便当 |  | live | official |
 | [skill:1111:special:0](terms/skill-4.md#skill1111special0) | 특수 스킬: 돌아보자고, 친구! | Special Attack: Spin, Bro! | 特殊スキル：回れ、兄弟！ | 特殊技：兄弟，转起来！ |  | live | official |
-| [skill:1631:special:0](terms/skill-21.md#skill1631special0) | 특수 스킬: 돌풍 베기 | Special Attack: Gale Rend | 特殊スキル：風瞬き、斬り伏せる | 特殊技：瞬风斩破 |  | prerelease | official |
+| [skill:1631:special:0](terms/skill-21.md#skill1631special0) | 특수 스킬: 돌풍 가르기 | Special Attack: Gale Rend | 特殊スキル：風瞬き、斬り伏せる | 特殊技：瞬风斩破 |  | live | official |
 | [skill:1531:special:0](terms/skill-18.md#skill1531special0) | 특수 스킬: 동력 제어 | Special Attack: Drive Suppression | 特殊スキル：この馬力はどうよ！ | 特殊技：动力压制 |  | live | official |
 | [skill:1071:special:0](terms/skill-3.md#skill1071special0) | 특수 스킬: 뒤흔드는 방패 | Special Attack: Shockwave Shield Bash | 特殊スキル：シールドバッシュ | 特殊技：震荡盾击 |  | live | official |
 | [skill:1521:special:0](terms/skill-17.md#skill1521special0) | 특수 스킬: 드러낸 송곳니 | Special Attack: Bared Fangs | 特殊スキル：鋭牙 | 特殊技：獠齿 |  | live | official |
@@ -1962,7 +1962,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1591:assist:1](terms/skill-20.md#skill1591assist1) | 패링 지원: 단단한 추위 | Defensive Assist: Dauntless Cold | パリィ支援：堅きこと氷のごとし | 招架支援：凛然不侵 |  | live | official |
 | [skill:1221:assist:1](terms/skill-8.md#skill1221assist1) | 패링 지원: 달빛 반격 | Defensive Assist: Radiant Reversal | パリィ支援：流光の逆飛び | 招架支援：流光反 |  | live | official |
 | [skill:1581:assist:1](terms/skill-20.md#skill1581assist1) | 패링 지원: 덧없는 빛 | Defensive Assist: Fleeting Light | パリィ支援：流光の一閃 | 招架支援：浮光掠影 |  | live | official |
-| [skill:1631:assist:1](terms/skill-21.md#skill1631assist1) | 패링 지원: 도발 금지 | Defensive Assist: Provocation Prohibited | パリィ支援：騒乱はこれを禁ず | 招架支援：寻衅禁止 |  | prerelease | official |
+| [skill:1631:assist:1](terms/skill-21.md#skill1631assist1) | 패링 지원: 도발 금지 | Defensive Assist: Provocation Prohibited | パリィ支援：騒乱はこれを禁ず | 招架支援：寻衅禁止 |  | live | official |
 | [skill:1431:assist:3](terms/skill-15.md#skill1431assist3) | 패링 지원: 돌아갈 때 | Defensive Assist: When I Return | パリィ支援：帰去 | 招架支援：归去时 |  | live | official |
 | [skill:1261:assist:2](terms/skill-9.md#skill1261assist2) | 패링 지원: 마지막 방어선 | Defensive Assist: Last Defense | パリィ支援：最後の一線 | 招架支援：最后防线 |  | live | official |
 | [skill:1191:assist:1](terms/skill-7.md#skill1191assist1) | 패링 지원: 맞파도 | Defensive Assist: Wavefront Impact | パリィ支援：向かい波 | 招架支援：迎头浪 |  | live | official |
@@ -2075,7 +2075,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [passive:1131:0](terms/skill-5.md#passive11310) | 핵심 패시브: 깃발의 격려 | Core Passive: Blade Banner | コアパッシブ：刃旗激励 | 核心被动：刃旗助威 |  | live | official |
 | [passive:1461:0](terms/skill-15.md#passive14610) | 핵심 패시브: 꽃사슬의 협약 | Core Passive: Flower Chain Protocol | コアパッシブ：フローラ・プロトコル | 核心被动：花链协议 |  | live | official |
 | [passive:1051:0](terms/skill-2.md#passive10510) | 핵심 패시브: 꿈을 줍는 공상 | Core Passive: Dreamscape Collection | コアパッシブ：夢掬いの空想 | 核心被动：拾梦空想 |  | live | official |
-| [passive:1631:0](terms/skill-21.md#passive16310) | 핵심 패시브: 끝없는 회풍 | Core Passive: Endless Breeze | コアパッシブ：風回りて終わりなし | 核心被动：风回无终 |  | prerelease | official |
+| [passive:1631:0](terms/skill-21.md#passive16310) | 핵심 패시브: 끝없이 도는 바람 | Core Passive: Endless Breeze | コアパッシブ：風回りて終わりなし | 核心被动：风回无终 |  | live | official |
 | [passive:1191:0](terms/skill-7.md#passive11910) | 핵심 패시브: 날카로운 이빨 | Core Passive: Sharp-Toothed | コアパッシブ：口がおジョーズ | 核心被动：凌牙厉齿 |  | live | official |
 | [passive:1391:0](terms/skill-13.md#passive13910) | 핵심 패시브: 늠름한 호랑이 | Core Passive: Fu-rocious Might | コアパッシブ：虎の猛威 | 核心被动：虎虎生威 |  | live | official |
 | [passive:1411:0](terms/skill-14.md#passive14110) | 핵심 패시브: 다채로운 기교 | Core Passive: Whimsical Wonder | コアパッシブ：ビビッド・カラフル | 核心被动：奇巧缤纷 |  | live | official |
@@ -2181,7 +2181,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1461:dodge:2](terms/skill-15.md#skill1461dodge2) | 회피 반격: 갈라진 꽃받침 | Dodge Counter: Blossom Burst | 回避反撃：乱れ咲く花々 | 闪避反击：裂萼纷华 |  | live | official |
 | [skill:1401:dodge:2](terms/skill-13.md#skill1401dodge2) | 회피 반격: 검빛 의례 | Dodge Counter: Ceremony of Swordlight | 回避反撃：剣閃の儀 | 闪避反击：剑闪之仪 |  | live | official |
 | [skill:1091:dodge:2](terms/skill-3.md#skill1091dodge2) | 회피 반격: 겨울 참새 | Dodge Counter: Kan Suzume | 回避反撃：寒雀 | 闪避反击：寒雀 |  | live | official |
-| [skill:1631:dodge:2](terms/skill-21.md#skill1631dodge2) | 회피 반격: 격살 | Dodge Counter: Fatal End | 回避反撃：ふうめつ風滅 | 闪避反击：梢杀 |  | prerelease | official |
+| [skill:1631:dodge:2](terms/skill-21.md#skill1631dodge2) | 회피 반격: 격살 | Dodge Counter: Fatal End | 回避反撃：ふうめつ風滅 | 闪避反击：梢杀 |  | live | official |
 | [skill:1031:dodge:2](terms/skill-1.md#skill1031dodge2) | 회피 반격: 견제 포격 | Dodge Counter: Diverted Bombard | 回避反撃：牽制砲撃 | 闪避反击：牵制炮击 |  | live | official |
 | [skill:1531:dodge:3](terms/skill-18.md#skill1531dodge3) | 회피 반격: 결투의 왕 | Dodge Counter: Duel King | 回避反撃：キング・オブ・デュエル | 闪避反击：决斗之王 |  | live | official |
 | [skill:1081:dodge:2](terms/skill-3.md#skill1081dodge2) | 회피 반격: 공평한 결투 | Dodge Counter: Fair Fight | 回避反撃：フェアな決闘 | 闪避反击：公平决斗 |  | live | official |
@@ -2275,11 +2275,10 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1371:dodge:2](terms/skill-12.md#skill1371dodge2) | 회피: 맑은 하늘과의 동행 | Dodge: Nimbus Step | 回避：碧空随行 | 闪避：清霄同游 |  | live | official |
 | [skill:1621:dodge:0](terms/skill-20.md#skill1621dodge0) | 회피: 먼저 갈게요 | Dodge: Excuse Me | 回避：ではこれにて | 闪避：失陪 |  | live | official |
 | [skill:1091:dodge:0](terms/skill-3.md#skill1091dodge0) | 회피: 물새 | Dodge: Mizutori | 回避：水鳥 | 闪避：水鸟 |  | live | official |
-| [skill:1631:dodge:0](terms/skill-21.md#skill1631dodge0) | 회피: 바람의 변화 | Dodge: Windshift | 回避：かぜがえし風返し | 闪避：飘折 |  | prerelease | official |
+| [skill:1631:dodge:0](terms/skill-21.md#skill1631dodge0) | 회피: 바람의 변화 | Dodge: Windshift | 回避：風返し | 闪避：飘折 |  | live | official |
 | [skill:1151:dodge:0](terms/skill-5.md#skill1151dodge0) | 회피: 볼! | Dodge: Foul Ball! | 回避：ファール！ | 闪避：坏球！ |  | live | official |
 | [skill:1171:dodge:0](terms/skill-6.md#skill1171dodge0) | 회피: 불타는 그림자 | Dodge: Fiery Phantom Dash | 回避：バーニング・シャドウ | 闪避：焰影疾行 |  | live | official |
 | [skill:1441:dodge:0](terms/skill-15.md#skill1441dodge0) | 회피: 빛나는 칼날 | Dodge: Radiant Blade | 回避：耀刃 | 闪避：曜刃 |  | live | official |
-| [skill:1631:dodge:3](terms/skill-21.md#skill1631dodge3) | 회피: 사의 | Dodge: Spontaneity | 回避：意のままに | 闪避：写意 |  | prerelease | official |
 | [skill:1521:dodge:0](terms/skill-17.md#skill1521dodge0) | 회피: 사행 | Dodge: Slither | 回避：クネっとね | 闪避：蛇行 |  | live | official |
 | [skill:1471:dodge:1](terms/skill-16.md#skill1471dodge1) | 회피: 산맥 넘기 | Dodge: Overcome Peaks | 回避：越山 | 闪避：越岭 |  | live | official |
 | [skill:1471:dodge:0](terms/skill-16.md#skill1471dodge0) | 회피: 산처럼 굳건한 | Dodge: Immovable Mountain | 回避：動かざること山の如し | 闪避：不动如山 |  | live | official |
@@ -2305,6 +2304,7 @@ Use browser Find (Ctrl+F) for names in the four base languages and community out
 | [skill:1111:dodge:0](terms/skill-4.md#skill1111dodge0) | 회피: 움직이자고 | Dodge: Let's Move | 回避：体を動かせ！ | 闪避：动起来 |  | live | official |
 | [skill:1531:dodge:1](terms/skill-18.md#skill1531dodge1) | 회피: 은하 횡단 | Dodge: Through the Galaxy | 回避：銀河爆走 | 闪避：银河横行 |  | live | official |
 | [skill:1301:dodge:0](terms/skill-10.md#skill1301dodge0) | 회피: 일렁이는 불빛 | Dodge: Flickering Flames | 回避：揺らめく炎光 | 闪避：摇曳火光 |  | live | official |
+| [skill:1631:dodge:3](terms/skill-21.md#skill1631dodge3) | 회피: 자발적 | Dodge: Spontaneity | 回避：意のままに | 闪避：写意 |  | live | official |
 | [skill:1261:dodge:0](terms/skill-9.md#skill1261dodge0) | 회피: 잔영 | Dodge: Phantom | 回避：残影 | 闪避：残影 |  | live | official |
 | [skill:1271:dodge:0](terms/skill-9.md#skill1271dodge0) | 회피: 장애물 회피 | Dodge: Evasion Maneuver | 回避：障害物回避 | 闪避：避障 |  | live | official |
 | [skill:1141:dodge:0](terms/skill-5.md#skill1141dodge0) | 회피: 적절한 포지셔닝 | Dodge: Suitable Positioning | 回避：弁えた所作 | 闪避：进退得体 |  | live | official |

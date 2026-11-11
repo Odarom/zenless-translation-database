@@ -296,10 +296,11 @@
         "EX",
         "EX special",
         "EXスキル",
-        "强化E"
+        "强化E",
+        "強化特殊"
       ],
       "meaning": "강화 특수 스킬(EX Special Attack)을 뜻하는 한국어 커뮤니티 약칭.",
-      "rule": "게임의 스킬·전투 조작·공격 순서·에너지 사용 문맥에서 강화 특수 스킬을 뜻하는 강특은 combat:ex-special-attack의 언어별 preferred로 번역한다. 강특을, 강특으로 등 조사가 붙어도 같은 의미로 판단한다. 일반 특수 스킬(Special Attack)과 구분하며 원문에 없는 버튼 입력·길게 누르기·효과를 추가하지 않는다. 다른 뜻의 약칭으로 쓰인 문맥에는 적용하지 않는다.\n에너지를 사용하는 강화 특수 스킬과 일반 특수 스킬을 구별한다. EX가 예전 연인 등을 뜻하면 적용하지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.",
+      "rule": "게임의 스킬·전투 조작·공격 순서·에너지 사용 문맥에서 강화 특수 스킬을 뜻하는 강특은 combat:ex-special-attack의 언어별 preferred로 번역한다. 강특을, 강특으로 등 조사가 붙어도 같은 의미로 판단한다. 일반 특수 스킬(Special Attack)과 구분하며 원문에 없는 버튼 입력·길게 누르기·효과를 추가하지 않는다. 다른 뜻의 약칭으로 쓰인 문맥에는 적용하지 않는다.\n에너지를 사용하는 강화 특수 스킬과 일반 특수 스킬을 구별한다. EX가 예전 연인 등을 뜻하면 적용하지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다. Japanese combat shorthand 強化特殊 means EX Special Attack in an energy-consuming enhanced-special context. In Korean community style use the already selected 강특, not 강화 특수 공격. Keep it distinct from 強化通常 (Enhanced Basic Attack).",
       "status": "user-provided",
       "sources": [
         "한국어 약칭 강특에 대한 사용자 예시, 2026-10-08",
@@ -458,14 +459,15 @@
         "강화평타",
         "강화된 일반 공격",
         "강화 일반 공격",
-        "평꾹"
+        "평꾹",
+        "強化通常"
       ],
       "preferred": {
         "ko": "강화 평타",
         "en": "Enhanced Basic Attack"
       },
       "meaning": "강화된 일반 공격을 가리키는 커뮤니티 표현. 평꾹은 일반 공격 버튼을 길게 누르는 조작 표현으로 의미 범위가 다르다.",
-      "rule": "EBA와 평꾹을 무조건 서로 치환하지 않는다. 해당 캐릭터와 길게 누르는 조작이 문맥에서 확인될 때만 평꾹을 쓴다. 평꾹을 영문으로 옮길 때 공격 유형이 불명확하면 hold Basic Attack으로 조작 자체를 옮긴다. 선호 표현은 모든 캐릭터의 공식 스킬 이름이라는 뜻이 아니다. EBA/eBa/eba is Enhanced Basic Attack in combat notation, NOT EX Special Attack (EX/EXS). Translate its attack type as 강화 평타 / 강화 일반 공격, never 강특 / 강화 특수 스킬. The adjective quick before eba only describes speed unless the context explicitly identifies Quick Assist; do not insert an assist, an EX attack or a hold input. Words such as drop do not change Basic Attack into Special Attack. If drop itself is ambiguous, preserve that uncertainty rather than inventing a specific action.",
+      "rule": "EBA와 평꾹을 무조건 서로 치환하지 않는다. 해당 캐릭터와 길게 누르는 조작이 문맥에서 확인될 때만 평꾹을 쓴다. 평꾹을 영문으로 옮길 때 공격 유형이 불명확하면 hold Basic Attack으로 조작 자체를 옮긴다. 선호 표현은 모든 캐릭터의 공식 스킬 이름이라는 뜻이 아니다. EBA/eBa/eba is Enhanced Basic Attack in combat notation, NOT EX Special Attack (EX/EXS). Translate its attack type as 강화 평타 / 강화 일반 공격, never 강특 / 강화 특수 스킬. The adjective quick before eba only describes speed unless the context explicitly identifies Quick Assist; do not insert an assist, an EX attack or a hold input. Words such as drop do not change Basic Attack into Special Attack. If drop itself is ambiguous, preserve that uncertainty rather than inventing a specific action. Japanese combat shorthand 強化通常 means Enhanced Basic Attack when discussing enhanced normal attacks, not an EX Special Attack. Apply the registered Korean rendering 강화 평타; do not invent a new output abbreviation.",
       "status": "user-provided",
       "sources": [
         "프로젝트 기획 대화의 사용자 설명, 2026-10-06"
@@ -2769,6 +2771,62 @@
         "https://static.nanoka.cc/zzz/3.2/zh/character/1041.json",
         "https://static.nanoka.cc/zzz/3.2/zh/character/1051.json"
       ],
+      "communityPreferredDrafts": {
+        "zh-Hant": null,
+        "de": null,
+        "fr": null,
+        "es": null,
+        "pt": null,
+        "ru": null,
+        "th": null,
+        "vi": null,
+        "id": null
+      }
+    },
+    {
+      "id": "severian-flow-ja-plain",
+      "targetId": "noun:1000041",
+      "aliases": [
+        "凪"
+      ],
+      "meaning": "세베리안 자원 숨결의 일본어 공식 명칭에서 장식 괄호를 생략한 표기.",
+      "rule": "In Severian combat, 凪 is the resource Flow/숨결, including 凪100pt, 凪80pt and recovery or consumption of 凪. Use the registered target-language name, never 잔잔함, 고요함 or a generic calm/breath paraphrase. Do not infer the resource from ordinary descriptions of calm seas, windless weather or an unrelated person named 凪. Preserve all amounts, recovery/consumption direction and action order. A bare resource name does not authorize adding a character or mechanic to an unrelated sentence.",
+      "sources": [
+        "https://static.nanoka.cc/zzz/3.3/ko/noun.json",
+        "https://static.nanoka.cc/zzz/3.3/en/noun.json",
+        "https://static.nanoka.cc/zzz/3.3/ja/noun.json",
+        "https://static.nanoka.cc/zzz/3.3/zh/noun.json"
+      ],
+      "status": "source-supported-community",
+      "reviewedAt": "2026-11-11",
+      "communityPreferredDrafts": {
+        "zh-Hant": null,
+        "de": null,
+        "fr": null,
+        "es": null,
+        "pt": null,
+        "ru": null,
+        "th": null,
+        "vi": null,
+        "id": null
+      }
+    },
+    {
+      "id": "severian-whirlwind-ja-plain",
+      "targetId": "skill:1631:basic:1",
+      "aliases": [
+        "颶風"
+      ],
+      "meaning": "세베리안의 일본어 일반 공격 스킬명 颶風. 요미가나·스킬 종류 접두어를 쓰지 않은 채팅 표기.",
+      "rule": "In Severian attack sequences, 颶風 is Basic Attack: Raging Whirlwind / 일반 공격: 맹렬한 선풍. Translate the named move using the supplied localized name, retaining whether the source included the attack-type prefix. It is not the generic Wind attribute or any other character’s wind attack. Preserve EX → 颶風 → Enhanced Basic Attack ordering and resource values without inventing a mechanic or a button input. Do not apply to ordinary weather or unrelated titles.",
+      "sources": [
+        "https://static.nanoka.cc/zzz/3.3/ko/character/1631.json",
+        "https://static.nanoka.cc/zzz/3.3/en/character/1631.json",
+        "https://static.nanoka.cc/zzz/3.3/ja/character/1631.json",
+        "https://static.nanoka.cc/zzz/3.3/zh/character/1631.json"
+      ],
+      "status": "source-supported-community",
+      "reviewedAt": "2026-11-11",
       "communityPreferredDrafts": {
         "zh-Hant": null,
         "de": null,

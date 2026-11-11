@@ -203,11 +203,11 @@ One ID represents one concept. Names, input aliases and community-style output h
 - ID: combat:ex-special-attack · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方 · 비공식 / Unofficial / 非公式 / 非官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화 특수 스킬 · 강화특수스킬 · EX Special Attack · 強化特殊スキル · 强化特殊技 · 強化特殊技 · Verstärkter Spezialangriff · Attaque spéciale EX · Técnica especial EX · Ataque Especial Reforçado · Усиленная особая атака · สกิลพิเศษ-EX · Siêu Chiến Kỹ
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 강특 · EX · EX special · EXスキル · 强化E
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [비공식 / Unofficial / 非公式 / 非官方]: 강특 · EX · EX special · EXスキル · 强化E · 強化特殊
 - 커뮤니티 출력 / Community output / コミュニティ出力 / 社区输出: ko: 강특 [비공식 / Unofficial / 非公式 / 非官方] · en: EX [비공식 / Unofficial / 非公式 / 非官方]
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 combat-action 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 게임의 스킬·전투 조작·공격 순서·에너지 사용 문맥에서 강화 특수 스킬을 뜻하는 강특은 combat:ex-special-attack의 언어별 preferred로 번역한다. 강특을, 강특으로 등 조사가 붙어도 같은 의미로 판단한다. 일반 특수 스킬(Special Attack)과 구분하며 원문에 없는 버튼 입력·길게 누르기·효과를 추가하지 않는다. 다른 뜻의 약칭으로 쓰인 문맥에는 적용하지 않는다. 에너지를 사용하는 강화 특수 스킬과 일반 특수 스킬을 구별한다. EX가 예전 연인 등을 뜻하면 적용하지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다.
+- 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: 게임의 스킬·전투 조작·공격 순서·에너지 사용 문맥에서 강화 특수 스킬을 뜻하는 강특은 combat:ex-special-attack의 언어별 preferred로 번역한다. 강특을, 강특으로 등 조사가 붙어도 같은 의미로 판단한다. 일반 특수 스킬(Special Attack)과 구분하며 원문에 없는 버튼 입력·길게 누르기·효과를 추가하지 않는다. 다른 뜻의 약칭으로 쓰인 문맥에는 적용하지 않는다. 에너지를 사용하는 강화 특수 스킬과 일반 특수 스킬을 구별한다. EX가 예전 연인 등을 뜻하면 적용하지 않는다. 게임의 해당 능력치·장비·전투 문맥에서만 적용한다. 일반 대화의 동음어·영문 약어는 치환하지 않는다. 뜻을 확정할 문맥이 없으면 원문 약어를 유지한다. 원문에 없는 수치·효과·공식 명칭을 만들지 않는다. Japanese combat shorthand 強化特殊 means EX Special Attack in an energy-consuming enhanced-special context. In Korean community style use the already selected 강특, not 강화 특수 공격. Keep it distinct from 強化通常 (Enhanced Basic Attack).
 - 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1011.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1011.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1011.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1011.json)
 
 

@@ -72,12 +72,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: weapon:14163 · Status: prerelease · autoUse: true
+- ID: weapon:14163 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 금단의 감옥 · 금단의감옥 · Incarcerating Grip · 罪捕らえる牢獄 · 禁罪囚笼 · Sin-Ban Cage · 禁罪の檻
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 w-engine 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/weapon.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/weapon.json)
 
 
 ### weapon:14164

@@ -324,7 +324,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 일반 공격: 질풍의 칼날 [공식 / Official / 正式 / 官方] | Basic Attack: Swift Edge [공식 / Official / 正式 / 官方] | 通常攻撃：はやきやいば疾き刃 [공식 / Official / 正式 / 官方] | 普通攻击：疾锋 [공식 / Official / 正式 / 官方] |
+| 일반 공격: 질풍의 칼날 [공식 / Official / 正式 / 官方] | Basic Attack: Swift Edge [공식 / Official / 正式 / 官方] | 通常攻撃：はや疾き刃 [공식 / Official / 正式 / 官方] | 普通攻击：疾锋 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -342,12 +342,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:basic:0 · Status: prerelease · autoUse: true
+- ID: skill:1631:basic:0 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 질풍의 칼날 · 일반공격:질풍의칼날 · 질풍의 칼날 · 질풍의칼날 · Basic Attack: Swift Edge · Swift Edge · 通常攻撃：はやきやいば疾き刃 · はやきやいば疾き刃 · 普通攻击：疾锋 · 疾锋
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 질풍의 칼날 · 일반공격:질풍의칼날 · 질풍의 칼날 · 질풍의칼날 · Basic Attack: Swift Edge · Swift Edge · 通常攻撃：はや疾き刃 · はや疾き刃 · 普通攻击：疾锋 · 疾锋 · 通常攻撃：はやきやいば疾き刃
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:basic:1
@@ -372,12 +372,13 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:basic:1 · Status: prerelease · autoUse: true
+- ID: skill:1631:basic:1 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 맹렬한 선풍 · 일반공격:맹렬한선풍 · 맹렬한 선풍 · 맹렬한선풍 · Basic Attack: Raging Whirlwind · Raging Whirlwind · 通常攻撃：ぐふう颶風 · ぐふう颶風 · 普通攻击：烈旋 · 烈旋
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 맹렬한 선풍 · 일반공격:맹렬한선풍 · 맹렬한 선풍 · 맹렬한선풍 · Basic Attack: Raging Whirlwind · Raging Whirlwind · 通常攻撃：ぐふう颶風 · ぐふう颶風 · 普通攻击：烈旋 · 烈旋 · 颶風
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 약어 규칙 / Shorthand rule / 略語規則 / 简称规则: In Severian attack sequences, 颶風 is Basic Attack: Raging Whirlwind / 일반 공격: 맹렬한 선풍. Translate the named move using the supplied localized name, retaining whether the source included the attack-type prefix. It is not the generic Wind attribute or any other character’s wind attack. Preserve EX → 颶風 → Enhanced Basic Attack ordering and resource values without inventing a mechanic or a button input. Do not apply to ordinary weather or unrelated titles.
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:basic:2
@@ -402,19 +403,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:basic:2 · Status: prerelease · autoUse: true
+- ID: skill:1631:basic:2 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 일반 공격: 창풍, 그림자 사냥 · 일반공격:창풍,그림자사냥 · 창풍, 그림자 사냥 · 창풍,그림자사냥 · Basic Attack: Azure Wind's Shadowhunt · Azure Wind's Shadowhunt · 通常攻撃：蒼き風、影を狩る · 蒼き風、影を狩る · 普通攻击：苍风影猎 · 苍风影猎
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:dodge:0
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피: 바람의 변화 [공식 / Official / 正式 / 官方] | Dodge: Windshift [공식 / Official / 正式 / 官方] | 回避：かぜがえし風返し [공식 / Official / 正式 / 官方] | 闪避：飘折 [공식 / Official / 正式 / 官方] |
+| 회피: 바람의 변화 [공식 / Official / 正式 / 官方] | Dodge: Windshift [공식 / Official / 正式 / 官方] | 回避：風返し [공식 / Official / 正式 / 官方] | 闪避：飘折 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -432,12 +433,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:dodge:0 · Status: prerelease · autoUse: true
+- ID: skill:1631:dodge:0 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피: 바람의 변화 · 회피:바람의변화 · 바람의 변화 · 바람의변화 · Dodge: Windshift · Windshift · 回避：かぜがえし風返し · かぜがえし風返し · 闪避：飘折 · 飘折
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피: 바람의 변화 · 회피:바람의변화 · 바람의 변화 · 바람의변화 · Dodge: Windshift · Windshift · 回避：風返し · 風返し · 闪避：飘折 · 飘折 · 回避：かぜがえし風返し
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:dodge:1
@@ -462,12 +463,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:dodge:1 · Status: prerelease · autoUse: true
+- ID: skill:1631:dodge:1 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 대시 공격: 서늘한 습격 · 대시공격:서늘한습격 · 서늘한 습격 · 서늘한습격 · Dash Attack: Sheer Assault · Sheer Assault · ダッシュ攻撃：りんぷう凛風の如き強襲 · りんぷう凛風の如き強襲 · 冲刺攻击：凛袭 · 凛袭
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:dodge:2
@@ -492,19 +493,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:dodge:2 · Status: prerelease · autoUse: true
+- ID: skill:1631:dodge:2 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피 반격: 격살 · 회피반격:격살 · 격살 · Dodge Counter: Fatal End · Fatal End · 回避反撃：ふうめつ風滅 · ふうめつ風滅 · 闪避反击：梢杀 · 梢杀
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:dodge:3
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 회피: 사의 [공식 / Official / 正式 / 官方] | Dodge: Spontaneity [공식 / Official / 正式 / 官方] | 回避：意のままに [공식 / Official / 正式 / 官方] | 闪避：写意 [공식 / Official / 正式 / 官方] |
+| 회피: 자발적 [공식 / Official / 正式 / 官方] | Dodge: Spontaneity [공식 / Official / 正式 / 官方] | 回避：意のままに [공식 / Official / 正式 / 官方] | 闪避：写意 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -522,19 +523,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:dodge:3 · Status: prerelease · autoUse: true
+- ID: skill:1631:dodge:3 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피: 사의 · 회피:사의 · 사의 · Dodge: Spontaneity · Spontaneity · 回避：意のままに · 意のままに · 闪避：写意 · 写意
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 회피: 자발적 · 회피:자발적 · 자발적 · Dodge: Spontaneity · Spontaneity · 回避：意のままに · 意のままに · 闪避：写意 · 写意 · 회피: 사의
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:special:0
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 특수 스킬: 돌풍 베기 [공식 / Official / 正式 / 官方] | Special Attack: Gale Rend [공식 / Official / 正式 / 官方] | 特殊スキル：風瞬き、斬り伏せる [공식 / Official / 正式 / 官方] | 特殊技：瞬风斩破 [공식 / Official / 正式 / 官方] |
+| 특수 스킬: 돌풍 가르기 [공식 / Official / 正式 / 官方] | Special Attack: Gale Rend [공식 / Official / 正式 / 官方] | 特殊スキル：風瞬き、斬り伏せる [공식 / Official / 正式 / 官方] | 特殊技：瞬风斩破 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -552,12 +553,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:special:0 · Status: prerelease · autoUse: true
+- ID: skill:1631:special:0 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특수 스킬: 돌풍 베기 · 특수스킬:돌풍베기 · 돌풍 베기 · 돌풍베기 · Special Attack: Gale Rend · Gale Rend · 特殊スキル：風瞬き、斬り伏せる · 風瞬き、斬り伏せる · 特殊技：瞬风斩破 · 瞬风斩破
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 특수 스킬: 돌풍 가르기 · 특수스킬:돌풍가르기 · 돌풍 가르기 · 돌풍가르기 · Special Attack: Gale Rend · Gale Rend · 特殊スキル：風瞬き、斬り伏せる · 風瞬き、斬り伏せる · 特殊技：瞬风斩破 · 瞬风斩破 · 특수 스킬: 돌풍 베기
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:special:1
@@ -582,19 +583,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:special:1 · Status: prerelease · autoUse: true
+- ID: skill:1631:special:1 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 강화 특수 스킬: 파열의 돌풍 · 강화특수스킬:파열의돌풍 · 파열의 돌풍 · 파열의돌풍 · EX Special Attack: Swiftwind Rupture · Swiftwind Rupture · 強化特殊スキル：風瞬き、打ち毀す · 風瞬き、打ち毀す · 强化特殊技：瞬风裂毁 · 瞬风裂毁
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:chain:0
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 콤보 스킬: 차가운 칼날의 수확 [공식 / Official / 正式 / 官方] | Chain Attack: Coldblade Reap [공식 / Official / 正式 / 官方] | 連携スキル：かりとるりんじん刈り取る凛刃 [공식 / Official / 正式 / 官方] | 连携技：冽刃收割 [공식 / Official / 正式 / 官方] |
+| 콤보 스킬: 차가운 칼날의 수확 [공식 / Official / 正式 / 官方] | Chain Attack: Coldblade Reap [공식 / Official / 正式 / 官方] | 連携スキル：刈り取るりんじん凛刃 [공식 / Official / 正式 / 官方] | 连携技：冽刃收割 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -612,19 +613,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:chain:0 · Status: prerelease · autoUse: true
+- ID: skill:1631:chain:0 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 콤보 스킬: 차가운 칼날의 수확 · 콤보스킬:차가운칼날의수확 · 차가운 칼날의 수확 · 차가운칼날의수확 · Chain Attack: Coldblade Reap · Coldblade Reap · 連携スキル：かりとるりんじん刈り取る凛刃 · かりとるりんじん刈り取る凛刃 · 连携技：冽刃收割 · 冽刃收割
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 콤보 스킬: 차가운 칼날의 수확 · 콤보스킬:차가운칼날의수확 · 차가운 칼날의 수확 · 차가운칼날의수확 · Chain Attack: Coldblade Reap · Coldblade Reap · 連携スキル：刈り取るりんじん凛刃 · 刈り取るりんじん凛刃 · 连携技：冽刃收割 · 冽刃收割 · 連携スキル：かりとるりんじん刈り取る凛刃
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:chain:1
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 궁극기: 섬멸의 풍재 [공식 / Official / 正式 / 官方] | Ultimate: Annihilating Windstorm [공식 / Official / 正式 / 官方] | 終結スキル：かぜはしり風奔り、せんめつ殲滅する [공식 / Official / 正式 / 官方] | 终结技：戮灭的风灾 [공식 / Official / 正式 / 官方] |
+| 궁극기: 섬멸의 풍재 [공식 / Official / 正式 / 官方] | Ultimate: Annihilating Windstorm [공식 / Official / 正式 / 官方] | 終結スキル：風奔り、殲滅する [공식 / Official / 正式 / 官方] | 终结技：戮灭的风灾 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -642,12 +643,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:chain:1 · Status: prerelease · autoUse: true
+- ID: skill:1631:chain:1 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 궁극기: 섬멸의 풍재 · 궁극기:섬멸의풍재 · 섬멸의 풍재 · 섬멸의풍재 · Ultimate: Annihilating Windstorm · Annihilating Windstorm · 終結スキル：かぜはしり風奔り、せんめつ殲滅する · かぜはしり風奔り、せんめつ殲滅する · 终结技：戮灭的风灾 · 戮灭的风灾
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 궁극기: 섬멸의 풍재 · 궁극기:섬멸의풍재 · 섬멸의 풍재 · 섬멸의풍재 · Ultimate: Annihilating Windstorm · Annihilating Windstorm · 終結スキル：風奔り、殲滅する · 風奔り、殲滅する · 终结技：戮灭的风灾 · 戮灭的风灾 · 終結スキル：かぜはしり風奔り、せんめつ殲滅する
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:assist:0
@@ -672,12 +673,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:assist:0 · Status: prerelease · autoUse: true
+- ID: skill:1631:assist:0 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빠른 지원: 전장 명령 · 빠른지원:전장명령 · 전장 명령 · 전장명령 · Quick Assist: Field Orders · Field Orders · クイック支援：前線指令 · 前線指令 · 快速支援：火线调令 · 火线调令
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:assist:1
@@ -702,19 +703,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:assist:1 · Status: prerelease · autoUse: true
+- ID: skill:1631:assist:1 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 패링 지원: 도발 금지 · 패링지원:도발금지 · 도발 금지 · 도발금지 · Defensive Assist: Provocation Prohibited · Provocation Prohibited · パリィ支援：騒乱はこれを禁ず · 騒乱はこれを禁ず · 招架支援：寻衅禁止 · 寻衅禁止
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:assist:2
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 지원 돌격: 이전지전 [공식 / Official / 正式 / 官方] | Assist Follow-Up: Fight Force with Force [공식 / Official / 正式 / 官方] | 支援突撃：は刃にはは刃を [공식 / Official / 正式 / 官方] | 支援突击：以戈止戈 [공식 / Official / 正式 / 官方] |
+| 지원 돌격: 힘은 힘으로 다스린다 [공식 / Official / 正式 / 官方] | Assist Follow-Up: Fight Force with Force [공식 / Official / 正式 / 官方] | 支援突撃：は刃にはは刃を [공식 / Official / 正式 / 官方] | 支援突击：以戈止戈 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -732,12 +733,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:assist:2 · Status: prerelease · autoUse: true
+- ID: skill:1631:assist:2 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 지원 돌격: 이전지전 · 지원돌격:이전지전 · 이전지전 · Assist Follow-Up: Fight Force with Force · Fight Force with Force · 支援突撃：は刃にはは刃を · は刃にはは刃を · 支援突击：以戈止戈 · 以戈止戈
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 지원 돌격: 힘은 힘으로 다스린다 · 지원돌격:힘은힘으로다스린다 · 힘은 힘으로 다스린다 · 힘은힘으로다스린다 · Assist Follow-Up: Fight Force with Force · Fight Force with Force · 支援突撃：は刃にはは刃を · は刃にはは刃を · 支援突击：以戈止戈 · 以戈止戈 · 지원 돌격: 이전지전
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1631:assist:3
@@ -762,19 +763,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: skill:1631:assist:3 · Status: prerelease · autoUse: true
+- ID: skill:1631:assist:3 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 등장 스킬: 소탕의 시간 · 등장스킬:소탕의시간 · 소탕의 시간 · 소탕의시간 · Entry Skill: Clear Out · Clear Out · 入場スキル：制圧開始 · 制圧開始 · 登场技：清场时刻 · 清场时刻
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 해당 캐릭터의 전투·스킬 문맥에서 사용한다. 다른 캐릭터의 비슷한 이름이나 일반 문장과 혼동하지 않는다. 스킬 종류·구별되는 이름을 생략하거나 원문에 없는 입력·효과·수치를 추가하지 않는다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### passive:1631:0
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 핵심 패시브: 끝없는 회풍 [공식 / Official / 正式 / 官方] | Core Passive: Endless Breeze [공식 / Official / 正式 / 官方] | コアパッシブ：風回りて終わりなし [공식 / Official / 正式 / 官方] | 核心被动：风回无终 [공식 / Official / 正式 / 官方] |
+| 핵심 패시브: 끝없이 도는 바람 [공식 / Official / 正式 / 官方] | Core Passive: Endless Breeze [공식 / Official / 正式 / 官方] | コアパッシブ：風回りて終わりなし [공식 / Official / 正式 / 官方] | 核心被动：风回无终 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -792,12 +793,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: passive:1631:0 · Status: prerelease · autoUse: true
+- ID: passive:1631:0 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 핵심 패시브: 끝없는 회풍 · 핵심패시브:끝없는회풍 · 끝없는 회풍 · 끝없는회풍 · Core Passive: Endless Breeze · Endless Breeze · コアパッシブ：風回りて終わりなし · 風回りて終わりなし · 核心被动：风回无终 · 风回无终
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 핵심 패시브: 끝없이 도는 바람 · 핵심패시브:끝없이도는바람 · 끝없이 도는 바람 · 끝없이도는바람 · Core Passive: Endless Breeze · Endless Breeze · コアパッシブ：風回りて終わりなし · 風回りて終わりなし · 核心被动：风回无终 · 风回无终 · 핵심 패시브: 끝없는 회풍
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### passive:1631:1
@@ -822,12 +823,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: passive:1631:1 · Status: prerelease · autoUse: true
+- ID: passive:1631:1 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 추가 능력: 최적 편성 · 추가능력:최적편성 · 최적 편성 · 최적편성 · Additional Ability: Optimal Setup · Optimal Setup · 追加能力：最適采配 · 最適采配 · 额外能力：最优编配 · 最优编配
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 skill 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### skill:1641:basic:0

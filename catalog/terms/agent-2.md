@@ -342,12 +342,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: character:1631 · Status: prerelease · autoUse: true
+- ID: character:1631 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 세베리안 · Severian · セヴェリアン · 赛维里安
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 agent 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/character.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/character.json)
 
 
 ### character:1641

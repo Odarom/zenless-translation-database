@@ -324,7 +324,7 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 더블 에스프레소 [공식 / Official / 正式 / 官方] | Double Espresso [공식 / Official / 正式 / 官方] | ダブルエスプレッソ [공식 / Official / 正式 / 官方] | 双份浓缩 [공식 / Official / 正式 / 官方] |
+| 더블 에스프레소 [공식 / Official / 正式 / 官方] | Double Espresso [공식 / Official / 正式 / 官方] | エスプレッソ・ダブル [공식 / Official / 正式 / 官方] | 双份浓缩 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -342,12 +342,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: talent:1631:1 · Status: prerelease · autoUse: true
+- ID: talent:1631:1 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 더블 에스프레소 · 더블에스프레소 · Double Espresso · ダブルエスプレッソ · 双份浓缩 · ...
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 더블 에스프레소 · 더블에스프레소 · Double Espresso · エスプレッソ・ダブル · 双份浓缩 · ダブルエスプレッソ · ...
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### talent:1631:2
@@ -372,12 +372,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: talent:1631:2 · Status: prerelease · autoUse: true
+- ID: talent:1631:2 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 이성의 고삐 · 이성의고삐 · Reins of Reason · 理性の手綱 · 理性的缰绳 · ...
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### talent:1631:3
@@ -402,19 +402,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: talent:1631:3 · Status: prerelease · autoUse: true
+- ID: talent:1631:3 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 마지막 등불 · 마지막등불 · The Last Light · 最後の明かり · 最后一盏灯 · ...
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### talent:1631:4
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 빛과 그림자의 경계 [공식 / Official / 正式 / 官方] | Between Light and Shadow [공식 / Official / 正式 / 官方] | 光と影の境界線 [공식 / Official / 正式 / 官方] | 光与影的界限 [공식 / Official / 正式 / 官方] |
+| 빛과 그림자의 경계 [공식 / Official / 正式 / 官方] | Between Light and Shadow [공식 / Official / 正式 / 官方] | 光と影のはざまに [공식 / Official / 正式 / 官方] | 光与影的界限 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -432,19 +432,19 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: talent:1631:4 · Status: prerelease · autoUse: true
+- ID: talent:1631:4 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빛과 그림자의 경계 · 빛과그림자의경계 · Between Light and Shadow · 光と影の境界線 · 光与影的界限 · ...
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 빛과 그림자의 경계 · 빛과그림자의경계 · Between Light and Shadow · 光と影のはざまに · 光与影的界限 · 光と影の境界線 · ...
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### talent:1631:5
 
 | 한국어 | English | 日本語 | 简体中文 |
 |---|---|---|---|
-| 영도가 아닌 마음 [공식 / Official / 正式 / 官方] | A Heart Above 0°C [공식 / Official / 正式 / 官方] | 心は零度にあらず [공식 / Official / 正式 / 官方] | 非零度的心 [공식 / Official / 正式 / 官方] |
+| 얼지 않은 마음 [공식 / Official / 正式 / 官方] | A Heart Above 0°C [공식 / Official / 正式 / 官方] | 心は零度になりきれない [공식 / Official / 正式 / 官方] | 非零度的心 [공식 / Official / 正式 / 官方] |
 
 <details><summary>추가 언어 / More languages / その他の言語 / 其他语言</summary>
 
@@ -462,12 +462,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: talent:1631:5 · Status: prerelease · autoUse: true
+- ID: talent:1631:5 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
-- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 영도가 아닌 마음 · 영도가아닌마음 · A Heart Above 0°C · 心は零度にあらず · 非零度的心 · ...
+- 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 얼지 않은 마음 · 얼지않은마음 · A Heart Above 0°C · 心は零度になりきれない · 非零度的心 · 영도가 아닌 마음 · 心は零度にあらず · ...
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### talent:1631:6
@@ -492,12 +492,12 @@ One ID represents one concept. Names, input aliases and community-style output h
 
 </details>
 
-- ID: talent:1631:6 · Status: prerelease · autoUse: true
+- ID: talent:1631:6 · Status: live · autoUse: true
 - [태그 / Tags / タグ / 标签](../TAGS.md): 공식 / Official / 正式 / 官方
 - 입력 별칭 / Input aliases / 入力別名 / 输入别名 [공식 / Official / 正式 / 官方]: 작은 별 아래 · 작은별아래 · Beneath a Little Star · 小さな星の下で · 在一颗小星星下 · ...
 - 의미 / Meaning / 意味 / 含义: 젠레스 존 제로 mindscape-name 명칭. 동일 원본 항목의 언어별 표기를 연결함.
 - 적용 규칙 / Usage rule / 適用規則 / 使用规则: 게임 문맥에서 해당 항목을 뜻할 때만 적용. 일반 단어와 동명이의 항목은 문맥으로 구분한다.
-- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3.12+19629936/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3.12+19629936/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3.12+19629936/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3.12+19629936/zh/character/1631.json)
+- 출처 / Sources / 出典 / 来源: [1](https://static.nanoka.cc/zzz/3.3/ko/character/1631.json) · [2](https://static.nanoka.cc/zzz/3.3/en/character/1631.json) · [3](https://static.nanoka.cc/zzz/3.3/ja/character/1631.json) · [4](https://static.nanoka.cc/zzz/3.3/zh/character/1631.json)
 
 
 ### talent:1641:1

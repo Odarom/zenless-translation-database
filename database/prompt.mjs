@@ -5,7 +5,10 @@ import { matchedAliases } from './match.mjs';
 export function projectPromptConcept(concept, { languages, style = 'official', text, fallbackLanguages = [] }) {
   const select = names => Object.fromEntries(languages.filter(language => Object.hasOwn(names, language)).map(language => [language, names[language]]));
   const names = select(concept.names);
-  const output = style === 'community' ? { ...names, ...select(concept.communityOutputs) } : names;
+  const chosen = style === 'community' ? { ...names, ...select(concept.communityOutputs) } : names;
+  // Square brackets in a glossary UI label are not part of the output name.
+  // Retain raw source names/aliases and any meaningful internal brackets.
+  const output = Object.fromEntries(Object.entries(chosen).map(([language,value]) => [language,value.replace(/^\[([^\[\]\r\n]+)\]$/u,'$1')]));
   const result = { id: concept.id, category: concept.category, names, matchedAliases: matchedAliases(concept, text) };
   if (Object.entries(output).some(([language, value]) => names[language] !== value)) result.outputPreferred = output;
   result.meaning = concept.usage.meaning;
